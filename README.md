@@ -9,5 +9,3 @@
 
 
 Your personal assistant for your Pathfinder 2nd Edition games, helps automate various things that aren't automated by the game system.
-
-For more information, please check the [Wiki](https://github.com/7H3LaughingMan/pf2e-assistant/wiki).
