@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "effects.js";
 import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Frostbite"];

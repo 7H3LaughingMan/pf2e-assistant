@@ -25,7 +25,7 @@ Hooks.on("combatStart", (encounter: EncounterPF2e) => {
     for (const combatant of encounter.combatants) {
         if (combatant.token === null || combatant.actor === null) continue;
 
-        let data: Assistant.Data = {
+        const data: Assistant.Data = {
             trigger: "combat-start",
             rollOptions: combatant.actor.getRollOptions(),
             speaker: { actor: combatant.actor, token: combatant.token }

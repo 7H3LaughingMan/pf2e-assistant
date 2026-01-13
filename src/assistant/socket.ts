@@ -47,6 +47,7 @@ export class Socket {
         this.#socket.register("promptChoice", this.#promptChoice);
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/no-unsafe-function-type
     async #executeAsActor<T>(actor: ActorPF2e, handler: string | Function, ...args: any[]): Promise<Maybe<T>> {
         const primaryUser = Utils.Actor.getPrimaryUser(actor);
 
@@ -93,7 +94,7 @@ export class Socket {
                 ? { total: data.roll.total, degreeOfSuccess: data.roll.degreeOfSuccess }
                 : null;
 
-        let effectSource = effect.toObject();
+        const effectSource = effect.toObject();
         effectSource.system.context = {
             origin,
             target,
@@ -154,7 +155,7 @@ export class Socket {
         itemUuid: ItemUUID,
         data?: PreCreate<ItemSourcePF2e>
     ): Promise<RemoveItem[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.addEmbeddedItem(actor, itemUuid, data);
@@ -170,14 +171,14 @@ export class Socket {
     }
 
     async #createEmbeddedItem(actorUuid: ActorUUID, data: ItemSourcePF2e): Promise<RemoveItem[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.createEmbeddedItem(actor, data);
     }
 
     async deleteEmbeddedItems(items: ItemPF2e[]): Promise<AddItem[]> {
-        let returnValue: AddItem[] = [];
+        const returnValue: AddItem[] = [];
 
         items.forEach(async (item) => {
             returnValue.push(...(await game.assistant.socket.deleteEmbeddedItem(item)));
@@ -199,7 +200,7 @@ export class Socket {
     }
 
     async #deleteEmbeddedItem(itemUuid: ItemUUID): Promise<AddItem[]> {
-        let item = await fromUuid<ItemPF2e>(itemUuid);
+        const item = await fromUuid<ItemPF2e>(itemUuid);
         if (!item) return [];
 
         return await game.assistant.socket.deleteEmbeddedItem(item);
@@ -217,7 +218,7 @@ export class Socket {
     }
 
     async #updateEmbeddedItem(itemUuid: ItemUUID, data: Record<string, unknown>) {
-        let item = await fromUuid<ItemPF2e>(itemUuid);
+        const item = await fromUuid<ItemPF2e>(itemUuid);
         if (!item) return;
 
         await game.assistant.socket.updateEmbeddedItem(item, data);
@@ -239,7 +240,7 @@ export class Socket {
 
         const conditions = actor.itemTypes.condition.filter((c) => c.slug === conditionSlug && !c.isLocked);
         if (conditions.length !== 0) {
-            let returnValue = conditions.map((c) => ({ actor: actor.uuid, id: c.id, data: c.toObject() }));
+            const returnValue = conditions.map((c) => ({ actor: actor.uuid, id: c.id, data: c.toObject() }));
 
             for (const condition of conditions) {
                 const currentValue = condition._source.system.value.value;
@@ -262,7 +263,7 @@ export class Socket {
         conditionSlug: ConditionSlug,
         { value, forceRemove }: { value?: number; forceRemove?: boolean } = {}
     ): Promise<UpdateCondition[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.decreaseCondition(actor, conditionSlug, { value, forceRemove });
@@ -283,7 +284,7 @@ export class Socket {
         const conditions = actor.itemTypes.condition.filter((c) => c.slug === conditionSlug && !c.isLocked);
 
         if (conditions.length !== 0) {
-            let returnValue = conditions.map((c) => ({ actor: actor.uuid, id: c.id, data: c.toObject() }));
+            const returnValue = conditions.map((c) => ({ actor: actor.uuid, id: c.id, data: c.toObject() }));
 
             for (const condition of conditions) {
                 const newValue = (() => {
@@ -319,7 +320,7 @@ export class Socket {
         conditionSlug: ConditionSlug,
         { value, max = Number.MAX_SAFE_INTEGER }: { value?: number; max?: number } = {}
     ): Promise<UpdateCondition[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.increaseCondition(actor, conditionSlug, { value, max });
@@ -353,7 +354,7 @@ export class Socket {
         conditionSlug: ConditionSlug,
         { active }: { active?: boolean } = {}
     ): Promise<UpdateCondition[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.toggleCondition(actor, conditionSlug, { active });
@@ -391,7 +392,7 @@ export class Socket {
         conditionSlug: ConditionSlug,
         { value, persistent }: { value?: number; persistent?: ConditionSource["system"]["persistent"] } = {}
     ): Promise<UpdateCondition[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.addCondition(actor, conditionSlug, { value, persistent });
@@ -411,7 +412,7 @@ export class Socket {
     }
 
     async #removeCondition(actorUuid: ActorUUID, conditionSlug: ConditionSlug): Promise<UpdateCondition[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.removeCondition(actor, conditionSlug);
@@ -431,7 +432,7 @@ export class Socket {
     }
 
     async #rollSave(actorUuid: ActorUUID, save: SaveType, args: SocketTypes.Save.SerializedRollParameters) {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return;
 
         await game.assistant.socket.rollSave(actor, save, {
@@ -451,7 +452,7 @@ export class Socket {
     }
 
     async #deleteChatMessage(chatMessageUuid: ChatMessageUUID) {
-        let chatMessage = await fromUuid<ChatMessagePF2e>(chatMessageUuid);
+        const chatMessage = await fromUuid<ChatMessagePF2e>(chatMessageUuid);
         if (!chatMessage) return;
 
         await game.assistant.socket.deleteChatMessage(chatMessage);
@@ -496,15 +497,16 @@ export class Socket {
             }
         };
 
-        let chatMessage = await ChatMessage.create({
-            //@ts-expect-error
+        const chatMessage = await ChatMessage.create({
             content: await foundry.applications.handlebars.renderTemplate(
                 "modules/pf2e-assistant/templates/chat/prompt-choice.hbs",
                 param.data
             ),
             flags,
             speaker: ChatMessage.getSpeaker(param.speaker),
-            whisper: game.users.filter((user) => param.speaker.actor.canUserModify(user, "update"))
+            whisper: game.users
+                .filter((user) => param.speaker.actor.canUserModify(user, "update"))
+                .map((user) => user.id)
         });
 
         return chatMessage ? [chatMessage.uuid] : [];
@@ -514,7 +516,7 @@ export class Socket {
         actorUuid: ActorUUID,
         param: SocketTypes.Prompt.SerializedChoiceParameters
     ): Promise<ChatMessageUUID[]> {
-        let actor = await fromUuid<ActorPF2e>(actorUuid);
+        const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         const speaker = {
@@ -543,6 +545,7 @@ export class Socket {
     }
 }
 
+// eslint-disable-next-line @typescript-eslint/no-namespace
 namespace SocketTypes {
     export function isActorToken(data?: {
         actor: Maybe<ActorPF2e>;
@@ -561,6 +564,7 @@ namespace SocketTypes {
         token: TokenDocumentUUID;
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-namespace
     export namespace Effect {
         export interface AddEffectData {
             origin: ActorToken;
@@ -573,6 +577,7 @@ namespace SocketTypes {
         }
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-namespace
     export namespace Prompt {
         export interface SerializedChoiceParameters {
             speaker: { actor: ActorUUID; token: TokenDocumentUUID };
@@ -599,6 +604,7 @@ namespace SocketTypes {
         }
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-namespace
     export namespace Save {
         export interface RollParameters {
             origin?: Maybe<ActorPF2e>;

@@ -93,7 +93,7 @@ export class Storage {
         const reroll = Assistant.createReroll();
         if (data.trigger == "") throw Error;
 
-        let actions = this.#actions.filter((action) => Storage.filterActions(action, data));
+        const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 
         for (const action of actions) {
             const returnedData = await action.process(data);
@@ -111,7 +111,7 @@ export class Storage {
 }
 
 if (import.meta.hot) {
-    // @ts-expect-error
+    // @ts-expect-error HMR
     Storage.prototype.hotReload = function (modules: Record<string, () => Promise<string>>) {
         this.reset();
         const disabledFiles = game.settings.get("pf2e-assistant", "disabledFiles");
@@ -136,7 +136,7 @@ if (import.meta.hot) {
                 query: "?url",
                 import: "default"
             });
-            // @ts-expect-error
+            // @ts-expect-error HMR
             game.assistant.storage.hotReload(modules);
         }
     });

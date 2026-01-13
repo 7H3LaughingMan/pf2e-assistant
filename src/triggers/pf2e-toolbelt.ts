@@ -74,7 +74,7 @@ async function processToolbelt(
     target: TokenDocumentPF2e,
     targetSave: SaveRollData
 ): Promise<Assistant.Data> {
-    let data: Assistant.Data = {
+    const data: Assistant.Data = {
         trigger: "saving-throw",
         rollOptions: [`check:outcome:${game.pf2e.system.sluggify(targetSave.success)}`],
         chatMessage: message,

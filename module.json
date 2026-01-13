@@ -2,7 +2,7 @@
     "id": "pf2e-assistant",
     "title": "PF2e Assistant",
     "description": "Your personal assistant for your Pathfinder 2nd Edition games, helps automate various things that aren't automated by the game system.",
-    "version": "7.0.0",
+    "version": "7.8.0",
     "authors": [
         {
             "name": "7H3LaughingMan",
@@ -13,8 +13,8 @@
     ],
     "socket": true,
     "compatibility": {
-        "minimum": "13",
-        "verified": "13",
+        "minimum": "13.348",
+        "verified": "13.351",
         "maximum": "13"
     },
     "esmodules": [
@@ -24,25 +24,31 @@
         "requires": [
             {
                 "id": "socketlib",
-                "type": "module"
+                "type": "module",
+                "manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json"
             },
             {
                 "id": "lib-wrapper",
-                "type": "module"
+                "type": "module",
+                "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
             }
         ],
         "systems": [
             {
                 "id": "pf2e",
-                "type": "system"
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/static/system.json",
+                "compatibility": {
+                    "minimum": "7.8.0"
+                }
             }
         ]
     },
     "packs": [
         {
-            "name": "effects",
+            "name": "pf2e-effects",
             "label": "PF2e Assistant Effects",
-            "path": "packs/effects",
+            "path": "packs/pf2e-effects",
             "type": "Item",
             "banner": "systems/pf2e/assets/compendium-banner/blue.webp",
             "system": "pf2e",
@@ -52,9 +58,9 @@
             }
         },
         {
-            "name": "macros",
+            "name": "pf2e-macros",
             "label": "PF2e Assistant Macros",
-            "path": "packs/macros",
+            "path": "packs/pf2e-macros",
             "type": "Macro",
             "banner": "systems/pf2e/assets/compendium-banner/orange.webp",
             "system": "pf2e",
@@ -70,7 +76,7 @@
             "sorting": "m",
             "color": "#2f3339",
             "packs": [
-                "effects"
+                "pf2e-effects"
             ]
         },
         {
@@ -78,7 +84,7 @@
             "sorting": "m",
             "color": "#181818",
             "packs": [
-                "macros"
+                "pf2e-macros"
             ]
         }
     ],

@@ -1,0 +1,61 @@
+{
+	"folder": "weifgz2IxYkpHxLP",
+	"name": "Effect: Grapple (Success)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>You are @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} until the end of your foe's next turn unless they move or you @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}.</p>"
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei"
+			}
+		],
+		"slug": "effect-grapple-success",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "rounds",
+			"expiry": "turn-end",
+			"sustained": false
+		},
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"badge": null,
+		"context": null,
+		"unidentified": false,
+		"fromSpell": false
+	},
+	"_id": "ptAsHbG8GbO1o8Wx",
+	"img": "icons/skills/melee/unarmed-punch-fist-white.webp",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!items!ptAsHbG8GbO1o8Wx"
+}
+

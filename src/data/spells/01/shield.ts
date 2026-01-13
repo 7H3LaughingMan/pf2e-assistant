@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "effects.js";
 import { EffectSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 

@@ -16,10 +16,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.0Cyf07wboRp4CmcQ"
     },
     {
-        "slug": "spell-effect-devil-form-vordine",
-        "uuid": "Compendium.pf2e.spell-effects.Item.0JPnBD7yzrmrbZ0m"
-    },
-    {
         "slug": "spell-effect-veil-of-spirits",
         "uuid": "Compendium.pf2e.spell-effects.Item.0L9LAkGW2FtmZOgb"
     },
@@ -124,8 +120,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.1n84AqLtsdT8I64W"
     },
     {
-        "slug": "spell-effect-devil-form-coarti",
-        "uuid": "Compendium.pf2e.spell-effects.Item.1t64Sf8wYsoo7iFt"
+        "slug": "spell-effect-dragon-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.1pC1qjvCuAKzjYo8"
     },
     {
         "slug": "spell-effect-demon-form-vrock",
@@ -148,10 +144,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.2SWUzp4JuNK5EX0J"
     },
     {
-        "slug": "spell-effect-cosmic-form-sun",
-        "uuid": "Compendium.pf2e.spell-effects.Item.2Ss5VblfZNHg1HjN"
-    },
-    {
         "slug": "spell-effect-silvers-refrain",
         "uuid": "Compendium.pf2e.spell-effects.Item.2W4qAipPVlapaWbc"
     },
@@ -166,6 +158,10 @@
     {
         "slug": "spell-effect-beseech-the-sphinx",
         "uuid": "Compendium.pf2e.spell-effects.Item.3CzDP9Bamc1aVLyh"
+    },
+    {
+        "slug": "spell-effect-filter-air",
+        "uuid": "Compendium.pf2e.spell-effects.Item.3Gv18zyrm1BQLPI5"
     },
     {
         "slug": "spell-effect-safeguard-secret",
@@ -200,8 +196,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.3vWfew0TIrcGRjLZ"
     },
     {
-        "slug": "spell-effect-ooze-form-gelatinous-cube",
-        "uuid": "Compendium.pf2e.spell-effects.Item.3zdBGENpmaze1bpq"
+        "slug": "spell-effect-thematic-action-ally",
+        "uuid": "Compendium.pf2e.spell-effects.Item.3wvfYn9CujpwAjZ3"
     },
     {
         "slug": "spell-effect-enlarge-heightened-4th",
@@ -240,6 +236,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.4ne9K5IQm2whokHP"
     },
     {
+        "slug": "spell-effect-charming-push",
+        "uuid": "Compendium.pf2e.spell-effects.Item.4tLmwa9cTzsYERi3"
+    },
+    {
         "slug": "spell-effect-flashy-disappearance",
         "uuid": "Compendium.pf2e.spell-effects.Item.4vlorajqpFcS5Ozi"
     },
@@ -262,6 +262,10 @@
     {
         "slug": "spell-effect-shields-of-the-spirit-security",
         "uuid": "Compendium.pf2e.spell-effects.Item.5AIV3cCLUt442Mmp"
+    },
+    {
+        "slug": "spell-effect-wings-of-the-valkyrie",
+        "uuid": "Compendium.pf2e.spell-effects.Item.5Jc2MvOCgMszPulx"
     },
     {
         "slug": "spell-effect-wind-jump",
@@ -324,10 +328,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.6TGcfVyzzVHEo7ke"
     },
     {
-        "slug": "spell-effect-resilient-touch",
-        "uuid": "Compendium.pf2e.spell-effects.Item.6embuvXCpS3YOD5u"
-    },
-    {
         "slug": "spell-effect-fungal-infestation",
         "uuid": "Compendium.pf2e.spell-effects.Item.6gRRjn0h0DAUh7nQ"
     },
@@ -364,10 +364,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.7tYv9lY3ksSUny2h"
     },
     {
-        "slug": "spell-effect-ooze-form-gray-ooze",
-        "uuid": "Compendium.pf2e.spell-effects.Item.7tfF8ifVvOKNud8t"
-    },
-    {
         "slug": "spell-effect-tailwind-8-hours",
         "uuid": "Compendium.pf2e.spell-effects.Item.7vIUF5zbvHzVcJA0"
     },
@@ -388,6 +384,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.81TfqzTfIqkQA4Dy"
     },
     {
+        "slug": "spell-effect-devil-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.83md7JyfA5WnWaOZ"
+    },
+    {
         "slug": "spell-effect-hippocampus-retreat",
         "uuid": "Compendium.pf2e.spell-effects.Item.85S2TWoiPwtFsDT3"
     },
@@ -402,10 +402,6 @@
     {
         "slug": "spell-effect-inspire-heroics-strength-3",
         "uuid": "Compendium.pf2e.spell-effects.Item.8XaSpienzVXLmcfp"
-    },
-    {
-        "slug": "spell-effect-dragon-form-horned",
-        "uuid": "Compendium.pf2e.spell-effects.Item.8aNZhlkzRTRKlKag"
     },
     {
         "slug": "spell-effect-song-of-strength",
@@ -476,6 +472,14 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.AmsVO5Q6078mEvNt"
     },
     {
+        "slug": "spell-effect-ash-strewn-ending",
+        "uuid": "Compendium.pf2e.spell-effects.Item.AocUY91Tpy1QCdyu"
+    },
+    {
+        "slug": "spell-effect-humanoid-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.B9Hzt4ki8eqlXxyh"
+    },
+    {
         "slug": "spell-effect-devil-form-erinys",
         "uuid": "Compendium.pf2e.spell-effects.Item.BDMEqBsumguTrMXa"
     },
@@ -484,8 +488,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.BGv44XBGtD4zOJBd"
     },
     {
-        "slug": "spell-effect-demon-form-abrikandilu",
-        "uuid": "Compendium.pf2e.spell-effects.Item.BIIYUbCsJxb0P8gm"
+        "slug": "spell-effect-untwisting-iron-buffer",
+        "uuid": "Compendium.pf2e.spell-effects.Item.BHGiy85Xm74JsL0B"
     },
     {
         "slug": "spell-effect-inspire-heroics-defense-3",
@@ -508,6 +512,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.BdgWuULYjFwlVkr7"
     },
     {
+        "slug": "spell-effect-community-restoration",
+        "uuid": "Compendium.pf2e.spell-effects.Item.Be5TFiSqhRDvrm2J"
+    },
+    {
         "slug": "spell-effect-countless-eyes",
         "uuid": "Compendium.pf2e.spell-effects.Item.BfaFe1cI9IkpvmmY"
     },
@@ -522,6 +530,10 @@
     {
         "slug": "spell-effect-crown-of-prophets",
         "uuid": "Compendium.pf2e.spell-effects.Item.C2jiokGoehvLu0fi"
+    },
+    {
+        "slug": "spell-effect-bit-of-luck",
+        "uuid": "Compendium.pf2e.spell-effects.Item.C9IBDViaUxVq0Jzn"
     },
     {
         "slug": "spell-effect-serrate",
@@ -576,28 +588,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.DdqWMj7cuf4S1bgr"
     },
     {
-        "slug": "spell-effect-dragon-form-fortune",
-        "uuid": "Compendium.pf2e.spell-effects.Item.DrNpuMj14wVj4bWF"
-    },
-    {
-        "slug": "spell-effect-fey-form-unicorn",
-        "uuid": "Compendium.pf2e.spell-effects.Item.DwM5qcFp4JgKhXrY"
-    },
-    {
-        "slug": "spell-effect-ooze-form-black-pudding",
-        "uuid": "Compendium.pf2e.spell-effects.Item.EKdqKCuyWSkpXpyJ"
-    },
-    {
         "slug": "spell-effect-ghostly-weapon",
         "uuid": "Compendium.pf2e.spell-effects.Item.EScdpppYsf9KhG4D"
-    },
-    {
-        "slug": "spell-effect-dragon-form-conspirator",
-        "uuid": "Compendium.pf2e.spell-effects.Item.ETgzIIv3M2zvclAR"
-    },
-    {
-        "slug": "spell-effect-monstrosity-form-sea-serpent",
-        "uuid": "Compendium.pf2e.spell-effects.Item.Eik8Fj8nGo2GLcbn"
     },
     {
         "slug": "spell-effect-haste",
@@ -622,6 +614,10 @@
     {
         "slug": "spell-effect-dread-ambience",
         "uuid": "Compendium.pf2e.spell-effects.Item.FT5Tt2DKBRutDqbV"
+    },
+    {
+        "slug": "spell-effect-angel-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.Fi66csT9OiBGmPZ0"
     },
     {
         "slug": "spell-effect-inspire-heroics-strength-2",
@@ -650,6 +646,10 @@
     {
         "slug": "spell-effect-divine-vessel",
         "uuid": "Compendium.pf2e.spell-effects.Item.GDzn5DToE62ZOTrP"
+    },
+    {
+        "slug": "effect-halt-death",
+        "uuid": "Compendium.pf2e.spell-effects.Item.GFR5RwR8qW2jIJKP"
     },
     {
         "slug": "spell-effect-swear-oath",
@@ -720,6 +720,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.IFbDmy0HhKa8XaEU"
     },
     {
+        "slug": "spell-effect-daemon-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.IKdTcUwGtnkvrCed"
+    },
+    {
         "slug": "spell-effect-domoras-defense",
         "uuid": "Compendium.pf2e.spell-effects.Item.IMKuG3m72BYeGSXS"
     },
@@ -730,10 +734,6 @@
     {
         "slug": "spell-effect-corrosive-body-temp-hp",
         "uuid": "Compendium.pf2e.spell-effects.Item.IUxQCyO3EXSkId5F"
-    },
-    {
-        "slug": "spell-effect-demon-form-kithangian",
-        "uuid": "Compendium.pf2e.spell-effects.Item.IVAPEtALVgSNOBdk"
     },
     {
         "slug": "spell-effect-elephant-form",
@@ -808,10 +808,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.K8NWxqtnrSg26KPJ"
     },
     {
-        "slug": "spell-effect-fey-form-naiad",
-        "uuid": "Compendium.pf2e.spell-effects.Item.KcBqo33ekJHxZLHo"
-    },
-    {
         "slug": "spell-effect-rite-of-cleansing-flame-failure",
         "uuid": "Compendium.pf2e.spell-effects.Item.KhBRuP0Wl2P5okGo"
     },
@@ -852,10 +848,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.LfxwvZRwtrh8mQN0"
     },
     {
-        "slug": "spell-effect-devil-form-levaloch",
-        "uuid": "Compendium.pf2e.spell-effects.Item.LgqKCxm8A09WCLxm"
-    },
-    {
         "slug": "spell-effect-elemental-absorption",
         "uuid": "Compendium.pf2e.spell-effects.Item.LldX5hnNhKzGtOS0"
     },
@@ -864,20 +856,12 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.Lno61HwUJaE4eLo8"
     },
     {
-        "slug": "spell-effect-demon-form-brimorak",
-        "uuid": "Compendium.pf2e.spell-effects.Item.LzsCQ1mRnPYDzNpo"
-    },
-    {
         "slug": "spell-effect-equal-footing-failure-or-critical-failure",
         "uuid": "Compendium.pf2e.spell-effects.Item.MFvCd82lxTQGZERm"
     },
     {
         "slug": "spell-effect-guided-introspection",
         "uuid": "Compendium.pf2e.spell-effects.Item.Me470HI6inX3Bovh"
-    },
-    {
-        "slug": "spell-effect-amplifying-touch",
-        "uuid": "Compendium.pf2e.spell-effects.Item.MjtPtndJx31q2N9R"
     },
     {
         "slug": "spell-effect-one-with-the-land",
@@ -916,12 +900,12 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.NY4oUb2RNgkY0AfL"
     },
     {
-        "slug": "spell-effect-knock",
-        "uuid": "Compendium.pf2e.spell-effects.Item.OSapCU8heNHst21y"
+        "slug": "spell-effect-aberrant-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.OH3sdHE6xWwOjq9v"
     },
     {
-        "slug": "spell-effect-dragon-form-diabolic",
-        "uuid": "Compendium.pf2e.spell-effects.Item.OeCn76SB92GPOZwr"
+        "slug": "spell-effect-knock",
+        "uuid": "Compendium.pf2e.spell-effects.Item.OSapCU8heNHst21y"
     },
     {
         "slug": "spell-effect-capital-dividend",
@@ -938,6 +922,10 @@
     {
         "slug": "spell-effect-animate-rope",
         "uuid": "Compendium.pf2e.spell-effects.Item.OwvrQKuMLEktNWzA"
+    },
+    {
+        "slug": "spell-effect-curse-of-recoil-critical-failure",
+        "uuid": "Compendium.pf2e.spell-effects.Item.P4PRme5opSzyPIM2"
     },
     {
         "slug": "effect-bone-flense-damage",
@@ -968,8 +956,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.Pfllo68qdQjC4Qv6"
     },
     {
-        "slug": "spell-effect-ooze-form-ochre-jelly",
-        "uuid": "Compendium.pf2e.spell-effects.Item.PpkOZVoHkBZUmddx"
+        "slug": "spell-effect-demon-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.Ptnncwp118gIvmvG"
     },
     {
         "slug": "effect-shield-immunity",
@@ -982,6 +970,10 @@
     {
         "slug": "spell-effect-girzanjes-march",
         "uuid": "Compendium.pf2e.spell-effects.Item.QJRaVbulmpOzWi6w"
+    },
+    {
+        "slug": "spell-effect-outcasts-curse-failure",
+        "uuid": "Compendium.pf2e.spell-effects.Item.QccOlLHtnVEmD67m"
     },
     {
         "slug": "spell-effect-leaden-steps",
@@ -1012,20 +1004,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ"
     },
     {
-        "slug": "spell-effect-fey-form-elananx",
-        "uuid": "Compendium.pf2e.spell-effects.Item.S75DOLjKaSJGMc0D"
-    },
-    {
         "slug": "spell-effect-cascade-countermeasure",
         "uuid": "Compendium.pf2e.spell-effects.Item.SAkdopdD8IzOeqs1"
-    },
-    {
-        "slug": "spell-effect-daemon-form-leukodaemon",
-        "uuid": "Compendium.pf2e.spell-effects.Item.ScF0ECWnfXMHYLDL"
-    },
-    {
-        "slug": "spell-effect-aberrant-form-otyugh",
-        "uuid": "Compendium.pf2e.spell-effects.Item.SjfDoeymtnYKoGUD"
     },
     {
         "slug": "spell-effect-wrathful-storm",
@@ -1038,6 +1018,10 @@
     {
         "slug": "spell-effect-arcane-explosion",
         "uuid": "Compendium.pf2e.spell-effects.Item.T0eQfYKgejJqZiBA"
+    },
+    {
+        "slug": "spell-effect-mantle-of-the-melting-heart",
+        "uuid": "Compendium.pf2e.spell-effects.Item.T2wbyGJrH9XY24o6"
     },
     {
         "slug": "spell-effect-summon-healing-servitor",
@@ -1054,6 +1038,10 @@
     {
         "slug": "spell-effect-dinosaur-form-stegosaurus",
         "uuid": "Compendium.pf2e.spell-effects.Item.T6XnxvsgvvOrpien"
+    },
+    {
+        "slug": "spell-effect-sepulchral-mask",
+        "uuid": "Compendium.pf2e.spell-effects.Item.TER4qOsYPTszhhDG"
     },
     {
         "slug": "spell-effect-fleet-step",
@@ -1074,6 +1062,10 @@
     {
         "slug": "spell-effect-tangle-vine",
         "uuid": "Compendium.pf2e.spell-effects.Item.TwtUIEyenrtAbeiX"
+    },
+    {
+        "slug": "spell-effect-wings-of-the-valkyrie-heightened",
+        "uuid": "Compendium.pf2e.spell-effects.Item.U5opnfw3DB1szFvV"
     },
     {
         "slug": "spell-effect-deep-sight",
@@ -1116,10 +1108,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.UtIOWubq7akdHMOh"
     },
     {
-        "slug": "spell-effect-dragon-form-omen",
-        "uuid": "Compendium.pf2e.spell-effects.Item.V4a9pZHNUlddAwTA"
-    },
-    {
         "slug": "spell-effect-inspire-heroics-courage-3",
         "uuid": "Compendium.pf2e.spell-effects.Item.VFereWC1agrwgzPL"
     },
@@ -1148,16 +1136,16 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.ViBlOrd6hno3DiPP"
     },
     {
+        "slug": "spell-effect-conquering-soldiers-depart",
+        "uuid": "Compendium.pf2e.spell-effects.Item.VqcFP9hwyCrnbDZp"
+    },
+    {
         "slug": "spell-effect-keen-smell",
         "uuid": "Compendium.pf2e.spell-effects.Item.VzokjUa8RMYo5Id6"
     },
     {
         "slug": "spell-effect-sacred-form",
         "uuid": "Compendium.pf2e.spell-effects.Item.W4lb3417rNDd9tCq"
-    },
-    {
-        "slug": "spell-effect-angel-form-balisse",
-        "uuid": "Compendium.pf2e.spell-effects.Item.WEpgIGFwtRb3ef1x"
     },
     {
         "slug": "spell-effect-vital-beacon",
@@ -1272,10 +1260,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.aaA6cgroFMRMsisy"
     },
     {
-        "slug": "spell-effect-accelerating-touch",
-        "uuid": "Compendium.pf2e.spell-effects.Item.alyNtkHLNnt98Ewz"
-    },
-    {
         "slug": "spell-effect-insect-form-beetle",
         "uuid": "Compendium.pf2e.spell-effects.Item.amTa9jSml9ioKduN"
     },
@@ -1290,10 +1274,6 @@
     {
         "slug": "spell-effect-illusory-shroud",
         "uuid": "Compendium.pf2e.spell-effects.Item.b8JCq6n1STl3Wkwy"
-    },
-    {
-        "slug": "spell-effect-monstrosity-form-phoenix",
-        "uuid": "Compendium.pf2e.spell-effects.Item.b8bfWIICHOsGVzjp"
     },
     {
         "slug": "spell-effect-wish-twisted-form-failure",
@@ -1316,10 +1296,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.bzpW0owbAV3UX7UA"
     },
     {
-        "slug": "spell-effect-fey-form-dryad",
-        "uuid": "Compendium.pf2e.spell-effects.Item.c4cIfS2974nUJDPt"
-    },
-    {
         "slug": "spell-effect-vicious-howl",
         "uuid": "Compendium.pf2e.spell-effects.Item.cSlCn3KoAhsKxm4y"
     },
@@ -1338,6 +1314,10 @@
     {
         "slug": "spell-effect-threefold-limb-ice",
         "uuid": "Compendium.pf2e.spell-effects.Item.cfREcFI2ZhrOlm3C"
+    },
+    {
+        "slug": "spell-effect-ooze-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.ciQhlQbQcarzRYzf"
     },
     {
         "slug": "spell-effect-resist-energy",
@@ -1370,10 +1350,6 @@
     {
         "slug": "spell-effect-shillelagh",
         "uuid": "Compendium.pf2e.spell-effects.Item.deG1dtfuQph03Kkg"
-    },
-    {
-        "slug": "spell-effect-daemon-form-venedaemon",
-        "uuid": "Compendium.pf2e.spell-effects.Item.dy4neJZ1g1XQnUZL"
     },
     {
         "slug": "spell-effect-share-vision",
@@ -1412,10 +1388,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.fIloZhZVH1xTnX4B"
     },
     {
-        "slug": "spell-effect-devil-form-sarglagon",
-        "uuid": "Compendium.pf2e.spell-effects.Item.fKeZDm8kpDFK5HWp"
-    },
-    {
         "slug": "spell-effect-embrace-nothingness",
         "uuid": "Compendium.pf2e.spell-effects.Item.fVEevbKVBbCc1x2F"
     },
@@ -1432,8 +1404,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.fvIlSZPwojixVvyZ"
     },
     {
-        "slug": "spell-effect-aberrant-form-gogiteth",
-        "uuid": "Compendium.pf2e.spell-effects.Item.gKGErrsS1WoAyWub"
+        "slug": "spell-effect-primal-herd",
+        "uuid": "Compendium.pf2e.spell-effects.Item.gOeu0lPtKQcLh1Xz"
     },
     {
         "slug": "spell-effect-animal-form-bear",
@@ -1456,16 +1428,16 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.hXtK08bTnDBSzGTJ"
     },
     {
-        "slug": "spell-effect-fey-form-redcap",
-        "uuid": "Compendium.pf2e.spell-effects.Item.heAj9paC8ZRh7QEj"
-    },
-    {
         "slug": "spell-effect-nature-incarnate",
         "uuid": "Compendium.pf2e.spell-effects.Item.hfcFc8cV5wF2evWP"
     },
     {
         "slug": "spell-effect-veil-of-dreams",
         "uuid": "Compendium.pf2e.spell-effects.Item.hkLhZsH3T6jc9S1y"
+    },
+    {
+        "slug": "spell-effect-outcasts-curse-success",
+        "uuid": "Compendium.pf2e.spell-effects.Item.hlgCesYXXHG8r9X4"
     },
     {
         "slug": "spell-effect-demon-form-nabasu",
@@ -1536,8 +1508,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.jSvpjSGnIVBAuFDu"
     },
     {
-        "slug": "spell-effect-demon-form-vloriak",
-        "uuid": "Compendium.pf2e.spell-effects.Item.jUUFipVlyAYEBFNI"
+        "slug": "spell-effect-fey-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.jeH78c7kyk376PKS"
     },
     {
         "slug": "spell-effect-instant-armor",
@@ -1546,10 +1518,6 @@
     {
         "slug": "spell-effect-element-embodied-earth",
         "uuid": "Compendium.pf2e.spell-effects.Item.jp88SCE3VCRAyE6x"
-    },
-    {
-        "slug": "spell-effect-dragon-form-empyreal",
-        "uuid": "Compendium.pf2e.spell-effects.Item.jtW3VfI5Kktuy3GH"
     },
     {
         "slug": "spell-effect-aerial-form-bat",
@@ -1640,6 +1608,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.mKw9WvqnhaUsPvvy"
     },
     {
+        "slug": "spell-effect-shielding-formation",
+        "uuid": "Compendium.pf2e.spell-effects.Item.mVG67GUmiEUApbpX"
+    },
+    {
         "slug": "spell-effect-speaking-sky",
         "uuid": "Compendium.pf2e.spell-effects.Item.mhklZ6wjfty0bF44"
     },
@@ -1700,10 +1672,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.nUJSdm4fy6fcwsvv"
     },
     {
-        "slug": "spell-effect-dragon-form-mirage",
-        "uuid": "Compendium.pf2e.spell-effects.Item.nWEx5kpkE8YlBZvy"
-    },
-    {
         "slug": "spell-effect-necrotize-legs",
         "uuid": "Compendium.pf2e.spell-effects.Item.ndj0TpLxyzbyzcm4"
     },
@@ -1728,12 +1696,12 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.oJbcmpBSHwmx6FD4"
     },
     {
-        "slug": "spell-effect-trade-death-for-life",
-        "uuid": "Compendium.pf2e.spell-effects.Item.oNAqqcxPjzPCJJmW"
+        "slug": "spell-effect-monstrosity-form",
+        "uuid": "Compendium.pf2e.spell-effects.Item.oMtbVNQ5YFmmQUlU"
     },
     {
-        "slug": "spell-effect-rejuvenating-touch",
-        "uuid": "Compendium.pf2e.spell-effects.Item.oaRt210JV4GZIHmJ"
+        "slug": "spell-effect-trade-death-for-life",
+        "uuid": "Compendium.pf2e.spell-effects.Item.oNAqqcxPjzPCJJmW"
     },
     {
         "slug": "spell-effect-precious-gleam",
@@ -1792,10 +1760,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.qXWCvqt24iczeN8V"
     },
     {
-        "slug": "spell-effect-angel-form-tennin",
-        "uuid": "Compendium.pf2e.spell-effects.Item.qcrUH9YItV0eujQB"
-    },
-    {
         "slug": "spell-effect-magic-hide",
         "uuid": "Compendium.pf2e.spell-effects.Item.qhNUfwpkD8BRw4zj"
     },
@@ -1824,20 +1788,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.r4XX7yzeEOPK7l2a"
     },
     {
-        "slug": "spell-effect-angel-form-kuribu",
-        "uuid": "Compendium.pf2e.spell-effects.Item.rAGOerZJH2TY6nvO"
-    },
-    {
         "slug": "spell-effect-fortissimo-composition",
         "uuid": "Compendium.pf2e.spell-effects.Item.rAW5o8MjjuIhYhLg"
-    },
-    {
-        "slug": "spell-effect-monstrosity-form-cave-worm",
-        "uuid": "Compendium.pf2e.spell-effects.Item.rEsgDhunQ5Yx8KZx"
-    },
-    {
-        "slug": "spell-effect-dragon-form-adamantine",
-        "uuid": "Compendium.pf2e.spell-effects.Item.rHXOZAFBdRXIlxt5"
     },
     {
         "slug": "spell-effect-qi-form",
@@ -1888,16 +1840,8 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.sXe7cPazOJbX41GU"
     },
     {
-        "slug": "spell-effect-angel-form-choral",
-        "uuid": "Compendium.pf2e.spell-effects.Item.sccNh8j1PKLHCKh1"
-    },
-    {
         "slug": "spell-effect-cauterize-wounds",
         "uuid": "Compendium.pf2e.spell-effects.Item.sdKsB8dmIiPEHePZ"
-    },
-    {
-        "slug": "spell-effect-aberrant-form-gug",
-        "uuid": "Compendium.pf2e.spell-effects.Item.sfJyQKmoxSRo6FyP"
     },
     {
         "slug": "spell-effect-debilitating-terror",
@@ -1906,6 +1850,10 @@
     {
         "slug": "spell-effect-impeccable-flow",
         "uuid": "Compendium.pf2e.spell-effects.Item.slI9P4jUp3ERPCqX"
+    },
+    {
+        "slug": "spell-effect-curse-of-recoil-failure",
+        "uuid": "Compendium.pf2e.spell-effects.Item.sxIEPmpuBfqSeck3"
     },
     {
         "slug": "spell-effect-swarm-form",
@@ -1920,7 +1868,7 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.tUelWvSaNZBng42K"
     },
     {
-        "slug": "spell-effect-cosmic-form-moon",
+        "slug": "spell-effect-cosmic-form",
         "uuid": "Compendium.pf2e.spell-effects.Item.tfdDpf9xSWgQer5g"
     },
     {
@@ -1962,10 +1910,6 @@
     {
         "slug": "spell-effect-elemental-motion",
         "uuid": "Compendium.pf2e.spell-effects.Item.uPmHi7ZiCj7PWM9N"
-    },
-    {
-        "slug": "spell-effect-daemon-form-lacridaemon",
-        "uuid": "Compendium.pf2e.spell-effects.Item.uStjY2mD6seP1K7I"
     },
     {
         "slug": "spell-effect-spiral-of-horrors",
@@ -2020,10 +1964,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.xgZxYqjDPNtsQ3Qp"
     },
     {
-        "slug": "spell-effect-aberrant-form-chuul",
-        "uuid": "Compendium.pf2e.spell-effects.Item.xsy1yaCj0SVsn502"
-    },
-    {
         "slug": "spell-effect-elemental-betrayal",
         "uuid": "Compendium.pf2e.spell-effects.Item.y4y0nusC97R7ZDL5"
     },
@@ -2032,12 +1972,20 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.y9PJdDYFemhk6Z5o"
     },
     {
+        "slug": "spell-effects-divine-dragons-watch",
+        "uuid": "Compendium.pf2e.spell-effects.Item.yCDQ8lW7e01maOXc"
+    },
+    {
         "slug": "spell-effect-sweet-dream",
         "uuid": "Compendium.pf2e.spell-effects.Item.yEQXaB7XyaROVqyb"
     },
     {
         "slug": "spell-effect-imitate-fauna",
         "uuid": "Compendium.pf2e.spell-effects.Item.yGedCb78XX6TtTq3"
+    },
+    {
+        "slug": "spell-effect-helpful-reload",
+        "uuid": "Compendium.pf2e.spell-effects.Item.yKPb3VrVzBkr34eR"
     },
     {
         "slug": "spell-effect-lifes-fresh-bloom",
@@ -2058,10 +2006,6 @@
     {
         "slug": "spell-effect-wooden-fists",
         "uuid": "Compendium.pf2e.spell-effects.Item.z2PYQCsDDoBZUwR5"
-    },
-    {
-        "slug": "spell-effect-daemon-form-meladaemon",
-        "uuid": "Compendium.pf2e.spell-effects.Item.zIRnnuj4lARq43DA"
     },
     {
         "slug": "spell-effect-envenom-companion",

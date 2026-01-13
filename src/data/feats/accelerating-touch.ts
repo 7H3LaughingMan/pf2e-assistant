@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_FEAT_EFFECTS } from "effects.js";
 
 export const path = ["Feats", "Accelerating Touch"];
 
@@ -11,11 +12,11 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_SPELL_EFFECTS["spell-effect-accelerating-touch"],
-                { origin: data.speaker, item: data.item, target: data.target }
-            );
+            await game.assistant.socket.addEffect(data.target.actor, PF2E_FEAT_EFFECTS["effect-accelerating-touch"], {
+                origin: data.speaker,
+                item: data.item,
+                target: data.target
+            });
         }
     }
 ];

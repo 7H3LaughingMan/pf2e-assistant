@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [7.8.0] - 2026-01-13
+
+PF2e System v7.8.0 Update
+General Updates/Improvements as well
+
+### Removed
+
+- Dice So Nice Support
+    - Caused enough issues trying to support so not going to bother with it anymore
+- Befuddle
+    - Appears to be broken and just removing it temporarily
+- Chilling Spray
+    - Appears to be broken and just removing it temporarily
+- Aberrant Form
+    - Don't like how this is handled
+
 ## [7.2.0] - 2025-06-25
 
 PF2e System v7.2.1 Update
@@ -383,7 +399,8 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
-[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.2.0...HEAD
+[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.0...HEAD
+[7.8.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.2.0...v7.8.0
 [7.2.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.0.1...v7.2.0
 [7.0.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.0.0...v7.0.1
 [7.0.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v6.6.2...v7.0.0

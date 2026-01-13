@@ -72,8 +72,16 @@
         "uuid": "Compendium.pf2e.campaign-effects.Item.EdYvHSzJC5pGLdoV"
     },
     {
+        "slug": "effect-favor-of-a-past-benefactor",
+        "uuid": "Compendium.pf2e.campaign-effects.Item.G8YANJEFkHebehZh"
+    },
+    {
         "slug": "effect-little-ripples-blessing",
         "uuid": "Compendium.pf2e.campaign-effects.Item.GBaN8XZrzFp7C7fL"
+    },
+    {
+        "slug": "effect-favor-of-a-present-foe",
+        "uuid": "Compendium.pf2e.campaign-effects.Item.HTPJ0ciyeaIgrPzQ"
     },
     {
         "slug": "effect-worldly-mentor",
@@ -150,6 +158,10 @@
     {
         "slug": "effect-consecrated-altar-to-ydersius",
         "uuid": "Compendium.pf2e.campaign-effects.Item.Up4O78PvSYAlXxDA"
+    },
+    {
+        "slug": "effect-favor-of-the-oliphaunt",
+        "uuid": "Compendium.pf2e.campaign-effects.Item.WWevYlEmHFDBiOLe"
     },
     {
         "slug": "effect-burned-tongue-no-singing-or-yelling",
@@ -254,6 +266,10 @@
     {
         "slug": "effect-nexian-researcher",
         "uuid": "Compendium.pf2e.campaign-effects.Item.rEQP3SwRF9Zb1ppV"
+    },
+    {
+        "slug": "effect-favor-of-a-future-ally",
+        "uuid": "Compendium.pf2e.campaign-effects.Item.rjQyiAqxvVzYUpqV"
     },
     {
         "slug": "effect-forgive-foe",

@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_ASSISTANT_EFFECTS } from "effects.js";
 import { Utils } from "utils.ts";
 
 export const path = ["Actions", "Demoralize"];
@@ -33,7 +34,7 @@ export const actions: Assistant.Action[] = [
             }
 
             reroll.removeItem.push(
-                ...(await await game.assistant.socket.addEffect(
+                ...(await game.assistant.socket.addEffect(
                     data.target.actor,
                     PF2E_ASSISTANT_EFFECTS["effect-demoralize-immunity"],
                     { origin: data.speaker, target: data.target, roll: data.roll }

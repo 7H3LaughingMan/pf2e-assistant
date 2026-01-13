@@ -1,0 +1,17 @@
+{
+	"name": "Use Action",
+	"type": "script",
+	"_id": "ICBBUIblaU4xutrb",
+	"author": "whrqB15k99Kr3O6p",
+	"img": "systems/pf2e/icons/actions/OneAction.webp",
+	"scope": "global",
+	"command": "if (actor === null || token === null) {\n    ui.notifications.warn(\"Missing Actor/Token Information! Make sure you are using this on a character.\");\n    return;\n}\n\nif (scope.item === undefined) {\n    ui.notifications.warn(\"Missing Item Information! Macro must be attached to a action/feat that can be used.\");\n    return;\n}\n\ngame.assistant.storage.process({\n    trigger: \"action\",\n    rollOptions: [...actor.getRollOptions(), ...scope.item.getRollOptions(\"action\")],\n    item: scope.item,\n    speaker: { actor: actor, token: token.document }\n});",
+	"folder": null,
+	"sort": 100000,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!macros!ICBBUIblaU4xutrb"
+}
+

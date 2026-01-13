@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_ASSISTANT_EFFECTS, PF2E_OTHER_EFFECTS } from "effects.js";
 import { Utils } from "utils.ts";
 
 export const path = ["Actions", "Disarm"];

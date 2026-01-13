@@ -4,28 +4,39 @@
         "dev": "vite",
         "build": "tsc --noEmit && vite build",
         "changelog": "changelog --format markdownlint --create --release",
-        "effects": "tsx ./build/effects.ts",
-        "link": "tsx ./build/link.ts",
-        "launch": "tsx ./build/launch.ts"
+        "compile-packs": "node ./build/compile-packs.ts",
+        "configure": "node ./build/configure.ts",
+        "extract-packs": "node ./build/extract-packs.ts",
+        "launch": "node ./build/launch.ts",
+        "link": "node ./build/link.ts",
+        "lint": "eslint src"
     },
     "author": "7H3LaughingMan",
     "license": "MIT",
     "type": "module",
     "devDependencies": {
-        "@foundryvtt/foundryvtt-cli": "1.1.0",
+        "@eslint/js": "^9.39.2",
+        "@foundryvtt/foundryvtt-cli": "3.0.2",
+        "@types/js-yaml": "^4.0.9",
         "@types/prompts": "^2.4.9",
-        "foundryvtt-sync": "github:MrVauxs/FoundryVTT-Sync",
-        "keep-a-changelog": "2.6.2",
-        "prettier": "3.5.3",
-        "prettier-plugin-organize-imports": "^4.1.0",
+        "cmd-ts": "^0.14.3",
+        "eslint": "^9.39.2",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-prettier": "^5.5.4",
+        "foundryvtt-sync": "github:7H3LaughingMan/FoundryVTT-Sync",
+        "globals": "^17.0.0",
+        "js-yaml": "^4.1.1",
+        "keep-a-changelog": "2.8.0",
+        "prettier": "3.7.4",
+        "prettier-plugin-organize-imports": "^4.3.0",
         "prompts": "^2.4.2",
-        "tsx": "4.20.3",
-        "typescript": "5.8.3",
-        "vite": "6.3.5",
-        "vite-tsconfig-paths": "^5.1.4"
+        "typescript": "5.9.3",
+        "typescript-eslint": "^8.53.0",
+        "vite": "7.3.1",
+        "vite-tsconfig-paths": "^6.0.4"
     },
     "dependencies": {
         "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
-        "remeda": "2.23.0"
+        "remeda": "2.33.1"
     }
 }

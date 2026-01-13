@@ -5,7 +5,7 @@ export async function getItem(itemUuid: ItemUUID): Promise<ItemPF2e | null> {
     let item: Maybe<ItemPF2e> = await fromUuid<ItemPF2e>(itemUuid);
     if (!item) {
         const parts = itemUuid.split(".");
-        let actor = await fromUuid<ActorPF2e>(parts.slice(0, -2).join("."));
+        const actor = await fromUuid<ActorPF2e>(parts.slice(0, -2).join("."));
         if (actor) {
             item = actor.system.actions?.find((x) => x.item.uuid === itemUuid)?.item;
         }

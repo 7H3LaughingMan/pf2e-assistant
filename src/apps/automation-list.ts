@@ -1,9 +1,10 @@
-import { ApplicationRenderOptions } from "foundry-pf2e/foundry/client/applications/_module.mjs";
-import { FormDataExtended } from "foundry-pf2e/foundry/client/applications/ux/_module.mjs";
-
-const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
-
-export class AutomationList extends HandlebarsApplicationMixin(ApplicationV2) {
+export class AutomationList extends foundry.applications.api.HandlebarsApplicationMixin(
+    foundry.applications.api.ApplicationV2<
+        foundry.applications.ApplicationConfiguration,
+        foundry.applications.api.HandlebarsRenderOptions,
+        foundry.applications.ApplicationRenderContext
+    >
+) {
     static override DEFAULT_OPTIONS = {
         id: "automation-list",
         tag: "form",
@@ -38,17 +39,17 @@ export class AutomationList extends HandlebarsApplicationMixin(ApplicationV2) {
         }
     };
 
-    protected override async _prepareContext(_options: ApplicationRenderOptions) {
+    protected override async _prepareContext(_options: fa.ApplicationRenderOptions) {
         return {
             rootFolder: game.assistant.storage.getRootFolder(),
             buttons: [{ type: "submit", icon: "fa-solid fa-save", label: "Save Changes" }]
         };
     }
 
-    static async #onSubmit(_event: Event | SubmitEvent, form: HTMLFormElement, _formData: FormDataExtended) {
-        var disabledFiles: string[] = [];
+    static async #onSubmit(_event: Event | SubmitEvent, form: HTMLFormElement, _formData: fa.ux.FormDataExtended) {
+        const disabledFiles: string[] = [];
 
-        var inputs = form.getElementsByTagName("input");
+        const inputs = form.getElementsByTagName("input");
         for (let i = 0; i < inputs.length; i++) {
             const input = inputs[i];
             if (input.type === "checkbox" && input.checked === false) {

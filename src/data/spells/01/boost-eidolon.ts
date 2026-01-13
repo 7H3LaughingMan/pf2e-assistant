@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "effects.js";
 
 export const path = ["Spells", "1st Rank", "Boost Eidolon"];
 

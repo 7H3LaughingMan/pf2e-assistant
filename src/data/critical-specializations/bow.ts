@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import { PF2E_ASSISTANT_EFFECTS } from "effects.js";
 
 export const path = ["Critical Specializations", "Bow"];
 

@@ -1,106 +1,86 @@
 [
     {
         "slug": "effect-demoralize-immunity",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.1Yt5WmhS76y4hibk"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.1Yt5WmhS76y4hibk"
     },
     {
         "slug": "effect-mistform-elixir-greater",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.2bApaOOOWXqQAgy2"
-    },
-    {
-        "slug": "spell-effect-befuddle-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.3RHmweQP1SgPvxG3"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.2bApaOOOWXqQAgy2"
     },
     {
         "slug": "spell-effect-vision-of-death",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.6pLuAI6XYfw3ROV6"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.6pLuAI6XYfw3ROV6"
     },
     {
         "slug": "effect-scoundrel-feint-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.9YHTscLqlt0zlTIk"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.9YHTscLqlt0zlTIk"
     },
     {
         "slug": "effect-feint-critical-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.9f4YzsgcAs3A5Xra"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.9f4YzsgcAs3A5Xra"
     },
     {
         "slug": "effect-critical-specialization-bow",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.Cs5YffU6KGMK1Ikw"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.Cs5YffU6KGMK1Ikw"
     },
     {
         "slug": "spell-effect-painful-vibrations",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.MvOeY5eoQxVCbYwA"
-    },
-    {
-        "slug": "spell-effect-chilling-spray-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.RGcO4kdecdN4g8ne"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.MvOeY5eoQxVCbYwA"
     },
     {
         "slug": "effect-mistform-elixir-lesser",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.SZfUd4SIABrmaZ4T"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.SZfUd4SIABrmaZ4T"
     },
     {
         "slug": "effect-feint-critical-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.TJzFIRf9S5P91qgf"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.TJzFIRf9S5P91qgf"
     },
     {
         "slug": "effect-scoundrel-feint-critical-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.W2ebaKgpulsOWfNs"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.W2ebaKgpulsOWfNs"
     },
     {
         "slug": "effect-tumble-behind",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.aUzN2fOd33tZXa5s"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.aUzN2fOd33tZXa5s"
     },
     {
         "slug": "effect-feint-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.csAEJ72jCsHuHlLO"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.csAEJ72jCsHuHlLO"
     },
     {
         "slug": "effect-grapple-critical-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.d9zE07hIacDCHuPw"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.d9zE07hIacDCHuPw"
     },
     {
         "slug": "effect-disarm-critical-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.ec8ymUmUO58KmDLg"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.ec8ymUmUO58KmDLg"
     },
     {
         "slug": "effect-bottled-lightning",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.hAYjaIzH8onPVYfz"
-    },
-    {
-        "slug": "spell-effect-befuddle-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.hZlnH178W7y7cdWC"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.hAYjaIzH8onPVYfz"
     },
     {
         "slug": "effect-critical-specialization-brawling",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.iSaDovIXZCJNPOOj"
-    },
-    {
-        "slug": "spell-effect-chilling-spray-critical-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.js2Le4ZT3ndQMFfj"
-    },
-    {
-        "slug": "spell-effect-befuddle-critical-failure",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.mRrXxKnZOLn14QU4"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.iSaDovIXZCJNPOOj"
     },
     {
         "slug": "effect-critical-specialization-sword",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.pnrI5GLh87DikArY"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.pnrI5GLh87DikArY"
     },
     {
         "slug": "effect-grapple-success",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.ptAsHbG8GbO1o8Wx"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.ptAsHbG8GbO1o8Wx"
     },
     {
         "slug": "effect-mistform-elixir-moderate",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.qakQkye2t3b8ELPq"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.qakQkye2t3b8ELPq"
     },
     {
         "slug": "effect-scoundrel-off-guard",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.rnIPEOcpNuDrWgxS"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.rnIPEOcpNuDrWgxS"
     },
     {
         "slug": "effect-critical-specialization-spear",
-        "uuid": "Compendium.pf2e-assistant.effects.Item.s8oIiJnrJuWvDIeM"
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.s8oIiJnrJuWvDIeM"
     }
 ]

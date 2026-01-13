@@ -2,7 +2,17 @@ import vttSync from "foundryvtt-sync";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 import moduleJSON from "./module.json" with { type: "json" };
-import define from "./vite.defines.ts";
+import {
+    PF2E_ASSISTANT_EFFECTS,
+    PF2E_BESTIARY_EFFECTS,
+    PF2E_CAMPAIGN_EFFECTS,
+    PF2E_CONDITIONS,
+    PF2E_EQUIPMENT_EFFECTS,
+    PF2E_FEAT_EFFECTS,
+    PF2E_OTHER_EFFECTS,
+    PF2E_SPELL_EFFECTS
+} from "./src/effects.js";
+import { replaceCodePlugin } from "./vite-plugin-replace.ts";
 
 export default defineConfig({
     root: "./src",
@@ -32,14 +42,25 @@ export default defineConfig({
             }
         }
     },
-    define,
     plugins: [
+        replaceCodePlugin({
+            PF2E_ASSISTANT_EFFECTS,
+            PF2E_BESTIARY_EFFECTS,
+            PF2E_CAMPAIGN_EFFECTS,
+            PF2E_CONDITIONS,
+            PF2E_EQUIPMENT_EFFECTS,
+            PF2E_FEAT_EFFECTS,
+            PF2E_OTHER_EFFECTS,
+            PF2E_SPELL_EFFECTS
+        }),
         tsconfigPaths(),
         vttSync(moduleJSON, {
             dataDirectory: "src/packs",
-            transformer(doc: any) {
+            transformer(doc) {
                 if (doc["system"]) {
+                    // @ts-expect-error Property '_migration' does not exist
                     if (doc["system"]["_migration"]) {
+                        // @ts-expect-error Property '_migration' does not exist
                         delete doc["system"]["_migration"];
                     }
                 }

@@ -32,6 +32,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.0h6dhuMU0fOr1OS5"
     },
     {
+        "slug": "effect-rejuvenating-touch",
+        "uuid": "Compendium.pf2e.feat-effects.Item.0jKdU1YdER9dLBdx"
+    },
+    {
         "slug": "effect-pistoleros-challenge",
         "uuid": "Compendium.pf2e.feat-effects.Item.0kO3M46aK64a8ru8"
     },
@@ -48,6 +52,14 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.0pq3MPLH0C9z4tj3"
     },
     {
+        "slug": "effect-mineral-deposits",
+        "uuid": "Compendium.pf2e.feat-effects.Item.0q1sI5pgZs0eHydw"
+    },
+    {
+        "slug": "effect-shared-sight",
+        "uuid": "Compendium.pf2e.feat-effects.Item.0v30plBl9TuuJQ5F"
+    },
+    {
         "slug": "effect-aura-of-preservation",
         "uuid": "Compendium.pf2e.feat-effects.Item.18FHJoazfEmgNkfk"
     },
@@ -58,6 +70,10 @@
     {
         "slug": "effect-abjure-harm",
         "uuid": "Compendium.pf2e.feat-effects.Item.1FIje7Y5zIbf9V0p"
+    },
+    {
+        "slug": "effect-hunters-aim",
+        "uuid": "Compendium.pf2e.feat-effects.Item.1TsRE7J3BZrcyogi"
     },
     {
         "slug": "effect-protective-cycle",
@@ -98,6 +114,10 @@
     {
         "slug": "effect-pale-horse",
         "uuid": "Compendium.pf2e.feat-effects.Item.21P9Xc6DslCjfq0Y"
+    },
+    {
+        "slug": "effect-guiding-shot",
+        "uuid": "Compendium.pf2e.feat-effects.Item.21pCT4n3Aixyvp4h"
     },
     {
         "slug": "effect-radiant-circuitry",
@@ -164,6 +184,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.3K8fNQKjmrHU8dzi"
     },
     {
+        "slug": "effect-plane-stepping-dash",
+        "uuid": "Compendium.pf2e.feat-effects.Item.3KhE0e2CWU7F27bJ"
+    },
+    {
         "slug": "effect-mutagenist-field-benefit",
         "uuid": "Compendium.pf2e.feat-effects.Item.3MVVaD8hAJnGSyfm"
     },
@@ -216,7 +240,7 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.4TMf6LVNMakqj7Bt"
     },
     {
-        "slug": "effect-masterful-hunters-edge-flurry",
+        "slug": "effect-share-hunters-edge-flurry-masterful",
         "uuid": "Compendium.pf2e.feat-effects.Item.4UNQfMrwfWirdwoV"
     },
     {
@@ -240,6 +264,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.4j5J4IM9sWNe1UcT"
     },
     {
+        "slug": "effect-sheltering-wing",
+        "uuid": "Compendium.pf2e.feat-effects.Item.4siBPDdWmwks1bI5"
+    },
+    {
         "slug": "effect-close-contract",
         "uuid": "Compendium.pf2e.feat-effects.Item.4uh4EP1sxKRYx7kg"
     },
@@ -250,6 +278,10 @@
     {
         "slug": "effect-hungry-goblin",
         "uuid": "Compendium.pf2e.feat-effects.Item.4xtHFRGI05SNe9rA"
+    },
+    {
+        "slug": "effect-even-the-odds",
+        "uuid": "Compendium.pf2e.feat-effects.Item.58QyKgMWfsUPqZn1"
     },
     {
         "slug": "effect-inspiring-recitation",
@@ -274,6 +306,10 @@
     {
         "slug": "effect-crash-against-me-note",
         "uuid": "Compendium.pf2e.feat-effects.Item.5dxWxTDjPPT79xpn"
+    },
+    {
+        "slug": "effect-martyrs-parry",
+        "uuid": "Compendium.pf2e.feat-effects.Item.5r7uhVQJQoyk6s4i"
     },
     {
         "slug": "effect-ascend",
@@ -316,6 +352,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.6IsZQpwRJQWIzdGx"
     },
     {
+        "slug": "effect-relinquish-control",
+        "uuid": "Compendium.pf2e.feat-effects.Item.6M6JRjWjJy0rwtX2"
+    },
+    {
         "slug": "effect-heroic-defiance",
         "uuid": "Compendium.pf2e.feat-effects.Item.6OFJhFsw78w7ogW5"
     },
@@ -346,6 +386,10 @@
     {
         "slug": "effect-lantern",
         "uuid": "Compendium.pf2e.feat-effects.Item.6hrbTLlSyhL2W9Nf"
+    },
+    {
+        "slug": "effect-distant-traveler",
+        "uuid": "Compendium.pf2e.feat-effects.Item.6jjIDZ2ezcoWTJ1p"
     },
     {
         "slug": "effect-didactic-strike",
@@ -408,6 +452,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.7juD2XQ7wKI5pjPW"
     },
     {
+        "slug": "effect-form-a-flock",
+        "uuid": "Compendium.pf2e.feat-effects.Item.7k5oCD4wQUNFZYkC"
+    },
+    {
         "slug": "effect-heroic-recovery",
         "uuid": "Compendium.pf2e.feat-effects.Item.7ogytOgDmh4h2g5d"
     },
@@ -444,8 +492,16 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.8uXXaQ3Y5FP2mwn6"
     },
     {
+        "slug": "effect-glorious-banner",
+        "uuid": "Compendium.pf2e.feat-effects.Item.8x5T5e5Gzh3NJ86H"
+    },
+    {
         "slug": "effect-amulets-abeyance",
         "uuid": "Compendium.pf2e.feat-effects.Item.90dTxPhFtbhK6Nv4"
+    },
+    {
+        "slug": "effect-demoralizing-charge",
+        "uuid": "Compendium.pf2e.feat-effects.Item.91qBP1n04xsKeXkE"
     },
     {
         "slug": "effect-unleash-psyche",
@@ -456,8 +512,20 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.94MzLpLykQIWKcA1"
     },
     {
+        "slug": "effect-amplifying-touch",
+        "uuid": "Compendium.pf2e.feat-effects.Item.94Vuzui165y0rgP5"
+    },
+    {
+        "slug": "effect-area-armor",
+        "uuid": "Compendium.pf2e.feat-effects.Item.98ChTLCwnGo9ksZq"
+    },
+    {
         "slug": "effect-genie-blood-magic",
         "uuid": "Compendium.pf2e.feat-effects.Item.9AUcoY48H5LrVZiF"
+    },
+    {
+        "slug": "stance-jotuns-battle-stance",
+        "uuid": "Compendium.pf2e.feat-effects.Item.9CJ7kzRLDo5VAC4n"
     },
     {
         "slug": "effect-absolve-sins",
@@ -466,6 +534,10 @@
     {
         "slug": "stance-point-blank-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.9HPxAKpP3WJmICBx"
+    },
+    {
+        "slug": "effect-the-bigger-they-are-commander",
+        "uuid": "Compendium.pf2e.feat-effects.Item.9Kjnwzu3DWs5U7NH"
     },
     {
         "slug": "effect-come-and-get-me-circumstance-bonus",
@@ -528,6 +600,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.AOqlEOF3Q7w9XYFp"
     },
     {
+        "slug": "effect-all-consuming-hunger",
+        "uuid": "Compendium.pf2e.feat-effects.Item.AdUcSxWFj7IVcVma"
+    },
+    {
         "slug": "effect-raise-menhir",
         "uuid": "Compendium.pf2e.feat-effects.Item.AggnVD5loQHLb7zj"
     },
@@ -538,6 +614,10 @@
     {
         "slug": "effect-cry-of-rebellion",
         "uuid": "Compendium.pf2e.feat-effects.Item.AsYHSc1sNEXYELj7"
+    },
+    {
+        "slug": "effect-keep-up-the-good-fight",
+        "uuid": "Compendium.pf2e.feat-effects.Item.AwJBbxeoE0YhmT57"
     },
     {
         "slug": "effect-deep-freeze",
@@ -562,6 +642,14 @@
     {
         "slug": "effect-replenishment-of-war",
         "uuid": "Compendium.pf2e.feat-effects.Item.BJc494USeyM011p3"
+    },
+    {
+        "slug": "effect-accelerating-touch",
+        "uuid": "Compendium.pf2e.feat-effects.Item.BJldFHlx4kwMY3rX"
+    },
+    {
+        "slug": "effect-resounding-cascade",
+        "uuid": "Compendium.pf2e.feat-effects.Item.BKyq3deWdCbYzAHA"
     },
     {
         "slug": "effect-castigating-weapon",
@@ -624,6 +712,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.D1SUxDvtDyqwdXqO"
     },
     {
+        "slug": "effect-blanket-defense",
+        "uuid": "Compendium.pf2e.feat-effects.Item.D32aR6cVq0YyHEP6"
+    },
+    {
         "slug": "effect-proud-mentor",
         "uuid": "Compendium.pf2e.feat-effects.Item.D7JhDc4dcWhORY9h"
     },
@@ -652,15 +744,27 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.DdDjfNeoYxcKIxnq"
     },
     {
+        "slug": "effect-armored-courage",
+        "uuid": "Compendium.pf2e.feat-effects.Item.Ddp2VNh2ldMhWJGQ"
+    },
+    {
+        "slug": "effect-tough-cookie",
+        "uuid": "Compendium.pf2e.feat-effects.Item.Df9NeqlUatsTVvy9"
+    },
+    {
         "slug": "effect-repair-module",
         "uuid": "Compendium.pf2e.feat-effects.Item.DjxZpQ4xJWWvYQqY"
+    },
+    {
+        "slug": "effect-channel-draconic-essence",
+        "uuid": "Compendium.pf2e.feat-effects.Item.DkdAPJohjgtnCIJe"
     },
     {
         "slug": "effect-divine-health",
         "uuid": "Compendium.pf2e.feat-effects.Item.DrM8d4joWHAaGlbe"
     },
     {
-        "slug": "effect-known-weakness",
+        "slug": "effect-known-weaknesses",
         "uuid": "Compendium.pf2e.feat-effects.Item.DvyyA11a63FBwV7x"
     },
     {
@@ -768,6 +872,18 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.FaEvoqZXfQ7xnpRo"
     },
     {
+        "slug": "effect-extravagant-parry",
+        "uuid": "Compendium.pf2e.feat-effects.Item.FkouUFpwUrPjhMNw"
+    },
+    {
+        "slug": "effect-a-challenge-for-heroes-ally",
+        "uuid": "Compendium.pf2e.feat-effects.Item.Fky50BHCHmRTnHas"
+    },
+    {
+        "slug": "effect-taunt",
+        "uuid": "Compendium.pf2e.feat-effects.Item.FlyWq9znOHvpISNW"
+    },
+    {
         "slug": "effect-decry-thief",
         "uuid": "Compendium.pf2e.feat-effects.Item.FyaekbWsazkJhJda"
     },
@@ -786,6 +902,10 @@
     {
         "slug": "effect-instructive-strike",
         "uuid": "Compendium.pf2e.feat-effects.Item.GAKXSLDwFpE5VLyx"
+    },
+    {
+        "slug": "effect-helts-spelldance",
+        "uuid": "Compendium.pf2e.feat-effects.Item.GAtTLwi0JIOg3Htq"
     },
     {
         "slug": "effect-exalted-reaction-redemption",
@@ -852,6 +972,14 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.ICUcmwY504WHCs3N"
     },
     {
+        "slug": "effect-mirrored-wall",
+        "uuid": "Compendium.pf2e.feat-effects.Item.IIjE6NOYpOfRuCBR"
+    },
+    {
+        "slug": "effect-mountaineering-training",
+        "uuid": "Compendium.pf2e.feat-effects.Item.IPznWmsoaoT2zhgU"
+    },
+    {
         "slug": "effect-mutate-weapon",
         "uuid": "Compendium.pf2e.feat-effects.Item.ITvyvbB234bxceRK"
     },
@@ -912,6 +1040,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.JW93FDTAOUNuCgIu"
     },
     {
+        "slug": "effect-commanders-banner",
+        "uuid": "Compendium.pf2e.feat-effects.Item.JZWi6512m9RlMrNO"
+    },
+    {
         "slug": "stance-whirling-blade-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.JefXqvhzUeBArkAP"
     },
@@ -960,6 +1092,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.KHxkVwXSFsN3eATu"
     },
     {
+        "slug": "effect-shielded-recovery",
+        "uuid": "Compendium.pf2e.feat-effects.Item.KOVUFiN6nkttuiRb"
+    },
+    {
         "slug": "effect-survive-the-wilds",
         "uuid": "Compendium.pf2e.feat-effects.Item.KR391Ltqp0d3EWg1"
     },
@@ -988,8 +1124,16 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.KqyxpiGpEuju3d4z"
     },
     {
+        "slug": "effect-plant-banner",
+        "uuid": "Compendium.pf2e.feat-effects.Item.KsUQjLQO62BY0lk4"
+    },
+    {
         "slug": "effect-aura-of-righteousness",
         "uuid": "Compendium.pf2e.feat-effects.Item.L0hDj8vFk1IWh01L"
+    },
+    {
+        "slug": "effect-aesir-blood-magic",
+        "uuid": "Compendium.pf2e.feat-effects.Item.L8m3L4MCGDZJISp0"
     },
     {
         "slug": "effect-heavens-thunder",
@@ -998,6 +1142,10 @@
     {
         "slug": "effect-legendary-monster-hunter",
         "uuid": "Compendium.pf2e.feat-effects.Item.LB0PTV5yqMlBmRFj"
+    },
+    {
+        "slug": "effect-naval-training",
+        "uuid": "Compendium.pf2e.feat-effects.Item.LCU3Lv6ojuTl4DSY"
     },
     {
         "slug": "effect-enforce-oath",
@@ -1028,7 +1176,11 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.Ljrx4N5XACKSk1Ks"
     },
     {
-        "slug": "effect-masterful-hunters-edge-precision",
+        "slug": "effect-share-hunters-edge-vindication",
+        "uuid": "Compendium.pf2e.feat-effects.Item.LpudOmKE8bHZgYeL"
+    },
+    {
+        "slug": "effect-share-hunters-edge-precision-masterful",
         "uuid": "Compendium.pf2e.feat-effects.Item.Lt5iSfx8fxHSdYXz"
     },
     {
@@ -1062,6 +1214,10 @@
     {
         "slug": "effect-hunt-prey",
         "uuid": "Compendium.pf2e.feat-effects.Item.MeXyXqWY9qN42bSQ"
+    },
+    {
+        "slug": "effect-resilient-touch",
+        "uuid": "Compendium.pf2e.feat-effects.Item.MiucWR2AbIhr34qD"
     },
     {
         "slug": "effect-aura-junction-air",
@@ -1104,6 +1260,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.NMmsJyeMTawpgLVR"
     },
     {
+        "slug": "effect-shield-paragon-benefit",
+        "uuid": "Compendium.pf2e.feat-effects.Item.NUOfUPboXVEVQNBE"
+    },
+    {
         "slug": "stance-mobile-shot-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.NWOmJ6WJFheaGhho"
     },
@@ -1126,6 +1286,10 @@
     {
         "slug": "effect-endemic-herbs",
         "uuid": "Compendium.pf2e.feat-effects.Item.NviQYIVZbPCSWLqT"
+    },
+    {
+        "slug": "effect-runelord-researcher",
+        "uuid": "Compendium.pf2e.feat-effects.Item.Ny6kEKDxr9GhLoTC"
     },
     {
         "slug": "effect-mountain-strategy-critically-hit",
@@ -1260,6 +1424,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.QcReJp7kgURdQCGz"
     },
     {
+        "slug": "effect-lesson-of-the-splintered-aegis",
+        "uuid": "Compendium.pf2e.feat-effects.Item.QhUiGUBuCV1bSu1q"
+    },
+    {
         "slug": "effect-pierce-the-eye",
         "uuid": "Compendium.pf2e.feat-effects.Item.QjIiY4ofmhCspUJb"
     },
@@ -1278,6 +1446,10 @@
     {
         "slug": "stance-stonestrike-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.RDKbWKphiD9ippAv"
+    },
+    {
+        "slug": "effect-spirits-interference",
+        "uuid": "Compendium.pf2e.feat-effects.Item.RIBExSLZDxRUqPPT"
     },
     {
         "slug": "effect-race-the-skies",
@@ -1348,6 +1520,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.SLXhPgaeKB0W3k1D"
     },
     {
+        "slug": "effect-pointed-question",
+        "uuid": "Compendium.pf2e.feat-effects.Item.SScln8qRQgVC6Brz"
+    },
+    {
         "slug": "effect-nymph-blood-magic",
         "uuid": "Compendium.pf2e.feat-effects.Item.SVGW8CLKwixFlnTv"
     },
@@ -1396,6 +1572,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.TbQiJxLfEF6P1HnO"
     },
     {
+        "slug": "effect-electric-counter",
+        "uuid": "Compendium.pf2e.feat-effects.Item.TfhcbqC3cjFdimeh"
+    },
+    {
         "slug": "effect-curse-of-torrential-knowledge",
         "uuid": "Compendium.pf2e.feat-effects.Item.Tju9kpQlwcKkyKor"
     },
@@ -1422,6 +1602,10 @@
     {
         "slug": "effect-show-off",
         "uuid": "Compendium.pf2e.feat-effects.Item.U7QM4yqxcoGSysoG"
+    },
+    {
+        "slug": "effect-lesson-of-the-broken-wing",
+        "uuid": "Compendium.pf2e.feat-effects.Item.U7gwOeKsIsz2zhDE"
     },
     {
         "slug": "effect-packed-with-flavor",
@@ -1476,6 +1660,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.V6lnFOq998B76Rr0"
     },
     {
+        "slug": "effect-targeting-strike",
+        "uuid": "Compendium.pf2e.feat-effects.Item.VBsWZHdYymig9WsH"
+    },
+    {
         "slug": "effect-multifaceted-will",
         "uuid": "Compendium.pf2e.feat-effects.Item.VM3A4YSG72JCpWMg"
     },
@@ -1504,6 +1692,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.VrTaP6BcXo6sizn6"
     },
     {
+        "slug": "effect-furious-finish",
+        "uuid": "Compendium.pf2e.feat-effects.Item.VxaHh8r8QVfPfxcw"
+    },
+    {
         "slug": "effect-monster-hunter",
         "uuid": "Compendium.pf2e.feat-effects.Item.W2tWq0gdAcnoz2MO"
     },
@@ -1518,6 +1710,10 @@
     {
         "slug": "effect-energy-ablation",
         "uuid": "Compendium.pf2e.feat-effects.Item.WEP9Oe1D9WsWSOU8"
+    },
+    {
+        "slug": "effect-energize-bite",
+        "uuid": "Compendium.pf2e.feat-effects.Item.WQ48SJOWNuNMJ07l"
     },
     {
         "slug": "effect-rampaging-form-frozen-winds-kitsune",
@@ -1562,6 +1758,10 @@
     {
         "slug": "stance-air-shroud",
         "uuid": "Compendium.pf2e.feat-effects.Item.XFc3dVzTe7KnpjuP"
+    },
+    {
+        "slug": "effect-shield-from-arrows",
+        "uuid": "Compendium.pf2e.feat-effects.Item.XFnNmos2R1nOFl9O"
     },
     {
         "slug": "effect-echoes-in-stone",
@@ -1620,6 +1820,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.YNoBbHUu7enOSKyv"
     },
     {
+        "slug": "effect-shield-your-eyes",
+        "uuid": "Compendium.pf2e.feat-effects.Item.YU6NYuil87dSrRh7"
+    },
+    {
         "slug": "effect-resurrectionist",
         "uuid": "Compendium.pf2e.feat-effects.Item.YaSxccYfE5ShFdFd"
     },
@@ -1644,6 +1848,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.ZdPLjPFwp9JuVRFf"
     },
     {
+        "slug": "effect-battle-planner",
+        "uuid": "Compendium.pf2e.feat-effects.Item.ZkYDgSSlKML9BUjg"
+    },
+    {
         "slug": "effect-liberating-step-vs-undead",
         "uuid": "Compendium.pf2e.feat-effects.Item.ZnKnOPPq3cG54PlG"
     },
@@ -1658,6 +1866,10 @@
     {
         "slug": "effect-bone-spikes",
         "uuid": "Compendium.pf2e.feat-effects.Item.ZsO5juyylVoxUkXh"
+    },
+    {
+        "slug": "effect-defiant-banner",
+        "uuid": "Compendium.pf2e.feat-effects.Item.Zy7rrPCgMTeSzKj9"
     },
     {
         "slug": "effect-overdrive-ally",
@@ -1680,12 +1892,20 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.aLrFDxT2dhIEwcQr"
     },
     {
+        "slug": "effect-pennant-of-victory",
+        "uuid": "Compendium.pf2e.feat-effects.Item.aQkzGG9RCII50a4b"
+    },
+    {
         "slug": "effect-legendary-monster-warden",
         "uuid": "Compendium.pf2e.feat-effects.Item.aUpcWqaLBlmpnJgW"
     },
     {
         "slug": "effect-terrain-attunement-gravelands",
         "uuid": "Compendium.pf2e.feat-effects.Item.ag1Ix1cnhcV4k9iu"
+    },
+    {
+        "slug": "effect-the-truth-as-i-see-it",
+        "uuid": "Compendium.pf2e.feat-effects.Item.ahBcuJWrRXEGvwxb"
     },
     {
         "slug": "stance-wolf-stance",
@@ -1752,6 +1972,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.cmwlVYHtp3a1OipU"
     },
     {
+        "slug": "effect-pearl-dragonet-breath",
+        "uuid": "Compendium.pf2e.feat-effects.Item.covFunty2HlvEN9K"
+    },
+    {
         "slug": "effect-encroaching-presence",
         "uuid": "Compendium.pf2e.feat-effects.Item.cqgbTZCvqaSvtQdz"
     },
@@ -1780,6 +2004,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.dA8AzlayuQ1hIeEx"
     },
     {
+        "slug": "effect-inescapable-grasp",
+        "uuid": "Compendium.pf2e.feat-effects.Item.dDdxIy1bAvwfuhx0"
+    },
+    {
         "slug": "effect-aegis-for-the-innocent",
         "uuid": "Compendium.pf2e.feat-effects.Item.dFNh66uyI5yxVKbt"
     },
@@ -1800,8 +2028,16 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.dzYnksinvWvfgBVt"
     },
     {
+        "slug": "effect-draconic-resilience",
+        "uuid": "Compendium.pf2e.feat-effects.Item.e183eoJd714WEi6J"
+    },
+    {
         "slug": "effect-undying-conviction",
         "uuid": "Compendium.pf2e.feat-effects.Item.e6mv68aarIbQ3tXL"
+    },
+    {
+        "slug": "effect-aldori-swordlord-tempory-hit-points",
+        "uuid": "Compendium.pf2e.feat-effects.Item.eJyyBqrXLOE4R9JI"
     },
     {
         "slug": "effect-consume-energy-augment-strike",
@@ -1826,6 +2062,10 @@
     {
         "slug": "stance-geologic-attunement",
         "uuid": "Compendium.pf2e.feat-effects.Item.ebCWQB5nfK19GpY5"
+    },
+    {
+        "slug": "stance-duelists-form",
+        "uuid": "Compendium.pf2e.feat-effects.Item.ebqKAQowcYjHyLHe"
     },
     {
         "slug": "effect-stoney-deflection",
@@ -1856,8 +2096,16 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.eu2HidLHaGKe4MPn"
     },
     {
+        "slug": "effect-oversized-throw",
+        "uuid": "Compendium.pf2e.feat-effects.Item.ewEZ9zB5cjdUMtQj"
+    },
+    {
         "slug": "effect-disrupting-strikes",
         "uuid": "Compendium.pf2e.feat-effects.Item.ewfHVi6NWBGM8B6f"
+    },
+    {
+        "slug": "effect-perfect-protection",
+        "uuid": "Compendium.pf2e.feat-effects.Item.fDLJIA6Kl81WA6gy"
     },
     {
         "slug": "effect-cozy-campfire",
@@ -1876,6 +2124,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.fIRJftsmd83iSoR4"
     },
     {
+        "slug": "effect-panache-ephemeral-note",
+        "uuid": "Compendium.pf2e.feat-effects.Item.fJD0yIkVPMwdNjLy"
+    },
+    {
         "slug": "effect-regalia",
         "uuid": "Compendium.pf2e.feat-effects.Item.fOypEG6eeTwfM6c3"
     },
@@ -1886,6 +2138,10 @@
     {
         "slug": "effect-upstage",
         "uuid": "Compendium.pf2e.feat-effects.Item.fSZH0aVKyPxatE6i"
+    },
+    {
+        "slug": "effect-overclock-senses",
+        "uuid": "Compendium.pf2e.feat-effects.Item.feQwOL1QfZDfVrt8"
     },
     {
         "slug": "effect-exemplary-finisher-rascal",
@@ -2012,7 +2268,7 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.ipaniua1HJ4qGzcr"
     },
     {
-        "slug": "effect-masterful-hunters-edge-outwit",
+        "slug": "effect-share-hunters-edge-outwit-masterful",
         "uuid": "Compendium.pf2e.feat-effects.Item.iqvurepX0zyu9OlI"
     },
     {
@@ -2096,6 +2352,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.kDTiRg9vVOYNnTyr"
     },
     {
+        "slug": "effect-sanguine-revitalization",
+        "uuid": "Compendium.pf2e.feat-effects.Item.kJndFOHNBH8SR5IM"
+    },
+    {
         "slug": "effect-kneecap",
         "uuid": "Compendium.pf2e.feat-effects.Item.kZdVPBO58uq38KIR"
     },
@@ -2106,6 +2366,10 @@
     {
         "slug": "effect-portentous-spell",
         "uuid": "Compendium.pf2e.feat-effects.Item.klZVVIetJlR99cT6"
+    },
+    {
+        "slug": "effect-griefs-fury",
+        "uuid": "Compendium.pf2e.feat-effects.Item.ko1fCuxWxBKErSfr"
     },
     {
         "slug": "stance-waterfowl-stance",
@@ -2184,12 +2448,16 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.lge4vtZdfZOCWAch"
     },
     {
-        "slug": "effect-hunters-edge-outwit",
+        "slug": "effect-share-hunters-edge-outwit",
         "uuid": "Compendium.pf2e.feat-effects.Item.ltIvO9ZQlmqGD89Y"
     },
     {
         "slug": "effect-sheltering-pulse",
         "uuid": "Compendium.pf2e.feat-effects.Item.m0hi0jpIF6tNJzzo"
+    },
+    {
+        "slug": "effect-consume-power",
+        "uuid": "Compendium.pf2e.feat-effects.Item.m5kXngVAHiprZea1"
     },
     {
         "slug": "effect-ursine-avenger-form",
@@ -2204,7 +2472,7 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.mNc42XjBVlxcr9k8"
     },
     {
-        "slug": "effect-hunters-edge-precision",
+        "slug": "effect-share-hunters-edge-precision",
         "uuid": "Compendium.pf2e.feat-effects.Item.mNk0KxsZMFnDjUA0"
     },
     {
@@ -2236,12 +2504,20 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.nMMqJQsdV37TLfTu"
     },
     {
+        "slug": "effect-invented-vulnerability",
+        "uuid": "Compendium.pf2e.feat-effects.Item.nOYXxWUT9i3z75GI"
+    },
+    {
         "slug": "effect-spirits-mercy",
         "uuid": "Compendium.pf2e.feat-effects.Item.nV2zH7OcQeoQrrvB"
     },
     {
         "slug": "effect-strain-mind",
         "uuid": "Compendium.pf2e.feat-effects.Item.nWrUYrSFScwURSTs"
+    },
+    {
+        "slug": "effect-dismal-harvest",
+        "uuid": "Compendium.pf2e.feat-effects.Item.nb2Qy9XpdH4X3yQl"
     },
     {
         "slug": "effect-distant-wandering",
@@ -2266,6 +2542,10 @@
     {
         "slug": "effect-strategist-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.no8vv18N7YmEKvOH"
+    },
+    {
+        "slug": "effect-desynchronized-motions",
+        "uuid": "Compendium.pf2e.feat-effects.Item.nvYBuNuu0pfCQPPt"
     },
     {
         "slug": "stance-crane-stance",
@@ -2304,6 +2584,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.p0S3VHkRgMye7RSI"
     },
     {
+        "slug": "effect-spike-skin",
+        "uuid": "Compendium.pf2e.feat-effects.Item.pFEk5cwegWqXvX4D"
+    },
+    {
         "slug": "effect-nanite-surge-bonus",
         "uuid": "Compendium.pf2e.feat-effects.Item.pFo9DVyaDb4LdURY"
     },
@@ -2324,8 +2608,12 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.pTYTanMHMwSgJ8TN"
     },
     {
-        "slug": "effect-a-challenge-for-heroes",
+        "slug": "effect-a-challenge-for-heroes-enemy",
         "uuid": "Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb"
+    },
+    {
+        "slug": "effect-panache-temporary",
+        "uuid": "Compendium.pf2e.feat-effects.Item.paKKHPds77fq5VTH"
     },
     {
         "slug": "stance-tiger-stance",
@@ -2358,6 +2646,10 @@
     {
         "slug": "stance-disruptive-stance",
         "uuid": "Compendium.pf2e.feat-effects.Item.qBR3kqGCeKp3T2Be"
+    },
+    {
+        "slug": "effect-sympathetic-strike",
+        "uuid": "Compendium.pf2e.feat-effects.Item.qBTJYpopY3AwFFUJ"
     },
     {
         "slug": "effect-hybrid-shape-beastkin",
@@ -2468,6 +2760,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.s5OHkf1HkLwgvZT7"
     },
     {
+        "slug": "effect-hunt-runelord",
+        "uuid": "Compendium.pf2e.feat-effects.Item.s7qDwnyVqMqDaFal"
+    },
+    {
         "slug": "effect-aura-junction-water",
         "uuid": "Compendium.pf2e.feat-effects.Item.s8LMK2zCQgUT3HoY"
     },
@@ -2502,6 +2798,10 @@
     {
         "slug": "effect-desperate-wrath",
         "uuid": "Compendium.pf2e.feat-effects.Item.sfUsodcGb4atcSyN"
+    },
+    {
+        "slug": "effect-chaotic-spell",
+        "uuid": "Compendium.pf2e.feat-effects.Item.sgK3JkyLbXLoNjPI"
     },
     {
         "slug": "stance-immovable-object",
@@ -2560,6 +2860,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.ttIvoQUl1yG5K62o"
     },
     {
+        "slug": "effect-blood-and-spirit",
+        "uuid": "Compendium.pf2e.feat-effects.Item.tu36I5HWaqOjaLVu"
+    },
+    {
         "slug": "effect-familiar-of-restored-spirit",
         "uuid": "Compendium.pf2e.feat-effects.Item.twvhTLrLEfr7dz1m"
     },
@@ -2592,7 +2896,11 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.uRwnbZ0xWrB5ZzZ9"
     },
     {
-        "slug": "effect-hunters-edge-flurry",
+        "slug": "effect-unsteadying-strike",
+        "uuid": "Compendium.pf2e.feat-effects.Item.uUIpCXtvKvPVNunx"
+    },
+    {
+        "slug": "effect-share-hunters-edge-flurry",
         "uuid": "Compendium.pf2e.feat-effects.Item.uXCU8GgriUjuj5FV"
     },
     {
@@ -2610,6 +2918,10 @@
     {
         "slug": "effect-uncanny-bombs",
         "uuid": "Compendium.pf2e.feat-effects.Item.ukdRbANZICKl29k9"
+    },
+    {
+        "slug": "effect-invincible-army",
+        "uuid": "Compendium.pf2e.feat-effects.Item.uqtXEAWwHhA2xShg"
     },
     {
         "slug": "effect-offensive-boost",
@@ -2648,6 +2960,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.vm8Ir6qfvb3BaNUs"
     },
     {
+        "slug": "effect-equitable-defense",
+        "uuid": "Compendium.pf2e.feat-effects.Item.w0k59TPWUZ9Me4yF"
+    },
+    {
         "slug": "effect-guardians-deflection",
         "uuid": "Compendium.pf2e.feat-effects.Item.w6X7io56B2HHTOvs"
     },
@@ -2666,6 +2982,10 @@
     {
         "slug": "effect-animalistic-brutality",
         "uuid": "Compendium.pf2e.feat-effects.Item.wQy8QddWBtzXYjw3"
+    },
+    {
+        "slug": "aura-form-a-flock",
+        "uuid": "Compendium.pf2e.feat-effects.Item.wdOBAcEkC7L0NdJ8"
     },
     {
         "slug": "effect-rallying-charge-marshal",
@@ -2690,6 +3010,10 @@
     {
         "slug": "effect-overextending-feint",
         "uuid": "Compendium.pf2e.feat-effects.Item.x7CjbOQZUgZKW16M"
+    },
+    {
+        "slug": "effect-fortunate-blow",
+        "uuid": "Compendium.pf2e.feat-effects.Item.x9xNnTl1sRGCqthu"
     },
     {
         "slug": "effect-cavaliers-banner",
@@ -2736,7 +3060,7 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.xtqOIXCe0Nsd0QCt"
     },
     {
-        "slug": "effect-even-the-odds",
+        "slug": "effect-even-the-odds-eagle-knight",
         "uuid": "Compendium.pf2e.feat-effects.Item.xxkCSwizAu2wC7Fo"
     },
     {

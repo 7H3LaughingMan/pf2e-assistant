@@ -15,7 +15,7 @@ async function onClickButton(
     button: HTMLButtonElement
 ) {
     if (button.dataset.action === "choice") {
-        let data: Assistant.Data = {
+        const data: Assistant.Data = {
             trigger: "choice",
             rollOptions: [`choice:${button.value}`]
         };

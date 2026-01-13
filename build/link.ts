@@ -2,14 +2,21 @@ import fs from "fs";
 import path from "path";
 import prompts from "prompts";
 import module from "../module.json" with { type: "json" };
+import Config from "./config.ts";
 
-const dataPath = "C:\\FoundryVTT\\FoundryVTT-WindowsPortable-13.345\\Data";
+const dataPath = Config.instance.get("dataPath") as string;
+if (!dataPath) {
+    console.error(
+        "The data path is not set. Use `npm run configure set dataPath <path>` to set it. Data paths looks like `C:/Users/Example/AppData/Local/FoundryVTT`"
+    );
+    process.exit(1);
+}
 
-const symlinkPath = path.resolve(dataPath, "modules", module.id);
+const symlinkPath = path.resolve(dataPath, "Data", "modules", module.id);
 const symlinkStats = fs.lstatSync(symlinkPath, { throwIfNoEntry: false });
 if (symlinkStats) {
     const atPath = symlinkStats.isDirectory() ? "folder" : symlinkStats.isSymbolicLink() ? "symlink" : "file";
-    const proceed: boolean = (
+    const proceed = (
         await prompts({
             type: "confirm",
             name: "value",
@@ -18,8 +25,8 @@ if (symlinkStats) {
         })
     ).value;
     if (!proceed) {
-        console.log("Aborting.");
-        process.exit();
+        console.error("Aborting . . . ");
+        process.exit(1);
     }
 }
 
@@ -31,10 +38,8 @@ try {
     }
     fs.symlinkSync(path.resolve(process.cwd()), symlinkPath, "junction");
 } catch (error) {
-    if (error instanceof Error) {
-        console.error(`An error was encountered trying to create a symlink: ${error.message}`);
-        process.exit(1);
-    }
+    console.error(error);
+    process.exit(1);
 }
 
-console.log(`Symlink succesfully created at "${symlinkPath}"!`);
+console.log(`Symlink sucesfully created at "${symlinkPath}"!`);

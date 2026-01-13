@@ -9,12 +9,10 @@
         ],
         "types": [
             "foundry-pf2e",
-            "foundry-pf2e/dice-so-nice",
             "foundry-pf2e/lib-wrapper",
             "foundry-pf2e/socketlib",
             "jquery",
-            "vite/client",
-            "./src/effects.d.ts"
+            "vite/client"
         ],
         "baseUrl": "./src",
         "noEmit": true,
@@ -35,5 +33,6 @@
         "resolveJsonModule": true,
         "useDefineForClassFields": true,
         "noErrorTruncation": true,
+        "allowJs": true
     }
 }

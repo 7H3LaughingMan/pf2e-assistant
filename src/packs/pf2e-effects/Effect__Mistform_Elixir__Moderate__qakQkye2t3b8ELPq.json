@@ -1,0 +1,61 @@
+{
+	"folder": "8VVJmDWH4cwUWVwS",
+	"name": "Effect: Mistform Elixir (Moderate)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Ax8XcBd0rRd1Z7hN]{Mistform Elixir (Moderate)}</p><p>A faint mist emanates from your skin, making you @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} for 1 minute.</p>"
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W"
+			}
+		],
+		"slug": "effect-mistform-elixir-moderate",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"publication": {
+			"title": "Pathfinder GM Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 6
+		},
+		"duration": {
+			"value": 1,
+			"unit": "minutes",
+			"expiry": "turn-start",
+			"sustained": false
+		},
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"badge": null,
+		"context": null,
+		"unidentified": false,
+		"fromSpell": false
+	},
+	"_id": "qakQkye2t3b8ELPq",
+	"img": "icons/consumables/potions/bottle-conical-corked-blue.webp",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!items!qakQkye2t3b8ELPq"
+}
+

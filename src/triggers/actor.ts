@@ -31,7 +31,7 @@ function processExploration(
     id: string,
     trigger: "activate-exploration" | "deactivate-exploration"
 ) {
-    let data: Assistant.Data = {
+    const data: Assistant.Data = {
         trigger: trigger,
         rollOptions: []
     };

@@ -44,16 +44,36 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.19YECUFY5of8c0yl"
     },
     {
+        "slug": "effect-toothy-knife",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.1AOfjwg2uZQUcgQC"
+    },
+    {
         "slug": "effect-slime-whip",
         "uuid": "Compendium.pf2e.equipment-effects.Item.1N28rGPbAl2IkGUf"
+    },
+    {
+        "slug": "effect-oil-of-potency",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.1OLlwExJz7ii2Lu2"
     },
     {
         "slug": "effect-winged-sandals",
         "uuid": "Compendium.pf2e.equipment-effects.Item.1S51uIRb9bnZtpFU"
     },
     {
+        "slug": "effect-soaring-wings",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.1XmE0W0tVH5NXGL2"
+    },
+    {
+        "slug": "effect-instinct-crown",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.1eoxVAx1z9AoNKTt"
+    },
+    {
         "slug": "effect-eye-of-the-unseen-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.1ihy7Jvw5PY4WYbP"
+    },
+    {
+        "slug": "effect-dawnfire-beacon-major",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.1k4tfR8wHeaW6ahR"
     },
     {
         "slug": "effect-juggernaut-mutagen-lesser",
@@ -104,12 +124,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.2iR5uP6vgPzgKKNO"
     },
     {
+        "slug": "effect-be-the-band-sustain",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.2nO2p8n3j5t6MINY"
+    },
+    {
         "slug": "effect-insight-coffee",
         "uuid": "Compendium.pf2e.equipment-effects.Item.2qHgwcYtCg4csC2w"
     },
     {
         "slug": "effect-static-snare",
         "uuid": "Compendium.pf2e.equipment-effects.Item.2ytxPqhGyLtEjYxW"
+    },
+    {
+        "slug": "effect-ride-them-down",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.2zc0u52oNcqziwnV"
     },
     {
         "slug": "effect-preserved-moonflower",
@@ -162,6 +190,14 @@
     {
         "slug": "effect-nosoi-charm-diplomacy",
         "uuid": "Compendium.pf2e.equipment-effects.Item.4uy4Ygf5KD2WrtGW"
+    },
+    {
+        "slug": "effect-defense-of-liberty",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.51PsXKJFe6XQ9WEX"
+    },
+    {
+        "slug": "effect-caltrops",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.5DaEI4I7cVdOD507"
     },
     {
         "slug": "effect-skeptics-elixir-lesser",
@@ -248,6 +284,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.7DJEJZP2ZfYGfuaO"
     },
     {
+        "slug": "effect-blazing-banner",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.7FPIQyPcq2R4L1ZQ"
+    },
+    {
         "slug": "effect-vaultbreakers-harness",
         "uuid": "Compendium.pf2e.equipment-effects.Item.7MgpgF8tOXOiDEwv"
     },
@@ -300,6 +340,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.8n0wqGpz28lfnLsQ"
     },
     {
+        "slug": "effect-valorous-coin",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.8wGzXqCOUvPw8oMy"
+    },
+    {
         "slug": "effect-quicksilver-mutagen-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.988f6NpOo4YzFzIr"
     },
@@ -322,6 +366,10 @@
     {
         "slug": "effect-vapor-sphere",
         "uuid": "Compendium.pf2e.equipment-effects.Item.9VBrrYXFR3EdGptG"
+    },
+    {
+        "slug": "effect-titans-standard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.9VD3ngP8HzbEqm20"
     },
     {
         "slug": "effect-brewers-regret",
@@ -384,12 +432,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.AYLthNtyUlWmKqhW"
     },
     {
+        "slug": "effect-bragging-rights-status-bonus",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.AnpRfQm6dFSa9e8t"
+    },
+    {
         "slug": "effect-codex-of-unimpeded-sight-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.ApGnHnZEK7nv3IqL"
     },
     {
         "slug": "effect-war-blood-mutagen-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.AvXNZ9I6s1H8C4wd"
+    },
+    {
+        "slug": "effect-do-no-harm",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.BEou3aEkDXsQaTp3"
     },
     {
         "slug": "effect-catch-pole",
@@ -436,6 +492,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.COVEnItnyRmx42EY"
     },
     {
+        "slug": "effect-timepiece-standard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.CV9YMSNtTV9gQJ3g"
+    },
+    {
         "slug": "effect-horned-lion-amulet-recovery",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Cg6UOjRe7epZHyqp"
     },
@@ -460,6 +520,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.DbUEGIKxH6d1GgVw"
     },
     {
+        "slug": "effect-sparking-pepper-string",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.DlG2V9RklmeukTvF"
+    },
+    {
         "slug": "effect-ablative-armor-plating-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.DlqcczhwjfaEf7G1"
     },
@@ -482,6 +546,14 @@
     {
         "slug": "effect-injigos-loving-embrace",
         "uuid": "Compendium.pf2e.equipment-effects.Item.EeU33F3eBq5OPYp0"
+    },
+    {
+        "slug": "effect-call-to-arms",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.EfjkHfrNUsmCoNl4"
+    },
+    {
+        "slug": "effect-swift-standard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.EgAmT4WENb6UNSdJ"
     },
     {
         "slug": "effect-grindlegrub-steak",
@@ -636,6 +708,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.Hx4MOTujp5z6SlQu"
     },
     {
+        "slug": "effect-overconfident-facade",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.I0dtunqG9psJpc64"
+    },
+    {
         "slug": "effect-bendy-arm-mutagen-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.IBu1RWKW5JX70nse"
     },
@@ -716,12 +792,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.K21XQMoDVSPqzRla"
     },
     {
+        "slug": "effect-dragon-eye",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.K3nzzDkz8dNwAd1a"
+    },
+    {
         "slug": "effect-impossible-cake-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.KAEWiyE8TQwofNj9"
     },
     {
         "slug": "effect-sharkskin-robe",
         "uuid": "Compendium.pf2e.equipment-effects.Item.KC8mrGFXs5hIhjXt"
+    },
+    {
+        "slug": "effect-ankhrav-carapace",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.KE4ahbTX3DufZKXP"
     },
     {
         "slug": "effect-feyfoul-greater",
@@ -792,6 +876,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.LqeLET7SuBja2ck9"
     },
     {
+        "slug": "effect-rally-the-troops",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.Lx5EEENaikPf2dBn"
+    },
+    {
         "slug": "effect-tteokguk-of-time-advancement",
         "uuid": "Compendium.pf2e.equipment-effects.Item.M0hhLRC86sASVOk7"
     },
@@ -832,12 +920,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.N54jx6GEz2NpGobK"
     },
     {
+        "slug": "effect-grasping-snare",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.N5L79du6FpRgc9Cd"
+    },
+    {
         "slug": "effect-covenant-tea",
         "uuid": "Compendium.pf2e.equipment-effects.Item.NAWKV7G4kBpPHWqL"
     },
     {
         "slug": "effect-whispering-staff-enemy",
         "uuid": "Compendium.pf2e.equipment-effects.Item.NBxTbdCCqmilAxqA"
+    },
+    {
+        "slug": "effect-phasing-trine-reduce-ac",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.NETXs01Vn0Q7ZRAs"
     },
     {
         "slug": "aura-shining-symbol",
@@ -880,6 +976,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.ORdhj3IAvYACNGkJ"
     },
     {
+        "slug": "effect-hexwise-banner",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.OokULq8Ubpw9PzKr"
+    },
+    {
         "slug": "effect-dragon-throat-scale",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Ou8TRYpigcZZEjC2"
     },
@@ -896,6 +996,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.P7Y7pO2ulZ5wBgxU"
     },
     {
+        "slug": "effect-mighty-counterweight",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.P7cVUjF59y0XHmLw"
+    },
+    {
         "slug": "effect-phantasmal-doorknob-armor",
         "uuid": "Compendium.pf2e.equipment-effects.Item.PBvLrztlLIfr2dlV"
     },
@@ -906,6 +1010,10 @@
     {
         "slug": "effect-blast-suit",
         "uuid": "Compendium.pf2e.equipment-effects.Item.PFtYVamw7de2cozU"
+    },
+    {
+        "slug": "effect-bragging-rights-failure-or-worse",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.PJUNqF2k9x8IiZhb"
     },
     {
         "slug": "effect-caydens-brew",
@@ -920,6 +1028,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.PT1g0Ar47FVo2O4D"
     },
     {
+        "slug": "effect-bedroll-of-deep-slumber",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.PUCeFY8Ps0CP3w2g"
+    },
+    {
         "slug": "effect-bracers-of-missile-deflection",
         "uuid": "Compendium.pf2e.equipment-effects.Item.PeiuJ951kkBPTCSM"
     },
@@ -930,6 +1042,10 @@
     {
         "slug": "effect-succubus-kiss-stage-1",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Pkk8m79MoT1RgtfW"
+    },
+    {
+        "slug": "effect-vanguards-shield",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.PkqVO9070jh8F6sq"
     },
     {
         "slug": "effect-resonating-fork-armor",
@@ -964,6 +1080,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.QrsPKOFuo3qzgxw5"
     },
     {
+        "slug": "effect-flutter-net",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.R1qtHjX6esNgNash"
+    },
+    {
         "slug": "effect-imp-shot",
         "uuid": "Compendium.pf2e.equipment-effects.Item.R5rsGfIIkpNxbU9z"
     },
@@ -974,6 +1094,10 @@
     {
         "slug": "effect-energizing-rune",
         "uuid": "Compendium.pf2e.equipment-effects.Item.R5ywXEYZFV1WBe8t"
+    },
+    {
+        "slug": "effect-phasing-trine",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.R5zy2SnV5GSgKeiL"
     },
     {
         "slug": "effect-energy-mutagen-major",
@@ -1052,6 +1176,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.T7C0HaGu1Cn6Pt5j"
     },
     {
+        "slug": "effect-command-cuirass",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.T9dTK6oNzA6utSLj"
+    },
+    {
         "slug": "effect-animal-blind",
         "uuid": "Compendium.pf2e.equipment-effects.Item.TJXXAp7MunXcZTCP"
     },
@@ -1092,6 +1220,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.UDfVCATxdLdSzJYJ"
     },
     {
+        "slug": "effect-lifting-leather",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.UQP2A7EMKIKPMQxK"
+    },
+    {
         "slug": "effect-shadowpiercer",
         "uuid": "Compendium.pf2e.equipment-effects.Item.UWm7dYJvAz9fCGXT"
     },
@@ -1108,6 +1240,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.UjXwDvLoSe9infGg"
     },
     {
+        "slug": "effect-hand-chords",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.UrNdfN1da9V3aFM4"
+    },
+    {
         "slug": "effect-cape-of-the-open-sky",
         "uuid": "Compendium.pf2e.equipment-effects.Item.UzSrsR9S2pgMDbbp"
     },
@@ -1122,6 +1258,10 @@
     {
         "slug": "effect-sense-dulling-hood-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.VDSJn9vhVRh5V4Kq"
+    },
+    {
+        "slug": "effect-transmuting-ingot",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.VECHAM3D71GWHw3A"
     },
     {
         "slug": "effect-embody-the-storm",
@@ -1162,6 +1302,10 @@
     {
         "slug": "effect-goz-mask-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Vd2wb7EO58q41HWm"
+    },
+    {
+        "slug": "effect-ethereal-crescent",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.Vk9Fwo0Xl1EF9fEF"
     },
     {
         "slug": "effect-blaze",
@@ -1228,6 +1372,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.WRvZ2Nq3wquisD4Y"
     },
     {
+        "slug": "effect-featherlight-fletching",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.WXVOuzbFCs7rGpF9"
+    },
+    {
         "slug": "effect-obsidian-goggles-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.WXrqEuLT4uP48Bvo"
     },
@@ -1238,6 +1386,10 @@
     {
         "slug": "effect-resurrection-tea",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Wa5s0Perw2DGHGCA"
+    },
+    {
+        "slug": "effect-bragging-rights-status-penalty-failure",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.WsFkAE6J704k4Tt3"
     },
     {
         "slug": "effect-fuming-cloak",
@@ -1268,6 +1420,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.XgIY3j2VFUSQ5Or9"
     },
     {
+        "slug": "effect-extra-warming",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.XlCcp2Jlwteqpm3z"
+    },
+    {
         "slug": "effect-demon-dust-stage-2",
         "uuid": "Compendium.pf2e.equipment-effects.Item.XlHbUOTbK6PfBfCv"
     },
@@ -1276,12 +1432,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.XrlChFETfe8avLsX"
     },
     {
+        "slug": "effect-swagger",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.Y1dCVl3Wh4pBetm6"
+    },
+    {
         "slug": "effect-spiderfoot-brew-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.YI7QQqXO6nosaAKr"
     },
     {
         "slug": "effect-chromatic-jellyfish-oil",
         "uuid": "Compendium.pf2e.equipment-effects.Item.YUj20zJ4bNAoc0nJ"
+    },
+    {
+        "slug": "effect-convert-arrows",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.YUj8kxyGTWRbbyBu"
     },
     {
         "slug": "effect-cloud-buns",
@@ -1318,6 +1482,10 @@
     {
         "slug": "effect-potion-of-flying-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Zdh2uO1vVYJmaqld"
+    },
+    {
+        "slug": "effect-bragging-rights-status-penalty-critical-failure",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.ZnJhU0SIlE3DCxZB"
     },
     {
         "slug": "effect-brass-dwarf-weakness",
@@ -1376,6 +1544,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.bP40jr6wE6MCsRvY"
     },
     {
+        "slug": "effect-arcane-standard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.bQZLdVsSrDhYkfrO"
+    },
+    {
         "slug": "effect-theatrical-mutagen-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.bZPjDwwyPT0iKBE9"
     },
@@ -1404,8 +1576,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.c0URo81HpSmCkuQc"
     },
     {
+        "slug": "effect-cornucopia-of-plenty",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.c7Bzxc5gxkRfXNme"
+    },
+    {
+        "slug": "effect-trudds-strength",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.cB5nrsadZxDaxFjz"
+    },
+    {
         "slug": "effect-hobbling-snare",
         "uuid": "Compendium.pf2e.equipment-effects.Item.cCyXnyhrW4pUQIz3"
+    },
+    {
+        "slug": "effect-triangular-teeth",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.cEGqwfN7EIpMCkNM"
     },
     {
         "slug": "effect-energizing-lattice",
@@ -1448,6 +1632,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.czysaN0cMLJSOH4t"
     },
     {
+        "slug": "effect-season-of-grit",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.d6VzjIU3ajRX0pyF"
+    },
+    {
         "slug": "effect-obsidian-goggles-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.d7BDxmsnM1BUoEeT"
     },
@@ -1478,6 +1666,18 @@
     {
         "slug": "effect-silvertongue-mutagen-lesser",
         "uuid": "Compendium.pf2e.equipment-effects.Item.dpIrjd1UPY7EnWUD"
+    },
+    {
+        "slug": "effect-commanding-draw",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.dpoQrtDsUeEILBJ3"
+    },
+    {
+        "slug": "effect-sooth-serpents-speed-penalty",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.dtgI6eol6GWNipmt"
+    },
+    {
+        "slug": "effect-the-hammer-of-hooves-mount-speed",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.dutfhbcXR6Vi8ddV"
     },
     {
         "slug": "effect-grit-stage-1",
@@ -1520,6 +1720,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.ehcAvmjZVzyFJclB"
     },
     {
+        "slug": "effect-commandants-scabbard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.elbRo41iHweUkXtJ"
+    },
+    {
         "slug": "effect-theatrical-mutagen-lesser",
         "uuid": "Compendium.pf2e.equipment-effects.Item.euBiKyqrcefeuv4H"
     },
@@ -1534,6 +1738,10 @@
     {
         "slug": "effect-azarim",
         "uuid": "Compendium.pf2e.equipment-effects.Item.f2U0pvTwqrLYyOlC"
+    },
+    {
+        "slug": "effect-stalwarts-banner",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.f2r7r0t8n7LKuj6C"
     },
     {
         "slug": "effect-lightning-rod",
@@ -1596,6 +1804,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.g1EdALRxZmmEkSd7"
     },
     {
+        "slug": "effect-deep-sea-plate",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.g3jJKZ36kF3YHFtU"
+    },
+    {
         "slug": "effect-stalk-goggles",
         "uuid": "Compendium.pf2e.equipment-effects.Item.g8JS6wsw5sRWOJLg"
     },
@@ -1606,6 +1818,10 @@
     {
         "slug": "effect-holy-chain",
         "uuid": "Compendium.pf2e.equipment-effects.Item.gDefAEEMXVVZgqXH"
+    },
+    {
+        "slug": "effect-it-cant-hurt-you",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.ghQ6Bmlycf9DVSll"
     },
     {
         "slug": "effect-shining-symbol",
@@ -1636,6 +1852,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.hPxrIpuL54XRlA2h"
     },
     {
+        "slug": "effect-timepiece-standard-major",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.hWA3l5Rix9irkqCu"
+    },
+    {
         "slug": "effect-sairazul-blue",
         "uuid": "Compendium.pf2e.equipment-effects.Item.hexHnjCuq6vaEZEx"
     },
@@ -1656,6 +1876,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.hy6LAC13QIJNDYXm"
     },
     {
+        "slug": "effect-hand-of-mercy",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.hyyVAOi1My9PKKqo"
+    },
+    {
         "slug": "effect-stole-of-civility",
         "uuid": "Compendium.pf2e.equipment-effects.Item.i0tm2ZHekp7rGGR3"
     },
@@ -1664,12 +1888,20 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.i5agc4lBE6GfeCXq"
     },
     {
+        "slug": "effect-chivalric-emblem",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.iIC9uGfg0rnYSRZ2"
+    },
+    {
         "slug": "effect-anklets-of-alacrity",
         "uuid": "Compendium.pf2e.equipment-effects.Item.iK6JeCsZwm5Vakks"
     },
     {
         "slug": "effect-call-upon-razmirs-benevolence",
         "uuid": "Compendium.pf2e.equipment-effects.Item.iOBkeWz0gTzplbXJ"
+    },
+    {
+        "slug": "effect-morph-jewel",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.ihZsJpB9v90EFQSG"
     },
     {
         "slug": "effect-diplomats-charcuterie",
@@ -1690,6 +1922,10 @@
     {
         "slug": "effect-cheetahs-elixir-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.j9zVZwRBVAcnpEkE"
+    },
+    {
+        "slug": "effect-inspirational-salute",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.jFCNPTgcIouJ6EsC"
     },
     {
         "slug": "effect-hydra-mutagen",
@@ -1738,6 +1974,10 @@
     {
         "slug": "effect-aeon-stone-resonance-amplifying",
         "uuid": "Compendium.pf2e.equipment-effects.Item.kdcVvwVVsttZgX1Y"
+    },
+    {
+        "slug": "effect-song-of-soothing",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.kjiNrDuqyTXDlH3m"
     },
     {
         "slug": "effect-bestial-mutagen-greater",
@@ -1822,6 +2062,10 @@
     {
         "slug": "effect-skeptics-elixir-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.mG6S6zm6hxaF7Tla"
+    },
+    {
+        "slug": "effect-knaves-standard",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.mGozE5ZdZlQiIr8y"
     },
     {
         "slug": "effect-jolt-coil-weapon",
@@ -1956,6 +2200,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.oqRIuChjaSRKKEes"
     },
     {
+        "slug": "effect-hexwise-banner-major",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.oqdxD6NhawryOAOr"
+    },
+    {
         "slug": "effect-trinity-geode-armor",
         "uuid": "Compendium.pf2e.equipment-effects.Item.oqwrw6XztVlS9tEG"
     },
@@ -1984,6 +2232,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.pDErD7SHcOxYAbqf"
     },
     {
+        "slug": "effect-fight-on",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.pXHLq8EZyxGBhHSL"
+    },
+    {
         "slug": "effect-bendy-arm-mutagen-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.pZjJv8r28uASg6zp"
     },
@@ -1994,6 +2246,10 @@
     {
         "slug": "effect-bottled-omen",
         "uuid": "Compendium.pf2e.equipment-effects.Item.pmWJxDjz3gqL29OM"
+    },
+    {
+        "slug": "effect-banner-of-the-restful",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.pqXu9dJaIMw3yOdc"
     },
     {
         "slug": "effect-bewitching-bloom-magnolia",
@@ -2032,6 +2288,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.rH6RHxy6sNTLusKX"
     },
     {
+        "slug": "effect-forward-march",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.rKDTseFqWUuMJX9p"
+    },
+    {
         "slug": "effect-delve-scale",
         "uuid": "Compendium.pf2e.equipment-effects.Item.rQV8Azb3FeUJJ3fG"
     },
@@ -2050,6 +2310,10 @@
     {
         "slug": "effect-bewitching-bloom-lotus",
         "uuid": "Compendium.pf2e.equipment-effects.Item.ri5qxyVViva60ilN"
+    },
+    {
+        "slug": "effect-gasp-for-air",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.rkirKFneWDdCjU7a"
     },
     {
         "slug": "effect-numbing-tonic",
@@ -2120,6 +2384,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.thOpQunbQr77XWdF"
     },
     {
+        "slug": "effect-bismuth-armor",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.tiJwcsZeWeS3FttZ"
+    },
+    {
         "slug": "effect-matsukis-medicinal-wine",
         "uuid": "Compendium.pf2e.equipment-effects.Item.tsxBwSRFqMoorMJ3"
     },
@@ -2178,6 +2446,10 @@
     {
         "slug": "effect-ascendant-dragon-spirit",
         "uuid": "Compendium.pf2e.equipment-effects.Item.vJfRASrNBBYW6MEC"
+    },
+    {
+        "slug": "effect-be-the-band",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.vO8lhZvkN8u5MCqg"
     },
     {
         "slug": "effect-ghost-scarf",
@@ -2248,6 +2520,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.weKnwX64fD5fuPjy"
     },
     {
+        "slug": "effect-bragging-rights-success-or-better",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.wlxxUXlTB8J8BCzF"
+    },
+    {
         "slug": "effect-erraticannon",
         "uuid": "Compendium.pf2e.equipment-effects.Item.wmrINlK6twqfbJjo"
     },
@@ -2258,6 +2534,10 @@
     {
         "slug": "effect-bestial-mutagen-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.xFQRiVU6h8EA6Lw9"
+    },
+    {
+        "slug": "effect-slayers-stone",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.xLKLKfm0p8ubp4Fe"
     },
     {
         "slug": "effect-juggernaut-mutagen-greater",
@@ -2280,8 +2560,16 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.xiG3kmPJBpX2KA7l"
     },
     {
+        "slug": "effect-the-hammer-of-hooves",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.y8YmJhZiycxiQfs2"
+    },
+    {
         "slug": "effect-fire-and-iceberg-major",
         "uuid": "Compendium.pf2e.equipment-effects.Item.yP45Rqu4jvCfXBkp"
+    },
+    {
+        "slug": "effect-heads-up",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.yPgxSoEilFI7tTPZ"
     },
     {
         "slug": "effect-sanguine-mutagen-major",
@@ -2298,6 +2586,10 @@
     {
         "slug": "effect-serene-mutagen-moderate",
         "uuid": "Compendium.pf2e.equipment-effects.Item.yrbz0rZzp8aZEqbv"
+    },
+    {
+        "slug": "effect-cloister-robe",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.yryez4kaltjOUm7C"
     },
     {
         "slug": "effect-ablative-armor-plating-true",

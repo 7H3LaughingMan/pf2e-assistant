@@ -2,36 +2,17 @@ import { Assistant } from "assistant.ts";
 import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
-const diceSoNiceMessageProcessed = Hooks.on(
-    "diceSoNiceMessageProcessed",
-    async function (messageId: string, { willTrigger3DRoll }: { willTrigger3DRoll: boolean }) {
-        let chatMessage = game.messages.get(messageId)!;
-        if (!chatMessage.isAuthor) return;
-        if (chatMessage.flags["pf2e-assistant"]?.process === false) return;
-
-        if (willTrigger3DRoll) {
-            await game.dice3d?.waitFor3DAnimationByMessageID(messageId);
-        }
-
-        processChatMessage(chatMessage)
-            .then((data) => game.assistant.storage.process(data))
-            .then(({ data, reroll }) => processReroll(data, reroll));
-    }
-);
-
 const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: ChatMessagePF2e) {
     if (!chatMessage.isAuthor) return;
     if (chatMessage.flags["pf2e-assistant"]?.process === false) return;
 
-    if (!game.modules.get("dice-so-nice")?.active) {
-        processChatMessage(chatMessage)
-            .then((data) => game.assistant.storage.process(data))
-            .then(({ data, reroll }) => processReroll(data, reroll));
-    }
+    processChatMessage(chatMessage)
+        .then((data) => game.assistant.storage.process(data))
+        .then(({ data, reroll }) => processReroll(data, reroll));
 });
 
 async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {
-    let data: Assistant.Data = {
+    const data: Assistant.Data = {
         trigger: chatMessage.flags.pf2e.context?.type ?? "",
         rollOptions: chatMessage.flags.pf2e.context?.options ?? [],
         chatMessage: chatMessage
@@ -82,11 +63,11 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
     }
 
     if (Utils.ChatMessage.isCheckContextFlag(chatMessage.flags.pf2e.context)) {
-        let checkContext = chatMessage.flags.pf2e.context;
+        const checkContext = chatMessage.flags.pf2e.context;
 
         if (checkContext.origin) {
-            let actor = fromUuidSync<ActorPF2e>(checkContext.origin.actor);
-            let token = fromUuidSync<TokenDocumentPF2e<ScenePF2e>>(checkContext.origin.token ?? "");
+            const actor = fromUuidSync<ActorPF2e>(checkContext.origin.actor);
+            const token = fromUuidSync<TokenDocumentPF2e<ScenePF2e>>(checkContext.origin.token ?? "");
 
             if (actor && token) {
                 data.origin = { actor, token };
@@ -94,9 +75,9 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
         }
     }
 
-    let strike = Utils.ChatMessage.getStrike(chatMessage.flags);
+    const strike = Utils.ChatMessage.getStrike(chatMessage.flags);
     if (strike) {
-        let actor = fromUuidSync<ActorPF2e>(strike.actor);
+        const actor = fromUuidSync<ActorPF2e>(strike.actor);
         if (actor) {
             data.item = actor.system.actions?.[strike.index].item;
         }
@@ -140,7 +121,6 @@ async function processReroll(data: Assistant.Data, reroll: Assistant.Reroll) {
 if (import.meta.hot) {
     import.meta.hot.accept();
     import.meta.hot.dispose(() => {
-        Hooks.off("diceSoNiceMessageProcessed", diceSoNiceMessageProcessed);
         Hooks.off("createChatMessage", createChatMessage);
     });
 }
