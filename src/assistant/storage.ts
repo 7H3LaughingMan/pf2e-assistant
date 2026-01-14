@@ -4,34 +4,33 @@ import { Utils } from "utils.ts";
 export class Storage {
     #actions: Assistant.Action[] = [];
     #rootFolder: Assistant.Folder = { label: "Root", children: [], entries: [] };
+    #disabledFiles = game.settings.get("pf2e-assistant", "disabledFiles");
 
     constructor() {
-        const disabledFiles = game.settings.get("pf2e-assistant", "disabledFiles");
         const modules = import.meta.glob<Assistant.Module>("../data/**/*.ts");
 
         for (const path in modules) {
             modules[path]().then((module) => {
-                Storage.addFile(this.#rootFolder, module.path, path, !disabledFiles.includes(path));
-                if (!disabledFiles.includes(path)) {
-                    this.#actions.push(...module.actions);
-                }
+                this.addModule(module, path);
             });
         }
 
-        Storage.sortFolder(this.#rootFolder);
+        this.sortFolder();
     }
 
     reset() {
         this.#actions = [];
         this.#rootFolder = { label: "Root", children: [], entries: [] };
+        this.#disabledFiles = game.settings.get("pf2e-assistant", "disabledFiles");
     }
 
-    addFile(path: string[], value: string, enabled: boolean) {
-        Storage.addFile(this.#rootFolder, path, value, enabled);
-    }
+    addModule(module: Assistant.Module, path: string) {
+        Storage.addFile(this.#rootFolder, module.path, path, !this.#disabledFiles.includes(path));
+        if (!this.#disabledFiles.includes(path)) {
+            this.#actions.push(...module.actions);
+        }
 
-    addActions(actions: Assistant.Action[]) {
-        this.#actions.push(...actions);
+        this.sortFolder();
     }
 
     sortFolder() {
@@ -53,17 +52,9 @@ export class Storage {
         }
     }
 
-    private static sortEntries(a: Assistant.File, b: Assistant.File) {
-        return a.label.localeCompare(b.label);
-    }
-
-    private static sortChildren(a: Assistant.Folder, b: Assistant.Folder) {
-        return a.label.localeCompare(b.label);
-    }
-
     private static sortFolder(folder: Assistant.Folder) {
-        folder.children.sort(Storage.sortChildren);
-        folder.entries.sort(Storage.sortEntries);
+        folder.children.sort((a, b) => a.label.localeCompare(b.label));
+        folder.entries.sort((a, b) => a.label.localeCompare(b.label));
 
         for (const child of folder.children) {
             Storage.sortFolder(child);
@@ -116,15 +107,11 @@ if (import.meta.hot) {
     // @ts-expect-error HMR
     Storage.prototype.hotReload = function (modules: Record<string, () => Promise<string>>) {
         this.reset();
-        const disabledFiles = game.settings.get("pf2e-assistant", "disabledFiles");
 
         for (const path in modules) {
-            modules[path]().then((moduleName) => {
-                import(/* @vite-ignore */ moduleName).then((module: Assistant.Module) => {
-                    this.addFile(module.path, path, !disabledFiles.includes(path));
-                    if (!disabledFiles.includes(path)) {
-                        this.addActions(module.actions);
-                    }
+            modules[path]().then((module) => {
+                import(/* @vite-ignore */ module).then((module: Assistant.Module) => {
+                    this.addModule(module, path);
                 });
             });
         }
@@ -140,6 +127,7 @@ if (import.meta.hot) {
             });
             // @ts-expect-error HMR
             game.assistant.storage.hotReload(modules);
+            game.assistant.storage.sortFolder();
         }
     });
 }
