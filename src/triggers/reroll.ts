@@ -1,7 +1,6 @@
 import { Assistant } from "assistant.ts";
 import { ChatMessagePF2e, Check } from "foundry-pf2e";
 import { Utils } from "utils.ts";
-import module from "../../module.json" with { type: "json" };
 
 interface RerollOptions {
     resource?: string;
@@ -10,7 +9,7 @@ interface RerollOptions {
 
 Hooks.once("ready", async () => {
     libWrapper.register<Check, typeof Check.rerollFromMessage>(
-        module.id,
+        "pf2e-assistant",
         "game.pf2e.Check.rerollFromMessage",
         async function (this: Check, message: ChatMessagePF2e, options: RerollOptions = {}) {
             if (!(message.isAuthor || game.user.isGM)) return;
@@ -30,7 +29,7 @@ Hooks.once("ready", async () => {
 
             if (!Utils.ChatMessage.isCheckContextFlag(message.flags.pf2e.context)) return;
 
-            const reroll = message.flags["pf2e-assistant"]?.reroll as Record<string, Assistant.Reroll>;
+            const reroll = message.flags["pf2e-assistant"]?.reroll;
             if (reroll !== undefined && message.token !== null) {
                 await Assistant.processReroll(reroll[message.token.id]);
             }

@@ -12,6 +12,10 @@
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.6pLuAI6XYfw3ROV6"
     },
     {
+        "slug": "effect-eldritch-debilitations-stupefied",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.82JWRv6HTF6fGnnh"
+    },
+    {
         "slug": "effect-scoundrel-feint-success",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.9YHTscLqlt0zlTIk"
     },
@@ -24,8 +28,20 @@
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.Cs5YffU6KGMK1Ikw"
     },
     {
+        "slug": "effect-debilitating-strike-enfeebled",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.FcoBeOl7fslIMf21"
+    },
+    {
+        "slug": "effect-critical-debilitations-success",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.HFimI4R62bvX0YCY"
+    },
+    {
         "slug": "spell-effect-painful-vibrations",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.MvOeY5eoQxVCbYwA"
+    },
+    {
+        "slug": "effect-critical-debilitations-failure",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.OzMGce1UBHBci9mR"
     },
     {
         "slug": "effect-mistform-elixir-lesser",
@@ -40,12 +56,20 @@
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.W2ebaKgpulsOWfNs"
     },
     {
+        "slug": "effect-tactical-debilitations-no-reactions",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.Yn5NknUr81PYMbeF"
+    },
+    {
         "slug": "effect-tumble-behind",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.aUzN2fOd33tZXa5s"
     },
     {
         "slug": "effect-feint-success",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.csAEJ72jCsHuHlLO"
+    },
+    {
+        "slug": "effect-vicious-debilitations-clumsy",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.d47UZ3d5WLcmvsHj"
     },
     {
         "slug": "effect-grapple-critical-success",
@@ -62,6 +86,14 @@
     {
         "slug": "effect-critical-specialization-brawling",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.iSaDovIXZCJNPOOj"
+    },
+    {
+        "slug": "effect-critical-debilitations-critical-failure",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.k8oqFhXUZvg0HYI4"
+    },
+    {
+        "slug": "effect-precise-debilitations-off-guard",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.mbWaHbCQeJdvV9UK"
     },
     {
         "slug": "effect-critical-specialization-sword",
@@ -82,5 +114,9 @@
     {
         "slug": "effect-critical-specialization-spear",
         "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.s8oIiJnrJuWvDIeM"
+    },
+    {
+        "slug": "effect-eldritch-debilitations-no-steps",
+        "uuid": "Compendium.pf2e-assistant.pf2e-effects.Item.xLVhqoYpPzExLKtg"
     }
 ]

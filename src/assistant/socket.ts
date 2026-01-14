@@ -1,3 +1,4 @@
+import { Assistant } from "assistant.ts";
 import {
     ActorPF2e,
     ChatMessageFlagsPF2e,
@@ -20,15 +21,13 @@ import {
     TokenDocumentUUID
 } from "foundry-pf2e/foundry/common/documents/_module.mjs";
 import { Utils } from "utils.ts";
-import module from "../../module.json" with { type: "json" };
 import { AddItem, RemoveItem, UpdateCondition } from "./reroll.ts";
 
 export class Socket {
-    #socket: SocketlibSocket;
+    #socket = socketlib.registerModule("pf2e-assistant")!;
+    #updateQueue = new foundry.utils.Semaphore(1);
 
     constructor() {
-        this.#socket = socketlib.registerModule(module.id)!;
-
         this.#socket.register("addEmbeddedItem", this.#addEmbeddedItem);
         this.#socket.register("createEmbeddedItem", this.#createEmbeddedItem);
         this.#socket.register("deleteEmbeddedItem", this.#deleteEmbeddedItem);
@@ -43,6 +42,7 @@ export class Socket {
         this.#socket.register("rollSave", this.#rollSave);
 
         this.#socket.register("deleteChatMessage", this.#deleteChatMessage);
+        this.#socket.register("updateChatMessage", this.#updateChatMessage);
 
         this.#socket.register("promptChoice", this.#promptChoice);
     }
@@ -117,7 +117,7 @@ export class Socket {
 
         if (data.tokenMark) {
             const tokenMark = effectSource.system.rules
-                .filter(Utils.Rules.isMarkToken)
+                .filter(Utils.Rules.isTokenMark)
                 .find((rule) => rule.slug === data.tokenMark?.slug);
 
             if (tokenMark) {
@@ -161,7 +161,7 @@ export class Socket {
         return await game.assistant.socket.addEmbeddedItem(actor, itemUuid, data);
     }
 
-    async createEmbeddedItem(actor: ActorPF2e, data: ItemSourcePF2e): Promise<RemoveItem[]> {
+    async createEmbeddedItem(actor: ActorPF2e, data: PreCreate<ItemSourcePF2e>): Promise<RemoveItem[]> {
         if (!actor.canUserModify(game.user, "update")) {
             return (await this.#executeAsActor(actor, "createEmbeddedItem", actor.uuid, data)) ?? [];
         }
@@ -170,7 +170,7 @@ export class Socket {
         return createdItem.map((i) => ({ actor: actor.uuid, item: i.uuid }));
     }
 
-    async #createEmbeddedItem(actorUuid: ActorUUID, data: ItemSourcePF2e): Promise<RemoveItem[]> {
+    async #createEmbeddedItem(actorUuid: ActorUUID, data: PreCreate<ItemSourcePF2e>): Promise<RemoveItem[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
@@ -423,7 +423,8 @@ export class Socket {
             await this.#executeAsActor(actor, "rollSave", actor.uuid, save, {
                 origin: args.origin?.uuid,
                 dc: args.dc,
-                extraRollOptions: args.extraRollOptions
+                extraRollOptions: args.extraRollOptions,
+                skipDialog: args.skipDialog
             });
             return;
         }
@@ -438,7 +439,8 @@ export class Socket {
         await game.assistant.socket.rollSave(actor, save, {
             origin: args.origin ? await fromUuid<ActorPF2e>(args.origin) : undefined,
             dc: args.dc,
-            extraRollOptions: args.extraRollOptions
+            extraRollOptions: args.extraRollOptions,
+            skipDialog: args.skipDialog
         });
     }
 
@@ -456,6 +458,23 @@ export class Socket {
         if (!chatMessage) return;
 
         await game.assistant.socket.deleteChatMessage(chatMessage);
+    }
+
+    async updateChatMessage(chatMessage: ChatMessagePF2e, tokenId: string, reroll: Assistant.Reroll) {
+        if (!chatMessage.canUserModify(game.user, "update")) {
+            await this.#socket.executeAsGM("updateChatMessage", chatMessage.uuid, tokenId, reroll);
+        }
+
+        this.#updateQueue.add(chatMessage.update, {
+            flags: { "pf2e-assistant": { process: false, reroll: { [tokenId]: reroll } } }
+        });
+    }
+
+    async #updateChatMessage(chatMessageUuid: ChatMessageUUID, tokenId: string, reroll: Assistant.Reroll) {
+        const chatMessage = await fromUuid<ChatMessagePF2e>(chatMessageUuid);
+        if (!chatMessage) return;
+
+        await game.assistant.socket.updateChatMessage(chatMessage, tokenId, reroll);
     }
 
     async promptChoice(actor: ActorPF2e, param: SocketTypes.Prompt.ChoiceParameters): Promise<ChatMessageUUID[]> {
@@ -610,12 +629,14 @@ namespace SocketTypes {
             origin?: Maybe<ActorPF2e>;
             dc?: CheckDC | CheckDCReference | number | null;
             extraRollOptions?: string[];
+            skipDialog?: boolean;
         }
 
         export interface SerializedRollParameters {
             origin?: ActorUUID;
             dc?: CheckDC | CheckDCReference | number | null;
             extraRollOptions?: string[];
+            skipDialog?: boolean;
         }
     }
 }

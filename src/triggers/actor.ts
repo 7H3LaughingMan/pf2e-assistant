@@ -52,7 +52,5 @@ function processExploration(
         data.rollOptions.push(...action.getRollOptions());
 
         game.assistant.storage.process(data);
-
-        console.log("Hello World!");
     }
 }

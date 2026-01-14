@@ -1,0 +1,61 @@
+{
+	"folder": "ospQ8uQmXb65Lhse",
+	"name": "Effect: Critical Debilitations (Critical Failure)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"description": {
+			"value": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.lPTcPIshChHWz4J6]{Critical Debilitation}</p><p>You become @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF"
+			}
+		],
+		"slug": "effect-critical-debilitations-critical-failure",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "rounds",
+			"expiry": "turn-end",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "k8oqFhXUZvg0HYI4",
+	"img": "icons/skills/melee/strike-dagger-blood-red.webp",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!items!k8oqFhXUZvg0HYI4"
+}
+

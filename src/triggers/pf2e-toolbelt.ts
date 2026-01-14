@@ -17,7 +17,7 @@ type SaveRollData = {
     modifiers: { label: string; modifier: number }[];
     notes: RollNoteSource[];
     private: boolean;
-    rerolled?: "hero" | "new" | "lower" | "higher";
+    rerolled?: "hero" | "mythic" | "new" | "lower" | "higher";
     roll: string;
     significantModifiers?: {
         appliedTo: "roll" | "dc";
@@ -116,14 +116,6 @@ async function processToolbelt(
 
 async function processReroll(data: Assistant.Data, reroll: Assistant.Reroll) {
     if (data.chatMessage && data.speaker && Object.values(reroll).some((value) => value.length !== 0)) {
-        await data.chatMessage.update({
-            flags: {
-                "pf2e-assistant": {
-                    reroll: {
-                        [data.speaker.token.id]: reroll
-                    }
-                }
-            }
-        });
+        await game.assistant.socket.updateChatMessage(data.chatMessage, data.speaker.token.id, reroll);
     }
 }

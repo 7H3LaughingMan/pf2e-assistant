@@ -91,7 +91,9 @@ export class Storage {
 
     async process(data: Assistant.Data): Promise<{ data: Assistant.Data; reroll: Assistant.Reroll }> {
         const reroll = Assistant.createReroll();
-        if (data.trigger == "") throw Error;
+        if (data.trigger == "") return { data, reroll };
+
+        console.log(data);
 
         const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 

@@ -1,0 +1,61 @@
+{
+	"folder": "ospQ8uQmXb65Lhse",
+	"name": "Effect: Precise Debilitations (Off-Guard)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"description": {
+			"value": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.wvJBIzgS298ZRp6w]{Precise Debilitations}</p><p>You become @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg"
+			}
+		],
+		"slug": "effect-precise-debilitations-off-guard",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "rounds",
+			"expiry": "turn-end",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "mbWaHbCQeJdvV9UK",
+	"img": "icons/skills/targeting/target-strike-triple-blue.webp",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!items!mbWaHbCQeJdvV9UK"
+}
+

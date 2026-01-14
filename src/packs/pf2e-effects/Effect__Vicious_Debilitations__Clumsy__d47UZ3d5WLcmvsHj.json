@@ -1,0 +1,61 @@
+{
+	"folder": "ospQ8uQmXb65Lhse",
+	"name": "Effect: Vicious Debilitations (Clumsy)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"description": {
+			"value": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.zt5CWn3UrPViwaB3]{Vicious Debilitations}</p><p>You become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm"
+			}
+		],
+		"slug": "effect-vicious-debilitations-clumsy",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "rounds",
+			"expiry": "turn-end",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "d47UZ3d5WLcmvsHj",
+	"img": "icons/skills/melee/strike-dagger-white-orange.webp",
+	"sort": 500000,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!items!d47UZ3d5WLcmvsHj"
+}
+

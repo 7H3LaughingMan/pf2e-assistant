@@ -39,10 +39,32 @@ const path = command({
     }
 });
 
+const test = command({
+    name: "test",
+    args: {},
+    handler: () => {
+        const installPath = Config.instance.get("installPath");
+        if (!installPath) {
+            console.error(
+                "The installation path is not set. Use `npm run configure set installPath <path>` to set it. Install paths look like `C:/Program Files/Foundry Virtual Tabletop`"
+            );
+        }
+
+        const dataPath = Config.instance.get("dataPath");
+        if (!dataPath) {
+            console.error(
+                "The data path is not set. Use `npm run configure set dataPath <path>` to set it. Data paths look like `C:/Users/Example/AppData/Local/FoundryVTT`"
+            );
+        }
+
+        if (installPath && dataPath) console.log("Configuration complete!");
+    }
+});
+
 const cli = binary(
     subcommands({
         name: "configure",
-        cmds: { get, set, view, path }
+        cmds: { get, set, view, path, test }
     })
 );
 

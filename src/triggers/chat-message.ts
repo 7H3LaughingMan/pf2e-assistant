@@ -112,9 +112,7 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
 
 async function processReroll(data: Assistant.Data, reroll: Assistant.Reroll) {
     if (data.chatMessage && data.speaker && Object.values(reroll).some((value) => value.length !== 0)) {
-        await data.chatMessage.update({
-            flags: { "pf2e-assistant": { process: false, reroll: { [data.speaker.token.id]: reroll } } }
-        });
+        await game.assistant.socket.updateChatMessage(data.chatMessage, data.speaker.token.id, reroll);
     }
 }
 

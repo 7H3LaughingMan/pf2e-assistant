@@ -72,6 +72,12 @@ export function hasEffects(
     return effects.length !== 0;
 }
 
+export function hasFeat(actor: ActorPF2e, slug: string): boolean {
+    const feats = actor.itemTypes.feat.filter((feat) => feat.slug === slug);
+
+    return feats.length !== 0;
+}
+
 export function getEffect(
     actor: ActorPF2e,
     slug: string,
