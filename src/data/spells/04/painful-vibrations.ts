@@ -1,5 +1,6 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_ASSISTANT_EFFECTS } from "effects.js";
+import { PF2E_CONDITIONS } from "compendium-packs.ts";
+import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Spells", "4th Rank", "Painful Vibrations"];
@@ -21,11 +22,68 @@ export const actions: Assistant.Action[] = [
             );
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.speaker.actor,
-                    PF2E_ASSISTANT_EFFECTS["spell-effect-painful-vibrations"],
-                    { origin: data.origin, item: data.item, target: data.speaker, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.speaker.actor, {
+                    name: "Spell Effect: Painful Vibrations",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>You are @UUID[${PF2E_CONDITIONS["deafened"]}]{Deafened}.</p>`
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["deafened"]
+                            } as GrantItemSource
+                        ],
+                        slug: "spell-effect-painful-vibrations",
+                        publication: {
+                            title: "Pathfinder Secrets of Magic",
+                            license: "OGL",
+                            remaster: false
+                        },
+                        level: {
+                            value: data.item.rank
+                        },
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-start",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.origin.actor.uuid,
+                                token: data.origin.token.uuid,
+                                item: data.item.uuid,
+                                spellcasting: {
+                                    attribute: {
+                                        type: data.item.attribute,
+                                        mod: data.item.spellcasting?.statistic?.attributeModifier?.value ?? 0
+                                    },
+                                    tradition: data.item.spellcasting?.tradition
+                                },
+                                rollOptions: [
+                                    data.origin.actor.getSelfRollOptions("origin"),
+                                    data.item.getRollOptions("origin:item")
+                                ]
+                                    .flat()
+                                    .filter(Utils.Remeda.isTruthy)
+                            },
+                            target: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.origin.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "systems/pf2e/icons/spells/painful-vibrations.webp"
+                }))
             );
 
             return reroll;
@@ -47,17 +105,68 @@ export const actions: Assistant.Action[] = [
             );
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.speaker.actor,
-                    PF2E_ASSISTANT_EFFECTS["spell-effect-painful-vibrations"],
-                    {
-                        origin: data.origin,
-                        item: data.item,
-                        target: data.speaker,
-                        roll: data.roll,
-                        duration: { expiry: "turn-start", sustained: false, unit: "minutes", value: 1 }
-                    }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.speaker.actor, {
+                    name: "Spell Effect: Painful Vibrations",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>You are @UUID[${PF2E_CONDITIONS["deafened"]}]{Deafened}.</p>`
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["deafened"]
+                            } as GrantItemSource
+                        ],
+                        slug: "spell-effect-painful-vibrations",
+                        publication: {
+                            title: "Pathfinder Secrets of Magic",
+                            license: "OGL",
+                            remaster: false
+                        },
+                        level: {
+                            value: data.item.rank
+                        },
+                        duration: {
+                            value: 1,
+                            unit: "minutes",
+                            expiry: "turn-start",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.origin.actor.uuid,
+                                token: data.origin.token.uuid,
+                                item: data.item.uuid,
+                                spellcasting: {
+                                    attribute: {
+                                        type: data.item.attribute,
+                                        mod: data.item.spellcasting?.statistic?.attributeModifier?.value ?? 0
+                                    },
+                                    tradition: data.item.spellcasting?.tradition
+                                },
+                                rollOptions: [
+                                    data.origin.actor.getSelfRollOptions("origin"),
+                                    data.item.getRollOptions("origin:item")
+                                ]
+                                    .flat()
+                                    .filter(Utils.Remeda.isTruthy)
+                            },
+                            target: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.origin.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "systems/pf2e/icons/spells/painful-vibrations.webp"
+                }))
             );
 
             return reroll;

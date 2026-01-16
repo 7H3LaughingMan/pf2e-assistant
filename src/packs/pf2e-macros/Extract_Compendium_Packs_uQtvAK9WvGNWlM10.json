@@ -1,0 +1,17 @@
+{
+	"folder": "lN0SevLUscJWPilk",
+	"name": "Extract Compendium Packs",
+	"type": "script",
+	"_id": "uQtvAK9WvGNWlM10",
+	"author": "whrqB15k99Kr3O6p",
+	"img": "icons/tools/scribal/magnifying-glass.webp",
+	"scope": "global",
+	"command": "async function getSlugs(collection) {\n  const pack = game.packs.get(collection);\n  const documents = await pack.getDocuments();\n  return documents.map((item) => ({ slug: item.slug, uuid: item.uuid }));\n}\n\nfunction downloadData(fileName, contents) {\n  let a = document.createElement(\"a\");\n  a.href = \"data:text/plain;charset=utf-8,\" + encodeURIComponent(contents);\n  a.download = fileName;\n  a.click();\n}\n\ndownloadData(\"pf2e-actions.json\", JSON.stringify(await getSlugs(\"pf2e.actionspf2e\"), null, 4));\ndownloadData(\"pf2e-ancestries.json\", JSON.stringify(await getSlugs(\"pf2e.ancestries\"), null, 4));\ndownloadData(\"pf2e-ancestry-features.json\", JSON.stringify(await getSlugs(\"pf2e.ancestryfeatures\"), null, 4));\ndownloadData(\"pf2e-backgrounds.json\", JSON.stringify(await getSlugs(\"pf2e.backgrounds\"), null, 4));\ndownloadData(\"pf2e-classes.json\", JSON.stringify(await getSlugs(\"pf2e.classes\"), null, 4));\ndownloadData(\"pf2e-class-features.json\", JSON.stringify(await getSlugs(\"pf2e.classfeatures\"), null, 4));\ndownloadData(\"pf2e-familiar-abilities.json\", JSON.stringify(await getSlugs(\"pf2e.familiar-abilities\"), null, 4));\ndownloadData(\"pf2e-feats.json\", JSON.stringify(await getSlugs(\"pf2e.feats-srd\"), null, 4));\ndownloadData(\"pf2e-heritages.json\", JSON.stringify(await getSlugs(\"pf2e.heritages\"), null, 4));\ndownloadData(\"pf2e-spells.json\", JSON.stringify(await getSlugs(\"pf2e.spells-srd\"), null, 4));\ndownloadData(\"pf2e-equipment.json\", JSON.stringify(await getSlugs(\"pf2e.equipment-srd\"), null, 4));\ndownloadData(\"pf2e-deities.json\", JSON.stringify(await getSlugs(\"pf2e.deities\"), null, 4));\n\ndownloadData(\"pf2e-bestiary-effects.json\", JSON.stringify(await getSlugs(\"pf2e.bestiary-effects\"), null, 4));\ndownloadData(\"pf2e-campaign-effects.json\", JSON.stringify(await getSlugs(\"pf2e.campaign-effects\"), null, 4));\ndownloadData(\"pf2e-conditions.json\", JSON.stringify(await getSlugs(\"pf2e.conditionitems\"), null, 4));\ndownloadData(\"pf2e-equipment-effects.json\", JSON.stringify(await getSlugs(\"pf2e.equipment-effects\"), null, 4));\ndownloadData(\"pf2e-feat-effects.json\", JSON.stringify(await getSlugs(\"pf2e.feat-effects\"), null, 4));\ndownloadData(\"pf2e-other-effects.json\", JSON.stringify(await getSlugs(\"pf2e.other-effects\"), null, 4));\ndownloadData(\"pf2e-spell-effects.json\", JSON.stringify(await getSlugs(\"pf2e.spell-effects\"), null, 4));",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!macros!uQtvAK9WvGNWlM10"
+}
+

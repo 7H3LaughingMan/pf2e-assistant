@@ -1,5 +1,6 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_ASSISTANT_EFFECTS, PF2E_FEAT_EFFECTS } from "effects.js";
+import { PF2E_ACTIONS, PF2E_CLASS_FEATURES, PF2E_CONDITIONS, PF2E_FEAT_EFFECTS, PF2E_FEATS } from "compendium-packs.ts";
+import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Class Features", "Rogue", "Debilitating Strike"];
@@ -31,14 +32,48 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-vicious-debilitations-clumsy"],
-                {
-                    origin: data.speaker,
-                    target: data.target
-                }
-            );
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Vicious Debilitations (Clumsy)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_FEATS["vicious-debilitations"]}]{Vicious Debilitations}</p><p>The target becomes @UUID[${PF2E_CONDITIONS["clumsy"]}]{Clumsy 1}.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Player Core",
+                        license: "ORC",
+                        remaster: true
+                    },
+                    rules: [
+                        {
+                            key: "GrantItem",
+                            onDeleteActions: {
+                                grantee: "restrict"
+                            },
+                            uuid: PF2E_CONDITIONS["clumsy"]
+                        } as GrantItemSource
+                    ],
+                    slug: "effect-vicious-debilitations-clumsy",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
+                    }
+                },
+                img: "icons/skills/melee/strike-dagger-white-orange.webp"
+            });
         }
     },
     {
@@ -63,17 +98,57 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
+            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.speaker.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-critical-debilitations-success"],
-                    {
-                        origin: data.origin,
-                        target: data.speaker
-                    }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.speaker.actor, {
+                    name: "Effect: Critical Debilitations (Success)",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted by @UUID[${PF2E_FEATS["critical-debilitation"]}]{Critical Debilitation}</p><p>The target is @UUID[${PF2E_CONDITIONS["slowed"]}]{Slowed 1} until the end of your next turn.</p>`
+                        },
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["slowed"]
+                            } as GrantItemSource
+                        ],
+                        slug: "effect-critical-debilitations-success",
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-end",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.origin.actor.uuid,
+                                token: data.origin.token.uuid,
+                                rollOptions: data.origin.actor.getSelfRollOptions("origin")
+                            },
+                            target: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/melee/strike-dagger-blood-red.webp"
+                }))
             );
 
             return reroll;
@@ -85,17 +160,64 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
+            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.speaker.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-critical-debilitations-failure"],
-                    {
-                        origin: data.origin,
-                        target: data.speaker
-                    }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.speaker.actor, {
+                    name: "Effect: Critical Debilitations (Failure)",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted by @UUID[${PF2E_FEATS["critical-debilitation"]}]{Critical Debilitation}</p><p>The target is @UUID[${PF2E_CONDITIONS["slowed"]}]{Slowed 2} until the end of your next turn.</p>`
+                        },
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        rules: [
+                            {
+                                alterations: [
+                                    {
+                                        mode: "override",
+                                        property: "badge-value",
+                                        value: 2
+                                    }
+                                ],
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["slowed"]
+                            } as GrantItemSource
+                        ],
+                        slug: "effect-critical-debilitations-failure",
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-end",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.origin.actor.uuid,
+                                token: data.origin.token.uuid,
+                                rollOptions: data.origin.actor.getSelfRollOptions("origin")
+                            },
+                            target: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/melee/strike-dagger-blood-red.webp"
+                }))
             );
 
             return reroll;
@@ -107,17 +229,57 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
+            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.speaker.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-critical-debilitations-critical-failure"],
-                    {
-                        origin: data.origin,
-                        target: data.speaker
-                    }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.speaker.actor, {
+                    name: "Effect: Critical Debilitations (Critical Failure)",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted by @UUID[${PF2E_FEATS["critical-debilitation"]}]{Critical Debilitation}</p><p>The target is @UUID[${PF2E_CONDITIONS["paralyzed"]}]{Paralyzed} until the end of your next turn.</p>`
+                        },
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["paralyzed"]
+                            } as GrantItemSource
+                        ],
+                        slug: "effect-critical-debilitations-critical-failure",
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-end",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.origin.actor.uuid,
+                                token: data.origin.token.uuid,
+                                rollOptions: data.origin.actor.getSelfRollOptions("origin")
+                            },
+                            target: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/melee/strike-dagger-blood-red.webp"
+                }))
             );
 
             return reroll;
@@ -131,14 +293,48 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-debilitating-strike-enfeebled"],
-                {
-                    origin: data.speaker,
-                    target: data.target
-                }
-            );
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Debilitating Strike (Enfeebled)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_CLASS_FEATURES["debilitating-strike"]}]{Debilitating Strike}</p><p>The target becomes @UUID[${PF2E_CONDITIONS["enfeebled"]}]{Enfeebled 1}.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Core Rulebook",
+                        license: "ORC",
+                        remaster: true
+                    },
+                    rules: [
+                        {
+                            key: "GrantItem",
+                            onDeleteActions: {
+                                grantee: "restrict"
+                            },
+                            uuid: PF2E_CONDITIONS["enfeebled"]
+                        } as GrantItemSource
+                    ],
+                    slug: "effect-debilitating-strike-enfeebled",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
+                    }
+                },
+                img: "icons/skills/melee/strike-sword-blood-red.webp"
+            });
         }
     },
     {
@@ -149,14 +345,47 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-precise-debilitations-off-guard"],
-                {
-                    origin: data.speaker,
-                    target: data.target
-                }
-            );
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Precise Debilitations (Off-Guard)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_FEATS["precise-debilitations"]}]{Precise Debilitations}</p><p>The target becomes @UUID[${PF2E_CONDITIONS["off-guard"]}]{Off-Guard}.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Player Core",
+                        license: "ORC",
+                        remaster: true
+                    },
+                    rules: [
+                        {
+                            key: "GrantItem",
+                            onDeleteActions: {
+                                grantee: "restrict"
+                            },
+                            uuid: PF2E_CONDITIONS["off-guard"]
+                        } as GrantItemSource
+                    ],
+                    slug: "effect-precise-debilitations-off-guard",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end"
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
+                    }
+                },
+                img: "icons/skills/targeting/target-strike-triple-blue.webp"
+            });
         }
     },
     {
@@ -201,11 +430,7 @@ export const actions: Assistant.Action[] = [
                     PF2E_FEAT_EFFECTS["effect-tactical-debilitations-no-flanking"],
                     {
                         origin: data.speaker,
-                        target: data.target,
-                        tokenMark: {
-                            slug: "precise-debilitations",
-                            token: data.target.token
-                        }
+                        target: data.target
                     }
                 );
             } else {
@@ -214,11 +439,7 @@ export const actions: Assistant.Action[] = [
                     PF2E_FEAT_EFFECTS["effect-methodical-debilitations-flanking"],
                     {
                         origin: data.speaker,
-                        target: data.target,
-                        tokenMark: {
-                            slug: "precise-debilitations",
-                            token: data.target.token
-                        }
+                        target: data.target
                     }
                 );
             }
@@ -235,18 +456,39 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-tactical-debilitations-no-reactions"],
-                {
-                    origin: data.speaker,
-                    target: data.target,
-                    tokenMark: {
-                        slug: "precise-debilitations",
-                        token: data.target.token
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Tactical Debilitations (No Reactions)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_FEATS["tactical-debilitations"]}]{Tactical Debilitations}</p><p>The target can't use reactions.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Player Core",
+                        license: "ORC",
+                        remaster: true
+                    },
+                    slug: "effect-tactical-debilitations-no-reactions",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
                     }
-                }
-            );
+                },
+                img: "systems/pf2e/icons/spells/clairvoyance.webp"
+            });
         }
     },
     {
@@ -260,18 +502,39 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-eldritch-debilitations-no-steps"],
-                {
-                    origin: data.speaker,
-                    target: data.target,
-                    tokenMark: {
-                        slug: "precise-debilitations",
-                        token: data.target.token
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Eldritch Debilitations (No Steps)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_FEATS["eldritch-debilitations"]}]{Eldritch Debilitations}</p><p>The target can't @UUID[${PF2E_ACTIONS["step"]}]{Step}.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Advanced Player's Guide",
+                        license: "OGL",
+                        remaster: false
+                    },
+                    slug: "effect-eldritch-debilitations-no-steps",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
                     }
-                }
-            );
+                },
+                img: "icons/sundries/gaming/rune-card.webp"
+            });
         }
     },
     {
@@ -290,11 +553,7 @@ export const actions: Assistant.Action[] = [
                 PF2E_FEAT_EFFECTS["effect-methodical-debilitations-cover"],
                 {
                     origin: data.speaker,
-                    target: data.target,
-                    tokenMark: {
-                        slug: "precise-debilitations",
-                        token: data.target.token
-                    }
+                    target: data.target
                 }
             );
         }
@@ -324,18 +583,48 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(
-                data.target.actor,
-                PF2E_ASSISTANT_EFFECTS["effect-eldritch-debilitations-stupefied"],
-                {
-                    origin: data.speaker,
-                    target: data.target,
-                    tokenMark: {
-                        slug: "precise-debilitations",
-                        token: data.target.token
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Eldritch Debilitations (Stupefied)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>Granted by @UUID[${PF2E_FEATS["eldritch-debilitations"]}]{Eldritch Debilitations}</p><p>The target is @UUID[${PF2E_CONDITIONS["stupefied"]}]{Stupefied 1}.</p>`
+                    },
+                    publication: {
+                        title: "Pathfinder Advanced Player's Guide",
+                        license: "OGL",
+                        remaster: false
+                    },
+                    rules: [
+                        {
+                            key: "GrantItem",
+                            onDeleteActions: {
+                                grantee: "restrict"
+                            },
+                            uuid: PF2E_CONDITIONS["stupefied"]
+                        } as GrantItemSource
+                    ],
+                    slug: "effect-eldritch-debilitations-stupefied",
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
                     }
-                }
-            );
+                },
+                img: "icons/sundries/gaming/rune-card.webp"
+            });
         }
     },
     {

@@ -1,5 +1,6 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_ASSISTANT_EFFECTS } from "effects.js";
+import { PF2E_ACTIONS, PF2E_CONDITIONS } from "compendium-packs.ts";
+import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Actions", "Grapple"];
@@ -12,14 +13,56 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-grapple-critical-success"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                    name: "Effect: Grapple (Critical Success)",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>You are @UUID[${PF2E_CONDITIONS["restrained"]}]{Restrained} until the end of your foe's next turn unless they move or you @UUID[${PF2E_ACTIONS["escape"]}]{Escape}.</p>`
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["restrained"]
+                            } as GrantItemSource
+                        ],
+                        slug: "effect-grapple-critical-success",
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-end",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid,
+                                rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                            },
+                            target: {
+                                actor: data.target.actor.uuid,
+                                token: data.target.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/melee/unarmed-punch-fist-white.webp"
+                }))
             );
 
             return reroll;
@@ -32,14 +75,56 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-grapple-success"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                    name: "Effect: Grapple (Success)",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>You are @UUID[${PF2E_CONDITIONS["grabbed"]}]{Grabbed} until the end of your foe's next turn unless they move or you @UUID[${PF2E_ACTIONS["escape"]}]{Escape}.</p>`
+                        },
+                        rules: [
+                            {
+                                key: "GrantItem",
+                                onDeleteActions: {
+                                    grantee: "restrict"
+                                },
+                                uuid: PF2E_CONDITIONS["grabbed"]
+                            } as GrantItemSource
+                        ],
+                        slug: "effect-grapple-success",
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        duration: {
+                            value: 1,
+                            unit: "rounds",
+                            expiry: "turn-end",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid,
+                                rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                            },
+                            target: {
+                                actor: data.target.actor.uuid,
+                                token: data.target.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/melee/unarmed-punch-fist-white.webp"
+                }))
             );
 
             return reroll;
@@ -52,6 +137,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.addItem.push(
@@ -74,6 +160,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!Utils.Roll.isCheckRoll(data.roll)) return;
+
             const reroll = Assistant.createReroll();
 
             reroll.addItem.push(
@@ -110,9 +197,47 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_ASSISTANT_EFFECTS["effect-grapple-success"], {
-                origin: data.speaker,
-                target: data.target
+            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                name: "Effect: Grapple (Success)",
+                type: "effect",
+                system: {
+                    description: {
+                        value: `<p>You are @UUID[${PF2E_CONDITIONS["grabbed"]}]{Grabbed} until the end of your foe's next turn unless they move or you @UUID[${PF2E_ACTIONS["escape"]}]{Escape}.</p>`
+                    },
+                    rules: [
+                        {
+                            key: "GrantItem",
+                            onDeleteActions: {
+                                grantee: "restrict"
+                            },
+                            uuid: PF2E_CONDITIONS["grabbed"]
+                        } as GrantItemSource
+                    ],
+                    slug: "effect-grapple-success",
+                    publication: {
+                        title: "Pathfinder Player Core",
+                        license: "ORC",
+                        remaster: true
+                    },
+                    duration: {
+                        value: 1,
+                        unit: "rounds",
+                        expiry: "turn-end",
+                        sustained: false
+                    },
+                    context: {
+                        origin: {
+                            actor: data.speaker.actor.uuid,
+                            token: data.speaker.token.uuid,
+                            rollOptions: data.speaker.actor.getSelfRollOptions("origin")
+                        },
+                        target: {
+                            actor: data.target.actor.uuid,
+                            token: data.target.token.uuid
+                        }
+                    }
+                },
+                img: "icons/skills/melee/unarmed-punch-fist-white.webp"
             });
         }
     },

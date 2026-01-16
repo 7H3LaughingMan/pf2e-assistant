@@ -1,0 +1,17 @@
+{
+	"folder": "lN0SevLUscJWPilk",
+	"name": "Generate Available Automations",
+	"type": "script",
+	"_id": "uBkeXW2Feqn33qs5",
+	"author": "LMc3zOuGRuyWnFEJ",
+	"img": "icons/tools/scribal/magnifying-glass.webp",
+	"scope": "global",
+	"command": "function outputFolder(folder, spaces) {\n  const data = [];\n\n  data.push(`${\" \".repeat(spaces)}- ${folder.label}`);\n  \n  for (const child of folder.children) {\n    data.push(...outputFolder(child, spaces + 2));\n  }\n\n  for (const entry of folder.entries) {\n    data.push(`${\" \".repeat(spaces + 2)}- ${entry.label}`);\n  }\n  \n  return data;\n}\n\nfunction outputRootFolder(rootFolder) {\n  const data = [];\n\n  data.push(`<details>`);\n  data.push(`  <summary>Available Automations</summary>`);\n  data.push(``);\n  \n  for (const child of rootFolder.children) {\n    data.push(...outputFolder(child, 2));\n  }\n\n  for (const entry of rootFolder.entries) {\n    data.push(`  - ${entry.label}`);\n  }\n\n  data.push(``);\n  data.push(`</details>`);\n  \n  return data;\n}\n\nawait navigator.clipboard.writeText(outputRootFolder(game.assistant.storage.getRootFolder()).join(\"\\n\"));",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!macros!uBkeXW2Feqn33qs5"
+}
+

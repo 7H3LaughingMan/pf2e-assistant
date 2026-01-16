@@ -46,18 +46,6 @@
     },
     "packs": [
         {
-            "name": "pf2e-effects",
-            "label": "PF2e Assistant Effects",
-            "path": "packs/pf2e-effects",
-            "type": "Item",
-            "banner": "systems/pf2e/assets/compendium-banner/blue.webp",
-            "system": "pf2e",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
-        {
             "name": "pf2e-macros",
             "label": "PF2e Assistant Macros",
             "path": "packs/pf2e-macros",
@@ -71,14 +59,6 @@
         }
     ],
     "packFolders": [
-        {
-            "name": "Effects",
-            "sorting": "m",
-            "color": "#2f3339",
-            "packs": [
-                "pf2e-effects"
-            ]
-        },
         {
             "name": "Macros",
             "sorting": "m",

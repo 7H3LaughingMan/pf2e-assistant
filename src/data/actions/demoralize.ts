@@ -1,5 +1,5 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_ASSISTANT_EFFECTS } from "effects.js";
+import { PF2E_ACTIONS } from "compendium-packs.ts";
 import { Utils } from "utils.ts";
 
 export const path = ["Actions", "Demoralize"];
@@ -34,11 +34,42 @@ export const actions: Assistant.Action[] = [
             }
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-demoralize-immunity"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                    name: "Effect: Demoralize Immunity",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted when someone uses @UUID[${PF2E_ACTIONS["demoralize"]}]{Demoralize} on you, rendering you temporarily immune to further attempts to Demoralize from them for the duration.</p>`
+                        },
+                        slug: "effect-demoralize-immunity",
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        duration: {
+                            value: 10,
+                            unit: "minutes",
+                            expiry: "turn-start",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            target: {
+                                actor: data.target.actor.uuid,
+                                token: data.target.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/social/intimidation-impressing.webp"
+                }))
             );
 
             return reroll;
@@ -73,11 +104,42 @@ export const actions: Assistant.Action[] = [
             }
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-demoralize-immunity"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                    name: "Effect: Demoralize Immunity",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted when someone uses @UUID[${PF2E_ACTIONS["demoralize"]}]{Demoralize} on you, rendering you temporarily immune to further attempts to Demoralize from them for the duration.</p>`
+                        },
+                        slug: "effect-demoralize-immunity",
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        duration: {
+                            value: 10,
+                            unit: "minutes",
+                            expiry: "turn-start",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            target: {
+                                actor: data.target.actor.uuid,
+                                token: data.target.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/social/intimidation-impressing.webp"
+                }))
             );
 
             return reroll;
@@ -93,11 +155,42 @@ export const actions: Assistant.Action[] = [
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
-                    PF2E_ASSISTANT_EFFECTS["effect-demoralize-immunity"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
-                ))
+                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                    name: "Effect: Demoralize Immunity",
+                    type: "effect",
+                    system: {
+                        description: {
+                            value: `<p>Granted when someone uses @UUID[${PF2E_ACTIONS["demoralize"]}]{Demoralize} on you, rendering you temporarily immune to further attempts to Demoralize from them for the duration.</p>`
+                        },
+                        slug: "effect-demoralize-immunity",
+                        publication: {
+                            title: "Pathfinder Player Core",
+                            license: "ORC",
+                            remaster: true
+                        },
+                        duration: {
+                            value: 10,
+                            unit: "minutes",
+                            expiry: "turn-start",
+                            sustained: false
+                        },
+                        context: {
+                            origin: {
+                                actor: data.speaker.actor.uuid,
+                                token: data.speaker.token.uuid
+                            },
+                            target: {
+                                actor: data.target.actor.uuid,
+                                token: data.target.token.uuid
+                            },
+                            roll: {
+                                total: data.roll.total,
+                                degreeOfSuccess: data.roll.degreeOfSuccess
+                            }
+                        }
+                    },
+                    img: "icons/skills/social/intimidation-impressing.webp"
+                }))
             );
 
             return reroll;

@@ -1,5 +1,5 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_FEAT_EFFECTS } from "effects.js";
+import { PF2E_FEAT_EFFECTS } from "compendium-packs.ts";
 
 export const path = ["Feats", "Accelerating Touch"];
 

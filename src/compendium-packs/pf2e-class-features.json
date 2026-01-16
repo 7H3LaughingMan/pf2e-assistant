@@ -1,0 +1,3358 @@
+[
+    {
+        "slug": "quick-tempered",
+        "uuid": "Compendium.pf2e.classfeatures.Item.04lXNnt73rF3RNc4"
+    },
+    {
+        "slug": "arcane-cascade",
+        "uuid": "Compendium.pf2e.classfeatures.Item.09iL38CZZEa0q0Mt"
+    },
+    {
+        "slug": "warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp"
+    },
+    {
+        "slug": "animal-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0FtzFbUrN56KA67z"
+    },
+    {
+        "slug": "versatile-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0H2LxtiZTJ275pSD"
+    },
+    {
+        "slug": "inventor-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0NyPgi6UACMTmAGE"
+    },
+    {
+        "slug": "resolute-faith",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0TjNGzs0FuD7JBf4"
+    },
+    {
+        "slug": "gathered-lore",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0UKDEtZ7ffTEsqCK"
+    },
+    {
+        "slug": "eidolon-defensive-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0WvI8KM5m0SaZ3MH"
+    },
+    {
+        "slug": "conscious-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0fv6NVMZZ0peGL9e"
+    },
+    {
+        "slug": "master-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0iidKkzC2yy13lIf"
+    },
+    {
+        "slug": "elemental-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0jSS6pgNXsC8k4o7"
+    },
+    {
+        "slug": "divine-defense",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe"
+    },
+    {
+        "slug": "hunt-prey",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0nIOGpHQNHsKSFKT"
+    },
+    {
+        "slug": "perception-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0npO4rPscGm0dX13"
+    },
+    {
+        "slug": "champions-aura",
+        "uuid": "Compendium.pf2e.classfeatures.Item.0x76o5OxgEmvqIDp"
+    },
+    {
+        "slug": "final-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.11Prk28b1Ux9eBLR"
+    },
+    {
+        "slug": "perpetual-perfection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.11nGqrSJOoGRlDjO"
+    },
+    {
+        "slug": "continuous-flair",
+        "uuid": "Compendium.pf2e.classfeatures.Item.13QpCrR8a8XULbJa"
+    },
+    {
+        "slug": "greater-field-discovery-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw"
+    },
+    {
+        "slug": "acrobats-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1FCu53hOTJrCF2iW"
+    },
+    {
+        "slug": "ki-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1FPVkksuE2ncw9rF"
+    },
+    {
+        "slug": "peerless-under-heaven",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1I85hvg8k1aVrj5c"
+    },
+    {
+        "slug": "path-to-perfection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1K6m6AVmn3r8XZ9d"
+    },
+    {
+        "slug": "supreme-incarnation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1MHXjNczVZfVvDP6"
+    },
+    {
+        "slug": "blight",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1PHDn7WJFtR3NgTr"
+    },
+    {
+        "slug": "spell-repertoire",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1RfnAiyQ5FR7vnuH"
+    },
+    {
+        "slug": "spell-repertoire-psychic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1mMdsSIVsyyqNr2t"
+    },
+    {
+        "slug": "the-distant-grasp",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1rlBo3LcwIuPDCvz"
+    },
+    {
+        "slug": "psi-cantrips-and-amps",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1tyNn9sduyexXLfL"
+    },
+    {
+        "slug": "chalice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.1vgFGSnn0DIBmK7j"
+    },
+    {
+        "slug": "metal-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.21JjdNW0RQ2LfaH3"
+    },
+    {
+        "slug": "lesson-of-the-frozen-queen",
+        "uuid": "Compendium.pf2e.classfeatures.Item.29ynmOCdtIFDzrWx"
+    },
+    {
+        "slug": "eidolon-defensive-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2CZPYoyWih6zYTcb"
+    },
+    {
+        "slug": "deific-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2CtYJJjesShbkyOv"
+    },
+    {
+        "slug": "strategic-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2Fe4YZCvAr9Yf6w7"
+    },
+    {
+        "slug": "lesson-of-favors",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2IhZbkx889pATIjq"
+    },
+    {
+        "slug": "tempered-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2ImD2TB0RVic1VUc"
+    },
+    {
+        "slug": "tactics",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2IysodKQuf62jmd7"
+    },
+    {
+        "slug": "curse-of-creeping-ashes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2VclK5CWR1Vz1vqL"
+    },
+    {
+        "slug": "speaker-in-sibilance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2XlUg9JXtwnSbWOY"
+    },
+    {
+        "slug": "bloodline",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1"
+    },
+    {
+        "slug": "unbreakable-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2mVEzA3OtfLMBNRm"
+    },
+    {
+        "slug": "burnished-armor-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2x6Nlt4vGhkNtwOj"
+    },
+    {
+        "slug": "impossible-alloy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.2xVLO3JDe4gYlqv4"
+    },
+    {
+        "slug": "advanced-deed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3JLW5vPshsJf3nCY"
+    },
+    {
+        "slug": "ruffian",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3KPZ7svIO6kmmEKH"
+    },
+    {
+        "slug": "perpetual-perfection-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3R19zS7gERhEX87F"
+    },
+    {
+        "slug": "relentless-reaction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3XK573A7GH1rrLgO"
+    },
+    {
+        "slug": "alchemical-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3e1PlMXmlSwKoc6d"
+    },
+    {
+        "slug": "initiate-benefit-regalia",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3eRkOQa7h1MWmzBh"
+    },
+    {
+        "slug": "laughing-shadow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3gVDqDPSz4fB5T9G"
+    },
+    {
+        "slug": "bloodline-aberrant",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3qqvnC2U8W26yae7"
+    },
+    {
+        "slug": "miraculous-spell",
+        "uuid": "Compendium.pf2e.classfeatures.Item.3uf31A91h3ywmlqm"
+    },
+    {
+        "slug": "battle-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.49CkgA3kj7Im6gZ5"
+    },
+    {
+        "slug": "cascade-bearers",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4fmks2barqWlLtik"
+    },
+    {
+        "slug": "wit",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4lGhbEjlEoGP4scl"
+    },
+    {
+        "slug": "bard-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4lp8oG9A3zuqhPBS"
+    },
+    {
+        "slug": "unyielding-resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4nFnYNPMXIaI7KiY"
+    },
+    {
+        "slug": "alchemical-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4ocPy4O0OCLY0XCM"
+    },
+    {
+        "slug": "enigma",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4ripp6EfdVpS0d60"
+    },
+    {
+        "slug": "adept-benefit-bell",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4xDghsFgGldaNj9Y"
+    },
+    {
+        "slug": "whisper-of-wings",
+        "uuid": "Compendium.pf2e.classfeatures.Item.4zE3seVFtLPNw9EQ"
+    },
+    {
+        "slug": "oracular-clarity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.571c1aGnvNVwfF6b"
+    },
+    {
+        "slug": "advanced-vials-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5FnyPYPaRbJthT3I"
+    },
+    {
+        "slug": "battledancer",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5HoEwzLDJGTCZtFa"
+    },
+    {
+        "slug": "greater-resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5LOARurr4qWkfS9K"
+    },
+    {
+        "slug": "runelords-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5M7ybjAyttZHAdtT"
+    },
+    {
+        "slug": "curse-of-inevitable-rot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5QVUaQGT1FSkFOYP"
+    },
+    {
+        "slug": "bloodline-nymph",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5Wxjghw7lHuCxjZz"
+    },
+    {
+        "slug": "phlogistonic-regulator",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5Xj38QeMKcFdrzqH"
+    },
+    {
+        "slug": "reinforced-ego",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5cjr4uwygBp6vihP"
+    },
+    {
+        "slug": "adamantine-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5cthRUkRqRtduVvN"
+    },
+    {
+        "slug": "ranger-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5likl5SAxQPrQ3KF"
+    },
+    {
+        "slug": "elemental-school",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5rFzX6JK6CXLFxUP"
+    },
+    {
+        "slug": "the-oscillating-wave",
+        "uuid": "Compendium.pf2e.classfeatures.Item.5tSR0WzMPFn5s3Xs"
+    },
+    {
+        "slug": "on-the-case",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6FasgIXUJ1X8ekRn"
+    },
+    {
+        "slug": "spell-repertoire-bard",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6FsusoMYxxjyIkVh"
+    },
+    {
+        "slug": "studious-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6HCI2iHyBZAr7a4P"
+    },
+    {
+        "slug": "initiate-benefit-shield",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6IrdIGinaAutACjn"
+    },
+    {
+        "slug": "encroaching-presence",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6RAHnACKReBW68Sa"
+    },
+    {
+        "slug": "twisting-tree",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6YJ8KFl7THkVy6Gm"
+    },
+    {
+        "slug": "advanced-vials-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6d8JFjFuvH27dpiw"
+    },
+    {
+        "slug": "thousand-league-sandals",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6dtTNqL4SdPFKOrh"
+    },
+    {
+        "slug": "flurry",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6v4Rj7wWfOH1882r"
+    },
+    {
+        "slug": "field-discovery-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.6zo2PJGYoig7nFpR"
+    },
+    {
+        "slug": "magical-fortitude",
+        "uuid": "Compendium.pf2e.classfeatures.Item.70jqXP2eS4tRZ0Ok"
+    },
+    {
+        "slug": "double-brew",
+        "uuid": "Compendium.pf2e.classfeatures.Item.76cwNLJEm4Yetnee"
+    },
+    {
+        "slug": "breakthrough-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.78HIjRbGoONMpF31"
+    },
+    {
+        "slug": "subconscious-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.79ZetrRF6S01P4Vf"
+    },
+    {
+        "slug": "oracle-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7AVspOB6ITNzGFZi"
+    },
+    {
+        "slug": "majestic-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7D8duG4ARFxLLm9F"
+    },
+    {
+        "slug": "powerful-alchemy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7JK2a1D3VeWDcObo"
+    },
+    {
+        "slug": "bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7JbiaZ8bxODM5mzS"
+    },
+    {
+        "slug": "greater-weapon-specialization-barbarian",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7JjhxMFo8DMwpGx0"
+    },
+    {
+        "slug": "heightened-senses",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7MhzrbOyue5GQsck"
+    },
+    {
+        "slug": "bloodline-undead",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7WBZ2kkhZ7JorWu2"
+    },
+    {
+        "slug": "lesson-of-renewal",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7Y2XDqr4gRisjiAG"
+    },
+    {
+        "slug": "aerodynamic-construction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7Zw83ysONrNhJMr8"
+    },
+    {
+        "slug": "natural-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7dMDxvzGKbqoEAdX"
+    },
+    {
+        "slug": "arcane-school",
+        "uuid": "Compendium.pf2e.classfeatures.Item.7nbKDBGvwSx9T27G"
+    },
+    {
+        "slug": "incredible-resistance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.82rxCGBb5qf9fwbp"
+    },
+    {
+        "slug": "shield",
+        "uuid": "Compendium.pf2e.classfeatures.Item.84GDSAXaMKMTg2IT"
+    },
+    {
+        "slug": "mighty-rage",
+        "uuid": "Compendium.pf2e.classfeatures.Item.88Q33X2a0iYPkbzd"
+    },
+    {
+        "slug": "experimental-spellshaping",
+        "uuid": "Compendium.pf2e.classfeatures.Item.89zWKD2CN7nRu2xp"
+    },
+    {
+        "slug": "sovereignty-epithet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8AdMvVrcx40iaMwT"
+    },
+    {
+        "slug": "vivacious-speed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8BOFeRE7ZfJ02N0O"
+    },
+    {
+        "slug": "wraith-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8Jjy7VsQAJJqCeyE"
+    },
+    {
+        "slug": "master-of-mind-and-spirit",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8LhwKWBxF2lgxEG5"
+    },
+    {
+        "slug": "commanders-banner",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8NtRuNYGiU2iTwgL"
+    },
+    {
+        "slug": "curse-of-the-living-death",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8ODGE24gqEdzWljj"
+    },
+    {
+        "slug": "energetic-meltdown",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8PjTI21Mif26XWY7"
+    },
+    {
+        "slug": "field-discovery-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw"
+    },
+    {
+        "slug": "druidic-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8STJEFVJISujgpMR"
+    },
+    {
+        "slug": "wood-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8X8db58vKx21L0Dr"
+    },
+    {
+        "slug": "desecration",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8YIA0jh64Ecz0TG6"
+    },
+    {
+        "slug": "kinetic-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8ZAc21SvRO2rfPez"
+    },
+    {
+        "slug": "the-tangible-dream",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8dAm3ULUqaK4N5a7"
+    },
+    {
+        "slug": "combat-flexibility",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8g6HzARbhfcgilP8"
+    },
+    {
+        "slug": "physical-protections",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8jELNQUBMAXUj3zR"
+    },
+    {
+        "slug": "perpetual-potency-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.8rEVg03QJ71ic3PP"
+    },
+    {
+        "slug": "graceful-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.95LI24ZSx0d4qfKX"
+    },
+    {
+        "slug": "monarch-of-the-fey-courts",
+        "uuid": "Compendium.pf2e.classfeatures.Item.95maDg6AsCTLPAmS"
+    },
+    {
+        "slug": "kinetic-quickness",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9BUk7zy1aE092XCS"
+    },
+    {
+        "slug": "aloof-firmament",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9CC5Ek0Mq768Lhgx"
+    },
+    {
+        "slug": "weapon-specialization",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9EqIasqfI8YIM3Pt"
+    },
+    {
+        "slug": "unlimited-esoterica",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9ItMYxEkvxqBHrV1"
+    },
+    {
+        "slug": "the-resentment",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9OwWgOP8ZWxTAqbg"
+    },
+    {
+        "slug": "reveler-in-lost-glee",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9PYHXFMmbHyp4aTL"
+    },
+    {
+        "slug": "debilitating-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9SruVg2lZpNaYLOB"
+    },
+    {
+        "slug": "weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9XLUh9iMepZesdmc"
+    },
+    {
+        "slug": "silence-in-snow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9c57R18pfgfqlBCD"
+    },
+    {
+        "slug": "scar-of-the-survivor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9mYcuun58wYNL1Ci"
+    },
+    {
+        "slug": "gunslinger-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9nRT8aq05Fy2D3i3"
+    },
+    {
+        "slug": "hex-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.9uLh5z2uPo6LDFRY"
+    },
+    {
+        "slug": "drilled-reactions",
+        "uuid": "Compendium.pf2e.classfeatures.Item.A5nOG2HuM8ZhMJ5p"
+    },
+    {
+        "slug": "mortality-reforged",
+        "uuid": "Compendium.pf2e.classfeatures.Item.A8rAsfXHpO8lWe2r"
+    },
+    {
+        "slug": "thaumaturge-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ABYmUcLdxDFXEtzu"
+    },
+    {
+        "slug": "artisans-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ADm8BpMlmoYUCyZy"
+    },
+    {
+        "slug": "adept-benefit-mirror",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AEibGHmDzLiqGR0F"
+    },
+    {
+        "slug": "apparition-attunement",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AHMjKkIx21AoMc9W"
+    },
+    {
+        "slug": "muses",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AIOBWGOS4nkfH3kW"
+    },
+    {
+        "slug": "initiate-benefit-amulet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ALcWRnRjvuPKu4nV"
+    },
+    {
+        "slug": "greater-spirit-striking",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AVI5SJET99zRqfpZ"
+    },
+    {
+        "slug": "initiate-benefit-mirror",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AehJwnLCUyASCQlu"
+    },
+    {
+        "slug": "guardian-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Ak646ZUtxhQdYEi9"
+    },
+    {
+        "slug": "sacred-body",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AkIJrmsX3kjHqQ0b"
+    },
+    {
+        "slug": "lantern",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AltwHU7hCqTwpn48"
+    },
+    {
+        "slug": "cleric-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.AvNbdGSOTWNRgcxs"
+    },
+    {
+        "slug": "greater-eidolon-specialization",
+        "uuid": "Compendium.pf2e.classfeatures.Item.B5SyM7qHrU0gTGR0"
+    },
+    {
+        "slug": "gymnast",
+        "uuid": "Compendium.pf2e.classfeatures.Item.B7RMnrHwQHlezlJT"
+    },
+    {
+        "slug": "sagas-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BJQt9j4HAwic5AST"
+    },
+    {
+        "slug": "masterful-hunter-precision",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BJYSUbFUGcTLaPDn"
+    },
+    {
+        "slug": "greater-rogue-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BTpL6XvMk4jvVYYJ"
+    },
+    {
+        "slug": "indomitable-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BZnqKnqKVImjSIFE"
+    },
+    {
+        "slug": "paragon-benefit-amulet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BdIlZ73jdXg7kQ5G"
+    },
+    {
+        "slug": "initial-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.BoZ3nSssFYcwuLIT"
+    },
+    {
+        "slug": "armor-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CGB1TczFhQhdQxml"
+    },
+    {
+        "slug": "perpetual-perfection-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CGetAmSbv06fW7GT"
+    },
+    {
+        "slug": "greed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.COMhWWNBJOdaJqp7"
+    },
+    {
+        "slug": "thespians-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CPUunLbsBjRgfS10"
+    },
+    {
+        "slug": "guardian-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CdDcUXv9J3aEo9HR"
+    },
+    {
+        "slug": "metal-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CoRfFkisEsHE1e43"
+    },
+    {
+        "slug": "incredible-movement",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Cq6NjvcKZOMySBVj"
+    },
+    {
+        "slug": "burnished-armor-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Csggpxb5Mp4lPUwh"
+    },
+    {
+        "slug": "cobyslarni",
+        "uuid": "Compendium.pf2e.classfeatures.Item.CxvLFkrV5LlADQkx"
+    },
+    {
+        "slug": "mystic-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.D2AE8RfMlZ3D1FuV"
+    },
+    {
+        "slug": "second-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.D34mPo29r1J3DPaX"
+    },
+    {
+        "slug": "cause",
+        "uuid": "Compendium.pf2e.classfeatures.Item.D4k8wuq1ncHFCBZz"
+    },
+    {
+        "slug": "alertness",
+        "uuid": "Compendium.pf2e.classfeatures.Item.D8CSi8c9XiRpVc5M"
+    },
+    {
+        "slug": "eldritch-trickster",
+        "uuid": "Compendium.pf2e.classfeatures.Item.D8qtAo2w4jsqjBrM"
+    },
+    {
+        "slug": "seneschal",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DFDonF73QRMkEPu7"
+    },
+    {
+        "slug": "perpetual-infusions-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DFQDtT1Van4fFEHi"
+    },
+    {
+        "slug": "bell",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DK1LCE5pd0YCY11c"
+    },
+    {
+        "slug": "final-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DPxpBIxPidJfn0Xv"
+    },
+    {
+        "slug": "keen-recollection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DZWQspPi4IkfXV2E"
+    },
+    {
+        "slug": "final-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DgGefatQ4v6xT6f9"
+    },
+    {
+        "slug": "regalia",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DhdLzrcMvB93Rjmt"
+    },
+    {
+        "slug": "lesson-of-vengeance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DtmKrCvsmutVLAhH"
+    },
+    {
+        "slug": "perpetual-infusions-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Dug1oaVYejLmYEFt"
+    },
+    {
+        "slug": "deity-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DutW12WMFPHBoLTH"
+    },
+    {
+        "slug": "double-reflow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.DvuPpIaM4BkHLX4y"
+    },
+    {
+        "slug": "school-of-battle-magic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.E4GZDMn4DYk6qSEV"
+    },
+    {
+        "slug": "brutality",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EEUTd0jAyfwTLzjk"
+    },
+    {
+        "slug": "wandering-reverie",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EMErBnhrgUHEKAsZ"
+    },
+    {
+        "slug": "iniquity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EQ6DVIQHAUXUhY6Y"
+    },
+    {
+        "slug": "blessing-of-the-devoted",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ERwuazupczhUSZ73"
+    },
+    {
+        "slug": "adept-benefit-regalia",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EkNT2EhbClDQJUAG"
+    },
+    {
+        "slug": "eye-catching-spot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Em5gwwyVHql9cSW2"
+    },
+    {
+        "slug": "alchemical-alacrity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Eood6pNPaJxuSgD1"
+    },
+    {
+        "slug": "time",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EslxR2sbDK9XJaAl"
+    },
+    {
+        "slug": "blessed-armament",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EtltLdiy9kNfHU0c"
+    },
+    {
+        "slug": "custodian-of-groves-and-gardens",
+        "uuid": "Compendium.pf2e.classfeatures.Item.EyRHVD4h2eZYIsk5"
+    },
+    {
+        "slug": "extreme-curse",
+        "uuid": "Compendium.pf2e.classfeatures.Item.F4brPlp1tHGUqyuI"
+    },
+    {
+        "slug": "fortitude-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.F57Na5VxfBp56kke"
+    },
+    {
+        "slug": "weapon-expertise-swashbuckler",
+        "uuid": "Compendium.pf2e.classfeatures.Item.F5BHEav90oOJ2LwN"
+    },
+    {
+        "slug": "weapon-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.F5VenhIQMDkeGvmV"
+    },
+    {
+        "slug": "offensive-boost",
+        "uuid": "Compendium.pf2e.classfeatures.Item.F8oXHnu9iNTcpXbJ"
+    },
+    {
+        "slug": "medium-armor-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FCEp9jjxxgRJDJV3"
+    },
+    {
+        "slug": "liberation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FCoMFUsth4xB4veC"
+    },
+    {
+        "slug": "hybrid-study",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FTeIs1Z1Qeli4BIF"
+    },
+    {
+        "slug": "the-unbound-step",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FaSY47siV1x6CAQp"
+    },
+    {
+        "slug": "the-inscribed-one",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FdLx4VODZEYLGOK9"
+    },
+    {
+        "slug": "deific-weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FeBsYn2mHfMVDZvw"
+    },
+    {
+        "slug": "envy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Fh5Khtx5bgGpBeOu"
+    },
+    {
+        "slug": "alchemist-armor-mastery-level-19",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FiVYuIPTBzPzNP4E"
+    },
+    {
+        "slug": "conflux-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FkbFgmoVz5lHhSMo"
+    },
+    {
+        "slug": "precognitive-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Ftz5jVa9X6aXybkC"
+    },
+    {
+        "slug": "lesson-of-elements",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FuOHRoEU8nHOXZnk"
+    },
+    {
+        "slug": "wave-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FuUXyv2yBs7zRgqT"
+    },
+    {
+        "slug": "will-of-the-pupil",
+        "uuid": "Compendium.pf2e.classfeatures.Item.FuVO8ksHI1B5ozVI"
+    },
+    {
+        "slug": "wizard-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GBsC2cARoFiqMi9V"
+    },
+    {
+        "slug": "the-proud",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GF9uIGA947DiC2dR"
+    },
+    {
+        "slug": "pride",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GI09dKNZVCPdSGZC"
+    },
+    {
+        "slug": "ability-boosts",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GI5IAl4dkly4At8e"
+    },
+    {
+        "slug": "bravery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GJKJafDGuX4BeAeN"
+    },
+    {
+        "slug": "flames",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GTSvbFb36InvuH0w"
+    },
+    {
+        "slug": "third-gates-threshold",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GfQ5MngIn74OYhQL"
+    },
+    {
+        "slug": "omnirange-stabilizers",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GoMoEtTu9uP7nxkg"
+    },
+    {
+        "slug": "doomsayers-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Gsltv71YQJc55XSS"
+    },
+    {
+        "slug": "impostor-in-hidden-places",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Gss5cYmRySgi1UxP"
+    },
+    {
+        "slug": "divine-spark-and-ikons",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GtxSH6TudkQoKToW"
+    },
+    {
+        "slug": "skin-hard-as-horn",
+        "uuid": "Compendium.pf2e.classfeatures.Item.GyvVXuL0fDaNsa93"
+    },
+    {
+        "slug": "instant-manifestation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.H0iWhiyP0QqgmAKs"
+    },
+    {
+        "slug": "bloodline-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.H6ziAPvCipTPG8SH"
+    },
+    {
+        "slug": "confident-evasion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HBTLwREPKK3H4xVD"
+    },
+    {
+        "slug": "automated-impediments",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HC99e4WoM36W3lrL"
+    },
+    {
+        "slug": "troll-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HPYo5j8GgQIVoOOr"
+    },
+    {
+        "slug": "the-last-ruler",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HRtspa4zHLD5cw8v"
+    },
+    {
+        "slug": "runelord",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HYTaibaCGE85rhbZ"
+    },
+    {
+        "slug": "lesson-of-life",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HbREpzudMXPscgCj"
+    },
+    {
+        "slug": "legendary-spellcaster",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Hfaa7TuLn3nE8lr3"
+    },
+    {
+        "slug": "mortal-harvest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HhDQOylStcEVZCNg"
+    },
+    {
+        "slug": "obedience",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HiIvez0TqESbleB5"
+    },
+    {
+        "slug": "the-cunning",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HkN5OePNW60bce77"
+    },
+    {
+        "slug": "dreamers-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HnUzQqmAphx9nXDt"
+    },
+    {
+        "slug": "warrior-of-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HssOCNIpcsmoeQ8T"
+    },
+    {
+        "slug": "fortress-of-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Hw6Ji7Fgx0XkVkac"
+    },
+    {
+        "slug": "unleash-psyche",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HwUps0waR29bwlTI"
+    },
+    {
+        "slug": "kinetic-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IDBB44egwiQ4qZNh"
+    },
+    {
+        "slug": "paragon-benefit-tome",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IGv5wS17AAi0U87W"
+    },
+    {
+        "slug": "steward-of-stone-and-fire",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ILGq8LQBnwsAz2jK"
+    },
+    {
+        "slug": "evolution-feat",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IPcdQAwJk0aZe5mg"
+    },
+    {
+        "slug": "bones",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IaxmCkdsPlA52spu"
+    },
+    {
+        "slug": "cultivation-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IiYUhFGqq2Nw0b5Y"
+    },
+    {
+        "slug": "stalker-in-darkened-boughs",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ImJ09rEZW5WtS26L"
+    },
+    {
+        "slug": "anger-phantom-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IwkAP2FBiU63aUgb"
+    },
+    {
+        "slug": "echoes-of-the-scrolls",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Ix1AfiscT2x8wGAT"
+    },
+    {
+        "slug": "field-discovery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.IxxPEahbqXwIXum7"
+    },
+    {
+        "slug": "fey-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.J2Oi9MxW2e2gjrKC"
+    },
+    {
+        "slug": "reconfigure",
+        "uuid": "Compendium.pf2e.classfeatures.Item.J46wcNqKXvtokBD1"
+    },
+    {
+        "slug": "perception-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JCqACxgrm5ixX0Jy"
+    },
+    {
+        "slug": "peerless-inventor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JH6um0St37UrjLNG"
+    },
+    {
+        "slug": "greater-field-discovery-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JJcaVijwRt9dsnac"
+    },
+    {
+        "slug": "perpetual-potency-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JOdbVu14phvdjhaY"
+    },
+    {
+        "slug": "resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JQAujUXjczVnYDEI"
+    },
+    {
+        "slug": "graceful-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JWDfzYub3JfuEtth"
+    },
+    {
+        "slug": "fencer",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Jgid6Ja6Y879COlN"
+    },
+    {
+        "slug": "masterful-hunter-flurry",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JhLncIB10GSQowWL"
+    },
+    {
+        "slug": "emerald-boughs",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JhczMKRuy53BxqBi"
+    },
+    {
+        "slug": "lesson-of-the-flock",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JjseD5wylg4Hg9O2"
+    },
+    {
+        "slug": "unfailing-bow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Jm8L7uSM01pJxSiW"
+    },
+    {
+        "slug": "opportune-riposte",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Jtn7IugykXDlIoZq"
+    },
+    {
+        "slug": "dragon-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JttI3raKFGG4C8up"
+    },
+    {
+        "slug": "spell-repertoire-summoner",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Ju2Tp5s5iBB76tQO"
+    },
+    {
+        "slug": "giant-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.JuKD6k7nDwfO0Ckv"
+    },
+    {
+        "slug": "braggart",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KBhwFjdptrKyN5EM"
+    },
+    {
+        "slug": "school-of-rooted-wisdom",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KGkWSv9rARpwWzXW"
+    },
+    {
+        "slug": "lesson-of-protection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KHKe3PmctOFUeh85"
+    },
+    {
+        "slug": "patron",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KPtF29AaeX2sJW0K"
+    },
+    {
+        "slug": "battlefield-intuition",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KQ87ZZVAT4q00Dyr"
+    },
+    {
+        "slug": "spellstrike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KVj5ofUwu3VJSrVw"
+    },
+    {
+        "slug": "deadly-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KcK3d8zw0bCEoaEG"
+    },
+    {
+        "slug": "walls-of-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Kf9lSN6pVS2Hy4KI"
+    },
+    {
+        "slug": "greater-mysterious-resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Kj59CmXnMJDKXKWx"
+    },
+    {
+        "slug": "staff-nexus",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Klb35AwlkNrq1gpB"
+    },
+    {
+        "slug": "enhanced-damage",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KmFz27FVNXYWwgIc"
+    },
+    {
+        "slug": "perfected-form",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KmTfg7Sg5va4yU00"
+    },
+    {
+        "slug": "exemplary-finisher",
+        "uuid": "Compendium.pf2e.classfeatures.Item.KxpaxUSuBC7hr4F7"
+    },
+    {
+        "slug": "improved-evasion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.L5D0NwFXdLiVSnk5"
+    },
+    {
+        "slug": "school-of-mentalism",
+        "uuid": "Compendium.pf2e.classfeatures.Item.L5FiuXsfW6Sa31gO"
+    },
+    {
+        "slug": "starshot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI"
+    },
+    {
+        "slug": "gunslingers-way",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LDqVxLKrwEqSegiu"
+    },
+    {
+        "slug": "curse-of-inclement-headwinds",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LIV2gH3ZUFlu0zu4"
+    },
+    {
+        "slug": "lesson-of-the-shark",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LP6PfKqwyRJmWqOJ"
+    },
+    {
+        "slug": "guardians-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Lc7PS4JDnO6SWmiS"
+    },
+    {
+        "slug": "barrows-edge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LfgeEJgJdA8WAKV8"
+    },
+    {
+        "slug": "sages-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LigU977wR6qt5Vx8"
+    },
+    {
+        "slug": "perpetual-infusions-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LlZ5R50z9j8jysZL"
+    },
+    {
+        "slug": "bookkeepers-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LoTFGTJCAGJFUFYs"
+    },
+    {
+        "slug": "heros-defiance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LzB6X9vOaq3wq1FZ"
+    },
+    {
+        "slug": "panache",
+        "uuid": "Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd"
+    },
+    {
+        "slug": "initiate-benefit-bell",
+        "uuid": "Compendium.pf2e.classfeatures.Item.M0UnQTqofeg1npcl"
+    },
+    {
+        "slug": "vanguard-of-roaring-waters",
+        "uuid": "Compendium.pf2e.classfeatures.Item.M3q0KIyuMvSgUZH7"
+    },
+    {
+        "slug": "arcane-thesis",
+        "uuid": "Compendium.pf2e.classfeatures.Item.M89l9FOnjHe63wD7"
+    },
+    {
+        "slug": "greater-field-discovery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MEwvBnT2VsO5lQ6I"
+    },
+    {
+        "slug": "perpetual-potency",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MGn2wezOr3VAdO3U"
+    },
+    {
+        "slug": "evasion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MV6XIuAgN9uSA0Da"
+    },
+    {
+        "slug": "initiate-benefit-weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MZajaYrn6c1A1XcO"
+    },
+    {
+        "slug": "hands-of-the-wildling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2"
+    },
+    {
+        "slug": "root-epithet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Mlane2mQ7gCFQrfw"
+    },
+    {
+        "slug": "lust",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MpZ0sdwMJ8fdZmtR"
+    },
+    {
+        "slug": "personal-barrier",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MtHLCQGD6OW98WC2"
+    },
+    {
+        "slug": "paragon-benefit-bell",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Mu6lZ0H7hmsgKDKH"
+    },
+    {
+        "slug": "the-deft",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Mu89z7bsdXfZTUwb"
+    },
+    {
+        "slug": "water-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MvunDFH8Karxee0t"
+    },
+    {
+        "slug": "tome",
+        "uuid": "Compendium.pf2e.classfeatures.Item.MyN1cQgE0HsLF20e"
+    },
+    {
+        "slug": "warrior",
+        "uuid": "Compendium.pf2e.classfeatures.Item.N03BtRvjX9TeHRa4"
+    },
+    {
+        "slug": "bands-of-imprisonment",
+        "uuid": "Compendium.pf2e.classfeatures.Item.N1hWQx0IuKWjZ2dn"
+    },
+    {
+        "slug": "final-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.N1ugDqZlslxbp3Uy"
+    },
+    {
+        "slug": "second-gates-threshold",
+        "uuid": "Compendium.pf2e.classfeatures.Item.N5Gnf73TvuO6Reoj"
+    },
+    {
+        "slug": "mirror",
+        "uuid": "Compendium.pf2e.classfeatures.Item.N6KvTbaRsphc0Ymb"
+    },
+    {
+        "slug": "outwit",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NBHyoTrI8q62uDsU"
+    },
+    {
+        "slug": "eidolon-unarmed-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NIzHfVcVMhDmvA49"
+    },
+    {
+        "slug": "flurry-of-blows",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2"
+    },
+    {
+        "slug": "lurker-in-devouring-dark",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NNVkvA9fmyFy68ag"
+    },
+    {
+        "slug": "seer",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NRQOorKeZ310FXuk"
+    },
+    {
+        "slug": "revelation-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NXUOtO9NytHQurlg"
+    },
+    {
+        "slug": "hefty-composition",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Nbg4ZllDI9uCowZL"
+    },
+    {
+        "slug": "flame-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NdeFvIXdHwKYLiUj"
+    },
+    {
+        "slug": "will-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NhcF2CbXA8R1UCg4"
+    },
+    {
+        "slug": "magnum-opus",
+        "uuid": "Compendium.pf2e.classfeatures.Item.NjsOpWbbzUY2Hpk3"
+    },
+    {
+        "slug": "anvils-hardness",
+        "uuid": "Compendium.pf2e.classfeatures.Item.O04RZa20X6fcbLAy"
+    },
+    {
+        "slug": "bloodline-hag",
+        "uuid": "Compendium.pf2e.classfeatures.Item.O0uXZRWMNliDbkxU"
+    },
+    {
+        "slug": "forensic-medicine-methodology",
+        "uuid": "Compendium.pf2e.classfeatures.Item.O3IX7rTxXWWvDVM3"
+    },
+    {
+        "slug": "blunt-shot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.O3r84Uv6HytaSIbX"
+    },
+    {
+        "slug": "dynamic-weighting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.O9wpXEKtKYJOMIlK"
+    },
+    {
+        "slug": "spell-blending",
+        "uuid": "Compendium.pf2e.classfeatures.Item.OAcxS625AXSGrQIC"
+    },
+    {
+        "slug": "juggernaut",
+        "uuid": "Compendium.pf2e.classfeatures.Item.OMZs5y16jZRW9KQK"
+    },
+    {
+        "slug": "avenger",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ONKUKCdsbGwhVoUb"
+    },
+    {
+        "slug": "rain-scribes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Oa0ENh8Zh7BftViG"
+    },
+    {
+        "slug": "implement-adept",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Obm4ItMIIr0whYeO"
+    },
+    {
+        "slug": "muscular-exoskeleton",
+        "uuid": "Compendium.pf2e.classfeatures.Item.OkxoJWrOXhM25mhi"
+    },
+    {
+        "slug": "way-of-the-spellshot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.OmgtSDV1FubDUqWR"
+    },
+    {
+        "slug": "second-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.OnfrrwCfDFCFw0tc"
+    },
+    {
+        "slug": "advanced-rangefinder",
+        "uuid": "Compendium.pf2e.classfeatures.Item.P1GbGEePC8zDi8K4"
+    },
+    {
+        "slug": "unlimited-signature-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.P34Jx6i4GJGoqTtG"
+    },
+    {
+        "slug": "animistic-practice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.P3rO6yeGY7YbccRG"
+    },
+    {
+        "slug": "toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.P9quO9XZi3OWFe1k"
+    },
+    {
+        "slug": "versatile-vials",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PBQh0amk1FlomV0r"
+    },
+    {
+        "slug": "investigator-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PFvB79O2VFdiAeSj"
+    },
+    {
+        "slug": "lesson-of-calamity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PLMmDXJCDdMS0V5C"
+    },
+    {
+        "slug": "emotional-acceptance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PNihL10QAB1sYSRn"
+    },
+    {
+        "slug": "deny-advantage",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PNpmVmD21zViDtGC"
+    },
+    {
+        "slug": "animal-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.POBvoXifa9HaejAg"
+    },
+    {
+        "slug": "mystery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PRJYLksQEwT39bTl"
+    },
+    {
+        "slug": "implements-empowerment",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PbNS8d3w3pYQYcVN"
+    },
+    {
+        "slug": "advanced-alchemy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I"
+    },
+    {
+        "slug": "trackless-journey",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PeZi7E9lI4vz8EGY"
+    },
+    {
+        "slug": "starlit-span",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Pew7duAozEeAemif"
+    },
+    {
+        "slug": "fire-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PfeDtJBJdUun0THS"
+    },
+    {
+        "slug": "chemical-hardiness",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PjuFdRe1moLd1VhP"
+    },
+    {
+        "slug": "keen-flair",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Pk3Ht0KZyFxSeL07"
+    },
+    {
+        "slug": "amulet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PoclGJ7BCEyIuqJe"
+    },
+    {
+        "slug": "bloodline-psychopomp",
+        "uuid": "Compendium.pf2e.classfeatures.Item.PpzH9tJULk5ksX9w"
+    },
+    {
+        "slug": "perfect-fortification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Q172fARBaNDR8Gqx"
+    },
+    {
+        "slug": "devotion-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Q1VfQZp49hkhY0HY"
+    },
+    {
+        "slug": "implement-paragon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QEtgbY8N2V4wTbsI"
+    },
+    {
+        "slug": "adept-benefit-lantern",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QK5ojonup9AQBg4O"
+    },
+    {
+        "slug": "vindicator",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QOOwC3S41CKGkxlN"
+    },
+    {
+        "slug": "blessed-shield",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QQP0mu0cyWIwNUh9"
+    },
+    {
+        "slug": "armor-of-fury",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QTCIahokREpnAYDi"
+    },
+    {
+        "slug": "way-of-the-sniper",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QWXvksGJhOjXbBqi"
+    },
+    {
+        "slug": "first-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Qejo7FUWQtPTpgWH"
+    },
+    {
+        "slug": "ranger-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QhoW8ivPvYmWzyEZ"
+    },
+    {
+        "slug": "shared-vigilance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QiMlJ33kNEoyh1M0"
+    },
+    {
+        "slug": "unbreakable-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QqgWFjBWbiK2fS1A"
+    },
+    {
+        "slug": "precise-discipline",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Qrhw4SILfT8YNQgB"
+    },
+    {
+        "slug": "true-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QsnIuPG2O8VzRW4d"
+    },
+    {
+        "slug": "spell-substitution",
+        "uuid": "Compendium.pf2e.classfeatures.Item.QzWXMCSGNfvvpYgF"
+    },
+    {
+        "slug": "thiefs-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.R1Ierj67voEOc6xu"
+    },
+    {
+        "slug": "dragon-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.R41sy7weOd0JhOiW"
+    },
+    {
+        "slug": "hampering-spikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.R8cfRNPdaCkd2bud"
+    },
+    {
+        "slug": "greater-field-discovery-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RGs4uR3CAvgbtBAA"
+    },
+    {
+        "slug": "cosmos",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RI2EMRBBPNSoTJXu"
+    },
+    {
+        "slug": "curse-of-engulfing-flames",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RI2UHuUZd3TC1OE8"
+    },
+    {
+        "slug": "verdant-core-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RI8NqxswR9Am2ZzX"
+    },
+    {
+        "slug": "precise-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RQH6vigvhmiYKKjg"
+    },
+    {
+        "slug": "masterful-hunter",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RVZC4wVy5B5W2OeS"
+    },
+    {
+        "slug": "bloodline-elemental",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RXRnJcG4XSabZ35a"
+    },
+    {
+        "slug": "druid-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Ra32tlqBxHzT6fzN"
+    },
+    {
+        "slug": "lesson-of-bargains",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RcmqV0cuOLcnKQr0"
+    },
+    {
+        "slug": "paradox-of-opposites",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RdOzBNPKLTMUWrJs"
+    },
+    {
+        "slug": "wildsong",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RiAGlnnp4S21BAG3"
+    },
+    {
+        "slug": "of-verse-unbroken",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RieSRew9aMGvaGhz"
+    },
+    {
+        "slug": "shootists-edge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RkofVX55ciXZyfAA"
+    },
+    {
+        "slug": "unimpeded-journey",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RlwE99yKnhq8FUuy"
+    },
+    {
+        "slug": "swarm-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RyHp6642poxvehjy"
+    },
+    {
+        "slug": "mastermind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.RyOkmu0W9svavuAB"
+    },
+    {
+        "slug": "wizard-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.S6WW4Yyg4XonXGHD"
+    },
+    {
+        "slug": "powerful-fist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SB8UJ8rZmvbcBweJ"
+    },
+    {
+        "slug": "superstition-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SCYSjUbMmw8JD9P9"
+    },
+    {
+        "slug": "light-armor-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SHpjmM4A3Sw4GgDz"
+    },
+    {
+        "slug": "reflow-elements",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SIkSIln5G1J73PrM"
+    },
+    {
+        "slug": "improved-familiar-attunement",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj"
+    },
+    {
+        "slug": "witch-lessons",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SOan0fqyFTrkqJLV"
+    },
+    {
+        "slug": "tensile-absorption",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SRS8102DGTzJ4NmC"
+    },
+    {
+        "slug": "master-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SUUdWG0t33VKa5q4"
+    },
+    {
+        "slug": "master-overdrive",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SXv9bJFbntDOMRIL"
+    },
+    {
+        "slug": "unassailable-soul",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ScUPQN2FDfr9shQj"
+    },
+    {
+        "slug": "expert-protections",
+        "uuid": "Compendium.pf2e.classfeatures.Item.SgY4tejqWzTpEjfi"
+    },
+    {
+        "slug": "paragon-benefit-shield",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Swy3rjQsdO0wu2kU"
+    },
+    {
+        "slug": "focus-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.T25ZLQWn6O4KchLo"
+    },
+    {
+        "slug": "enhanced-resistance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.T3742fu7oIM3W6Gz"
+    },
+    {
+        "slug": "adept-benefit-chalice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.T6p6lZnGupq3CX6A"
+    },
+    {
+        "slug": "devourer-of-decay",
+        "uuid": "Compendium.pf2e.classfeatures.Item.T9wA833bzZVlB3Lo"
+    },
+    {
+        "slug": "stylish-combatant",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key"
+    },
+    {
+        "slug": "bloodline-aesir",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TFihgf3jDhmKd0fa"
+    },
+    {
+        "slug": "battlefield-surveyor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TIvzBALymvb56L79"
+    },
+    {
+        "slug": "spirit-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TQqv9Q5mB4PW6LH9"
+    },
+    {
+        "slug": "reflex-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TUOeATt52P43r5W0"
+    },
+    {
+        "slug": "bloodline-phoenix",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TWR1wbPJuCLnGdFZ"
+    },
+    {
+        "slug": "greater-juggernaut",
+        "uuid": "Compendium.pf2e.classfeatures.Item.TuL0UfqH14MtqYVh"
+    },
+    {
+        "slug": "swashbuckler-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.U74JoAcLHTOsZG6q"
+    },
+    {
+        "slug": "tough-to-kill",
+        "uuid": "Compendium.pf2e.classfeatures.Item.U9t3cmF4eXFiF7oI"
+    },
+    {
+        "slug": "interrogation-methodology",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UIHUNNYZyQ3p4Vmo"
+    },
+    {
+        "slug": "gunslinging-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ULOAZWZEokbJC6Rq"
+    },
+    {
+        "slug": "order-of-the-godclaw",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UTRDN1TAieBMjwP1"
+    },
+    {
+        "slug": "anathema-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UV1HlClbWCNcaKBZ"
+    },
+    {
+        "slug": "echo-of-lost-moments",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UbOFa3BBHO8HwLJR"
+    },
+    {
+        "slug": "initiate-benefit-chalice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UfUqPcPcrGgRJCO3"
+    },
+    {
+        "slug": "flexible-spell-preparation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Upf1LXtWNJ6eB5sm"
+    },
+    {
+        "slug": "inventive-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Uu8VnpAo3XZZEKPd"
+    },
+    {
+        "slug": "redemption",
+        "uuid": "Compendium.pf2e.classfeatures.Item.UyuwFp0jQqYL2AdF"
+    },
+    {
+        "slug": "blast-dodger",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Uz2Izzi5A8N6Dxjn"
+    },
+    {
+        "slug": "field-discovery-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.V4Jt7eDnJBLv5bDj"
+    },
+    {
+        "slug": "hyper-boosters",
+        "uuid": "Compendium.pf2e.classfeatures.Item.V5qmKLmI3RL68RGb"
+    },
+    {
+        "slug": "military-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VCJVuqByBxnUxQoH"
+    },
+    {
+        "slug": "dragon-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VDot7CDcXElxmkkz"
+    },
+    {
+        "slug": "godly-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VDz0zSZOmdzRxy65"
+    },
+    {
+        "slug": "signature-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VKRjmXxBFLrJK01c"
+    },
+    {
+        "slug": "devastator",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VLiT503OLOM3vaDx"
+    },
+    {
+        "slug": "perpetual-potency-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VS5vkqUQu4n7E28Y"
+    },
+    {
+        "slug": "first-implement-and-esoterica",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VSQJtzQE6ikKdsnP"
+    },
+    {
+        "slug": "churning-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VSbNezLoWtWRDok7"
+    },
+    {
+        "slug": "baba-yaga",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VVMMJdIWL7fAsQf3"
+    },
+    {
+        "slug": "intensify-vulnerability",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VdwNvQwq9sHflEwe"
+    },
+    {
+        "slug": "expert-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VgZIutWjFl8oZQFi"
+    },
+    {
+        "slug": "champion-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VgmfNKtQLgBaNi5r"
+    },
+    {
+        "slug": "restless-as-the-tide",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ViXWZMvWWYkVj0cQ"
+    },
+    {
+        "slug": "double-spellstrike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VmPIJomEdmgGrCMS"
+    },
+    {
+        "slug": "thaumaturgic-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.VywXtJCa0Y9fdGVH"
+    },
+    {
+        "slug": "double-debilitation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.W1FkMHYVDg3yTU5r"
+    },
+    {
+        "slug": "improved-flexibility",
+        "uuid": "Compendium.pf2e.classfeatures.Item.W2rwudMNcAxs8VoX"
+    },
+    {
+        "slug": "tempest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.W9cF7wZztLDb1WGY"
+    },
+    {
+        "slug": "warfare-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.WXATTZWhe3QpyrYR"
+    },
+    {
+        "slug": "rage",
+        "uuid": "Compendium.pf2e.classfeatures.Item.WZUCvxqbigXos1L9"
+    },
+    {
+        "slug": "stubborn",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Wpdeh6EkcAKA60oH"
+    },
+    {
+        "slug": "leech-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.WuX4ZzsE0ezQfIVS"
+    },
+    {
+        "slug": "tangle-line",
+        "uuid": "Compendium.pf2e.classfeatures.Item.WxkZMlETXo165XnC"
+    },
+    {
+        "slug": "pelt-of-the-beast",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Wy6vSjm588txUFFv"
+    },
+    {
+        "slug": "spore-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X0k3njLOLX0322Po"
+    },
+    {
+        "slug": "air-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X11Y3T1IzmtNqGMV"
+    },
+    {
+        "slug": "subtle-dampeners",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X3TtVdNhrydeQ3SX"
+    },
+    {
+        "slug": "resurgent-maelstrom",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X3nPGnqh6rkRJ75i"
+    },
+    {
+        "slug": "curse-of-turbulent-moments",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X6GQ4ngqpjP8SpCq"
+    },
+    {
+        "slug": "advanced-vials",
+        "uuid": "Compendium.pf2e.classfeatures.Item.X9oHc6wtyJB7gFzK"
+    },
+    {
+        "slug": "lesson-of-mischief",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XBgBh3xZhgGQP7lF"
+    },
+    {
+        "slug": "devotion-phantom-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XEaO0VrYNaQepXow"
+    },
+    {
+        "slug": "greater-dogged-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XFcCeBYqeXgfiA84"
+    },
+    {
+        "slug": "life-draining",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XIk9Z4cLsoJRyV0T"
+    },
+    {
+        "slug": "rascal",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XKhg55V7WmpLrvqL"
+    },
+    {
+        "slug": "formula-book",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XPPG7nN9pxt0sjMg"
+    },
+    {
+        "slug": "curse-of-torrential-knowledge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XQjR07LkDedC7tkc"
+    },
+    {
+        "slug": "school-of-gates",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XXnGHBxNZvRsdkKM"
+    },
+    {
+        "slug": "adept-benefit-weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.XcuyDpn8L4HltRjW"
+    },
+    {
+        "slug": "perpetual-perfection-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YByJ9O7oe8wxfbqs"
+    },
+    {
+        "slug": "plunderer-of-the-hives-riches",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YL3yActlXBpXrSBl"
+    },
+    {
+        "slug": "maestro",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YMBsi4bndRAk5CX4"
+    },
+    {
+        "slug": "expert-overdrive",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YMKxN56w617BYwu4"
+    },
+    {
+        "slug": "extensible-weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YQs4G9YK3VskY2F6"
+    },
+    {
+        "slug": "lesson-of-shadow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YSxymsAe2Dvq47f2"
+    },
+    {
+        "slug": "school-of-civic-wizardry",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YZ2XPmx1WHyWtM0g"
+    },
+    {
+        "slug": "initiate-benefit-wand",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YbRVsHfmhPXLfCTB"
+    },
+    {
+        "slug": "light-mortar-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YbYrSnBL5VLGosxO"
+    },
+    {
+        "slug": "weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YiDkrwaxiF7Gao7y"
+    },
+    {
+        "slug": "order-of-the-chain",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YrJj8UI0XpkHv0Ho"
+    },
+    {
+        "slug": "way-of-the-triggerbrand",
+        "uuid": "Compendium.pf2e.classfeatures.Item.YryaWAGcHeaRnXzS"
+    },
+    {
+        "slug": "entangling-form",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Z1au5zxYcjZvdQpd"
+    },
+    {
+        "slug": "blessed-swiftness",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Z6E1O8X7CFcyczB1"
+    },
+    {
+        "slug": "greater-weapon-specialization",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Z7HX6TeFsaup7Dx9"
+    },
+    {
+        "slug": "second-implement",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Z8WpDAdAXyefLB7Q"
+    },
+    {
+        "slug": "school-of-protean-form",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZBFICTkzUjE4BDGJ"
+    },
+    {
+        "slug": "segmented-frame",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZCfPjOn6JJ8Zrgvg"
+    },
+    {
+        "slug": "second-adept",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZEUxZ4Ta1kDPHiq5"
+    },
+    {
+        "slug": "bloodline-imperial",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZEtJJ5UOlV5oTWWp"
+    },
+    {
+        "slug": "lesson-of-vows",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZFWmfZezeJDWSMFA"
+    },
+    {
+        "slug": "bloodline-draconic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZHabYxSgYK0XbjhM"
+    },
+    {
+        "slug": "fungal-rot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZYAn8X0IjA6i38qU"
+    },
+    {
+        "slug": "cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZZzLMOUAtBVgV1DF"
+    },
+    {
+        "slug": "fifth-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Zb7DuGbFoLEp0H1K"
+    },
+    {
+        "slug": "greater-unassailable-soul",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Zb8SS1tbpbtEwqNh"
+    },
+    {
+        "slug": "attack-refiner",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZcoOMwEY8FX7UzMo"
+    },
+    {
+        "slug": "desynchronized-motions",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZhYJhcOeZlh96wFh"
+    },
+    {
+        "slug": "archwizards-spellcraft",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZjwJHmjPrSs6VDez"
+    },
+    {
+        "slug": "third-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Zp81uTBItG1xlH4O"
+    },
+    {
+        "slug": "school-of-the-boundary",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZpFCZnVzIfZLfNii"
+    },
+    {
+        "slug": "explosion-dodger",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZqNKqBJWagU1fg4A"
+    },
+    {
+        "slug": "perpetual-infusions",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZqwHAoIZrI1dGoqK"
+    },
+    {
+        "slug": "multisensory-mask",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZrkyPG41iFicYsdX"
+    },
+    {
+        "slug": "inexorable-iron",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZslXrvYRxHBXc1Ds"
+    },
+    {
+        "slug": "scoundrel",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZvfxtUMtfIOLYHyg"
+    },
+    {
+        "slug": "expert-tactician",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ZvsiPWL9mVZk5Tz1"
+    },
+    {
+        "slug": "liturgist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.Zz7FPvmAaOpebHbu"
+    },
+    {
+        "slug": "way-of-the-drifter",
+        "uuid": "Compendium.pf2e.classfeatures.Item.a3pSIKkDVTvvNSRO"
+    },
+    {
+        "slug": "psychic-weapon-specialization",
+        "uuid": "Compendium.pf2e.classfeatures.Item.a58MGVX2L589sC9g"
+    },
+    {
+        "slug": "kinetic-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.a6fIKxCViZwwHZLJ"
+    },
+    {
+        "slug": "shepherd-of-errant-winds",
+        "uuid": "Compendium.pf2e.classfeatures.Item.aFVxfp7uQ0ac87GN"
+    },
+    {
+        "slug": "gunslinger-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.aKr6OE8vI2BsJzf1"
+    },
+    {
+        "slug": "catharsis-emotion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.aSOgbQWMwStTTmap"
+    },
+    {
+        "slug": "school-of-thassilonian-rune-magic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.aYWPtW5T4Lx07Occ"
+    },
+    {
+        "slug": "storm-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.acqqlYmti8D9QJi0"
+    },
+    {
+        "slug": "first-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.aiwxBj5MjnafCMyn"
+    },
+    {
+        "slug": "arcane-bond",
+        "uuid": "Compendium.pf2e.classfeatures.Item.au0lwQ1nAcNQwcGh"
+    },
+    {
+        "slug": "fourth-apparition",
+        "uuid": "Compendium.pf2e.classfeatures.Item.avLo2Jl3mNWssp0W"
+    },
+    {
+        "slug": "bloodline-harrow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.b6hyZTs1rVGHDexz"
+    },
+    {
+        "slug": "druid-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.b8pnRxGuNzG0buuh"
+    },
+    {
+        "slug": "fighter-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bAaI7h937Nr3g93U"
+    },
+    {
+        "slug": "swift-prey",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bBGb1LcffXEqar0p"
+    },
+    {
+        "slug": "third-apparition",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bRAjde9LlavcOUuM"
+    },
+    {
+        "slug": "tempest-sun-mages",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bYooavyooaCqdhYJ"
+    },
+    {
+        "slug": "alchemical-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.basYH3RUrT7omPQk"
+    },
+    {
+        "slug": "swashbucklers-style",
+        "uuid": "Compendium.pf2e.classfeatures.Item.beW1OqibVQ3fBvRw"
+    },
+    {
+        "slug": "weapon-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bok3P78CMchFibxC"
+    },
+    {
+        "slug": "alchemist-armor-expertise-level-13",
+        "uuid": "Compendium.pf2e.classfeatures.Item.bv3Qel8v9tpoFbw4"
+    },
+    {
+        "slug": "spirit-striking",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cAuV9xgPTwZ26Nj0"
+    },
+    {
+        "slug": "mysterious-resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cCTqkTHYnVCJKg4S"
+    },
+    {
+        "slug": "expert-spellcaster",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cD3nSupdCvONuHiE"
+    },
+    {
+        "slug": "patrons-gift",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cDnFXfl3i5Z2l7JP"
+    },
+    {
+        "slug": "spell-repertoire-oracle",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cFe6vFb3gSDyNeS9"
+    },
+    {
+        "slug": "medium-armor-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cGMSYAErbUG5E8X2"
+    },
+    {
+        "slug": "born-of-the-bones-of-the-earth",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cIj344sA3BlfqoJU"
+    },
+    {
+        "slug": "research-field",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cU2ofQLj7pg6wTSi"
+    },
+    {
+        "slug": "moderate-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cs9SDe93GHTHlzTz"
+    },
+    {
+        "slug": "crafter-in-the-vault",
+        "uuid": "Compendium.pf2e.classfeatures.Item.csrF8UOWPl1rr6st"
+    },
+    {
+        "slug": "esoteric-lore",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cvQmPkJtybMcHinK"
+    },
+    {
+        "slug": "sloth",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cz9fwc6KSkqxD3Nn"
+    },
+    {
+        "slug": "curse-of-the-skys-call",
+        "uuid": "Compendium.pf2e.classfeatures.Item.d03gBFLK4XJlDNNh"
+    },
+    {
+        "slug": "voice-of-nature",
+        "uuid": "Compendium.pf2e.classfeatures.Item.d5BFFHXFJYKs5LXr"
+    },
+    {
+        "slug": "earth-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dEm00L1XFXFCH2wS"
+    },
+    {
+        "slug": "kinetic-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dGiMAdZEQoXQWJbn"
+    },
+    {
+        "slug": "bloodline-wyrmblessed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dKTb959aCQIzSIXj"
+    },
+    {
+        "slug": "school-of-magical-technologies",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dPAwM9IdabdH68mW"
+    },
+    {
+        "slug": "instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dU7xRpg4kFd01hwZ"
+    },
+    {
+        "slug": "shared-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dZNAXTQovlWVvAyX"
+    },
+    {
+        "slug": "skillful-lessons",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dmK1wya8GBi9MmCB"
+    },
+    {
+        "slug": "harmonic-oscillator",
+        "uuid": "Compendium.pf2e.classfeatures.Item.dsy2w4LfjMIWgy5D"
+    },
+    {
+        "slug": "wilding-steward",
+        "uuid": "Compendium.pf2e.classfeatures.Item.e0VhUyjz1clW3sC4"
+    },
+    {
+        "slug": "divine-premonition",
+        "uuid": "Compendium.pf2e.classfeatures.Item.e2MJdkZQorNwhbGn"
+    },
+    {
+        "slug": "taunt",
+        "uuid": "Compendium.pf2e.classfeatures.Item.e6PhXRpuyZkVoCQb"
+    },
+    {
+        "slug": "lesson-of-memory",
+        "uuid": "Compendium.pf2e.classfeatures.Item.e6nZuYDbRffnJwHZ"
+    },
+    {
+        "slug": "greater-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eEh5QHawYBmbRjow"
+    },
+    {
+        "slug": "alchemical-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eG7FBDjCdEFzW9V9"
+    },
+    {
+        "slug": "chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eNZnx4LISDNftbx2"
+    },
+    {
+        "slug": "kinetic-durability",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eTHq1Cwf1pOvsx2R"
+    },
+    {
+        "slug": "oracular-senses",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eTQZQGPMIZJHIR6J"
+    },
+    {
+        "slug": "bloodline-fey",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eW3cfCH7Wpx2vik2"
+    },
+    {
+        "slug": "shield-block",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eZNCckLzbH3GyncH"
+    },
+    {
+        "slug": "shared-resolve",
+        "uuid": "Compendium.pf2e.classfeatures.Item.eZPfHVz14j42jCnS"
+    },
+    {
+        "slug": "deity-champion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ehL7mnkqxN5wIkgu"
+    },
+    {
+        "slug": "weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ejP4jVQkS48uKRFz"
+    },
+    {
+        "slug": "medium-armor-expertise-inventor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.esyKPSDbFQPB4lhq"
+    },
+    {
+        "slug": "lesson-of-dreams",
+        "uuid": "Compendium.pf2e.classfeatures.Item.evKUM58ymuuypRn9"
+    },
+    {
+        "slug": "kinetic-aura",
+        "uuid": "Compendium.pf2e.classfeatures.Item.f0BF2210l9k66cso"
+    },
+    {
+        "slug": "demon-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.f2JzGk76CPjA2mcV"
+    },
+    {
+        "slug": "rogue-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.f3Dh32EU4VsHu01b"
+    },
+    {
+        "slug": "occult-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fEOj0eOBe34qYdAa"
+    },
+    {
+        "slug": "stone-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fKTewWlYgFuhl4KA"
+    },
+    {
+        "slug": "rogue-resilience",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fMHYzXEUMoWskKMF"
+    },
+    {
+        "slug": "advanced-vials-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fOWKDtenCzLRWCgu"
+    },
+    {
+        "slug": "razor-prongs",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fOulT6iKVqIK4jJX"
+    },
+    {
+        "slug": "commanding-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fbMy0ltflHJjxFPD"
+    },
+    {
+        "slug": "furious-footfalls",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fctFBBqWwwwdbgdx"
+    },
+    {
+        "slug": "bloodline-paragon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.feCnVrPPlKhl701x"
+    },
+    {
+        "slug": "master-detective",
+        "uuid": "Compendium.pf2e.classfeatures.Item.flEx8eY0NinF9XZU"
+    },
+    {
+        "slug": "armor-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fpwtpm8pdwO1I6MO"
+    },
+    {
+        "slug": "perpetual-infusions-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.fzvIe6FwwCuIdnjX"
+    },
+    {
+        "slug": "ashes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.g3HTg0z3doXZZzAV"
+    },
+    {
+        "slug": "empiricism-methodology",
+        "uuid": "Compendium.pf2e.classfeatures.Item.g3mNzNphtVxyR9Xr"
+    },
+    {
+        "slug": "momentum-enhancer",
+        "uuid": "Compendium.pf2e.classfeatures.Item.g9UMdKV1TxNdhpDO"
+    },
+    {
+        "slug": "fighter-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gApJtAdNb9ST4Ms9"
+    },
+    {
+        "slug": "echoes-of-the-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gOdhbDkHgiRbR7DS"
+    },
+    {
+        "slug": "adept-benefit-tome",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gR8ODlO6au0laXo4"
+    },
+    {
+        "slug": "defensive-robes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gU7epgcPSm0TD1UK"
+    },
+    {
+        "slug": "summoner-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gWcN75VNpSZ4FqNb"
+    },
+    {
+        "slug": "divine-font",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gblTFUOgolqFS9v4"
+    },
+    {
+        "slug": "wardens-endurance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gc6OMDRxTpSfsVtk"
+    },
+    {
+        "slug": "battle-hardened",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gdSmSTaGDxf4g2d8"
+    },
+    {
+        "slug": "spinner-of-threads",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ghIsqhEsJTvjJiNl"
+    },
+    {
+        "slug": "battle",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gjOGOR30Czpnx3tM"
+    },
+    {
+        "slug": "horn-of-plenty",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gjZXHLjezR0mkMnc"
+    },
+    {
+        "slug": "sorcerer-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gmnx7e1g08bppbqt"
+    },
+    {
+        "slug": "echoes-of-the-swords",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gtLL1QoTepIo6qu4"
+    },
+    {
+        "slug": "third-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.gxNxfN9OBlQ1icus"
+    },
+    {
+        "slug": "grandeur",
+        "uuid": "Compendium.pf2e.classfeatures.Item.h1NGH4TVeBljftni"
+    },
+    {
+        "slug": "inconspicuous-appearance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.h1hNr4jABip2ERDd"
+    },
+    {
+        "slug": "animist-apparition-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.h825m7hd9qDO3369"
+    },
+    {
+        "slug": "lesson-of-decay",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hEsmQcEryweYweis"
+    },
+    {
+        "slug": "thief-of-moonlight",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hNBYP7FbvIBoS9CV"
+    },
+    {
+        "slug": "all-consuming-hunger",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hWzk8C4Kujel050h"
+    },
+    {
+        "slug": "shaman",
+        "uuid": "Compendium.pf2e.classfeatures.Item.haYJQRVJ8RaA74nt"
+    },
+    {
+        "slug": "third-path-to-perfection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.haoTkr2U5k7kaAKN"
+    },
+    {
+        "slug": "gaze-sharp-as-steel",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hfn5w8ZuI22vfimn"
+    },
+    {
+        "slug": "angel-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hippAZGFRtFd26dd"
+    },
+    {
+        "slug": "reactive-strike",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hmShTfPOcTaKgbf4"
+    },
+    {
+        "slug": "strained-metabolism",
+        "uuid": "Compendium.pf2e.classfeatures.Item.huDGjojm3hnuA1E8"
+    },
+    {
+        "slug": "layered-mesh",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hwqaS9m2RwGe0kJk"
+    },
+    {
+        "slug": "camouflage-pigmentation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hxjdHBJHaB47mBUT"
+    },
+    {
+        "slug": "gluttony",
+        "uuid": "Compendium.pf2e.classfeatures.Item.hzATJ1FV3lTPgeG9"
+    },
+    {
+        "slug": "greater-kinetic-durability",
+        "uuid": "Compendium.pf2e.classfeatures.Item.i3qjbhL7uukg9I80"
+    },
+    {
+        "slug": "martial-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.i6563IU7x4L9oRgC"
+    },
+    {
+        "slug": "lead-constitution",
+        "uuid": "Compendium.pf2e.classfeatures.Item.i7NKYQNGu5AaR1qb"
+    },
+    {
+        "slug": "psychic-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.iXwqJyBsjJNrKJae"
+    },
+    {
+        "slug": "oracular-curse",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ibX2EhKkyUtbOHLj"
+    },
+    {
+        "slug": "raging-resistance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ie6xDX9GMEcA2Iuq"
+    },
+    {
+        "slug": "skybearers-belt",
+        "uuid": "Compendium.pf2e.classfeatures.Item.iecFmUwSrytQNwoE"
+    },
+    {
+        "slug": "order-of-the-gate",
+        "uuid": "Compendium.pf2e.classfeatures.Item.igMHwREgpM9GsvLs"
+    },
+    {
+        "slug": "simple-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.itTk4dBouzz89vs9"
+    },
+    {
+        "slug": "uzunjati",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ivtpFSNKYZGvApBe"
+    },
+    {
+        "slug": "divine-access",
+        "uuid": "Compendium.pf2e.classfeatures.Item.iwAzV1IlQ2pMHQoB"
+    },
+    {
+        "slug": "complete-reconfiguration",
+        "uuid": "Compendium.pf2e.classfeatures.Item.j0klWHkH3AxUAgok"
+    },
+    {
+        "slug": "sneak-attack",
+        "uuid": "Compendium.pf2e.classfeatures.Item.j1JE61quDxdge4mg"
+    },
+    {
+        "slug": "natures-edge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.j2R64kwUgEJ1TudD"
+    },
+    {
+        "slug": "prodigious-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.j5TZw3xoIo6Lz0Re"
+    },
+    {
+        "slug": "otherworldly-protection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jHE4fPwU0sSIAjMo"
+    },
+    {
+        "slug": "zoophonia",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jHOlcSnGyjCnwoPP"
+    },
+    {
+        "slug": "innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jIAgXe2FetAKBwt7"
+    },
+    {
+        "slug": "legendary-tactician",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jMxFu2vsw9ZOw61O"
+    },
+    {
+        "slug": "paragon-benefit-wand",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jVW6185zu3VlWHot"
+    },
+    {
+        "slug": "titans-breaker",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jpS7wcMnBXK1rS4J"
+    },
+    {
+        "slug": "school-of-kalistrade",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jtAqb5rnhQblZuM8"
+    },
+    {
+        "slug": "gate-junction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jx70hPakuTgB3lM5"
+    },
+    {
+        "slug": "extract-element",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jyCEC3eC4B6YaGoy"
+    },
+    {
+        "slug": "paragon-benefit-mirror",
+        "uuid": "Compendium.pf2e.classfeatures.Item.jyfTDSYuzXaNuJ2r"
+    },
+    {
+        "slug": "medium",
+        "uuid": "Compendium.pf2e.classfeatures.Item.k6c2gesVQ8QuEWGm"
+    },
+    {
+        "slug": "fury-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.k7M9jedvt31AJ5ZR"
+    },
+    {
+        "slug": "clarity-of-focus",
+        "uuid": "Compendium.pf2e.classfeatures.Item.k9MeSdp2DbGd1hFz"
+    },
+    {
+        "slug": "witness-to-ancient-battles",
+        "uuid": "Compendium.pf2e.classfeatures.Item.k9P2mXRjyy5X24rH"
+    },
+    {
+        "slug": "paragon-benefit-lantern",
+        "uuid": "Compendium.pf2e.classfeatures.Item.k9d3rDhYnHwLI8XF"
+    },
+    {
+        "slug": "psychic-weapon-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.kLschzVZFoe3U63C"
+    },
+    {
+        "slug": "fifth-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.kmimy4VOaoEOgOiQ"
+    },
+    {
+        "slug": "major-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.kpdb5TJ0F5uCTX0F"
+    },
+    {
+        "slug": "shadow-sheath",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA"
+    },
+    {
+        "slug": "master-spellcaster",
+        "uuid": "Compendium.pf2e.classfeatures.Item.l1InYvhnQSz6Ucxc"
+    },
+    {
+        "slug": "adept-benefit-amulet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.l3X6D8uMlt2y6vGS"
+    },
+    {
+        "slug": "mirrored-aegis",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v"
+    },
+    {
+        "slug": "spell-repertoire-sorcerer",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lURKSJZAGKVD6cH9"
+    },
+    {
+        "slug": "order-of-the-rack",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lVdfcITy5bkywW5f"
+    },
+    {
+        "slug": "plant-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lfwdsx5uJTNw6rF3"
+    },
+    {
+        "slug": "devise-a-stratagem",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lgo65ldX7WkXC8Ir"
+    },
+    {
+        "slug": "ripple-in-the-deep",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lgv4VIoj5TLhm9u0"
+    },
+    {
+        "slug": "alchemical-sciences-methodology",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ln2Y1a4SxlU9sizX"
+    },
+    {
+        "slug": "monk-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.lxImO5D0qWp0gXFB"
+    },
+    {
+        "slug": "faiths-flamekeeper",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mFqMSQoNl0NMDklv"
+    },
+    {
+        "slug": "inventor-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mJpPaoVlNmTK47x1"
+    },
+    {
+        "slug": "inventive-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mQVC1iDyNi2tfsF8"
+    },
+    {
+        "slug": "greater-performers-heart",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mRobjNNsABQdUUZq"
+    },
+    {
+        "slug": "wellspring-magic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mRvyq7G0rqRP1EAr"
+    },
+    {
+        "slug": "perpetual-potency-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mZFqRLYOQEqKA8ri"
+    },
+    {
+        "slug": "infinite-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mZwD2brwXlyR9RAR"
+    },
+    {
+        "slug": "sparkling-targe",
+        "uuid": "Compendium.pf2e.classfeatures.Item.maGzhKLmgubAdUlN"
+    },
+    {
+        "slug": "deductive-improvisation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.malYpr0CYL4fDGhr"
+    },
+    {
+        "slug": "paragon-benefit-weapon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mrSBs3kfw6POoZtG"
+    },
+    {
+        "slug": "master-tricks",
+        "uuid": "Compendium.pf2e.classfeatures.Item.myvcir1LEkaVxOlE"
+    },
+    {
+        "slug": "adept-benefit-shield",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mzKV3lHPni85EMFM"
+    },
+    {
+        "slug": "hunters-edge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.mzkkj9LEWjJPBhaq"
+    },
+    {
+        "slug": "school-of-the-reclamation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.n2LRzksKVSzOuzqN"
+    },
+    {
+        "slug": "fifth-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.n9W8MjjRgPpUTvWf"
+    },
+    {
+        "slug": "eidolon-transcendence",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nCE9DzkugRefREqT"
+    },
+    {
+        "slug": "divine-weapon-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nFZW9LZ6lV39dhBf"
+    },
+    {
+        "slug": "perception-legend",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nLwPMPLRne1HnL00"
+    },
+    {
+        "slug": "performers-heart",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nPwYSuMLkJWMB4CH"
+    },
+    {
+        "slug": "noble-branch",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ndSCXO9Dg57fmZIY"
+    },
+    {
+        "slug": "anathema-druid",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nfBn8QB6HVdzpTFV"
+    },
+    {
+        "slug": "patron-theme",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nocYmxbi4rqCC2qS"
+    },
+    {
+        "slug": "primal-hierophant",
+        "uuid": "Compendium.pf2e.classfeatures.Item.nzgb43mQmLgaqDoQ"
+    },
+    {
+        "slug": "life",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o1gGG36wpn9mxeop"
+    },
+    {
+        "slug": "legendary-overdrive",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o1omL2LdHvjEwh3P"
+    },
+    {
+        "slug": "bloodline-diabolic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o39zQMIdERWtmBSB"
+    },
+    {
+        "slug": "construct-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o70O2FysDd7BS9e0"
+    },
+    {
+        "slug": "gleaming-blade",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o8Q7wWx2oKvKMi1s"
+    },
+    {
+        "slug": "fourth-gates-threshold",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o8QHrhc9MsWIoKUv"
+    },
+    {
+        "slug": "fourth-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.o8nHreMyiLi64rZz"
+    },
+    {
+        "slug": "initiate-benefit-tome",
+        "uuid": "Compendium.pf2e.classfeatures.Item.oADE2kM43wpF7MT5"
+    },
+    {
+        "slug": "eidolon-weapon-specialization",
+        "uuid": "Compendium.pf2e.classfeatures.Item.oCnyGRvkfjTsZXcX"
+    },
+    {
+        "slug": "overdrive",
+        "uuid": "Compendium.pf2e.classfeatures.Item.oP5zM5Yu41xcx3iu"
+    },
+    {
+        "slug": "evasive-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.oa3TJpPnvL98EUHh"
+    },
+    {
+        "slug": "the-radiant",
+        "uuid": "Compendium.pf2e.classfeatures.Item.orqLdCTvno0mx2j8"
+    },
+    {
+        "slug": "wand",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pDxdE8S8QJV2PGiB"
+    },
+    {
+        "slug": "explode",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pEm1RTNuzzQVKkR0"
+    },
+    {
+        "slug": "victors-wreath",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pHUi7KCh1DH5pxMe"
+    },
+    {
+        "slug": "blight-soul-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pLr6Kxa7XdkVMAub"
+    },
+    {
+        "slug": "pacification-tools",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pSXlZggdCCbkQqNr"
+    },
+    {
+        "slug": "elemental-magic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pUkUC8HHom2DmYzz"
+    },
+    {
+        "slug": "light-armor-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pZYkb12t5DSwtts7"
+    },
+    {
+        "slug": "the-brave",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pa3Q4L7YwYGksuQK"
+    },
+    {
+        "slug": "adept-benefit-wand",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pax1pnWW5XFYO0Eg"
+    },
+    {
+        "slug": "eidolon-unarmed-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pda6iUaU9waXId5Q"
+    },
+    {
+        "slug": "justice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.peEXunfbSD8WcMFk"
+    },
+    {
+        "slug": "whose-cry-is-thunder",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pgqhlWAJ18FXaHeO"
+    },
+    {
+        "slug": "second-skin",
+        "uuid": "Compendium.pf2e.classfeatures.Item.phwQ2MrDZ13D2HxC"
+    },
+    {
+        "slug": "palatine-detective",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ppGGpc3Iv2NpAhys"
+    },
+    {
+        "slug": "rope-shot",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ptBLVvRqn1fA3A4l"
+    },
+    {
+        "slug": "stylish-tricks",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pthjQIK9pDxnbER6"
+    },
+    {
+        "slug": "fourth-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.px3gVYp7zlEQIpcl"
+    },
+    {
+        "slug": "confident-finisher",
+        "uuid": "Compendium.pf2e.classfeatures.Item.pyo0vmxUFIFX2GNl"
+    },
+    {
+        "slug": "twin-juggernauts",
+        "uuid": "Compendium.pf2e.classfeatures.Item.q1Y12Pg2gQg2FJPR"
+    },
+    {
+        "slug": "field-discovery-chirurgeon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qC0Iz6SlG2i9gv6g"
+    },
+    {
+        "slug": "complex-simplicity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qIOKqT93h6CX6V4k"
+    },
+    {
+        "slug": "revitalizing-rage",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qMtyQGUllPdgpzUo"
+    },
+    {
+        "slug": "eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qOEpe596B0UjhcG0"
+    },
+    {
+        "slug": "way-of-the-pistolero",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qRLRrHf0kzaJ7xt0"
+    },
+    {
+        "slug": "handlers-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qRWnLtYNjz9z8Xe5"
+    },
+    {
+        "slug": "ligneous-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qVAeSFTI1dq64bB8"
+    },
+    {
+        "slug": "guardians-armor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qbTwR81TKsv4fOHk"
+    },
+    {
+        "slug": "reaction-time",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qgEIQPhtEV6d1zB2"
+    },
+    {
+        "slug": "ancestors",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qvRlih3u7vK3FYUR"
+    },
+    {
+        "slug": "modular-head",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qwhfPgE2tTW0hvPe"
+    },
+    {
+        "slug": "bloodrager",
+        "uuid": "Compendium.pf2e.classfeatures.Item.qwvO0B9t7LgQCVbV"
+    },
+    {
+        "slug": "starless-shadow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.r2ZPRAw9c3VGZi8A"
+    },
+    {
+        "slug": "lesson-of-snow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rECRfbkVwHuG06vO"
+    },
+    {
+        "slug": "flicker-deviant-classification",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rHfZWy3hzhV71F0Q"
+    },
+    {
+        "slug": "trespasser-in-deaths-realm",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rNsdp5wDGQT5SZgf"
+    },
+    {
+        "slug": "infinite-invention",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rOaLbipkComjc6qh"
+    },
+    {
+        "slug": "paragon-benefit-chalice",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rW3xdQPTNptQIcL5"
+    },
+    {
+        "slug": "rune-capacity",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rYfmpMBy7wd1VHeO"
+    },
+    {
+        "slug": "the-silent-whisper",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rdWWlqvxXgfWDaSO"
+    },
+    {
+        "slug": "greater-natural-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rpLPCkTXCZlQ51SR"
+    },
+    {
+        "slug": "major-curse",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rrzItB68Er0DzKx7"
+    },
+    {
+        "slug": "the-infinite-eye",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rvpTsj9epRuNH3uB"
+    },
+    {
+        "slug": "construct-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rwPx9D4PjZhinmmH"
+    },
+    {
+        "slug": "lesser-creed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.rzuZSgunJCQqdOxv"
+    },
+    {
+        "slug": "composition-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.s0VbbQJNlSgPocui"
+    },
+    {
+        "slug": "third-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.s8WEmc4GGZSHSC7q"
+    },
+    {
+        "slug": "demagogues-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sJzi16AkcZrfa7oo"
+    },
+    {
+        "slug": "quick-alchemy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL"
+    },
+    {
+        "slug": "speed-boosters",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sTWY6PLqr1X7icgZ"
+    },
+    {
+        "slug": "champions-reaction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sXVX4ARUuo8Egrz5"
+    },
+    {
+        "slug": "elemental-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sZEQCWsq8MxAmEHp"
+    },
+    {
+        "slug": "second-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.sa7BWfnyCswAvBVa"
+    },
+    {
+        "slug": "eidolon-symbiosis",
+        "uuid": "Compendium.pf2e.classfeatures.Item.skQBrwRwJW2K6ACj"
+    },
+    {
+        "slug": "red-mantis-magic-school",
+        "uuid": "Compendium.pf2e.classfeatures.Item.srcPBNjhq7FBSmi3"
+    },
+    {
+        "slug": "dense-plating",
+        "uuid": "Compendium.pf2e.classfeatures.Item.svGLZdD4PF7miAKA"
+    },
+    {
+        "slug": "assured-evasion",
+        "uuid": "Compendium.pf2e.classfeatures.Item.syEkISIi0F9946zo"
+    },
+    {
+        "slug": "order-of-the-scourge",
+        "uuid": "Compendium.pf2e.classfeatures.Item.t01K3DB2qHnbt1q3"
+    },
+    {
+        "slug": "the-mournful",
+        "uuid": "Compendium.pf2e.classfeatures.Item.t74H8o9zHFx43Bdg"
+    },
+    {
+        "slug": "initiate-benefit-lantern",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tBI15UqeQH7PLzAK"
+    },
+    {
+        "slug": "premonition-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tIpJHInpblTed5ZK"
+    },
+    {
+        "slug": "integrated-gauntlet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tPL4lrGLCB5XbgeV"
+    },
+    {
+        "slug": "abundant-vials",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tVxAFMBen8D516BQ"
+    },
+    {
+        "slug": "revolutionary-innovation",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tXbadIT3LzwuSR19"
+    },
+    {
+        "slug": "bloodline-genie",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tYOMBiH3HbViNWwn"
+    },
+    {
+        "slug": "lore",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tZBb3Kh4nJcNoUFI"
+    },
+    {
+        "slug": "unbreakable-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tgh1l7cWQtdpkJvC"
+    },
+    {
+        "slug": "humble-strikes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tmTlnyVxo6zPqJvh"
+    },
+    {
+        "slug": "greater-field-discovery-toxicologist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tnqyQrhrZeDtDvcO"
+    },
+    {
+        "slug": "mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tvdb1jkjl2bRZjSp"
+    },
+    {
+        "slug": "doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.tyrBwBTzo5t9Zho7"
+    },
+    {
+        "slug": "leaf-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.u4nlOzPj2WHkIj9l"
+    },
+    {
+        "slug": "precision",
+        "uuid": "Compendium.pf2e.classfeatures.Item.u6cBjqz2fiRBadBt"
+    },
+    {
+        "slug": "rogues-racket",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uGuCGQvUmioFV2Bd"
+    },
+    {
+        "slug": "guardians-techniques",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uSRq2tneVCknhI0P"
+    },
+    {
+        "slug": "savvy-reflexes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uTBiXs4zWkmRG7qF"
+    },
+    {
+        "slug": "order-of-the-nail",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ub9gwFXnMuKvhnPL"
+    },
+    {
+        "slug": "methodology",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uhHg9BXBiHpL5ndS"
+    },
+    {
+        "slug": "bloodline-shadow",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uoQOm41BVdSo6pAS"
+    },
+    {
+        "slug": "exalted-reaction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uptzvOLrZ3fctrl2"
+    },
+    {
+        "slug": "final-doctrine",
+        "uuid": "Compendium.pf2e.classfeatures.Item.urBGOPrUwBmkixAo"
+    },
+    {
+        "slug": "dogged-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uuHRYE8Oljk1ORxJ"
+    },
+    {
+        "slug": "exploit-vulnerability",
+        "uuid": "Compendium.pf2e.classfeatures.Item.uwLNfBprqZw2osTb"
+    },
+    {
+        "slug": "untamed-order",
+        "uuid": "Compendium.pf2e.classfeatures.Item.v0EjtiwdeMj8ykI0"
+    },
+    {
+        "slug": "choir-politic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.v2JQB6j3VIKWqPpQ"
+    },
+    {
+        "slug": "psychopomp-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.v7DxQ3QRa1WyTLTd"
+    },
+    {
+        "slug": "weapon-tricks",
+        "uuid": "Compendium.pf2e.classfeatures.Item.v8UNEJR5IDKi8yqa"
+    },
+    {
+        "slug": "way-of-the-vanguard",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vB0yVFxJVZwalt2g"
+    },
+    {
+        "slug": "gates-threshold",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vEiENk0IzuzRQesp"
+    },
+    {
+        "slug": "energy-barrier",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vUt71oX9QNLAUmZn"
+    },
+    {
+        "slug": "masterful-hunter-outwit",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vWZaLE2fEKMBw3D5"
+    },
+    {
+        "slug": "slingers-precision",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vXbk7Nm1TOTTUNvF"
+    },
+    {
+        "slug": "curse-of-ancestral-meddling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vXnMKFIxqLuCDW9q"
+    },
+    {
+        "slug": "bloodline-angelic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vhW3glAaEfq2DKrw"
+    },
+    {
+        "slug": "war-magic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vky5bQfK7SG3uOMA"
+    },
+    {
+        "slug": "legendary-armor",
+        "uuid": "Compendium.pf2e.classfeatures.Item.voiSCh7ZXA2ogwiC"
+    },
+    {
+        "slug": "dancer-in-the-seasons",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vrKfwncFKxapUYRp"
+    },
+    {
+        "slug": "fourth-doctrine-cloistered-cleric",
+        "uuid": "Compendium.pf2e.classfeatures.Item.vxOf4LXZcqUG3P7a"
+    },
+    {
+        "slug": "warden-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.w3HysrCgDs5uFXKX"
+    },
+    {
+        "slug": "alchemy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.w3aS3tsvH2Ub6XMn"
+    },
+    {
+        "slug": "bloodline-demonic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.w5koctOVrEcpxTIq"
+    },
+    {
+        "slug": "surprise-attack",
+        "uuid": "Compendium.pf2e.classfeatures.Item.w6rMqmGzhUahdnA7"
+    },
+    {
+        "slug": "thief",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wAh2riuFRzz0edPl"
+    },
+    {
+        "slug": "undead-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wDSb9LGZhTa0FZB5"
+    },
+    {
+        "slug": "master-tactician",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wHVfwjs6LJOgDERO"
+    },
+    {
+        "slug": "iron-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wMyDcVNmA7xGK83S"
+    },
+    {
+        "slug": "school-of-ars-grammatica",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wObrT6PytPdS5aUi"
+    },
+    {
+        "slug": "extrasensory-perception",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wOl7EeF7S6i753Ef"
+    },
+    {
+        "slug": "caretakers-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wQ4VqAhhCbT5OC9k"
+    },
+    {
+        "slug": "lesson-of-death",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wRHeY7tCN6HFFF3a"
+    },
+    {
+        "slug": "arcane-spellcasting-magus",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wXaz41gwqNtTn6tf"
+    },
+    {
+        "slug": "advanced-vials-mutagenist",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wYOdTCWQQ6ec8I6b"
+    },
+    {
+        "slug": "link-spells",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wguqw300DB5XdD8W"
+    },
+    {
+        "slug": "wrath",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wtPywk3wqEg3iYOP"
+    },
+    {
+        "slug": "infused-reagents",
+        "uuid": "Compendium.pf2e.classfeatures.Item.wySB9VHOW1v3TX1L"
+    },
+    {
+        "slug": "armor-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.x5jaCJxsmD5sx3KB"
+    },
+    {
+        "slug": "perpetual-perfection-bomber",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xO90iBD8XNGyaCkz"
+    },
+    {
+        "slug": "healer-of-the-world",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xSgUH97WkWadielz"
+    },
+    {
+        "slug": "school-of-unified-magical-theory",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xYYhJtGhFSWNifcO"
+    },
+    {
+        "slug": "beast-eidolon",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xeD5nNnQAlaowGwR"
+    },
+    {
+        "slug": "impulses",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xhCYkt3acfFd0hr2"
+    },
+    {
+        "slug": "agile-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xmZ7oeTDcQVXegUP"
+    },
+    {
+        "slug": "metallic-reactance",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xndlv9T3JgYYUtf8"
+    },
+    {
+        "slug": "fetching-bangles",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xrJ4nGGgejUPf16q"
+    },
+    {
+        "slug": "hunters-calling",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xuotWgnajtwcN7X7"
+    },
+    {
+        "slug": "first-doctrine-warpriest",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xxkszluN9icAiTO4"
+    },
+    {
+        "slug": "divine-will",
+        "uuid": "Compendium.pf2e.classfeatures.Item.xygfZopqXBJ6dKBA"
+    },
+    {
+        "slug": "unfurling-brocade",
+        "uuid": "Compendium.pf2e.classfeatures.Item.y0WQzzshwGIymZsr"
+    },
+    {
+        "slug": "polymath",
+        "uuid": "Compendium.pf2e.classfeatures.Item.y0jGimYdMGDJWrEq"
+    },
+    {
+        "slug": "manifold-alloy",
+        "uuid": "Compendium.pf2e.classfeatures.Item.y62b9R6RUBbkZECA"
+    },
+    {
+        "slug": "second-path-to-perfection",
+        "uuid": "Compendium.pf2e.classfeatures.Item.y6qnbUc8y0815QNE"
+    },
+    {
+        "slug": "sorcerous-potency",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yBvGqA6Edp6ImaR3"
+    },
+    {
+        "slug": "heavy-construction",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yEfHCwsbsbP6K13Q"
+    },
+    {
+        "slug": "dominion-epithet",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yQY2griL1Sykw25V"
+    },
+    {
+        "slug": "antimagic-plating",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ySkTxnoNuDluk6Cb"
+    },
+    {
+        "slug": "greater-deed",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yc9RuXXxmZ9YidH6"
+    },
+    {
+        "slug": "the-unseen-broker",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ydI39ViUy22nBRn6"
+    },
+    {
+        "slug": "familiar-witch",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yksPhweBZYVCsE1A"
+    },
+    {
+        "slug": "eternal-confidence",
+        "uuid": "Compendium.pf2e.classfeatures.Item.ypfT3iybew6ZSIUl"
+    },
+    {
+        "slug": "wild-willpower",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yqaRnXFjRnFWsWvY"
+    },
+    {
+        "slug": "thaumaturgic-expertise",
+        "uuid": "Compendium.pf2e.classfeatures.Item.yvdSUIRU5uLr5eF2"
+    },
+    {
+        "slug": "champion-mastery",
+        "uuid": "Compendium.pf2e.classfeatures.Item.z5G0o04uV65zyxDB"
+    },
+    {
+        "slug": "great-fortitude-psychic",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zAe95Uk5IPIT23K1"
+    },
+    {
+        "slug": "order-of-the-pyre",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zGxO2cETUsXuvqRu"
+    },
+    {
+        "slug": "curse-of-the-mortal-warrior",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zLYqrQdheciiW2nm"
+    },
+    {
+        "slug": "curse-of-outpouring-life",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zO7dvBgLuhdGfP5t"
+    },
+    {
+        "slug": "paragon-benefit-regalia",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zOMYv2nl2gGICErA"
+    },
+    {
+        "slug": "witch-spellcasting",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zT6QiTMxxj8JYoN9"
+    },
+    {
+        "slug": "decay-instinct",
+        "uuid": "Compendium.pf2e.classfeatures.Item.znxs0soGlusvRP39"
+    },
+    {
+        "slug": "teacher-of-heroes",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zovmBa6cipFsg8GA"
+    },
+    {
+        "slug": "third-implement",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zxZzjN2T53wnH4vU"
+    },
+    {
+        "slug": "mosquito-witch",
+        "uuid": "Compendium.pf2e.classfeatures.Item.zy0toWeGIeQstbT4"
+    }
+]

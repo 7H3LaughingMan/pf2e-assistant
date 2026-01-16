@@ -1,0 +1,1914 @@
+[
+    {
+        "slug": "mrtyu",
+        "uuid": "Compendium.pf2e.deities.Item.01liRoMjNR5XgorX"
+    },
+    {
+        "slug": "findeladlara",
+        "uuid": "Compendium.pf2e.deities.Item.0BH54ZVR8NcrGlMu"
+    },
+    {
+        "slug": "phi-deva",
+        "uuid": "Compendium.pf2e.deities.Item.0EXQHfNN11AfDqNm"
+    },
+    {
+        "slug": "pharimia",
+        "uuid": "Compendium.pf2e.deities.Item.0Hc2HqseslZifEk6"
+    },
+    {
+        "slug": "tlehar",
+        "uuid": "Compendium.pf2e.deities.Item.0R2BjVb7d9tYCIbk"
+    },
+    {
+        "slug": "pavnuri",
+        "uuid": "Compendium.pf2e.deities.Item.0UunUljPt3uZGuMj"
+    },
+    {
+        "slug": "nulgreth",
+        "uuid": "Compendium.pf2e.deities.Item.0cimyk6ZbdvGOmwC"
+    },
+    {
+        "slug": "sekhmet",
+        "uuid": "Compendium.pf2e.deities.Item.0nQItOlce5ua6Eaf"
+    },
+    {
+        "slug": "guardians-of-the-sacred-self",
+        "uuid": "Compendium.pf2e.deities.Item.0uKqA42aPdHEqESI"
+    },
+    {
+        "slug": "aakriti",
+        "uuid": "Compendium.pf2e.deities.Item.0xCttKr5oqjirGCe"
+    },
+    {
+        "slug": "kelizandri",
+        "uuid": "Compendium.pf2e.deities.Item.14GLsVobnZTEmJrs"
+    },
+    {
+        "slug": "hataam",
+        "uuid": "Compendium.pf2e.deities.Item.19qKU9wPd0JctskB"
+    },
+    {
+        "slug": "zelishkar",
+        "uuid": "Compendium.pf2e.deities.Item.1CqGgDeEuaVOgFFE"
+    },
+    {
+        "slug": "lady-razor",
+        "uuid": "Compendium.pf2e.deities.Item.1LiO5bDQIlJmXk35"
+    },
+    {
+        "slug": "sairazul",
+        "uuid": "Compendium.pf2e.deities.Item.1NxkZf6ndijKeufX"
+    },
+    {
+        "slug": "granduncle-taproot",
+        "uuid": "Compendium.pf2e.deities.Item.1TDsbM52mkWBxlur"
+    },
+    {
+        "slug": "balumbdar",
+        "uuid": "Compendium.pf2e.deities.Item.1fmTXGRPa8fLXZKL"
+    },
+    {
+        "slug": "ravithra",
+        "uuid": "Compendium.pf2e.deities.Item.1nQVLOyWv5kC0bCU"
+    },
+    {
+        "slug": "essence-dancers",
+        "uuid": "Compendium.pf2e.deities.Item.1wKxFamTt3A3ZohD"
+    },
+    {
+        "slug": "yelayne",
+        "uuid": "Compendium.pf2e.deities.Item.1xG0PDxn0rhmJhMS"
+    },
+    {
+        "slug": "saloc",
+        "uuid": "Compendium.pf2e.deities.Item.1xHnoMlCyCV70TnT"
+    },
+    {
+        "slug": "urgathoa",
+        "uuid": "Compendium.pf2e.deities.Item.22n3N47sqbqbDxbp"
+    },
+    {
+        "slug": "elion",
+        "uuid": "Compendium.pf2e.deities.Item.29jHeZ1jA23AnZrV"
+    },
+    {
+        "slug": "aleth",
+        "uuid": "Compendium.pf2e.deities.Item.2XM5clKBu67zJEwW"
+    },
+    {
+        "slug": "titivilus",
+        "uuid": "Compendium.pf2e.deities.Item.2fVbLwfQjyHSoSVy"
+    },
+    {
+        "slug": "nyuo-ogh",
+        "uuid": "Compendium.pf2e.deities.Item.2mZmXeokndl2ocWK"
+    },
+    {
+        "slug": "stones-blood",
+        "uuid": "Compendium.pf2e.deities.Item.2uY2CDR2DyBqxbVU"
+    },
+    {
+        "slug": "bergelmir",
+        "uuid": "Compendium.pf2e.deities.Item.30uY6NkhYmPI3Oii"
+    },
+    {
+        "slug": "droskar",
+        "uuid": "Compendium.pf2e.deities.Item.39z55kowQFOUH2v0"
+    },
+    {
+        "slug": "shyka",
+        "uuid": "Compendium.pf2e.deities.Item.3INt1X4ijBYnZYbU"
+    },
+    {
+        "slug": "hadregash",
+        "uuid": "Compendium.pf2e.deities.Item.3c15mKInre8c2iRo"
+    },
+    {
+        "slug": "gendowyn",
+        "uuid": "Compendium.pf2e.deities.Item.3ffVxwgtvR1imHm8"
+    },
+    {
+        "slug": "esoteric-order-of-the-palatine-eye",
+        "uuid": "Compendium.pf2e.deities.Item.3lgzcg84J0fsVqjh"
+    },
+    {
+        "slug": "nyarlathotep-the-crawling-chaos",
+        "uuid": "Compendium.pf2e.deities.Item.3nxIpMGeCvcBIVov"
+    },
+    {
+        "slug": "sovyrian-conclave",
+        "uuid": "Compendium.pf2e.deities.Item.3vzvggkPuLkTF6So"
+    },
+    {
+        "slug": "rowdrosh",
+        "uuid": "Compendium.pf2e.deities.Item.44fcXgp3fnkoyb4R"
+    },
+    {
+        "slug": "chaldira",
+        "uuid": "Compendium.pf2e.deities.Item.4GO4iT585ynLJnc8"
+    },
+    {
+        "slug": "nin",
+        "uuid": "Compendium.pf2e.deities.Item.4HJKRGYIVKeUdOwf"
+    },
+    {
+        "slug": "laws-of-mortality",
+        "uuid": "Compendium.pf2e.deities.Item.4I1aVKED08cwcC4H"
+    },
+    {
+        "slug": "aegirran",
+        "uuid": "Compendium.pf2e.deities.Item.4Rjj2SA7xSxT1ftC"
+    },
+    {
+        "slug": "ydersius",
+        "uuid": "Compendium.pf2e.deities.Item.4bEPoujxhYdUyUOg"
+    },
+    {
+        "slug": "achaekek",
+        "uuid": "Compendium.pf2e.deities.Item.51kMMWaT6CqpGlGk"
+    },
+    {
+        "slug": "shawnari",
+        "uuid": "Compendium.pf2e.deities.Item.58gSanY90BSz9Uwa"
+    },
+    {
+        "slug": "jezelda",
+        "uuid": "Compendium.pf2e.deities.Item.5QjycohRhMIejeN7"
+    },
+    {
+        "slug": "anubis",
+        "uuid": "Compendium.pf2e.deities.Item.5YUNikBpJZ596MRD"
+    },
+    {
+        "slug": "korada",
+        "uuid": "Compendium.pf2e.deities.Item.5ZIvg8CkqRMepVcX"
+    },
+    {
+        "slug": "smiad",
+        "uuid": "Compendium.pf2e.deities.Item.5dhBYY6sWOJotbpU"
+    },
+    {
+        "slug": "narriseminek",
+        "uuid": "Compendium.pf2e.deities.Item.65o189p2eUPbqaDK"
+    },
+    {
+        "slug": "fumeiyoshi",
+        "uuid": "Compendium.pf2e.deities.Item.6O4UGWcYERDEugzk"
+    },
+    {
+        "slug": "oaur-ooung",
+        "uuid": "Compendium.pf2e.deities.Item.6YX5wtiLvDhwk1iZ"
+    },
+    {
+        "slug": "grask-uldeth",
+        "uuid": "Compendium.pf2e.deities.Item.6gxC5awANDFs1kLM"
+    },
+    {
+        "slug": "yamasoth",
+        "uuid": "Compendium.pf2e.deities.Item.6j37TAv5BdOmrsUV"
+    },
+    {
+        "slug": "rhan-tegoth",
+        "uuid": "Compendium.pf2e.deities.Item.7Gs5SnHEd4IciJIw"
+    },
+    {
+        "slug": "ymeri",
+        "uuid": "Compendium.pf2e.deities.Item.7L9KIqixgseSCY3X"
+    },
+    {
+        "slug": "rokoga-gin",
+        "uuid": "Compendium.pf2e.deities.Item.7l8fDCLz8fo4qEib"
+    },
+    {
+        "slug": "the-last-breath",
+        "uuid": "Compendium.pf2e.deities.Item.7zyxg8TlXCDzHGMf"
+    },
+    {
+        "slug": "tresmalvos",
+        "uuid": "Compendium.pf2e.deities.Item.81EbN765Clkvwyqi"
+    },
+    {
+        "slug": "yaezhing",
+        "uuid": "Compendium.pf2e.deities.Item.83jKKHQPoqVylmrF"
+    },
+    {
+        "slug": "gorum",
+        "uuid": "Compendium.pf2e.deities.Item.88vRw2ZVPax4hhga"
+    },
+    {
+        "slug": "eritrice",
+        "uuid": "Compendium.pf2e.deities.Item.8DXel4AvpyUy6oJ0"
+    },
+    {
+        "slug": "nhimbaloth",
+        "uuid": "Compendium.pf2e.deities.Item.8Oy4qHylOOp79JxD"
+    },
+    {
+        "slug": "zura",
+        "uuid": "Compendium.pf2e.deities.Item.8ZSywyo8YQPduo92"
+    },
+    {
+        "slug": "obari",
+        "uuid": "Compendium.pf2e.deities.Item.8hsVGRyq0dKMwwXT"
+    },
+    {
+        "slug": "zevgavizeb",
+        "uuid": "Compendium.pf2e.deities.Item.8roijlQ03l9rWFFe"
+    },
+    {
+        "slug": "winlas",
+        "uuid": "Compendium.pf2e.deities.Item.8wOAwLMgB1HFLo9n"
+    },
+    {
+        "slug": "faith-in-the-fallen",
+        "uuid": "Compendium.pf2e.deities.Item.8xYnD5FuLI4RSJN8"
+    },
+    {
+        "slug": "apep",
+        "uuid": "Compendium.pf2e.deities.Item.8xrpo05lZvTQaAkJ"
+    },
+    {
+        "slug": "sturovenen",
+        "uuid": "Compendium.pf2e.deities.Item.97Qe42wJN5EVUS14"
+    },
+    {
+        "slug": "nethys",
+        "uuid": "Compendium.pf2e.deities.Item.9EKyWmjLUu42evxC"
+    },
+    {
+        "slug": "valmallos",
+        "uuid": "Compendium.pf2e.deities.Item.9FWBJcADLEeP8Krf"
+    },
+    {
+        "slug": "marishi",
+        "uuid": "Compendium.pf2e.deities.Item.9LwncUwHbG1f6qIt"
+    },
+    {
+        "slug": "ssilameshnik",
+        "uuid": "Compendium.pf2e.deities.Item.9MhgyxTfsffWzDbU"
+    },
+    {
+        "slug": "baalzebul",
+        "uuid": "Compendium.pf2e.deities.Item.9WD0hbUT0IbnuTiM"
+    },
+    {
+        "slug": "thalaphyrr",
+        "uuid": "Compendium.pf2e.deities.Item.9Z1vOSaLsEiAs2yN"
+    },
+    {
+        "slug": "trelmarixian",
+        "uuid": "Compendium.pf2e.deities.Item.9eltBjLngkR9x1Xm"
+    },
+    {
+        "slug": "alseta",
+        "uuid": "Compendium.pf2e.deities.Item.9n2CI0B3EA4y3BuU"
+    },
+    {
+        "slug": "fandarra",
+        "uuid": "Compendium.pf2e.deities.Item.9vcKBv8h5vugb8lL"
+    },
+    {
+        "slug": "hshurha",
+        "uuid": "Compendium.pf2e.deities.Item.A37XqON6QRPzQhp7"
+    },
+    {
+        "slug": "etaris",
+        "uuid": "Compendium.pf2e.deities.Item.AEj745gVsRehu2EL"
+    },
+    {
+        "slug": "dagon",
+        "uuid": "Compendium.pf2e.deities.Item.AHX89nhuVhmg8k6w"
+    },
+    {
+        "slug": "kofusachi",
+        "uuid": "Compendium.pf2e.deities.Item.AIcDyoff265z9285"
+    },
+    {
+        "slug": "keepers-of-the-hearth",
+        "uuid": "Compendium.pf2e.deities.Item.AJ7Wgpj5Ext9wbtj"
+    },
+    {
+        "slug": "doloras",
+        "uuid": "Compendium.pf2e.deities.Item.AMFkYKUNQ3kCD0ob"
+    },
+    {
+        "slug": "corosbel",
+        "uuid": "Compendium.pf2e.deities.Item.Adk14fcM9UHCQWb1"
+    },
+    {
+        "slug": "mahathallah",
+        "uuid": "Compendium.pf2e.deities.Item.Af4TSJjutVi9Vdwi"
+    },
+    {
+        "slug": "calistria",
+        "uuid": "Compendium.pf2e.deities.Item.AlL9GtlTldbqNoVm"
+    },
+    {
+        "slug": "maat",
+        "uuid": "Compendium.pf2e.deities.Item.ArmPZQrl0SFAKvrY"
+    },
+    {
+        "slug": "sun-wukong",
+        "uuid": "Compendium.pf2e.deities.Item.BLNXYqvzmLgjMq2p"
+    },
+    {
+        "slug": "sarenrae",
+        "uuid": "Compendium.pf2e.deities.Item.BNycwu3I21dTh4D9"
+    },
+    {
+        "slug": "areshkagal",
+        "uuid": "Compendium.pf2e.deities.Item.BRqiW7ZvzhFDuiIw"
+    },
+    {
+        "slug": "neith",
+        "uuid": "Compendium.pf2e.deities.Item.BVF5L71JblkYUW5E"
+    },
+    {
+        "slug": "dolok-darkfur",
+        "uuid": "Compendium.pf2e.deities.Item.BYx7QoQhCBUGlWpl"
+    },
+    {
+        "slug": "rovagug",
+        "uuid": "Compendium.pf2e.deities.Item.Bhxji0kxIbMKqdkw"
+    },
+    {
+        "slug": "children-of-the-night",
+        "uuid": "Compendium.pf2e.deities.Item.BjOTP1lUHouAQzt4"
+    },
+    {
+        "slug": "aonaurious",
+        "uuid": "Compendium.pf2e.deities.Item.BlHzQ693N9UdLVrR"
+    },
+    {
+        "slug": "rull",
+        "uuid": "Compendium.pf2e.deities.Item.BlLaiS1cWDhmXcBf"
+    },
+    {
+        "slug": "sifkesh",
+        "uuid": "Compendium.pf2e.deities.Item.BrbXGyzCeORNyJT5"
+    },
+    {
+        "slug": "camazotz",
+        "uuid": "Compendium.pf2e.deities.Item.Byw9omVSNwYKcauw"
+    },
+    {
+        "slug": "dahak",
+        "uuid": "Compendium.pf2e.deities.Item.Bzfc5mIUfMxOnQWu"
+    },
+    {
+        "slug": "andoletta",
+        "uuid": "Compendium.pf2e.deities.Item.CDkr6eXR1lgu7g6A"
+    },
+    {
+        "slug": "picoperi",
+        "uuid": "Compendium.pf2e.deities.Item.CeBP002LcMfqgIRl"
+    },
+    {
+        "slug": "lissala-the-order-of-virtue",
+        "uuid": "Compendium.pf2e.deities.Item.CewJyduCTUyW7x2u"
+    },
+    {
+        "slug": "zursvaater",
+        "uuid": "Compendium.pf2e.deities.Item.CezU0sI58mzkvAz3"
+    },
+    {
+        "slug": "atrogine",
+        "uuid": "Compendium.pf2e.deities.Item.ChiKlaNDNYgGqtF7"
+    },
+    {
+        "slug": "mestama",
+        "uuid": "Compendium.pf2e.deities.Item.Cme0TBL9QeusAUKE"
+    },
+    {
+        "slug": "lubaiko",
+        "uuid": "Compendium.pf2e.deities.Item.CnDEoo6WruQCXo1o"
+    },
+    {
+        "slug": "immaculate-growth",
+        "uuid": "Compendium.pf2e.deities.Item.CnEpvcfRgtAp1V31"
+    },
+    {
+        "slug": "brixori",
+        "uuid": "Compendium.pf2e.deities.Item.ColsorVmocw5Plmg"
+    },
+    {
+        "slug": "dispater",
+        "uuid": "Compendium.pf2e.deities.Item.CzHjFLx4hpIEIoWt"
+    },
+    {
+        "slug": "shapes-of-the-fading-luster",
+        "uuid": "Compendium.pf2e.deities.Item.D8lFcjLj5sd25BRk"
+    },
+    {
+        "slug": "hei-feng",
+        "uuid": "Compendium.pf2e.deities.Item.DEKKbg6riAdL2ARf"
+    },
+    {
+        "slug": "tanagaar",
+        "uuid": "Compendium.pf2e.deities.Item.DFxbPmQLOqcmbPTz"
+    },
+    {
+        "slug": "yluma",
+        "uuid": "Compendium.pf2e.deities.Item.DHqB2r4JEJPs16Ek"
+    },
+    {
+        "slug": "ashava",
+        "uuid": "Compendium.pf2e.deities.Item.DJ7LDFTtns6YFodT"
+    },
+    {
+        "slug": "zibik",
+        "uuid": "Compendium.pf2e.deities.Item.DN0urKdPPqhXFzTq"
+    },
+    {
+        "slug": "drokalion",
+        "uuid": "Compendium.pf2e.deities.Item.DUaWAIn8nUMx5AIE"
+    },
+    {
+        "slug": "vapula",
+        "uuid": "Compendium.pf2e.deities.Item.DWIGqLu8iQnZYS26"
+    },
+    {
+        "slug": "xiquiripat",
+        "uuid": "Compendium.pf2e.deities.Item.DikXombRpmC8P1Lc"
+    },
+    {
+        "slug": "erecura",
+        "uuid": "Compendium.pf2e.deities.Item.Dm8qlzpUj7g82QFv"
+    },
+    {
+        "slug": "uirch",
+        "uuid": "Compendium.pf2e.deities.Item.DnBpqbMjRe2TwVZF"
+    },
+    {
+        "slug": "mother-vulture",
+        "uuid": "Compendium.pf2e.deities.Item.E1dUhoSEf2XfklU2"
+    },
+    {
+        "slug": "iggeret",
+        "uuid": "Compendium.pf2e.deities.Item.EDmAlxCXJHv8rZs2"
+    },
+    {
+        "slug": "cernunnos",
+        "uuid": "Compendium.pf2e.deities.Item.EE8sNM4JraOPN669"
+    },
+    {
+        "slug": "isis",
+        "uuid": "Compendium.pf2e.deities.Item.EFyDjlH7XjGq7Erd"
+    },
+    {
+        "slug": "treerazer",
+        "uuid": "Compendium.pf2e.deities.Item.ENzMYuzBZGIujSMx"
+    },
+    {
+        "slug": "whispering-way",
+        "uuid": "Compendium.pf2e.deities.Item.EUOAV02rHz96jMPh"
+    },
+    {
+        "slug": "nephthys",
+        "uuid": "Compendium.pf2e.deities.Item.EbiJVJN86Q5SfDOt"
+    },
+    {
+        "slug": "set",
+        "uuid": "Compendium.pf2e.deities.Item.EfHlurXdqkdRXaqv"
+    },
+    {
+        "slug": "sarshallatu",
+        "uuid": "Compendium.pf2e.deities.Item.Em8MqxFDNofBUuBH"
+    },
+    {
+        "slug": "vale",
+        "uuid": "Compendium.pf2e.deities.Item.F7Y83d8keV9CAhP2"
+    },
+    {
+        "slug": "mhar",
+        "uuid": "Compendium.pf2e.deities.Item.FHZ2DZEJzjrPfyjH"
+    },
+    {
+        "slug": "xoveron",
+        "uuid": "Compendium.pf2e.deities.Item.FREFauCaKxzGNuxE"
+    },
+    {
+        "slug": "reshmit-of-the-heavy-voice",
+        "uuid": "Compendium.pf2e.deities.Item.FeMWwhaVbaoqu3q6"
+    },
+    {
+        "slug": "myr",
+        "uuid": "Compendium.pf2e.deities.Item.FktAD5GCv60OdSAB"
+    },
+    {
+        "slug": "the-spirit-wall",
+        "uuid": "Compendium.pf2e.deities.Item.G5g4Xa0KjKA2T65I"
+    },
+    {
+        "slug": "the-laborers-bastion",
+        "uuid": "Compendium.pf2e.deities.Item.GBdxyS79vTozcv3P"
+    },
+    {
+        "slug": "ragathiel",
+        "uuid": "Compendium.pf2e.deities.Item.GEBaoeiv5CB9h2Bn"
+    },
+    {
+        "slug": "kagia",
+        "uuid": "Compendium.pf2e.deities.Item.GFDsfRLFINnaHDTw"
+    },
+    {
+        "slug": "wadjet",
+        "uuid": "Compendium.pf2e.deities.Item.GUmYLD7PGmE2TOx6"
+    },
+    {
+        "slug": "norgorber",
+        "uuid": "Compendium.pf2e.deities.Item.GX6PF9ifR47Xyjg9"
+    },
+    {
+        "slug": "ristrentho",
+        "uuid": "Compendium.pf2e.deities.Item.GYmwlpH8zou0Mkap"
+    },
+    {
+        "slug": "wulgren",
+        "uuid": "Compendium.pf2e.deities.Item.GuUn4gElGNAT3Rbc"
+    },
+    {
+        "slug": "husk",
+        "uuid": "Compendium.pf2e.deities.Item.Gy78DCwfY4ltBGI6"
+    },
+    {
+        "slug": "dammerich",
+        "uuid": "Compendium.pf2e.deities.Item.H1VrZ1QX0d2aPXT8"
+    },
+    {
+        "slug": "light-of-the-everlasting-flame",
+        "uuid": "Compendium.pf2e.deities.Item.H3qCK0Qq1bK0uM9o"
+    },
+    {
+        "slug": "yrmidar",
+        "uuid": "Compendium.pf2e.deities.Item.HCBsEO4bxbAxSWEN"
+    },
+    {
+        "slug": "bolka",
+        "uuid": "Compendium.pf2e.deities.Item.HD7g8T8ioy1EH3M8"
+    },
+    {
+        "slug": "the-curtain-call",
+        "uuid": "Compendium.pf2e.deities.Item.HR563VdVbW8aUdqM"
+    },
+    {
+        "slug": "the-lost-prince",
+        "uuid": "Compendium.pf2e.deities.Item.HbuynQRCjGKtbhcC"
+    },
+    {
+        "slug": "arazni",
+        "uuid": "Compendium.pf2e.deities.Item.HtRxo4J3elFteIqu"
+    },
+    {
+        "slug": "onos",
+        "uuid": "Compendium.pf2e.deities.Item.IAGkKOJ0Pu0Bous3"
+    },
+    {
+        "slug": "the-tides-of-chaos",
+        "uuid": "Compendium.pf2e.deities.Item.IDOd8Ph9tbVAkHBV"
+    },
+    {
+        "slug": "skode",
+        "uuid": "Compendium.pf2e.deities.Item.IK2AL3bL6htrrnnC"
+    },
+    {
+        "slug": "falayna",
+        "uuid": "Compendium.pf2e.deities.Item.IXLzDSMGndFb5rGY"
+    },
+    {
+        "slug": "atropos",
+        "uuid": "Compendium.pf2e.deities.Item.IY6fWfuIwSSIBb0Y"
+    },
+    {
+        "slug": "pazuzu",
+        "uuid": "Compendium.pf2e.deities.Item.IZcdF1G8ZsnMotaM"
+    },
+    {
+        "slug": "isph-aun-vuln",
+        "uuid": "Compendium.pf2e.deities.Item.Ig2ZSxvJ0K7F2Bb7"
+    },
+    {
+        "slug": "ranginori",
+        "uuid": "Compendium.pf2e.deities.Item.Ij1KRM8ufkEjGnR3"
+    },
+    {
+        "slug": "lahkgya",
+        "uuid": "Compendium.pf2e.deities.Item.ItYptsfjV8XvfhOV"
+    },
+    {
+        "slug": "the-devourer",
+        "uuid": "Compendium.pf2e.deities.Item.Iwgr8NVomfEuX4WR"
+    },
+    {
+        "slug": "vulot",
+        "uuid": "Compendium.pf2e.deities.Item.J33L1nYGD06FcxYF"
+    },
+    {
+        "slug": "atheists-and-free-agents",
+        "uuid": "Compendium.pf2e.deities.Item.JDbrj8aKkLzdn8BU"
+    },
+    {
+        "slug": "haborym",
+        "uuid": "Compendium.pf2e.deities.Item.JEZ6ZZc2aCzWyu8P"
+    },
+    {
+        "slug": "aminara",
+        "uuid": "Compendium.pf2e.deities.Item.JFyAEoCo32fl3b74"
+    },
+    {
+        "slug": "vudravati",
+        "uuid": "Compendium.pf2e.deities.Item.JMRGy8Fb1ZYeSbcK"
+    },
+    {
+        "slug": "aesocar",
+        "uuid": "Compendium.pf2e.deities.Item.JXAg05NcjHZbDqxl"
+    },
+    {
+        "slug": "kostchtchie",
+        "uuid": "Compendium.pf2e.deities.Item.JcIf4uwKLxEWdplI"
+    },
+    {
+        "slug": "weight-of-the-world",
+        "uuid": "Compendium.pf2e.deities.Item.JeGR8YCpbmQAhxhF"
+    },
+    {
+        "slug": "otolmens",
+        "uuid": "Compendium.pf2e.deities.Item.JgDqFUB1NtQkGmzp"
+    },
+    {
+        "slug": "desna",
+        "uuid": "Compendium.pf2e.deities.Item.JgqH3BhuEuA4Zyqs"
+    },
+    {
+        "slug": "the-godclaw",
+        "uuid": "Compendium.pf2e.deities.Item.JndhOIHnQoMwnsw3"
+    },
+    {
+        "slug": "radiant-prism",
+        "uuid": "Compendium.pf2e.deities.Item.JxigqtJO2juuBh8V"
+    },
+    {
+        "slug": "the-lady-of-the-north-star",
+        "uuid": "Compendium.pf2e.deities.Item.JzaazIXXvAW02Cip"
+    },
+    {
+        "slug": "halcamora",
+        "uuid": "Compendium.pf2e.deities.Item.K1tzUClsozKcdpIe"
+    },
+    {
+        "slug": "emmeton-galardaria",
+        "uuid": "Compendium.pf2e.deities.Item.K4s8a6gI1OmuWhMk"
+    },
+    {
+        "slug": "urban-prosperity",
+        "uuid": "Compendium.pf2e.deities.Item.KB6O6dvwJj7wuwO7"
+    },
+    {
+        "slug": "arshea",
+        "uuid": "Compendium.pf2e.deities.Item.KDFujU3Yug6AwCOz"
+    },
+    {
+        "slug": "imot",
+        "uuid": "Compendium.pf2e.deities.Item.KIEgpcmHYtFu1dpg"
+    },
+    {
+        "slug": "vavaalrav",
+        "uuid": "Compendium.pf2e.deities.Item.KIbuRCeRdfOwxUXX"
+    },
+    {
+        "slug": "cormion",
+        "uuid": "Compendium.pf2e.deities.Item.KMS0QEsoh4nzKkmu"
+    },
+    {
+        "slug": "the-freeing-flame",
+        "uuid": "Compendium.pf2e.deities.Item.KPrtgoIcgiBSKzS3"
+    },
+    {
+        "slug": "green-faith",
+        "uuid": "Compendium.pf2e.deities.Item.KT7HKL7vbZEwbzX4"
+    },
+    {
+        "slug": "mephistopheles",
+        "uuid": "Compendium.pf2e.deities.Item.KWVdoAm3b01M8Lcp"
+    },
+    {
+        "slug": "touch-of-the-sun",
+        "uuid": "Compendium.pf2e.deities.Item.LGOkWwN6AZhLiZpl"
+    },
+    {
+        "slug": "scal",
+        "uuid": "Compendium.pf2e.deities.Item.LIqW0cgGWFQln1Lk"
+    },
+    {
+        "slug": "izuyaku",
+        "uuid": "Compendium.pf2e.deities.Item.LJr99kbbzzgh4IZm"
+    },
+    {
+        "slug": "zyphus",
+        "uuid": "Compendium.pf2e.deities.Item.LLMTMgARSTlO7S9U"
+    },
+    {
+        "slug": "chinostes",
+        "uuid": "Compendium.pf2e.deities.Item.LidhlajmOHnmWDze"
+    },
+    {
+        "slug": "cong",
+        "uuid": "Compendium.pf2e.deities.Item.LqJkd54Vtq9yMduS"
+    },
+    {
+        "slug": "daikitsu",
+        "uuid": "Compendium.pf2e.deities.Item.M3eb94Nd6uXti2IK"
+    },
+    {
+        "slug": "lao-shu-po",
+        "uuid": "Compendium.pf2e.deities.Item.MbJ93Nw39h2cBYi5"
+    },
+    {
+        "slug": "green-man",
+        "uuid": "Compendium.pf2e.deities.Item.McUqN13BGLTpYWCg"
+    },
+    {
+        "slug": "laivatiniel",
+        "uuid": "Compendium.pf2e.deities.Item.Mum7kJFrNOpVrxxP"
+    },
+    {
+        "slug": "nivi-rhombodazzle",
+        "uuid": "Compendium.pf2e.deities.Item.Mv6uTJLh3VGEoGLH"
+    },
+    {
+        "slug": "trudd",
+        "uuid": "Compendium.pf2e.deities.Item.N8a76dkGfUvxvSW0"
+    },
+    {
+        "slug": "nyarlathotep-the-veiled-voice",
+        "uuid": "Compendium.pf2e.deities.Item.NXmqXck4jUfSY2ns"
+    },
+    {
+        "slug": "velgaas",
+        "uuid": "Compendium.pf2e.deities.Item.NkKdZor1FAePE5z9"
+    },
+    {
+        "slug": "xsistaid",
+        "uuid": "Compendium.pf2e.deities.Item.OLHByk9LF3QG2x41"
+    },
+    {
+        "slug": "zogmugot",
+        "uuid": "Compendium.pf2e.deities.Item.OS9vZh5GYrNHahZq"
+    },
+    {
+        "slug": "the-enlightened-scholars-path",
+        "uuid": "Compendium.pf2e.deities.Item.Oci540vcXkJKR0gW"
+    },
+    {
+        "slug": "khepri",
+        "uuid": "Compendium.pf2e.deities.Item.OkEJdnT0HyjLjrg9"
+    },
+    {
+        "slug": "chohar",
+        "uuid": "Compendium.pf2e.deities.Item.OlVCyRgOaPJji4qt"
+    },
+    {
+        "slug": "the-perplexing-jest",
+        "uuid": "Compendium.pf2e.deities.Item.Ons4JwstcXOlkaRF"
+    },
+    {
+        "slug": "telastmar",
+        "uuid": "Compendium.pf2e.deities.Item.OoPq9MtnAcrHBumx"
+    },
+    {
+        "slug": "thamir",
+        "uuid": "Compendium.pf2e.deities.Item.PFp4Sdp2TDDKD62l"
+    },
+    {
+        "slug": "the-divine-dare",
+        "uuid": "Compendium.pf2e.deities.Item.PIMd4yRGj8XQgGbW"
+    },
+    {
+        "slug": "nyarlathotep-the-faceless-sphinx",
+        "uuid": "Compendium.pf2e.deities.Item.PYQnJe4ZXPzEnukx"
+    },
+    {
+        "slug": "talons-of-the-godclaw",
+        "uuid": "Compendium.pf2e.deities.Item.Pq9PT7dqRrQ3nnNx"
+    },
+    {
+        "slug": "graveladys-guard",
+        "uuid": "Compendium.pf2e.deities.Item.QArqJ387HeYgGZxG"
+    },
+    {
+        "slug": "asmodeus",
+        "uuid": "Compendium.pf2e.deities.Item.QRkcFciCOmFoxF1B"
+    },
+    {
+        "slug": "the-readied-strike",
+        "uuid": "Compendium.pf2e.deities.Item.QTvR7ZqUrNMG56Nr"
+    },
+    {
+        "slug": "pharasma",
+        "uuid": "Compendium.pf2e.deities.Item.QZD0u1jxwz0kj8uI"
+    },
+    {
+        "slug": "lymnieris",
+        "uuid": "Compendium.pf2e.deities.Item.QibpLccM5bLUMopj"
+    },
+    {
+        "slug": "hanspur",
+        "uuid": "Compendium.pf2e.deities.Item.QlDnoOwf0PppymTn"
+    },
+    {
+        "slug": "urazra",
+        "uuid": "Compendium.pf2e.deities.Item.Qr8BqULcaBAiIKUY"
+    },
+    {
+        "slug": "atreia",
+        "uuid": "Compendium.pf2e.deities.Item.R0DvoLO8WbYIYhb3"
+    },
+    {
+        "slug": "turvu",
+        "uuid": "Compendium.pf2e.deities.Item.RKCISPRJMRz9FR4n"
+    },
+    {
+        "slug": "gogunta",
+        "uuid": "Compendium.pf2e.deities.Item.RUzMtIQal0drPwQY"
+    },
+    {
+        "slug": "ashukharma",
+        "uuid": "Compendium.pf2e.deities.Item.RbslST0RZPXj6Eby"
+    },
+    {
+        "slug": "the-resplendent-court",
+        "uuid": "Compendium.pf2e.deities.Item.RlOuyadtreI7pht1"
+    },
+    {
+        "slug": "ferrumnestra",
+        "uuid": "Compendium.pf2e.deities.Item.RnS5P7zX0HRPsDnt"
+    },
+    {
+        "slug": "ptah",
+        "uuid": "Compendium.pf2e.deities.Item.RoBL67dQIQgIahtY"
+    },
+    {
+        "slug": "shadow-cabinet",
+        "uuid": "Compendium.pf2e.deities.Item.Rz7C08TWmj87WNR6"
+    },
+    {
+        "slug": "ng",
+        "uuid": "Compendium.pf2e.deities.Item.RzTd9PmgnfHNlFVf"
+    },
+    {
+        "slug": "nurgal",
+        "uuid": "Compendium.pf2e.deities.Item.SAuFz101iP6VVwvw"
+    },
+    {
+        "slug": "zohls",
+        "uuid": "Compendium.pf2e.deities.Item.SCGdJmm7Wzle9jFP"
+    },
+    {
+        "slug": "lysianassa",
+        "uuid": "Compendium.pf2e.deities.Item.SCMlQDcoU1QcF3AS"
+    },
+    {
+        "slug": "otilaz",
+        "uuid": "Compendium.pf2e.deities.Item.SHSMB0WvrJB4E8rU"
+    },
+    {
+        "slug": "yog-sothoth",
+        "uuid": "Compendium.pf2e.deities.Item.SUaGdvQXxSAQAw03"
+    },
+    {
+        "slug": "ceyannan",
+        "uuid": "Compendium.pf2e.deities.Item.SeD3n4VMk5EQJ2CI"
+    },
+    {
+        "slug": "kitumu",
+        "uuid": "Compendium.pf2e.deities.Item.TW7Q6O928YWNME9r"
+    },
+    {
+        "slug": "nameless",
+        "uuid": "Compendium.pf2e.deities.Item.Tn8rVCvsjrPyzKWC"
+    },
+    {
+        "slug": "hathor",
+        "uuid": "Compendium.pf2e.deities.Item.TpAMy8tb5LrRgvqN"
+    },
+    {
+        "slug": "bokrug",
+        "uuid": "Compendium.pf2e.deities.Item.Tqk5xJpDKI2MXO1R"
+    },
+    {
+        "slug": "sobek",
+        "uuid": "Compendium.pf2e.deities.Item.TvxsVRztDlGcWpcI"
+    },
+    {
+        "slug": "barzahk",
+        "uuid": "Compendium.pf2e.deities.Item.UUcAqU3KeJSMNxGF"
+    },
+    {
+        "slug": "varg",
+        "uuid": "Compendium.pf2e.deities.Item.Up2Wv097dRjoClSw"
+    },
+    {
+        "slug": "sithhud",
+        "uuid": "Compendium.pf2e.deities.Item.Uz7DDxMvWjSXUrmX"
+    },
+    {
+        "slug": "kabriri",
+        "uuid": "Compendium.pf2e.deities.Item.V5PbbkZUP9N7kl6h"
+    },
+    {
+        "slug": "folgrit",
+        "uuid": "Compendium.pf2e.deities.Item.VEyowuhC4FsBnG8c"
+    },
+    {
+        "slug": "the-path-of-the-heavens",
+        "uuid": "Compendium.pf2e.deities.Item.VG51y4FbTLdeGHZB"
+    },
+    {
+        "slug": "alocer",
+        "uuid": "Compendium.pf2e.deities.Item.VRPVppdQ4W0oXeB1"
+    },
+    {
+        "slug": "lurlup",
+        "uuid": "Compendium.pf2e.deities.Item.VVUS4JWxWDd5ByJC"
+    },
+    {
+        "slug": "seafarers-hope",
+        "uuid": "Compendium.pf2e.deities.Item.Vk1FM54rJx1RHtUA"
+    },
+    {
+        "slug": "nergal",
+        "uuid": "Compendium.pf2e.deities.Item.VlgaeJlpl2ubDv4a"
+    },
+    {
+        "slug": "imbrex",
+        "uuid": "Compendium.pf2e.deities.Item.VvxEvEKhCGRwrMJp"
+    },
+    {
+        "slug": "pulura",
+        "uuid": "Compendium.pf2e.deities.Item.Vzxm5FyIA40b2OSP"
+    },
+    {
+        "slug": "monad",
+        "uuid": "Compendium.pf2e.deities.Item.W4QGkdn9V5ACRpkh"
+    },
+    {
+        "slug": "chamiaholom",
+        "uuid": "Compendium.pf2e.deities.Item.W7GPA9QiSrcbN7bX"
+    },
+    {
+        "slug": "pillars-of-knowledge",
+        "uuid": "Compendium.pf2e.deities.Item.WO9UsCY41oTtC2G0"
+    },
+    {
+        "slug": "geryon",
+        "uuid": "Compendium.pf2e.deities.Item.WOiSJ4IWjaRsSgRO"
+    },
+    {
+        "slug": "sangpotshi",
+        "uuid": "Compendium.pf2e.deities.Item.WfqLY2Fm1LGCcG5X"
+    },
+    {
+        "slug": "groetus",
+        "uuid": "Compendium.pf2e.deities.Item.WloVxo6HXJdS4YTt"
+    },
+    {
+        "slug": "hastur",
+        "uuid": "Compendium.pf2e.deities.Item.WvoMr86bSSYxXKtI"
+    },
+    {
+        "slug": "the-pandemonia",
+        "uuid": "Compendium.pf2e.deities.Item.XFqgtfxc47LPFjLZ"
+    },
+    {
+        "slug": "diomazul",
+        "uuid": "Compendium.pf2e.deities.Item.XHDlP7o1jNz9851v"
+    },
+    {
+        "slug": "acavna",
+        "uuid": "Compendium.pf2e.deities.Item.XP0SPRL92tAPMV0K"
+    },
+    {
+        "slug": "ragadahn",
+        "uuid": "Compendium.pf2e.deities.Item.XYJupIPx0GW4s7eu"
+    },
+    {
+        "slug": "dajermube",
+        "uuid": "Compendium.pf2e.deities.Item.XaaDDVS4sEJd4m99"
+    },
+    {
+        "slug": "angradd",
+        "uuid": "Compendium.pf2e.deities.Item.Xb1N5YfxboJH26Jh"
+    },
+    {
+        "slug": "grasping-iovett",
+        "uuid": "Compendium.pf2e.deities.Item.XxIxEaW8NG952Bc0"
+    },
+    {
+        "slug": "skrymir",
+        "uuid": "Compendium.pf2e.deities.Item.Y0TY7oerRZ0pLbOB"
+    },
+    {
+        "slug": "oathos",
+        "uuid": "Compendium.pf2e.deities.Item.Y6EnZjtBOHBs5O8D"
+    },
+    {
+        "slug": "haagenti",
+        "uuid": "Compendium.pf2e.deities.Item.Y6tbAWlcccGlUH0z"
+    },
+    {
+        "slug": "cormigus",
+        "uuid": "Compendium.pf2e.deities.Item.YLftgCdyOyF22Gt6"
+    },
+    {
+        "slug": "ylimancha",
+        "uuid": "Compendium.pf2e.deities.Item.YXmeBdOZfWgUljW1"
+    },
+    {
+        "slug": "the-offering-plate",
+        "uuid": "Compendium.pf2e.deities.Item.YeUhlOt3c98ocwjZ"
+    },
+    {
+        "slug": "sicva",
+        "uuid": "Compendium.pf2e.deities.Item.YnOxUUJz1dzocG6N"
+    },
+    {
+        "slug": "zon-kuthon",
+        "uuid": "Compendium.pf2e.deities.Item.ZfN7jkK6boU1FuiS"
+    },
+    {
+        "slug": "general-susumu",
+        "uuid": "Compendium.pf2e.deities.Item.Zi1UARhode3FSFLr"
+    },
+    {
+        "slug": "wards-of-the-pharaoh",
+        "uuid": "Compendium.pf2e.deities.Item.ZynnoQJFz12FD0Xn"
+    },
+    {
+        "slug": "ayrzul",
+        "uuid": "Compendium.pf2e.deities.Item.aChBtIDfA59QQ7SN"
+    },
+    {
+        "slug": "jaidi",
+        "uuid": "Compendium.pf2e.deities.Item.aLCfEgt48SRUHnMC"
+    },
+    {
+        "slug": "tsukiyo",
+        "uuid": "Compendium.pf2e.deities.Item.aTYy1WHwAZiuei4h"
+    },
+    {
+        "slug": "blooms-of-the-spreading-weald",
+        "uuid": "Compendium.pf2e.deities.Item.aUkAP1fVqOjtRzkc"
+    },
+    {
+        "slug": "eiseth",
+        "uuid": "Compendium.pf2e.deities.Item.aVyxfqY9GBjTqQul"
+    },
+    {
+        "slug": "thoth",
+        "uuid": "Compendium.pf2e.deities.Item.aievwuZalZ2abs2q"
+    },
+    {
+        "slug": "lamashtu",
+        "uuid": "Compendium.pf2e.deities.Item.aipkJQxP4GBsTaGq"
+    },
+    {
+        "slug": "baphomet",
+        "uuid": "Compendium.pf2e.deities.Item.aj4ChTlDcZCmrtJD"
+    },
+    {
+        "slug": "arqueros",
+        "uuid": "Compendium.pf2e.deities.Item.akcmQbvNWfhEfEhf"
+    },
+    {
+        "slug": "genzaeri",
+        "uuid": "Compendium.pf2e.deities.Item.auHS1P7mXJjO2QlY"
+    },
+    {
+        "slug": "waves-of-the-boundless-sea",
+        "uuid": "Compendium.pf2e.deities.Item.avyBK4NbMllCvRj8"
+    },
+    {
+        "slug": "orcus",
+        "uuid": "Compendium.pf2e.deities.Item.b7H379HnCOv9UZtd"
+    },
+    {
+        "slug": "jaidz",
+        "uuid": "Compendium.pf2e.deities.Item.bF77ydtptI54STl9"
+    },
+    {
+        "slug": "minderhal",
+        "uuid": "Compendium.pf2e.deities.Item.bIl8GkwYltjsAMcm"
+    },
+    {
+        "slug": "abraxas",
+        "uuid": "Compendium.pf2e.deities.Item.bLI1JMpI2GXQT5AC"
+    },
+    {
+        "slug": "the-anointing-of-kings",
+        "uuid": "Compendium.pf2e.deities.Item.bNEq1DQKYUVHVKC1"
+    },
+    {
+        "slug": "treasures-of-the-eternal-delve",
+        "uuid": "Compendium.pf2e.deities.Item.bOnXaO1xTvkvCBoN"
+    },
+    {
+        "slug": "reymenda",
+        "uuid": "Compendium.pf2e.deities.Item.baMgw2Jw17dlmMzj"
+    },
+    {
+        "slug": "bharnarol",
+        "uuid": "Compendium.pf2e.deities.Item.bc2B53BGQ7OOwZg6"
+    },
+    {
+        "slug": "iapholi",
+        "uuid": "Compendium.pf2e.deities.Item.bmOKsNOZymMijc4m"
+    },
+    {
+        "slug": "vermilion-mother",
+        "uuid": "Compendium.pf2e.deities.Item.boSRWIodYDIPlZ4W"
+    },
+    {
+        "slug": "black-butterfly",
+        "uuid": "Compendium.pf2e.deities.Item.c9NFjRR8gr6CWpjl"
+    },
+    {
+        "slug": "angazhan",
+        "uuid": "Compendium.pf2e.deities.Item.cHAbE86pto5bvIWo"
+    },
+    {
+        "slug": "the-pale-horse",
+        "uuid": "Compendium.pf2e.deities.Item.cICflsnWTdwTtxx0"
+    },
+    {
+        "slug": "baekho",
+        "uuid": "Compendium.pf2e.deities.Item.cSakUTwOtxe6Y0rH"
+    },
+    {
+        "slug": "seramaydiel",
+        "uuid": "Compendium.pf2e.deities.Item.ctTBqyrSRpfL33jE"
+    },
+    {
+        "slug": "vineshvakhi",
+        "uuid": "Compendium.pf2e.deities.Item.d47XTSODGAKANu3d"
+    },
+    {
+        "slug": "abadar",
+        "uuid": "Compendium.pf2e.deities.Item.d56paSkcwvll2OhR"
+    },
+    {
+        "slug": "olheon",
+        "uuid": "Compendium.pf2e.deities.Item.dQb1y00PCsWIFcX4"
+    },
+    {
+        "slug": "dhalavei",
+        "uuid": "Compendium.pf2e.deities.Item.dcbf3pBSNa2q1Kkq"
+    },
+    {
+        "slug": "ah-pook",
+        "uuid": "Compendium.pf2e.deities.Item.dkKnv37c8RBPblgV"
+    },
+    {
+        "slug": "phlegyas",
+        "uuid": "Compendium.pf2e.deities.Item.e6IGAMPvaGqwZPkI"
+    },
+    {
+        "slug": "iomedae",
+        "uuid": "Compendium.pf2e.deities.Item.eErEiVmBqltYXFJ6"
+    },
+    {
+        "slug": "dammar",
+        "uuid": "Compendium.pf2e.deities.Item.eTzCA17qD0Tabq3i"
+    },
+    {
+        "slug": "rivethun",
+        "uuid": "Compendium.pf2e.deities.Item.eayZ9moMzAGotO01"
+    },
+    {
+        "slug": "anras",
+        "uuid": "Compendium.pf2e.deities.Item.edfGQKkGBODi2BN0"
+    },
+    {
+        "slug": "bes",
+        "uuid": "Compendium.pf2e.deities.Item.eyGEoggFlTEUQmvJ"
+    },
+    {
+        "slug": "gaasham",
+        "uuid": "Compendium.pf2e.deities.Item.f3DIcotFvBkldMUO"
+    },
+    {
+        "slug": "dramindyr",
+        "uuid": "Compendium.pf2e.deities.Item.f890Kbsk5dxrmU5h"
+    },
+    {
+        "slug": "telvrys",
+        "uuid": "Compendium.pf2e.deities.Item.f8fQIrsOdKVucT1G"
+    },
+    {
+        "slug": "valani",
+        "uuid": "Compendium.pf2e.deities.Item.fFoqdiTV2YuITZSd"
+    },
+    {
+        "slug": "milani",
+        "uuid": "Compendium.pf2e.deities.Item.fTJLgTfEMZreJ19r"
+    },
+    {
+        "slug": "stag-mother-of-the-forest-of-stones",
+        "uuid": "Compendium.pf2e.deities.Item.fTs56epghXwclPcX"
+    },
+    {
+        "slug": "cihua-coatl",
+        "uuid": "Compendium.pf2e.deities.Item.fZ5caXxpdV1MErsa"
+    },
+    {
+        "slug": "belech",
+        "uuid": "Compendium.pf2e.deities.Item.fbpYf8NcLTzuBjua"
+    },
+    {
+        "slug": "grandmother-spider",
+        "uuid": "Compendium.pf2e.deities.Item.fuPTR1laXO6EionS"
+    },
+    {
+        "slug": "walkena",
+        "uuid": "Compendium.pf2e.deities.Item.g1AVEGi8QibhS007"
+    },
+    {
+        "slug": "moloch",
+        "uuid": "Compendium.pf2e.deities.Item.g1VxllMjs2YRIJAm"
+    },
+    {
+        "slug": "orgesh",
+        "uuid": "Compendium.pf2e.deities.Item.gUyP9Ir8FTaZeV9D"
+    },
+    {
+        "slug": "cyth-vsug",
+        "uuid": "Compendium.pf2e.deities.Item.gXHoxuuiAD54LnWV"
+    },
+    {
+        "slug": "qi-zhong",
+        "uuid": "Compendium.pf2e.deities.Item.giAsBYiL2omr0x2L"
+    },
+    {
+        "slug": "aerekostes",
+        "uuid": "Compendium.pf2e.deities.Item.gndfKuUTVDOubob2"
+    },
+    {
+        "slug": "sorrows-sword",
+        "uuid": "Compendium.pf2e.deities.Item.gpS3hv7LP2IRwEHT"
+    },
+    {
+        "slug": "nalinivati",
+        "uuid": "Compendium.pf2e.deities.Item.gsFaxWHbZmc1moY6"
+    },
+    {
+        "slug": "adanye",
+        "uuid": "Compendium.pf2e.deities.Item.gutbzYTZvRTnq4on"
+    },
+    {
+        "slug": "shelyn",
+        "uuid": "Compendium.pf2e.deities.Item.gxwmzxUWBOhdgFSN"
+    },
+    {
+        "slug": "shumunue",
+        "uuid": "Compendium.pf2e.deities.Item.hAoVzkeFjTwh5Ykl"
+    },
+    {
+        "slug": "embaral",
+        "uuid": "Compendium.pf2e.deities.Item.hDNLCRnDjYqmPYv6"
+    },
+    {
+        "slug": "kaldemash",
+        "uuid": "Compendium.pf2e.deities.Item.hLq1IF3mT8zOfUaE"
+    },
+    {
+        "slug": "ananshea",
+        "uuid": "Compendium.pf2e.deities.Item.hT2prXTvejvNoCPB"
+    },
+    {
+        "slug": "umarik",
+        "uuid": "Compendium.pf2e.deities.Item.hUuM7HI7bw5aYUVr"
+    },
+    {
+        "slug": "dalenydra",
+        "uuid": "Compendium.pf2e.deities.Item.hV4OjuhTOFG7jUB4"
+    },
+    {
+        "slug": "matravash",
+        "uuid": "Compendium.pf2e.deities.Item.hWTTS0e7J9hJfsp3"
+    },
+    {
+        "slug": "narakaas",
+        "uuid": "Compendium.pf2e.deities.Item.hhV2g6aU8jKLEca1"
+    },
+    {
+        "slug": "razmir",
+        "uuid": "Compendium.pf2e.deities.Item.hv7poWIKVN1AT51p"
+    },
+    {
+        "slug": "ilsurrish",
+        "uuid": "Compendium.pf2e.deities.Item.i79OCvsFlDGqYjTk"
+    },
+    {
+        "slug": "vonymos",
+        "uuid": "Compendium.pf2e.deities.Item.iB7v8EkkQzCmdZ5X"
+    },
+    {
+        "slug": "ydajisk",
+        "uuid": "Compendium.pf2e.deities.Item.iEt6idGIEPXY2HzV"
+    },
+    {
+        "slug": "amaznen",
+        "uuid": "Compendium.pf2e.deities.Item.iFF8oXwt6yePcwko"
+    },
+    {
+        "slug": "sivanah",
+        "uuid": "Compendium.pf2e.deities.Item.iJyhAFmHOLZBvWnJ"
+    },
+    {
+        "slug": "nyarlathotep-haunter-in-the-dark",
+        "uuid": "Compendium.pf2e.deities.Item.iKgERiIc8rt3fatf"
+    },
+    {
+        "slug": "magdh",
+        "uuid": "Compendium.pf2e.deities.Item.iMRXc519Uepf8yH3"
+    },
+    {
+        "slug": "kazutal",
+        "uuid": "Compendium.pf2e.deities.Item.iXvyp9rGnqvFfy4q"
+    },
+    {
+        "slug": "lorthact",
+        "uuid": "Compendium.pf2e.deities.Item.idAu7puhPp3kFTnl"
+    },
+    {
+        "slug": "venkelvore",
+        "uuid": "Compendium.pf2e.deities.Item.jCryzaFDLRL192Vv"
+    },
+    {
+        "slug": "zipacna",
+        "uuid": "Compendium.pf2e.deities.Item.jGENfggMNVR9ObAb"
+    },
+    {
+        "slug": "nocticula",
+        "uuid": "Compendium.pf2e.deities.Item.jL1qiVOZBKXETtVD"
+    },
+    {
+        "slug": "arundhat",
+        "uuid": "Compendium.pf2e.deities.Item.jrPmEfubRDzMKbxl"
+    },
+    {
+        "slug": "zjar-tovan",
+        "uuid": "Compendium.pf2e.deities.Item.kBuCFUp4KYJEnMLk"
+    },
+    {
+        "slug": "charg",
+        "uuid": "Compendium.pf2e.deities.Item.kKdvt2m8MdsJ5aFb"
+    },
+    {
+        "slug": "kalekot",
+        "uuid": "Compendium.pf2e.deities.Item.kiTcZxmKxGPCwDpg"
+    },
+    {
+        "slug": "good-neighbors",
+        "uuid": "Compendium.pf2e.deities.Item.kqO3mcoq1EVRSYxF"
+    },
+    {
+        "slug": "yhidothrus",
+        "uuid": "Compendium.pf2e.deities.Item.kvMjvTyMNODBA1N2"
+    },
+    {
+        "slug": "zarongel",
+        "uuid": "Compendium.pf2e.deities.Item.lDYntNcMZ8AKdlIU"
+    },
+    {
+        "slug": "zugero",
+        "uuid": "Compendium.pf2e.deities.Item.lPU0bl88a7cWWuyu"
+    },
+    {
+        "slug": "irez",
+        "uuid": "Compendium.pf2e.deities.Item.lSciGZGcbU9PJxQy"
+    },
+    {
+        "slug": "likha",
+        "uuid": "Compendium.pf2e.deities.Item.lUFMwdv1UOyzFhIM"
+    },
+    {
+        "slug": "prophecies-of-kalistrade",
+        "uuid": "Compendium.pf2e.deities.Item.lZ74P8kUA1ti808w"
+    },
+    {
+        "slug": "ulon",
+        "uuid": "Compendium.pf2e.deities.Item.lvCryIEcfy7XIbAc"
+    },
+    {
+        "slug": "thisamet",
+        "uuid": "Compendium.pf2e.deities.Item.m6UYxDnwGkOo8IY5"
+    },
+    {
+        "slug": "pahti-coatl",
+        "uuid": "Compendium.pf2e.deities.Item.mIoXpTRhcCs4PTdN"
+    },
+    {
+        "slug": "xhamen-dor",
+        "uuid": "Compendium.pf2e.deities.Item.mebdNVKeKuTmDDHj"
+    },
+    {
+        "slug": "erastil",
+        "uuid": "Compendium.pf2e.deities.Item.mm1j6UbHqFCI8fwB"
+    },
+    {
+        "slug": "thuskchoon",
+        "uuid": "Compendium.pf2e.deities.Item.mwqdXCX19j7ammfh"
+    },
+    {
+        "slug": "teshallas",
+        "uuid": "Compendium.pf2e.deities.Item.nawnLEk0rr7BgF1K"
+    },
+    {
+        "slug": "aroden",
+        "uuid": "Compendium.pf2e.deities.Item.neoMBrfYuNsmQagi"
+    },
+    {
+        "slug": "magrim",
+        "uuid": "Compendium.pf2e.deities.Item.nsiDGdgbAzkTQzOt"
+    },
+    {
+        "slug": "the-lantern-king",
+        "uuid": "Compendium.pf2e.deities.Item.nuqIimigyt986WLE"
+    },
+    {
+        "slug": "osiris",
+        "uuid": "Compendium.pf2e.deities.Item.nuvfUC4TcOvFbKxx"
+    },
+    {
+        "slug": "apsu",
+        "uuid": "Compendium.pf2e.deities.Item.o8ayCv3LAHWlu0vQ"
+    },
+    {
+        "slug": "ragdya",
+        "uuid": "Compendium.pf2e.deities.Item.o9tK1T28LNEVzpFV"
+    },
+    {
+        "slug": "apollyon",
+        "uuid": "Compendium.pf2e.deities.Item.oJPwMa9xG8oMnC14"
+    },
+    {
+        "slug": "bifrons",
+        "uuid": "Compendium.pf2e.deities.Item.oKuNQPNRHGong4jo"
+    },
+    {
+        "slug": "ghlaunder",
+        "uuid": "Compendium.pf2e.deities.Item.oRvuLq3o2FxXizt9"
+    },
+    {
+        "slug": "cosmic-caravan",
+        "uuid": "Compendium.pf2e.deities.Item.oV5cnlPJQS8JfMIg"
+    },
+    {
+        "slug": "god-calling",
+        "uuid": "Compendium.pf2e.deities.Item.oduHa5yyTisFsIRD"
+    },
+    {
+        "slug": "barbatos",
+        "uuid": "Compendium.pf2e.deities.Item.oiEo6tDP3gICHtfZ"
+    },
+    {
+        "slug": "mugura-and-nrithu",
+        "uuid": "Compendium.pf2e.deities.Item.omUWo1TQ6PDm5oeW"
+    },
+    {
+        "slug": "srikalis-sritaming-and-sribaril",
+        "uuid": "Compendium.pf2e.deities.Item.ox0AaGLIyzCUrre2"
+    },
+    {
+        "slug": "yig",
+        "uuid": "Compendium.pf2e.deities.Item.oxORi6rZmqZNdJyJ"
+    },
+    {
+        "slug": "dranngvit",
+        "uuid": "Compendium.pf2e.deities.Item.oyp2E685VsQFKMXi"
+    },
+    {
+        "slug": "the-endless-road",
+        "uuid": "Compendium.pf2e.deities.Item.p4TbCVOwHB4ccmT4"
+    },
+    {
+        "slug": "shivaska",
+        "uuid": "Compendium.pf2e.deities.Item.p4tkVSULWGHhYPGU"
+    },
+    {
+        "slug": "ahriman",
+        "uuid": "Compendium.pf2e.deities.Item.pCtJONJlhAugUXaG"
+    },
+    {
+        "slug": "inna",
+        "uuid": "Compendium.pf2e.deities.Item.pEm6tEGOhUbnwX4p"
+    },
+    {
+        "slug": "the-green-mother",
+        "uuid": "Compendium.pf2e.deities.Item.pVQzTL5elNTxvffu"
+    },
+    {
+        "slug": "verilorn",
+        "uuid": "Compendium.pf2e.deities.Item.pafYqAGj47TmGBib"
+    },
+    {
+        "slug": "naderi",
+        "uuid": "Compendium.pf2e.deities.Item.pm8H2DbtrHM01KNV"
+    },
+    {
+        "slug": "eyes-that-watch",
+        "uuid": "Compendium.pf2e.deities.Item.pqrmviqboqjeS4z8"
+    },
+    {
+        "slug": "norns",
+        "uuid": "Compendium.pf2e.deities.Item.psUfw455soFiUNlF"
+    },
+    {
+        "slug": "cixyron",
+        "uuid": "Compendium.pf2e.deities.Item.q4SyvGotD0LprYar"
+    },
+    {
+        "slug": "vorasha",
+        "uuid": "Compendium.pf2e.deities.Item.q5Rov9T1KTA0nJnm"
+    },
+    {
+        "slug": "breath-of-the-endless-sky",
+        "uuid": "Compendium.pf2e.deities.Item.q8DsNpcH49PxObcd"
+    },
+    {
+        "slug": "malthus",
+        "uuid": "Compendium.pf2e.deities.Item.qMwLAXcjZ16qkMml"
+    },
+    {
+        "slug": "dachzerul",
+        "uuid": "Compendium.pf2e.deities.Item.qfbZbNGQiiJ9hciP"
+    },
+    {
+        "slug": "furcas",
+        "uuid": "Compendium.pf2e.deities.Item.qmAMERMn2FvvvQwc"
+    },
+    {
+        "slug": "irori",
+        "uuid": "Compendium.pf2e.deities.Item.qqqrbq4uCrelQvgH"
+    },
+    {
+        "slug": "kurgess",
+        "uuid": "Compendium.pf2e.deities.Item.r5vooG7NfvA9prJK"
+    },
+    {
+        "slug": "lady-nanbyo",
+        "uuid": "Compendium.pf2e.deities.Item.r6SFB1PzKsagDXff"
+    },
+    {
+        "slug": "szuriel",
+        "uuid": "Compendium.pf2e.deities.Item.rDTXcBJ8LyqA2TkL"
+    },
+    {
+        "slug": "horus",
+        "uuid": "Compendium.pf2e.deities.Item.rRuxBgC58PxrLzRv"
+    },
+    {
+        "slug": "anogetz",
+        "uuid": "Compendium.pf2e.deities.Item.rXtm3Jbs7BBrxjk4"
+    },
+    {
+        "slug": "shei",
+        "uuid": "Compendium.pf2e.deities.Item.ra7mnjAZcEuJxI37"
+    },
+    {
+        "slug": "mahja-firehair",
+        "uuid": "Compendium.pf2e.deities.Item.rdA9jbvUZdT1Zr8Q"
+    },
+    {
+        "slug": "belial",
+        "uuid": "Compendium.pf2e.deities.Item.remyY1BwhEVmBwya"
+    },
+    {
+        "slug": "wheels-of-innovation",
+        "uuid": "Compendium.pf2e.deities.Item.rji8c4S3dZJIy4VU"
+    },
+    {
+        "slug": "shoanti-animism",
+        "uuid": "Compendium.pf2e.deities.Item.s1PgIQ8Oi35oS2Et"
+    },
+    {
+        "slug": "kerkamoth",
+        "uuid": "Compendium.pf2e.deities.Item.s81N9hxffmRuy3ik"
+    },
+    {
+        "slug": "shizuru",
+        "uuid": "Compendium.pf2e.deities.Item.s9opv94lGDRKnw6W"
+    },
+    {
+        "slug": "azathoth",
+        "uuid": "Compendium.pf2e.deities.Item.sILda7I8Ak20Ioj9"
+    },
+    {
+        "slug": "mammon",
+        "uuid": "Compendium.pf2e.deities.Item.sNjPI1iaS8Z43YJf"
+    },
+    {
+        "slug": "torag",
+        "uuid": "Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb"
+    },
+    {
+        "slug": "jukha",
+        "uuid": "Compendium.pf2e.deities.Item.sezTnLBBCYv3ZrZN"
+    },
+    {
+        "slug": "immonhiel",
+        "uuid": "Compendium.pf2e.deities.Item.smGfeOk8Jgcz0Qkv"
+    },
+    {
+        "slug": "casandalee",
+        "uuid": "Compendium.pf2e.deities.Item.soiVh53y9RAeSLEk"
+    },
+    {
+        "slug": "gozreh",
+        "uuid": "Compendium.pf2e.deities.Item.swwwP7eVmlNuWTb7"
+    },
+    {
+        "slug": "liisglan",
+        "uuid": "Compendium.pf2e.deities.Item.t6Vn590vTLDlVUdo"
+    },
+    {
+        "slug": "ongalte",
+        "uuid": "Compendium.pf2e.deities.Item.tOXJ90TOPlzfNdql"
+    },
+    {
+        "slug": "yamatsumi",
+        "uuid": "Compendium.pf2e.deities.Item.tb0oADxOoMhyrYRA"
+    },
+    {
+        "slug": "charon",
+        "uuid": "Compendium.pf2e.deities.Item.tcXrtRYCOr2EmgGB"
+    },
+    {
+        "slug": "gruhastha",
+        "uuid": "Compendium.pf2e.deities.Item.tcvobm8O84qv0aO5"
+    },
+    {
+        "slug": "grundinnar",
+        "uuid": "Compendium.pf2e.deities.Item.tk7gRxXsqvBwQrUF"
+    },
+    {
+        "slug": "cthulhu",
+        "uuid": "Compendium.pf2e.deities.Item.tnAmR9WxWoEehDZw"
+    },
+    {
+        "slug": "kelinahat",
+        "uuid": "Compendium.pf2e.deities.Item.u0H9wcgttBI9Ef1j"
+    },
+    {
+        "slug": "suyuddha",
+        "uuid": "Compendium.pf2e.deities.Item.u2tnG7fKkZ2KHMcT"
+    },
+    {
+        "slug": "raumya",
+        "uuid": "Compendium.pf2e.deities.Item.u3YfcJh1C4w6n75j"
+    },
+    {
+        "slug": "keltheald",
+        "uuid": "Compendium.pf2e.deities.Item.u5z1YYlpuBGdTzS9"
+    },
+    {
+        "slug": "neshen",
+        "uuid": "Compendium.pf2e.deities.Item.uTRswfDyjndlQZJ1"
+    },
+    {
+        "slug": "alglenweis",
+        "uuid": "Compendium.pf2e.deities.Item.uXkMGx0OD896ZQlT"
+    },
+    {
+        "slug": "yuelral",
+        "uuid": "Compendium.pf2e.deities.Item.uYpxTi4byHc5w78R"
+    },
+    {
+        "slug": "luhar",
+        "uuid": "Compendium.pf2e.deities.Item.ub0PJ5QkrdoGzzb2"
+    },
+    {
+        "slug": "enkaar",
+        "uuid": "Compendium.pf2e.deities.Item.upRQcwjjaksc1g7h"
+    },
+    {
+        "slug": "ardad-lili",
+        "uuid": "Compendium.pf2e.deities.Item.uydTiyN5AzhBnQY8"
+    },
+    {
+        "slug": "uskyeria",
+        "uuid": "Compendium.pf2e.deities.Item.v03ImN8VkF3cz7MI"
+    },
+    {
+        "slug": "zeaki",
+        "uuid": "Compendium.pf2e.deities.Item.v1HIqHBRvpUUbKgY"
+    },
+    {
+        "slug": "mazludeh",
+        "uuid": "Compendium.pf2e.deities.Item.v1fsLP6nTkiy5ghB"
+    },
+    {
+        "slug": "cayden-cailean",
+        "uuid": "Compendium.pf2e.deities.Item.v67fHklTZ6LoU54q"
+    },
+    {
+        "slug": "brigh",
+        "uuid": "Compendium.pf2e.deities.Item.vEMCpm7iidycRT5D"
+    },
+    {
+        "slug": "count-ranalc",
+        "uuid": "Compendium.pf2e.deities.Item.vSUz97Y29l1O50bC"
+    },
+    {
+        "slug": "teki-stronggut",
+        "uuid": "Compendium.pf2e.deities.Item.vjG96N3HYdK7xvh6"
+    },
+    {
+        "slug": "soralyon",
+        "uuid": "Compendium.pf2e.deities.Item.vnmoAGURp8oWCY6R"
+    },
+    {
+        "slug": "deshto",
+        "uuid": "Compendium.pf2e.deities.Item.w4aANcazJr1dSH0c"
+    },
+    {
+        "slug": "uvuko",
+        "uuid": "Compendium.pf2e.deities.Item.w4fDrwL8VIqJDPfR"
+    },
+    {
+        "slug": "lissala",
+        "uuid": "Compendium.pf2e.deities.Item.w66gCNiZ7dslqG8K"
+    },
+    {
+        "slug": "hearth-and-harvest",
+        "uuid": "Compendium.pf2e.deities.Item.w7B4HD5XOFaLb3ZG"
+    },
+    {
+        "slug": "ussharassim",
+        "uuid": "Compendium.pf2e.deities.Item.w8Pfl5syV0vaEuTM"
+    },
+    {
+        "slug": "jin-li",
+        "uuid": "Compendium.pf2e.deities.Item.w9vtltygWNG4eZDR"
+    },
+    {
+        "slug": "ozranvial",
+        "uuid": "Compendium.pf2e.deities.Item.wXRJe0QsebyqQ1L0"
+    },
+    {
+        "slug": "ketephys",
+        "uuid": "Compendium.pf2e.deities.Item.wjXNXFWBLbJaeZQR"
+    },
+    {
+        "slug": "besmara",
+        "uuid": "Compendium.pf2e.deities.Item.wkDOeK7ENz1ra8IC"
+    },
+    {
+        "slug": "ra",
+        "uuid": "Compendium.pf2e.deities.Item.woDEgBs1MznhzpJ4"
+    },
+    {
+        "slug": "tjasse",
+        "uuid": "Compendium.pf2e.deities.Item.wtXlsIbYRjwuCexX"
+    },
+    {
+        "slug": "tolte-coatl",
+        "uuid": "Compendium.pf2e.deities.Item.wyKJRFrEJdRFtsha"
+    },
+    {
+        "slug": "upion-and-warrik",
+        "uuid": "Compendium.pf2e.deities.Item.xDHJU43e9Bw7GwYm"
+    },
+    {
+        "slug": "laudinmio",
+        "uuid": "Compendium.pf2e.deities.Item.xLbSMedLDFyb8sFw"
+    },
+    {
+        "slug": "selket",
+        "uuid": "Compendium.pf2e.deities.Item.xTD0XFaguBX6QQ2L"
+    },
+    {
+        "slug": "haggakal",
+        "uuid": "Compendium.pf2e.deities.Item.xpny4ZzlExIbGs6a"
+    },
+    {
+        "slug": "lady-jingxi",
+        "uuid": "Compendium.pf2e.deities.Item.xu05XGotyT5st56H"
+    },
+    {
+        "slug": "lalaci",
+        "uuid": "Compendium.pf2e.deities.Item.xyHhtBdNQGyldsKQ"
+    },
+    {
+        "slug": "ytildos",
+        "uuid": "Compendium.pf2e.deities.Item.y1aoHudIXFqYwWXP"
+    },
+    {
+        "slug": "demon-bringers",
+        "uuid": "Compendium.pf2e.deities.Item.y3RlZ3FnbZN8wv8j"
+    },
+    {
+        "slug": "thremyr",
+        "uuid": "Compendium.pf2e.deities.Item.y7aYkVd72Kh6ydWi"
+    },
+    {
+        "slug": "vildeis",
+        "uuid": "Compendium.pf2e.deities.Item.y93whGnGZjFyw5A0"
+    },
+    {
+        "slug": "sky-keepers",
+        "uuid": "Compendium.pf2e.deities.Item.yIfdsL1788boOOYk"
+    },
+    {
+        "slug": "conqueror-worm",
+        "uuid": "Compendium.pf2e.deities.Item.yX5U1Uvdug9i08nU"
+    },
+    {
+        "slug": "chamidu",
+        "uuid": "Compendium.pf2e.deities.Item.yiKle2URZ43KYVKQ"
+    },
+    {
+        "slug": "lorris",
+        "uuid": "Compendium.pf2e.deities.Item.ykqWA3pS0045DRs4"
+    },
+    {
+        "slug": "alazhra",
+        "uuid": "Compendium.pf2e.deities.Item.yxttKoBEx93T3dWl"
+    },
+    {
+        "slug": "garhaazh",
+        "uuid": "Compendium.pf2e.deities.Item.yyqLBsREH5PGMPxm"
+    },
+    {
+        "slug": "kzininn",
+        "uuid": "Compendium.pf2e.deities.Item.zI3qO0KCBKxe0Ui1"
+    },
+    {
+        "slug": "chavazvug",
+        "uuid": "Compendium.pf2e.deities.Item.zQbb1kAQJkPfiDIh"
+    },
+    {
+        "slug": "bastet",
+        "uuid": "Compendium.pf2e.deities.Item.zRmAXj7FSlrMfDeA"
+    },
+    {
+        "slug": "the-deliberate-journey",
+        "uuid": "Compendium.pf2e.deities.Item.zgM2jsxw52HjALV0"
+    },
+    {
+        "slug": "kols",
+        "uuid": "Compendium.pf2e.deities.Item.zhPhYge7VJbIlJvA"
+    },
+    {
+        "slug": "fortunes-fate",
+        "uuid": "Compendium.pf2e.deities.Item.zhXBavaHMCwnVpYA"
+    },
+    {
+        "slug": "gyronna",
+        "uuid": "Compendium.pf2e.deities.Item.zlJGKpeLBwajP91o"
+    },
+    {
+        "slug": "shax",
+        "uuid": "Compendium.pf2e.deities.Item.zzhYFcShT9JoE2Mp"
+    }
+]

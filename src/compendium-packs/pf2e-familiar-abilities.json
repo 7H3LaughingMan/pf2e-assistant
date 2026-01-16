@@ -1,0 +1,446 @@
+[
+    {
+        "slug": "lightning-needles",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.0R18Nd0CotPo9KD7"
+    },
+    {
+        "slug": "darkvision",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.0Xrkk46IM43iI1Fv"
+    },
+    {
+        "slug": "versatile-form",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.0rq3ufpxB9iHlIkd"
+    },
+    {
+        "slug": "mass-produced",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.1fRkeUkPJFiBJ5u6"
+    },
+    {
+        "slug": "seal-bearer",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.2GMAPffXVayRFsLM"
+    },
+    {
+        "slug": "independent",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.2fiQzoEKu6YUnrU9"
+    },
+    {
+        "slug": "radiant",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.3y6GGXQgyJ4Hq4Yt"
+    },
+    {
+        "slug": "purify-air",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.43xB5UnexISlfRa5"
+    },
+    {
+        "slug": "elemental-familiar-fire",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.5019hvUZcNe9dLEO"
+    },
+    {
+        "slug": "plant-form",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.57b8u8s3fV0UCrgJ"
+    },
+    {
+        "slug": "construct",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.5eqcXtPsYunphMOZ"
+    },
+    {
+        "slug": "familiar-of-balanced-luck",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.6ZmgkMHUGGb1mDhr"
+    },
+    {
+        "slug": "flatten",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.6cwswBPHm1GWdx5j"
+    },
+    {
+        "slug": "lab-assistant",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.7QosmRHlyLLhU1hX"
+    },
+    {
+        "slug": "ambassador",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.7ZxPS0UU7pf7wjp0"
+    },
+    {
+        "slug": "poison-reservoir",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.8Z1UkLEWkFWIjOF8"
+    },
+    {
+        "slug": "accompanist",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.92lgSEPFIDLvKOCF"
+    },
+    {
+        "slug": "valet",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.9PsptrEoCC4QdM23"
+    },
+    {
+        "slug": "familiar-of-freezing-rime",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.9xTjRt8LkZPB42Vi"
+    },
+    {
+        "slug": "familiar-of-flowing-script",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.9ypX5ZMor6RMiFKv"
+    },
+    {
+        "slug": "amphibious",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.A0C86V3MUECpX5jd"
+    },
+    {
+        "slug": "wavesense",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Amzezp93MZckBYRZ"
+    },
+    {
+        "slug": "fast-movement",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.BXssJhTJjKrfojwG"
+    },
+    {
+        "slug": "mask-freeze",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.C16JgmeJJG249WXz"
+    },
+    {
+        "slug": "innate-surge",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.D0ltNUJnN7UjJpA1"
+    },
+    {
+        "slug": "resistance",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.FcQQLMAJMgOLjnSv"
+    },
+    {
+        "slug": "familiar-of-stalking-night",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.FeEts6s2ABVEi0H6"
+    },
+    {
+        "slug": "scent",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.FlRUb8U13Crj3NaA"
+    },
+    {
+        "slug": "familiar-of-obscuring-snowfall",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Fouq5RMNS8P1CDzx"
+    },
+    {
+        "slug": "familiar-of-bolstering-aid",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.HNoR0D2sKQaDNh5Z"
+    },
+    {
+        "slug": "familiar-of-parasitic-might",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.J5Wyh1EPmk848ivR"
+    },
+    {
+        "slug": "masters-form",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.JRP2bdkdCdj2JDrq"
+    },
+    {
+        "slug": "grasping-tendrils",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.LUBS9csNNgRTui4p"
+    },
+    {
+        "slug": "tough",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Le8UWr5BU8rV3iBf"
+    },
+    {
+        "slug": "tremorsense",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.LrDnat1DsGJoAiKv"
+    },
+    {
+        "slug": "soul-bond",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.MGcVYSWZvaoEAISV"
+    },
+    {
+        "slug": "extra-alchemy",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ModT5b0jvnaitzJH"
+    },
+    {
+        "slug": "item-delivery",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Ms8EVO2mNbr4Zp1i"
+    },
+    {
+        "slug": "path-of-the-tempest",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.O0XJIvMGK36yg9TJ"
+    },
+    {
+        "slug": "focused-rejuvenation",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.O5TIjqXAuta8iVSz"
+    },
+    {
+        "slug": "kick-up-dust",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.PFH7Y57hbdBvebvp"
+    },
+    {
+        "slug": "restorative-familiar",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Q42nrq9LwDdbeZM5"
+    },
+    {
+        "slug": "recall-familiar",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.REJfFezELjc5Gzsy"
+    },
+    {
+        "slug": "elemental-familiar-air",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.RIx6b1GvTEBh4ExW"
+    },
+    {
+        "slug": "medic",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ReIgBsaM95BTvHpN"
+    },
+    {
+        "slug": "alchemical-gut",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Rv1KTRioaZOWyQI6"
+    },
+    {
+        "slug": "verdant-burst",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.SKIS1xexaOvrecdV"
+    },
+    {
+        "slug": "touch-telepathy",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.XCqYnlVbLGqEGPeX"
+    },
+    {
+        "slug": "elemental-familiar-wood",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.XYb2udoNGaE0M11Y"
+    },
+    {
+        "slug": "spell-battery",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.Xanjwv4YU0CBnsMw"
+    },
+    {
+        "slug": "familiar-of-insightful-observation",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.YptMhsztTS9dYGAY"
+    },
+    {
+        "slug": "familiar-of-restored-spirit",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ZCze1FY3Rmnvd6Dx"
+    },
+    {
+        "slug": "flier",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ZHSzNt3NxkXbj1mI"
+    },
+    {
+        "slug": "elemental-familiar-metal",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ZJdMyCjRvUTtg90u"
+    },
+    {
+        "slug": "elemental-familiar-earth",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ZV4J5YTZGrqh6cvY"
+    },
+    {
+        "slug": "extra-vial",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ZtKb89o1PPhwJ3Lx"
+    },
+    {
+        "slug": "threat-display",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.aEKA3YWekLhEhuV8"
+    },
+    {
+        "slug": "spellcasting",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.asOhEdyF8CWFbR96"
+    },
+    {
+        "slug": "familiar-of-paired-perplexity",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.bhpa7DVdMsaNfodz"
+    },
+    {
+        "slug": "manual-dexterity",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.cT5octWchU4gjrhP"
+    },
+    {
+        "slug": "elemental",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ch6nFcRJO1fm8B4D"
+    },
+    {
+        "slug": "erudite",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.cy7bdQqVANipyljS"
+    },
+    {
+        "slug": "climber",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.dWTfO5WbLkD5mw2H"
+    },
+    {
+        "slug": "lifelink",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.deC1yIM2S5szGdzT"
+    },
+    {
+        "slug": "darkeater",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.dpjf1CyMEILpJWyp"
+    },
+    {
+        "slug": "dragon",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.embGS7NjgydDw8KO"
+    },
+    {
+        "slug": "jet",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.fhyQ6uTSvfErTzyE"
+    },
+    {
+        "slug": "snoop",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.fmsVItn94FeY5Q3X"
+    },
+    {
+        "slug": "share-senses",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.gPceRQqO847lvSnb"
+    },
+    {
+        "slug": "kindling",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.gVPtUSEPZYGRIRyQ"
+    },
+    {
+        "slug": "major-resistance",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.hMrxiUPHXKpKu1Ha"
+    },
+    {
+        "slug": "absorb-familiar",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.iBZzOaRNodGtfMVJ"
+    },
+    {
+        "slug": "shadow-step",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.j1qZiH50Bl2SJ8vT"
+    },
+    {
+        "slug": "second-opinion",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.j9vOSbF9kLibhSIf"
+    },
+    {
+        "slug": "synchronize-spirit",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.jPvjeX1CsUZQSszu"
+    },
+    {
+        "slug": "familiar-focus",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.jdlefpPcSCIe27vO"
+    },
+    {
+        "slug": "skilled",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.jevzf9JbJJibpqaI"
+    },
+    {
+        "slug": "fungus",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.jew52aXGdNyR4N5B"
+    },
+    {
+        "slug": "echolocation",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.jfCmKk6pXcINVROk"
+    },
+    {
+        "slug": "plant",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.lLWkoGiNLNIEm5Sp"
+    },
+    {
+        "slug": "gills",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.lpyJAl5B4j2DC7mc"
+    },
+    {
+        "slug": "dazzling-show",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.m8wjlYnTAAfddWyA"
+    },
+    {
+        "slug": "elemental-familiar-water",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.mIl4YjbssQ5AERWS"
+    },
+    {
+        "slug": "damage-avoidance",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.mK3mAUWiRLZZYNdz"
+    },
+    {
+        "slug": "augury",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.mKmBgQmPmiLOlEvw"
+    },
+    {
+        "slug": "familiar-of-ongoing-misery",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.mu9OL8v4rmr9311e"
+    },
+    {
+        "slug": "vina-song",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.nLrXleY20sESisoW"
+    },
+    {
+        "slug": "spirit-touch",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.nrPl3Dz7fbnmas7T"
+    },
+    {
+        "slug": "soul-sight",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.o0fxDDUu2ZSWYDTr"
+    },
+    {
+        "slug": "stunning-flare",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.oOpppkBhLcfaKZN4"
+    },
+    {
+        "slug": "familiar-of-keen-senses",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.onye3PN84lmca11D"
+    },
+    {
+        "slug": "luminous",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.ou91pzf9TlOnIjYn"
+    },
+    {
+        "slug": "play-dead",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.pX73zPGaazVJ0lKO"
+    },
+    {
+        "slug": "levitator",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.q9IXWngAOCpsXxsO"
+    },
+    {
+        "slug": "kinspeech",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.qTxH8mSOvc4PMzrP"
+    },
+    {
+        "slug": "cantrip-connection",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.rs4Awf4k1e0Mj797"
+    },
+    {
+        "slug": "familiar-of-swarms-heart",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.t6nzeTpsTJDwAUFZ"
+    },
+    {
+        "slug": "tattoo-transformation",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.tEWAHPPZULvPgHnT"
+    },
+    {
+        "slug": "pot-of-tea",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.u4Sp4K4WOi461xo1"
+    },
+    {
+        "slug": "familiar-of-nimble-flight",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.uFsWy6Ii1WxA0u0w"
+    },
+    {
+        "slug": "toolbearer",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.uUrsZ4WvhjKjFjnt"
+    },
+    {
+        "slug": "burrower",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.uy15sDBuYNK48N3v"
+    },
+    {
+        "slug": "partner-in-crime",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.v7zE3tKQb9G6PaYU"
+    },
+    {
+        "slug": "spell-delivery",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.wOgvBymJOVQDSm1Q"
+    },
+    {
+        "slug": "animated",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.wcFeaZ0TmoaLtpIQ"
+    },
+    {
+        "slug": "familiar-of-overwhelming-tides",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.xH7lvZkYYAAuxR62"
+    },
+    {
+        "slug": "familiar-of-enticing-negotiation",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.xXMPZXcwQgKRAu38"
+    },
+    {
+        "slug": "shadow-projection",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.yiIE9iWx6OLd61Qs"
+    },
+    {
+        "slug": "greater-resistance",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.zKTL9y9et0oTHEYS"
+    },
+    {
+        "slug": "lightning-armillary",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.zwWgHjcU0iZ6gUDY"
+    },
+    {
+        "slug": "speech",
+        "uuid": "Compendium.pf2e.familiar-abilities.Item.zyMRLQnFCQVpltiR"
+    }
+]

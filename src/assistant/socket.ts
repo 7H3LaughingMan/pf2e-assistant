@@ -5,6 +5,7 @@ import {
     ChatMessagePF2e,
     CheckDC,
     CheckDCReference,
+    CheckRoll,
     ConditionPF2e,
     ConditionSlug,
     ConditionSource,
@@ -14,6 +15,7 @@ import {
     SaveType,
     TokenDocumentPF2e
 } from "foundry-pf2e";
+import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
 import {
     ActorUUID,
     ChatMessageUUID,
@@ -21,6 +23,7 @@ import {
     TokenDocumentUUID
 } from "foundry-pf2e/foundry/common/documents/_module.mjs";
 import { Utils } from "utils.ts";
+import { ActorToken, isActorToken } from "./data.ts";
 import { AddItem, RemoveItem, UpdateCondition } from "./reroll.ts";
 
 export class Socket {
@@ -61,71 +64,39 @@ export class Socket {
     async addEffect(
         actor: ActorPF2e,
         effectUuid: ItemUUID,
-        data: SocketTypes.Effect.AddEffectData
+        data: {
+            origin: ActorToken;
+            item?: ItemPF2e;
+            target?: ActorToken;
+            roll?: Pick<Rolled<CheckRoll>, "total" | "degreeOfSuccess">;
+            duration?: EffectSystemData["duration"];
+            choiceSet?: { flag?: string; selection: string | number | boolean };
+            tokenMark?: { slug: string; token: TokenDocumentPF2e };
+        }
     ): Promise<RemoveItem[]> {
         const effect = await fromUuid<ItemPF2e>(effectUuid);
         if (!effect?.isOfType("effect")) return [];
 
-        const item = data.item?.uuid ?? null;
-        const spellcasting =
-            data.item?.isOfType("spell") && data.item.spellcasting
-                ? {
-                      attribute: {
-                          type: data.item.attribute,
-                          mod: data.item.spellcasting.statistic?.attributeModifier?.value ?? 0
-                      },
-                      tradition: data.item.spellcasting.tradition
-                  }
-                : null;
-        const rollOptions = [data.origin.actor.getSelfRollOptions("origin"), data.item?.getRollOptions("origin:item")]
-            .flat()
-            .filter(Utils.Remeda.isTruthy);
-
-        const origin = {
-            actor: data.origin.actor.uuid,
-            token: data.origin.token.uuid,
-            item,
-            spellcasting,
-            rollOptions
-        };
-        const target = data.target ? { actor: data.target.actor.uuid, token: data.target.token.uuid } : null;
-        const roll =
-            data.roll?.total && data.roll?.degreeOfSuccess
-                ? { total: data.roll.total, degreeOfSuccess: data.roll.degreeOfSuccess }
-                : null;
-
         const effectSource = effect.toObject();
-        effectSource.system.context = {
-            origin,
-            target,
-            roll
-        };
+
+        Utils.Effect.addContext(effectSource, {
+            origin: data.origin,
+            item: data.item,
+            target: data.target,
+            roll: data.roll
+        });
 
         if (data.duration) {
-            effectSource.system.duration = data.duration;
+            Utils.Effect.setDuration(effectSource, data.duration);
         }
 
         if (data.choiceSet) {
-            const choiceSet = effectSource.system.rules
-                .filter(Utils.Rules.isChoiceSet)
-                .find((rule) => (data.choiceSet?.flag === undefined ? true : rule.flag === data.choiceSet.flag));
-
-            if (choiceSet) {
-                choiceSet.selection = data.choiceSet.selection;
-            }
+            Utils.Effect.setChoiceSet(effectSource, data.choiceSet);
         }
 
         if (data.tokenMark) {
-            const tokenMark = effectSource.system.rules
-                .filter(Utils.Rules.isTokenMark)
-                .find((rule) => rule.slug === data.tokenMark?.slug);
-
-            if (tokenMark) {
-                tokenMark.uuid = data.tokenMark.token.uuid;
-            }
+            Utils.Effect.setTokenMark(effectSource, data.tokenMark);
         }
-
-        if (data.item?.isOfType("spell")) effectSource.system.level.value = data.item.rank;
 
         return await this.createEmbeddedItem(actor, effectSource);
     }
@@ -418,7 +389,16 @@ export class Socket {
         return await game.assistant.socket.removeCondition(actor, conditionSlug);
     }
 
-    async rollSave(actor: ActorPF2e, save: SaveType, args: SocketTypes.Save.RollParameters) {
+    async rollSave(
+        actor: ActorPF2e,
+        save: SaveType,
+        args: {
+            origin?: ActorPF2e;
+            dc?: CheckDC | CheckDCReference | number | null;
+            extraRollOptions?: string[];
+            skipDialog?: boolean;
+        }
+    ) {
         if (!actor.canUserModify(game.user, "update")) {
             await this.#executeAsActor(actor, "rollSave", actor.uuid, save, {
                 origin: args.origin?.uuid,
@@ -432,12 +412,21 @@ export class Socket {
         await actor.saves?.[save]?.roll(args);
     }
 
-    async #rollSave(actorUuid: ActorUUID, save: SaveType, args: SocketTypes.Save.SerializedRollParameters) {
+    async #rollSave(
+        actorUuid: ActorUUID,
+        save: SaveType,
+        args: {
+            origin?: ActorUUID;
+            dc?: CheckDC | CheckDCReference | number | null;
+            extraRollOptions?: string[];
+            skipDialog?: boolean;
+        }
+    ) {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return;
 
         await game.assistant.socket.rollSave(actor, save, {
-            origin: args.origin ? await fromUuid<ActorPF2e>(args.origin) : undefined,
+            origin: args.origin ? ((await fromUuid<ActorPF2e>(args.origin)) ?? undefined) : undefined,
             dc: args.dc,
             extraRollOptions: args.extraRollOptions,
             skipDialog: args.skipDialog
@@ -477,7 +466,15 @@ export class Socket {
         await game.assistant.socket.updateChatMessage(chatMessage, tokenId, reroll);
     }
 
-    async promptChoice(actor: ActorPF2e, param: SocketTypes.Prompt.ChoiceParameters): Promise<ChatMessageUUID[]> {
+    async promptChoice(
+        actor: ActorPF2e,
+        param: {
+            speaker: { actor: ActorPF2e; token: TokenDocumentPF2e };
+            item?: ItemPF2e;
+            target?: { actor: ActorPF2e; token: TokenDocumentPF2e };
+            data: ChoiceData;
+        }
+    ): Promise<ChatMessageUUID[]> {
         if (!actor.canUserModify(game.user, "update")) {
             return (
                 (await this.#executeAsActor(actor, "promptChoice", actor.uuid, {
@@ -533,7 +530,12 @@ export class Socket {
 
     async #promptChoice(
         actorUuid: ActorUUID,
-        param: SocketTypes.Prompt.SerializedChoiceParameters
+        param: {
+            speaker: { actor: ActorUUID; token: TokenDocumentUUID };
+            item?: ItemUUID;
+            target?: { actor: ActorUUID; token: TokenDocumentUUID };
+            data: ChoiceData;
+        }
     ): Promise<ChatMessageUUID[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
@@ -551,11 +553,11 @@ export class Socket {
             : undefined;
         const data = param.data;
 
-        if (SocketTypes.isActorToken(speaker)) {
+        if (isActorToken(speaker)) {
             return await game.assistant.socket.promptChoice(actor, {
                 speaker,
                 item: item ? item : undefined,
-                target: SocketTypes.isActorToken(target) ? target : undefined,
+                target: isActorToken(target) ? target : undefined,
                 data
             });
         }
@@ -564,79 +566,12 @@ export class Socket {
     }
 }
 
-// eslint-disable-next-line @typescript-eslint/no-namespace
-namespace SocketTypes {
-    export function isActorToken(data?: {
-        actor: Maybe<ActorPF2e>;
-        token: Maybe<TokenDocumentPF2e>;
-    }): data is ActorToken {
-        return Utils.Remeda.isNonNullish(data?.actor) && Utils.Remeda.isNonNullish(data?.token);
-    }
+interface ChoiceData {
+    description: string;
+    choices: Choice[];
+}
 
-    export interface ActorToken {
-        actor: ActorPF2e;
-        token: TokenDocumentPF2e;
-    }
-
-    export interface SerializedActorToken {
-        actor: ActorUUID;
-        token: TokenDocumentUUID;
-    }
-
-    // eslint-disable-next-line @typescript-eslint/no-namespace
-    export namespace Effect {
-        export interface AddEffectData {
-            origin: ActorToken;
-            item?: ItemPF2e;
-            target?: ActorToken;
-            roll?: NonNullable<EffectSystemData["context"]>["roll"];
-            duration?: EffectSystemData["duration"];
-            choiceSet?: { flag?: string; selection: string | number | boolean };
-            tokenMark?: { slug: string; token: TokenDocumentPF2e };
-        }
-    }
-
-    // eslint-disable-next-line @typescript-eslint/no-namespace
-    export namespace Prompt {
-        export interface SerializedChoiceParameters {
-            speaker: { actor: ActorUUID; token: TokenDocumentUUID };
-            item?: ItemUUID;
-            target?: { actor: ActorUUID; token: TokenDocumentUUID };
-            data: ChoiceData;
-        }
-
-        export interface ChoiceParameters {
-            speaker: { actor: ActorPF2e; token: TokenDocumentPF2e };
-            item?: ItemPF2e;
-            target?: { actor: ActorPF2e; token: TokenDocumentPF2e };
-            data: ChoiceData;
-        }
-
-        export interface ChoiceData {
-            description: string;
-            choices: Choice[];
-        }
-
-        export interface Choice {
-            label: string;
-            value: string;
-        }
-    }
-
-    // eslint-disable-next-line @typescript-eslint/no-namespace
-    export namespace Save {
-        export interface RollParameters {
-            origin?: Maybe<ActorPF2e>;
-            dc?: CheckDC | CheckDCReference | number | null;
-            extraRollOptions?: string[];
-            skipDialog?: boolean;
-        }
-
-        export interface SerializedRollParameters {
-            origin?: ActorUUID;
-            dc?: CheckDC | CheckDCReference | number | null;
-            extraRollOptions?: string[];
-            skipDialog?: boolean;
-        }
-    }
+interface Choice {
+    label: string;
+    value: string;
 }

@@ -1,4 +1,4 @@
-import { ActorPF2e, CheckDC, EffectPF2e, UserPF2e, ZeroToThree } from "foundry-pf2e";
+import { ActorPF2e, CheckDC, ConditionSlug, EffectPF2e, UserPF2e, ZeroToThree } from "foundry-pf2e";
 
 export function getClassDC(actor: ActorPF2e): CheckDC | number | undefined {
     if (actor.isOfType("character")) {
@@ -26,6 +26,18 @@ export function getPrimaryUser(actor: ActorPF2e): UserPF2e | null {
     if (activeUpdaters.length === 1) return activeUpdaters[0];
 
     return game.users.activeGM;
+}
+
+export function hasCondition(actor: ActorPF2e, conditionSlug: ConditionSlug, value?: number): boolean {
+    let conditions = actor.itemTypes.condition.filter(
+        (condition) => condition.slug === conditionSlug && !condition.isLocked && condition.active
+    );
+
+    if (value) {
+        conditions = conditions.filter((condition) => condition.value ?? 0 >= value);
+    }
+
+    return conditions.length !== 0;
 }
 
 export function hasEffect(

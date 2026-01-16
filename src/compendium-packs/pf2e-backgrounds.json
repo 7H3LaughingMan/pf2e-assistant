@@ -1,0 +1,1938 @@
+[
+    {
+        "slug": "child-of-the-twin-village",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0FgYkkKv9u8zxWiO"
+    },
+    {
+        "slug": "self-made",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0WHhhWcbI0N7wFJx"
+    },
+    {
+        "slug": "amnesiac",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0ZfBP7Tp2P3WN7Dp"
+    },
+    {
+        "slug": "alkenstar-tinker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0c9Np7Yq5JSxZ6Tb"
+    },
+    {
+        "slug": "acupuncturist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0dv9Qun0pFdgroOs"
+    },
+    {
+        "slug": "dauntless",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0ncxOTCDptu01nR8"
+    },
+    {
+        "slug": "willowshore-urchin",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0oTvU8dNFcT42CWV"
+    },
+    {
+        "slug": "surge-investigator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0otxwSLobUCf0l1I"
+    },
+    {
+        "slug": "silk-farmer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0w8QWZdorISJk4al"
+    },
+    {
+        "slug": "gossip",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0w9T1SAF6mmqLoWY"
+    },
+    {
+        "slug": "back-alley-doctor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0wzTmGUb8yvzMrO0"
+    },
+    {
+        "slug": "haunting-vision",
+        "uuid": "Compendium.pf2e.backgrounds.Item.0z0PSizHviOehdJF"
+    },
+    {
+        "slug": "haunted-citizen",
+        "uuid": "Compendium.pf2e.backgrounds.Item.18Jzk3gAsXspFOYC"
+    },
+    {
+        "slug": "sentinel-reflectance",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1Fpf40RBd0EgwP7R"
+    },
+    {
+        "slug": "hired-killer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1M91pTjatEejBjEl"
+    },
+    {
+        "slug": "godless-graycloak",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1VdLr4Qm8fv1m4tM"
+    },
+    {
+        "slug": "bachuan-revolutionary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1W1MSkqSi7ysK6Hv"
+    },
+    {
+        "slug": "academy-dropout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1bjReaLqCD9pvBJ3"
+    },
+    {
+        "slug": "quick-refugee",
+        "uuid": "Compendium.pf2e.backgrounds.Item.22X8QMu7Z1mJzNWC"
+    },
+    {
+        "slug": "dendrologist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.29mBzKZ7TRm2TizG"
+    },
+    {
+        "slug": "tech-reliant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2FUdcPsXwoWT1bms"
+    },
+    {
+        "slug": "undertaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2Mm0BHMJZhqIqoQG"
+    },
+    {
+        "slug": "circuit-judge",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2TImvKwcFLDVhzUC"
+    },
+    {
+        "slug": "thrill-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2UXBsyJFimwYOUFQ"
+    },
+    {
+        "slug": "southbank-traditionalist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2W2jadmj4gPNfdQ9"
+    },
+    {
+        "slug": "laborer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2bzqI0D4J3LUi8nq"
+    },
+    {
+        "slug": "harrow-led",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2jeonnY3GZTdEMsm"
+    },
+    {
+        "slug": "fireworks-performer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2lk5NOcu1aUglUdK"
+    },
+    {
+        "slug": "northridge-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2nt2nsQMBXgQRlOu"
+    },
+    {
+        "slug": "desert-tracker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2qH61dLeaqgNOdOp"
+    },
+    {
+        "slug": "planar-migrant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2sRZ6OsvHIpwGCAg"
+    },
+    {
+        "slug": "lost-loved-one",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2wGmG7ntcnkvtw8l"
+    },
+    {
+        "slug": "historical-reenactor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.2zYdTia5t7w6J2ey"
+    },
+    {
+        "slug": "green-faith-pilgrim",
+        "uuid": "Compendium.pf2e.backgrounds.Item.32S5SSVPCbod2GSl"
+    },
+    {
+        "slug": "arcane-revolutionary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3Ax5uJqoRPnBQyQy"
+    },
+    {
+        "slug": "traveling-gourmand",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3G7dv8w7umrLhobL"
+    },
+    {
+        "slug": "fogfen-tale-teller",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3M2FRDlunjFshzbq"
+    },
+    {
+        "slug": "emissary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3WPo7m6rJQh9L7MN"
+    },
+    {
+        "slug": "astrologer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3YQ1Wcjzk8ftoyo7"
+    },
+    {
+        "slug": "fortune-teller",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3frMfODIYFeqTl2k"
+    },
+    {
+        "slug": "cook",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3gN09dOT2hMwGcK2"
+    },
+    {
+        "slug": "aiudara-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3kXTGUvodNMnJTxb"
+    },
+    {
+        "slug": "diobel-pearl-diver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.3wLnNwWnZ2dHIbV4"
+    },
+    {
+        "slug": "crystal-healer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.44T9XsTcTbmMhtc1"
+    },
+    {
+        "slug": "borderlands-pioneer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4II2KZpizlBBcfCy"
+    },
+    {
+        "slug": "saloon-entertainer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4KCa67gyxUn60zdf"
+    },
+    {
+        "slug": "saboteur",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4Vc8uXVHonrasFnU"
+    },
+    {
+        "slug": "codebreaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4XpWgGejwb2L6WpK"
+    },
+    {
+        "slug": "local-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4a2sVO0o2mMTydN8"
+    },
+    {
+        "slug": "mantis-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4aVFnYyRajog0mNl"
+    },
+    {
+        "slug": "goblinblood-orphan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4fBIXtSVSRYn2ZGi"
+    },
+    {
+        "slug": "snubbed-out-stoolie",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4lbfPXwZEf3eE0ip"
+    },
+    {
+        "slug": "touched-by-dahak",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4naQmCXBl0007c2W"
+    },
+    {
+        "slug": "press-ganged-lowg",
+        "uuid": "Compendium.pf2e.backgrounds.Item.4yN5miHoMvKwZIsa"
+    },
+    {
+        "slug": "sign-bound",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5Bfzt3sZyiaKrBO0"
+    },
+    {
+        "slug": "wandering-libertine",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5L2EYBOziW9Fqyav"
+    },
+    {
+        "slug": "tide-watcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5Oh9SdD4rhwlpHzg"
+    },
+    {
+        "slug": "animal-whisperer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5RGLAPi5sLykRcmm"
+    },
+    {
+        "slug": "guest-of-sedeq-lodge",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5RhHdnzWWKfh5faz"
+    },
+    {
+        "slug": "hunter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5Z3cLEpsx9nHVwhM"
+    },
+    {
+        "slug": "gunsmith",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5dezuNcZJ6wfecnG"
+    },
+    {
+        "slug": "astrological-augur",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5lcDlcXKD8eji6n3"
+    },
+    {
+        "slug": "ruin-delver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.5qUQOpdlNsJjpFVX"
+    },
+    {
+        "slug": "tiffin-box-deliverer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6Cv7L2gaZuSscd8s"
+    },
+    {
+        "slug": "bellflower-agent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6K6jJkjZ2MJYqQ6h"
+    },
+    {
+        "slug": "guard",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6UmhTxOQeqFnppxx"
+    },
+    {
+        "slug": "bandit",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6abqATPjYoF946LD"
+    },
+    {
+        "slug": "rivethun-adherent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6c0rsuiiAaVqGTu7"
+    },
+    {
+        "slug": "artisan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6irgRkKZ8tRZzLvs"
+    },
+    {
+        "slug": "inlander",
+        "uuid": "Compendium.pf2e.backgrounds.Item.6vsoyCZKqxG0lVe8"
+    },
+    {
+        "slug": "mammoth-speaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.76RK9WizWYdyhMy5"
+    },
+    {
+        "slug": "plant-whisperer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.76j9ds5URXv1dqnm"
+    },
+    {
+        "slug": "translator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7AfixHrjbXgDPPkp"
+    },
+    {
+        "slug": "rigger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7IrOApgShgnmp1A5"
+    },
+    {
+        "slug": "ruby-phoenix-enthusiast",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7K6ZSWOoihZKSdyd"
+    },
+    {
+        "slug": "relentless-dedication",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7OAX5QMd15svZJzX"
+    },
+    {
+        "slug": "grave-robber",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7QkQQsHjv2iNFIsF"
+    },
+    {
+        "slug": "discarded-duplicate",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7fCZTzmv5I2dI4sr"
+    },
+    {
+        "slug": "scarnetti-connected",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7fONTw7ykwEKwZqJ"
+    },
+    {
+        "slug": "doomcaller",
+        "uuid": "Compendium.pf2e.backgrounds.Item.7z33GaNsmSxel1xJ"
+    },
+    {
+        "slug": "legendary-parents",
+        "uuid": "Compendium.pf2e.backgrounds.Item.84uVpQFCqn0Atfpo"
+    },
+    {
+        "slug": "undercover-lotus-guard",
+        "uuid": "Compendium.pf2e.backgrounds.Item.86TbxxwfpWjScwSQ"
+    },
+    {
+        "slug": "gladiator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.88WyCqU5x1eJ0MK2"
+    },
+    {
+        "slug": "gambler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.89LEOv97ZwsjnhNx"
+    },
+    {
+        "slug": "cannoneer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8CLTXqyjdzEMKnZC"
+    },
+    {
+        "slug": "always-chosen-last",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8Mej6lV95XkJgdHY"
+    },
+    {
+        "slug": "issian-partisan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8UEKgUkagUDixkL2"
+    },
+    {
+        "slug": "nomad",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8UXahQfkP9GZ1TNW"
+    },
+    {
+        "slug": "pillar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8hsMIh3lVGfZwjG5"
+    },
+    {
+        "slug": "rostland-partisan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8q4PhvpmIxZD7rsV"
+    },
+    {
+        "slug": "sponsored-by-a-village",
+        "uuid": "Compendium.pf2e.backgrounds.Item.8usMHYAmFdqmmkTS"
+    },
+    {
+        "slug": "tyrant-witness",
+        "uuid": "Compendium.pf2e.backgrounds.Item.90vPOBrSXY27k0bL"
+    },
+    {
+        "slug": "sodden-scavenger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.93icIDHD4IrqI2oV"
+    },
+    {
+        "slug": "story-collector",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9IZNPa577ZyKB0la"
+    },
+    {
+        "slug": "bekyar-restorer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9LnXsMRwYcxi7nDO"
+    },
+    {
+        "slug": "waste-walker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9l6q90sk8UM292CY"
+    },
+    {
+        "slug": "criminal",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9lVw1JGl5ser6626"
+    },
+    {
+        "slug": "blessed",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9pK15dQJVypSCjzO"
+    },
+    {
+        "slug": "razmiran-faithful",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9uTdwJaj27F18ZDX"
+    },
+    {
+        "slug": "propaganda-promoter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.9uqDWl8V2AgGMRXi"
+    },
+    {
+        "slug": "distant-traveler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.A1gDZbfIPEqHClsL"
+    },
+    {
+        "slug": "osirionologist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.AJ41zFEYwlOUghXp"
+    },
+    {
+        "slug": "osprey-spellcaster",
+        "uuid": "Compendium.pf2e.backgrounds.Item.AJuE41aToGs9tbcM"
+    },
+    {
+        "slug": "sleepless-suns-star",
+        "uuid": "Compendium.pf2e.backgrounds.Item.AfBCrHsw1xbRFejN"
+    },
+    {
+        "slug": "undercover-contender",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Am8kwC9c2GQ5bJAW"
+    },
+    {
+        "slug": "sheriff",
+        "uuid": "Compendium.pf2e.backgrounds.Item.AqhHif8mzYjlGMxJ"
+    },
+    {
+        "slug": "conscript",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Asg9Edqh95eSZBE9"
+    },
+    {
+        "slug": "glorianas-fixer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.B3Z5gbhMDRUATTrE"
+    },
+    {
+        "slug": "goldhand-arms-dealer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.B6kNrX1y8XNbQYea"
+    },
+    {
+        "slug": "sarkorian-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.B8kEwzPUMIjhofUm"
+    },
+    {
+        "slug": "lesser-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.BBeJA7n0xpSsBCGq"
+    },
+    {
+        "slug": "eidolon-contact",
+        "uuid": "Compendium.pf2e.backgrounds.Item.BRXXlw03K6ZeB2Li"
+    },
+    {
+        "slug": "trade-representative",
+        "uuid": "Compendium.pf2e.backgrounds.Item.BS8YxexDhD0VdsQV"
+    },
+    {
+        "slug": "witchlight-follower",
+        "uuid": "Compendium.pf2e.backgrounds.Item.BZhPPw9VD9U2ur6B"
+    },
+    {
+        "slug": "acolyte",
+        "uuid": "Compendium.pf2e.backgrounds.Item.CAjQrHZZbALE7Qjy"
+    },
+    {
+        "slug": "sideshow-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.CFyrlDzkSXgI1OAI"
+    },
+    {
+        "slug": "ex-con-token-guard",
+        "uuid": "Compendium.pf2e.backgrounds.Item.CKU1sbFofcwZUJMx"
+    },
+    {
+        "slug": "heroic-ancestry",
+        "uuid": "Compendium.pf2e.backgrounds.Item.COUnnZRnoNb8bzan"
+    },
+    {
+        "slug": "corpse-stitcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ChAoT1V3Nc4sKXz4"
+    },
+    {
+        "slug": "ozem-experience",
+        "uuid": "Compendium.pf2e.backgrounds.Item.CjNA8ippwoAvpxeI"
+    },
+    {
+        "slug": "mammoth-herder",
+        "uuid": "Compendium.pf2e.backgrounds.Item.D00NdG0WtUNMO546"
+    },
+    {
+        "slug": "tree-friend",
+        "uuid": "Compendium.pf2e.backgrounds.Item.D05fsi5puOWstByA"
+    },
+    {
+        "slug": "courier",
+        "uuid": "Compendium.pf2e.backgrounds.Item.DBxOUwM7qhGH8MrF"
+    },
+    {
+        "slug": "clown",
+        "uuid": "Compendium.pf2e.backgrounds.Item.DHrzVqB8f1ed3zTk"
+    },
+    {
+        "slug": "party-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.DKuRnepoyl8qwjLX"
+    },
+    {
+        "slug": "post-guard-of-all-trades",
+        "uuid": "Compendium.pf2e.backgrounds.Item.DVtZab19D1vD3a0n"
+    },
+    {
+        "slug": "construction-occultist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.DpmWrtkrmmgnVtAc"
+    },
+    {
+        "slug": "remittance-agent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.E1Ii36z4mtC8YxNe"
+    },
+    {
+        "slug": "nirmathi-guerrilla",
+        "uuid": "Compendium.pf2e.backgrounds.Item.E2ij2Cg8oMC0W0NS"
+    },
+    {
+        "slug": "songsinger-in-training",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ECKic2p6yIyoGYod"
+    },
+    {
+        "slug": "belkzen-slayer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.EJRWGsPWzAhixuvQ"
+    },
+    {
+        "slug": "magical-misfit",
+        "uuid": "Compendium.pf2e.backgrounds.Item.EYPorNgoYcp37akm"
+    },
+    {
+        "slug": "supportive-sponsor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.EdkfixYpKyX3KPCL"
+    },
+    {
+        "slug": "respected-mentor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.EnmmHDtINbQrqXTU"
+    },
+    {
+        "slug": "field-medic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FKHut73XDUGTnKkP"
+    },
+    {
+        "slug": "empty-hand-loyalist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FMk4eGzPulZoYNqG"
+    },
+    {
+        "slug": "student-of-magic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FVE2mg6EEyPVLz3M"
+    },
+    {
+        "slug": "friend-of-greensteeples",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FlXu29r5C4CborZv"
+    },
+    {
+        "slug": "gold-falls-regular",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FovAoohhvG7vIbX9"
+    },
+    {
+        "slug": "sponsored-by-a-stranger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.FznrY4fZASquT6hY"
+    },
+    {
+        "slug": "almas-clerk",
+        "uuid": "Compendium.pf2e.backgrounds.Item.G3GIfGLY1xSNqj17"
+    },
+    {
+        "slug": "missionary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.GNidqGnSABx1rQUQ"
+    },
+    {
+        "slug": "dragon-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.GPI5kNu0xfom9kKa"
+    },
+    {
+        "slug": "bookish-providence",
+        "uuid": "Compendium.pf2e.backgrounds.Item.GeIFY5C1BxuWQGc7"
+    },
+    {
+        "slug": "outskirt-dweller",
+        "uuid": "Compendium.pf2e.backgrounds.Item.GyFfqCZZVtazmwPD"
+    },
+    {
+        "slug": "shoanti-name-bearer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.H3E69w8Xg0T7rAqD"
+    },
+    {
+        "slug": "refugee-fall-of-plaguestone",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HDquvQywAZimmcFF"
+    },
+    {
+        "slug": "shadow-lodge-defector",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HEd2Lxgvl080nRxx"
+    },
+    {
+        "slug": "faction-opportunist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HKRcQO8Xj7xzBxAw"
+    },
+    {
+        "slug": "reclaimed",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HMIfr9N4rco1dzBO"
+    },
+    {
+        "slug": "musical-prodigy",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HNdGlDHkcczqNw2U"
+    },
+    {
+        "slug": "junk-collector",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HSNUDvPgO1NESW7S"
+    },
+    {
+        "slug": "stargazer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HWOGbaRGXazklBMT"
+    },
+    {
+        "slug": "shory-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HZ3oBBdEnsH3fWrm"
+    },
+    {
+        "slug": "insurgent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HdnmIaLadhRfZq8X"
+    },
+    {
+        "slug": "brevic-outcast",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HiOvPmXEXBjUy0VZ"
+    },
+    {
+        "slug": "reborn-soul",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HrWEyXTgIj16Z1RR"
+    },
+    {
+        "slug": "magaambya-academic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.HsAZDAPpqynArFAp"
+    },
+    {
+        "slug": "black-market-smuggler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.I0vuIFypx8ADSJQC"
+    },
+    {
+        "slug": "magical-merchant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.I5cRrqrPCHsQqFI9"
+    },
+    {
+        "slug": "acrobat",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IFHYbU6Nu8BiTsRa"
+    },
+    {
+        "slug": "deckhand",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IObZEUz8wneEMgR3"
+    },
+    {
+        "slug": "time-traveler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IOcjPmcemrQFFb2b"
+    },
+    {
+        "slug": "ward",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IXxdCzBS0xP20ckw"
+    },
+    {
+        "slug": "purveyor-of-the-bizarre",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IfpYRxN8qyV4ym0o"
+    },
+    {
+        "slug": "archaeologist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IoBhge83aYpq0pPV"
+    },
+    {
+        "slug": "kaiju-stalker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IqzUSp32OFwCxk33"
+    },
+    {
+        "slug": "sword-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.IuwNiQSSeRMQyDE7"
+    },
+    {
+        "slug": "beast-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.J0SCT6yZgdf0DTTD"
+    },
+    {
+        "slug": "total-power",
+        "uuid": "Compendium.pf2e.backgrounds.Item.JBRBb2818DZ4hjXw"
+    },
+    {
+        "slug": "political-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.JauSkDtMV6dhDZS8"
+    },
+    {
+        "slug": "bright-lion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.JfGVkZkaoz2lnmov"
+    },
+    {
+        "slug": "osprey-scribe",
+        "uuid": "Compendium.pf2e.backgrounds.Item.JjAh5pxgHrW3fwaH"
+    },
+    {
+        "slug": "runelord-researcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.JvsjDU6mKKLl0NK4"
+    },
+    {
+        "slug": "animal-wrangler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.K35I1WCbzT5xnJ6N"
+    },
+    {
+        "slug": "deputy",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KC5oI1bs6Wx8h91u"
+    },
+    {
+        "slug": "money-counter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KEG5KFNrXKhTsj6J"
+    },
+    {
+        "slug": "starless-one",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KHMEcCCG132ILkuU"
+    },
+    {
+        "slug": "child-of-notoriety",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KLWxwhCOdqrbepbu"
+    },
+    {
+        "slug": "merchant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KMv7ollLVaZ81XDV"
+    },
+    {
+        "slug": "fightbreaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KaIeesLNmn3s1Y1I"
+    },
+    {
+        "slug": "beast-blessed",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KboE8OcjCLD7oFWQ"
+    },
+    {
+        "slug": "obari-wanderer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.KrlSyOoVcND109iT"
+    },
+    {
+        "slug": "moot-guard",
+        "uuid": "Compendium.pf2e.backgrounds.Item.L9WwmLaDVmu5yleq"
+    },
+    {
+        "slug": "amateur-director",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LH2xktS54P9aa2uY"
+    },
+    {
+        "slug": "abadars-avenger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LHk50lz5Kk5ZYTeo"
+    },
+    {
+        "slug": "broken-tusk-recruiter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LWoPiYHAyLp8pvYx"
+    },
+    {
+        "slug": "spell-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LbuWzGpCIP79UwVB"
+    },
+    {
+        "slug": "genie-blessed",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LoeTd2SS6jfEgo1H"
+    },
+    {
+        "slug": "glory-hound",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Lue29rc3ZDt64iyL"
+    },
+    {
+        "slug": "trailblazer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.LwAu4r3uocYfpKA8"
+    },
+    {
+        "slug": "mortuarium-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.M1NWZS3WFzzns1fY"
+    },
+    {
+        "slug": "press-ganged-g-g",
+        "uuid": "Compendium.pf2e.backgrounds.Item.M8EfhY6Knb2iQm6S"
+    },
+    {
+        "slug": "ghostwriter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.MXd6IBBivfMprkO5"
+    },
+    {
+        "slug": "anti-tech-activist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.MgiZ25JdT6O3fLbO"
+    },
+    {
+        "slug": "eldritch-anatomist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.MiRWGXZnEdurMvVf"
+    },
+    {
+        "slug": "sandswept-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.MrZvq1ebEgEN9cIv"
+    },
+    {
+        "slug": "thuvian-unifier",
+        "uuid": "Compendium.pf2e.backgrounds.Item.MslumKt6iwJ85GKZ"
+    },
+    {
+        "slug": "hammered-by-fate",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Mz7G3rTPxV2Xzy18"
+    },
+    {
+        "slug": "hunted-by-the-night",
+        "uuid": "Compendium.pf2e.backgrounds.Item.N0CRYmDCw8bgNxLl"
+    },
+    {
+        "slug": "pathfinder-recruiter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.NXYce9NAHls2fcIf"
+    },
+    {
+        "slug": "finadar-leshy",
+        "uuid": "Compendium.pf2e.backgrounds.Item.NZY0r4Csjul6eVPp"
+    },
+    {
+        "slug": "runelord-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Nq36wlDc9A8ldu55"
+    },
+    {
+        "slug": "demon-slayer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.NywLl1XMQmzA6rP7"
+    },
+    {
+        "slug": "wished-alive",
+        "uuid": "Compendium.pf2e.backgrounds.Item.O4xKRtHb21DCTvQ0"
+    },
+    {
+        "slug": "fiendbreaking-pilgrim",
+        "uuid": "Compendium.pf2e.backgrounds.Item.O8iPkxpWxUZHmE7j"
+    },
+    {
+        "slug": "learned-guard-prodigy",
+        "uuid": "Compendium.pf2e.backgrounds.Item.OD8RTS7cTeMJJFcR"
+    },
+    {
+        "slug": "conservator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Ods1qOZ8CTCru8XQ"
+    },
+    {
+        "slug": "highborn-snoop",
+        "uuid": "Compendium.pf2e.backgrounds.Item.OfdT8v9apVNZyYqt"
+    },
+    {
+        "slug": "sewer-dragon",
+        "uuid": "Compendium.pf2e.backgrounds.Item.OhP7cqvNouFgHIdJ"
+    },
+    {
+        "slug": "perfection-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.P65AGDPkhD2B4JtG"
+    },
+    {
+        "slug": "battle-mechanic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.P77k0P5em9Yvm9bk"
+    },
+    {
+        "slug": "osprey-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.PJxPNMEUTimop4Lq"
+    },
+    {
+        "slug": "taldan-schemer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.PhqUBXLLkVXb6oUE"
+    },
+    {
+        "slug": "barrister",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Phvnfdmz4bB7jrI3"
+    },
+    {
+        "slug": "aeronaut",
+        "uuid": "Compendium.pf2e.backgrounds.Item.PutqlPJTPUBkMmSn"
+    },
+    {
+        "slug": "feral-child",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Q2brdDtEoI3cmpuD"
+    },
+    {
+        "slug": "fire-warden",
+        "uuid": "Compendium.pf2e.backgrounds.Item.QGji0lMUo6to2h2k"
+    },
+    {
+        "slug": "war-orphan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.QQxXV2zHATLZ07rA"
+    },
+    {
+        "slug": "newcomer-in-need",
+        "uuid": "Compendium.pf2e.backgrounds.Item.QnL7hqUi9HPenrbC"
+    },
+    {
+        "slug": "demon-hunted",
+        "uuid": "Compendium.pf2e.backgrounds.Item.QoLKbkrudnJmhq9y"
+    },
+    {
+        "slug": "wildwood-local",
+        "uuid": "Compendium.pf2e.backgrounds.Item.R1v4gUu8oRMoOASM"
+    },
+    {
+        "slug": "raised-by-belief",
+        "uuid": "Compendium.pf2e.backgrounds.Item.RC4l6WsxPn89a1f8"
+    },
+    {
+        "slug": "scion-of-slayers",
+        "uuid": "Compendium.pf2e.backgrounds.Item.RPU1aNfVz3ZbymvV"
+    },
+    {
+        "slug": "star-athlete",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Rme15tfbKstg8Kcy"
+    },
+    {
+        "slug": "student-of-the-ancients",
+        "uuid": "Compendium.pf2e.backgrounds.Item.RrqQ3hddhSldU5ml"
+    },
+    {
+        "slug": "night-watch",
+        "uuid": "Compendium.pf2e.backgrounds.Item.RxhdWJUoRTBEeHYZ"
+    },
+    {
+        "slug": "combat-chaplain",
+        "uuid": "Compendium.pf2e.backgrounds.Item.SAm5AeDB2AjjMnDK"
+    },
+    {
+        "slug": "winters-child",
+        "uuid": "Compendium.pf2e.backgrounds.Item.SJ3nNOI5A8A4hK0Q"
+    },
+    {
+        "slug": "farmhand",
+        "uuid": "Compendium.pf2e.backgrounds.Item.SOmJyAtPOokesZoe"
+    },
+    {
+        "slug": "jeweler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.SbfTiwTt7KJEQX4a"
+    },
+    {
+        "slug": "toymaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Sj91CUyEUeWoPh2R"
+    },
+    {
+        "slug": "zodiac-bound",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Sq3jh7PnlRT6Jt5S"
+    },
+    {
+        "slug": "nocturnal-navigator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.StWWI7Wi0WRgRmxS"
+    },
+    {
+        "slug": "battlefield-scrounger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Szv9uCC6bLf814Uc"
+    },
+    {
+        "slug": "hounded-thief",
+        "uuid": "Compendium.pf2e.backgrounds.Item.T537wo3aem8GvnmR"
+    },
+    {
+        "slug": "sponsored-by-family",
+        "uuid": "Compendium.pf2e.backgrounds.Item.T8SlgHjj0hVjKW2Q"
+    },
+    {
+        "slug": "union-representative",
+        "uuid": "Compendium.pf2e.backgrounds.Item.T8YNd9Jg6XBJvNBQ"
+    },
+    {
+        "slug": "truth-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.TC7jpN5EA4UBIYep"
+    },
+    {
+        "slug": "reputation-seeker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.TPoP1mKpqUOpRQ5Y"
+    },
+    {
+        "slug": "local-brigand",
+        "uuid": "Compendium.pf2e.backgrounds.Item.TQBYPTRTVGLMv7cx"
+    },
+    {
+        "slug": "blight-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.TaIF4CqKl8ffT3Lo"
+    },
+    {
+        "slug": "escaped-from-time",
+        "uuid": "Compendium.pf2e.backgrounds.Item.To76BxkBS2ErAdgv"
+    },
+    {
+        "slug": "mystic-tutor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Tujic4RHrQJmEYX4"
+    },
+    {
+        "slug": "undersea-enthusiast",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Ty8FRM0k262xuHfF"
+    },
+    {
+        "slug": "banished-brighite",
+        "uuid": "Compendium.pf2e.backgrounds.Item.U1gbRkmZqJ7SmpeF"
+    },
+    {
+        "slug": "brevic-noble",
+        "uuid": "Compendium.pf2e.backgrounds.Item.U8347JbRAjhowP1q"
+    },
+    {
+        "slug": "wandering-preacher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UFHezf1LXUwcQIAQ"
+    },
+    {
+        "slug": "inexplicably-expelled",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UK40FVVVx6IKxipW"
+    },
+    {
+        "slug": "sun-dancer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UNbV4UwZEXxJy703"
+    },
+    {
+        "slug": "kartaji-epicurean",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UTqLL3df0thC36QK"
+    },
+    {
+        "slug": "seer-of-the-dead",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UU4MOe7Lozt9V8tg"
+    },
+    {
+        "slug": "storm-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UURvnfwXypRYYXBI"
+    },
+    {
+        "slug": "servant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UdOUj7i8XGTI72Zc"
+    },
+    {
+        "slug": "out-of-towner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UgityMZaujmYUpil"
+    },
+    {
+        "slug": "curandero",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Uk4W7mKQbLtDDHwo"
+    },
+    {
+        "slug": "scholar-of-the-sky-key",
+        "uuid": "Compendium.pf2e.backgrounds.Item.UyddtAwqDGjQ1SZK"
+    },
+    {
+        "slug": "mana-wastes-refugee",
+        "uuid": "Compendium.pf2e.backgrounds.Item.V1RAIckpUJd2OzXi"
+    },
+    {
+        "slug": "shadow-haunted",
+        "uuid": "Compendium.pf2e.backgrounds.Item.V31KRG7aA7xS0m8L"
+    },
+    {
+        "slug": "ulfen-raider",
+        "uuid": "Compendium.pf2e.backgrounds.Item.V3nYEAhyA54RtYky"
+    },
+    {
+        "slug": "disciple-of-the-gear",
+        "uuid": "Compendium.pf2e.backgrounds.Item.V9VsomfjbPQNfaSL"
+    },
+    {
+        "slug": "art-tutor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.VW8YNoIFhYD3UuyX"
+    },
+    {
+        "slug": "shielded-fortune",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Vq6kOTBm114bV9y7"
+    },
+    {
+        "slug": "revenant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.W6OIPZhjcV45gfoX"
+    },
+    {
+        "slug": "magical-experiment",
+        "uuid": "Compendium.pf2e.backgrounds.Item.WIWR8jURAdSAzxIh"
+    },
+    {
+        "slug": "teacher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.WrKVeUQ6KeRCm9uH"
+    },
+    {
+        "slug": "onyx-trader",
+        "uuid": "Compendium.pf2e.backgrounds.Item.WueM94C9JXk10jPd"
+    },
+    {
+        "slug": "harrow-chosen",
+        "uuid": "Compendium.pf2e.backgrounds.Item.X1YhwDic2ugT9RuQ"
+    },
+    {
+        "slug": "droskari-disciple",
+        "uuid": "Compendium.pf2e.backgrounds.Item.XHY0xrSSbX0cTJKK"
+    },
+    {
+        "slug": "spotter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.XcacLiaGDgjzHS3T"
+    },
+    {
+        "slug": "academic-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Y0ht4JteTUS5pace"
+    },
+    {
+        "slug": "nexian-mystic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Y35nOXZRryiyHjlk"
+    },
+    {
+        "slug": "mystic-seer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Y50ssWBBKSRVBpSa"
+    },
+    {
+        "slug": "elementally-infused",
+        "uuid": "Compendium.pf2e.backgrounds.Item.YGJzgmHNqw9C72Kb"
+    },
+    {
+        "slug": "library-dweller",
+        "uuid": "Compendium.pf2e.backgrounds.Item.YHXFr9JV6gPIK9NT"
+    },
+    {
+        "slug": "circus-born",
+        "uuid": "Compendium.pf2e.backgrounds.Item.YJpEdmSOjlA2QZeu"
+    },
+    {
+        "slug": "necromancers-apprentice",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Yai061jIDzojHzsn"
+    },
+    {
+        "slug": "noble",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Yu7Cl0Lk94LdPRi6"
+    },
+    {
+        "slug": "alkenstar-sojourner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Yuwr2pT3z3WYTX9T"
+    },
+    {
+        "slug": "menagerie-dung-sweeper",
+        "uuid": "Compendium.pf2e.backgrounds.Item.YyzIzLxn2UCFubj4"
+    },
+    {
+        "slug": "knack-for-contraptions",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ZOT2ztnh6PdqV5EJ"
+    },
+    {
+        "slug": "martial-musician",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ZQuUl50C2x6evtGJ"
+    },
+    {
+        "slug": "herbalist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ZdhPKEY9FfaOS8Wy"
+    },
+    {
+        "slug": "sailor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Zmwyhsxe4i6rZN75"
+    },
+    {
+        "slug": "eager-scofflaw",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Zujpf2cxjwaHHnpO"
+    },
+    {
+        "slug": "merabite-prodigy",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a45LqkSRX07ljKdW"
+    },
+    {
+        "slug": "dedicated-delver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a57iBUZBQtXWZc36"
+    },
+    {
+        "slug": "freed-slave-of-absalom",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a5dCSuAwGE2hqQjj"
+    },
+    {
+        "slug": "barkeep",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a8BmnIIUR7AYog5B"
+    },
+    {
+        "slug": "bounty-hunter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a9Q4iIiAZryVWN27"
+    },
+    {
+        "slug": "pyre-tender",
+        "uuid": "Compendium.pf2e.backgrounds.Item.a9YjyQRNEOyespFf"
+    },
+    {
+        "slug": "hookclaw-digger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.aWAfj7bhTZM2oK81"
+    },
+    {
+        "slug": "school-medic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ahdyHviGqtnE7eBk"
+    },
+    {
+        "slug": "whispering-way-scion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.aisuJF1A98bHfkLH"
+    },
+    {
+        "slug": "cursed-family",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ajcpRVb5EG00l7Y4"
+    },
+    {
+        "slug": "aspiring-free-captain",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ap25MWBuFGwwhYIG"
+    },
+    {
+        "slug": "prisoner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.apXTV7jJx6yJpj8D"
+    },
+    {
+        "slug": "wanderlust",
+        "uuid": "Compendium.pf2e.backgrounds.Item.b1588nhgRoYMef44"
+    },
+    {
+        "slug": "hermit",
+        "uuid": "Compendium.pf2e.backgrounds.Item.b3UC18ueX8m9Ov0W"
+    },
+    {
+        "slug": "shadow-war-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.b9EPEY09dYOVzdue"
+    },
+    {
+        "slug": "miner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bCJ9p3P5uJDAtaUI"
+    },
+    {
+        "slug": "geb-crusader",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bDyb0k0rTfDTyhd8"
+    },
+    {
+        "slug": "issian-patriot",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bNsYkUGMKmtc28MX"
+    },
+    {
+        "slug": "crown-of-chaos",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bdeuzUMiPjEdlPS8"
+    },
+    {
+        "slug": "hermean-expatriate",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bh6O2Ad5mkYwRngM"
+    },
+    {
+        "slug": "concordance-researcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.biCstJF0OGvC5NKW"
+    },
+    {
+        "slug": "runaway-noble",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bvasHD1irJBoKVbB"
+    },
+    {
+        "slug": "ratted-out-gun-runner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.bxWID85noazU72O3"
+    },
+    {
+        "slug": "anti-magical",
+        "uuid": "Compendium.pf2e.backgrounds.Item.byyceQSVT0H5GfNB"
+    },
+    {
+        "slug": "sense-of-belonging",
+        "uuid": "Compendium.pf2e.backgrounds.Item.cCi1Lsld9Umz1uHs"
+    },
+    {
+        "slug": "mechanic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.cODrdTvko4Om26ik"
+    },
+    {
+        "slug": "otherworldly-mission",
+        "uuid": "Compendium.pf2e.backgrounds.Item.d5fKB0ZMJQkwDF5p"
+    },
+    {
+        "slug": "outrider",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dAvFZ5QmbAHgXcNp"
+    },
+    {
+        "slug": "report-runner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dQxmaPCHTor36bll"
+    },
+    {
+        "slug": "clockfighter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dSYel8ABTevOc5YA"
+    },
+    {
+        "slug": "detective",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dVRDDjT4FOu6uLDR"
+    },
+    {
+        "slug": "lost-coast-local",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dxWY1emPz8Jr0fyG"
+    },
+    {
+        "slug": "eagle-hunter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.dy0D2mkooBgt06VW"
+    },
+    {
+        "slug": "ocean-diver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.e0K95Uyo5tQEdlXt"
+    },
+    {
+        "slug": "tomb-born",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eGPlKAoYBTUqjyrr"
+    },
+    {
+        "slug": "framed-in-ferrous-quarter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eHfsMNiVeqwnrpG3"
+    },
+    {
+        "slug": "child-of-the-colony",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eHttcx3UN9GSzlA7"
+    },
+    {
+        "slug": "awful-scab",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eK8jNZvTwo2iPdEC"
+    },
+    {
+        "slug": "atteran-rancher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eYY3bX7xSH7aicqT"
+    },
+    {
+        "slug": "favored",
+        "uuid": "Compendium.pf2e.backgrounds.Item.eeCM8QwOkhatdStO"
+    },
+    {
+        "slug": "portal-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.f0YEqRFDdrWmfTj1"
+    },
+    {
+        "slug": "osprey-warrior",
+        "uuid": "Compendium.pf2e.backgrounds.Item.f7ZTF8tnZUmTXwwF"
+    },
+    {
+        "slug": "iolite-trainee-hobgoblin",
+        "uuid": "Compendium.pf2e.backgrounds.Item.fML6YrXYDqQy0g7L"
+    },
+    {
+        "slug": "lastwall-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ffcNsTUBsxFwbNgJ"
+    },
+    {
+        "slug": "dreams-of-vengeance",
+        "uuid": "Compendium.pf2e.backgrounds.Item.fo2nGLI1t1b7nAHK"
+    },
+    {
+        "slug": "cultist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.fuTLDmihr9Z9e5wa"
+    },
+    {
+        "slug": "alkenstar-outlaw",
+        "uuid": "Compendium.pf2e.backgrounds.Item.fyKPDYFeIrgzADJB"
+    },
+    {
+        "slug": "eclectic-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.g7kBsG5VKCaMYEZj"
+    },
+    {
+        "slug": "empty-whispers",
+        "uuid": "Compendium.pf2e.backgrounds.Item.g8xUX7DAu2ShZ90Q"
+    },
+    {
+        "slug": "verduran-city-folk",
+        "uuid": "Compendium.pf2e.backgrounds.Item.gacjZkMkeVsrCt4A"
+    },
+    {
+        "slug": "aspiring-river-monarch",
+        "uuid": "Compendium.pf2e.backgrounds.Item.gfklP8ub45R4wXKe"
+    },
+    {
+        "slug": "firebrand-follower",
+        "uuid": "Compendium.pf2e.backgrounds.Item.gsyTHkbGRaiHgs6p"
+    },
+    {
+        "slug": "convocation-scout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.gyqIA8jb50AnYCvw"
+    },
+    {
+        "slug": "teamster",
+        "uuid": "Compendium.pf2e.backgrounds.Item.h98cEl4DY75IL6KJ"
+    },
+    {
+        "slug": "runelord-scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.hF75xM3HwTVay1jf"
+    },
+    {
+        "slug": "kalistrade-follower",
+        "uuid": "Compendium.pf2e.backgrounds.Item.hPx0xiv00GQqPWUH"
+    },
+    {
+        "slug": "combat-carpenter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.hdvllwAIooBX2Fib"
+    },
+    {
+        "slug": "fey-friend",
+        "uuid": "Compendium.pf2e.backgrounds.Item.hqtL8A3LVrEFI46f"
+    },
+    {
+        "slug": "refugee-pc2",
+        "uuid": "Compendium.pf2e.backgrounds.Item.i28Z9JXhEvoc7BX5"
+    },
+    {
+        "slug": "entertainer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.i4hN6OYv8qmi3GLW"
+    },
+    {
+        "slug": "scholar-of-the-ancients",
+        "uuid": "Compendium.pf2e.backgrounds.Item.i5G6E5dkGWiq838C"
+    },
+    {
+        "slug": "quick",
+        "uuid": "Compendium.pf2e.backgrounds.Item.i6y4DiKvqitdE0PW"
+    },
+    {
+        "slug": "tinker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.i79pgNIAtJfkkOiw"
+    },
+    {
+        "slug": "oenopion-ooze-tender",
+        "uuid": "Compendium.pf2e.backgrounds.Item.iWWg16f3re1YChiD"
+    },
+    {
+        "slug": "folklore-enthusiast",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ia5aFzfmfnMjhcms"
+    },
+    {
+        "slug": "returning-descendant",
+        "uuid": "Compendium.pf2e.backgrounds.Item.iaM6TjvijLCgiHeD"
+    },
+    {
+        "slug": "concordance-scout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.idFSq3DYBRomYmZt"
+    },
+    {
+        "slug": "child-of-the-puddles",
+        "uuid": "Compendium.pf2e.backgrounds.Item.irDibuV3Wi7T43sL"
+    },
+    {
+        "slug": "tax-collector",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ixluAGUDZciLEHtb"
+    },
+    {
+        "slug": "cursed",
+        "uuid": "Compendium.pf2e.backgrounds.Item.j2G71vQahw1DiWpO"
+    },
+    {
+        "slug": "pathfinder-hopeful",
+        "uuid": "Compendium.pf2e.backgrounds.Item.j9v38iHA0sVy59SR"
+    },
+    {
+        "slug": "warded-by-kami",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jCZtgtSKcK9uXKKz"
+    },
+    {
+        "slug": "bully-or-baiter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jN3Ww8tBsTaOVX4t"
+    },
+    {
+        "slug": "militia-member",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jYhazaOT8FTrBFPx"
+    },
+    {
+        "slug": "once-bitten",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jjkY6r7NNWhxDqja"
+    },
+    {
+        "slug": "occult-librarian",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jpgO5zofecGeyXd5"
+    },
+    {
+        "slug": "plague-doctor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.jvegfAMdri6J2VzZ"
+    },
+    {
+        "slug": "bonuwat-wavetouched",
+        "uuid": "Compendium.pf2e.backgrounds.Item.kLjqmylGOXeQ5o5Y"
+    },
+    {
+        "slug": "sarkorian-reclaimer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.khGFmnQMBYmz2ONR"
+    },
+    {
+        "slug": "runner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.kkPdZsf61qySImQD"
+    },
+    {
+        "slug": "driver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.kmhZZgR7KlBzRBX0"
+    },
+    {
+        "slug": "unsponsored",
+        "uuid": "Compendium.pf2e.backgrounds.Item.l5Kj0owzxfPcTvIb"
+    },
+    {
+        "slug": "harbor-guard-moonlighter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lCR8gyEZbwqh3RWi"
+    },
+    {
+        "slug": "sky-rider",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lMJYIXSh3NSJslmi"
+    },
+    {
+        "slug": "martial-disciple",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lX5KDS2hU5LihZRs"
+    },
+    {
+        "slug": "senghor-sailor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lav3yRNPc7lQ7e9k"
+    },
+    {
+        "slug": "savior-of-air",
+        "uuid": "Compendium.pf2e.backgrounds.Item.locc0cjOmOQHe3j7"
+    },
+    {
+        "slug": "fated-rival",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lq7uhfPMcJgn1z7u"
+    },
+    {
+        "slug": "molthuni-mercenary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.lqjmBmGHYRaSiglZ"
+    },
+    {
+        "slug": "thrune-loyalist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.m1vRLRHTpCrgk89G"
+    },
+    {
+        "slug": "keys-to-destiny",
+        "uuid": "Compendium.pf2e.backgrounds.Item.m2sWdTIXlyXmqsuC"
+    },
+    {
+        "slug": "able-carter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mWpNrTiREluJ6fLB"
+    },
+    {
+        "slug": "writ-in-the-stars",
+        "uuid": "Compendium.pf2e.backgrounds.Item.maxaKunHAOKUrR4q"
+    },
+    {
+        "slug": "farmsteader",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mcL4WLO2yxBGlvuG"
+    },
+    {
+        "slug": "osprey-barnraiser",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mh0hj27ZO5qDWat1"
+    },
+    {
+        "slug": "street-urchin",
+        "uuid": "Compendium.pf2e.backgrounds.Item.moVRsnpjB5THCwxE"
+    },
+    {
+        "slug": "vidrian-reformer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mrkgVjiEdlPjLUsN"
+    },
+    {
+        "slug": "curious-apprentice",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mtrkW0CSqrZVswkz"
+    },
+    {
+        "slug": "hermean-heritor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.mxJRdRSMsyZfBf5c"
+    },
+    {
+        "slug": "market-runner",
+        "uuid": "Compendium.pf2e.backgrounds.Item.n2JN5Kiu7tOCAHPr"
+    },
+    {
+        "slug": "tapestry-refugee",
+        "uuid": "Compendium.pf2e.backgrounds.Item.n7tPT1SfVTcHjrj3"
+    },
+    {
+        "slug": "false-medium",
+        "uuid": "Compendium.pf2e.backgrounds.Item.nAe65lvsOJAIHGGT"
+    },
+    {
+        "slug": "weaver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.nLN6E15Q5YzufqoM"
+    },
+    {
+        "slug": "attention-addict",
+        "uuid": "Compendium.pf2e.backgrounds.Item.nXnaV9JwUG1N2dsg"
+    },
+    {
+        "slug": "butcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.nhQKn1tVV6PKCurq"
+    },
+    {
+        "slug": "newcomer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.npn3oYZtmkPTtlBn"
+    },
+    {
+        "slug": "root-worker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ns9BOvCyjdapYhI0"
+    },
+    {
+        "slug": "bookkeeper",
+        "uuid": "Compendium.pf2e.backgrounds.Item.o1lhSKOpKPamTITI"
+    },
+    {
+        "slug": "song-of-the-deep",
+        "uuid": "Compendium.pf2e.backgrounds.Item.o3ArTg5c8pLe7iGm"
+    },
+    {
+        "slug": "scout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.o7RbsQbv5iLRvd8j"
+    },
+    {
+        "slug": "emancipated",
+        "uuid": "Compendium.pf2e.backgrounds.Item.oEm937kNrP5sXxFD"
+    },
+    {
+        "slug": "eclipseborn",
+        "uuid": "Compendium.pf2e.backgrounds.Item.oj4B6KLAOlUbY0wr"
+    },
+    {
+        "slug": "child-of-the-polis",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ovDOXEuRumNhMU5T"
+    },
+    {
+        "slug": "early-explorer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.p27PSjFtHAWikKaw"
+    },
+    {
+        "slug": "local-savior",
+        "uuid": "Compendium.pf2e.backgrounds.Item.p6ABkjwqe6gMi5BW"
+    },
+    {
+        "slug": "sponsored-by-teacher-ot",
+        "uuid": "Compendium.pf2e.backgrounds.Item.p6Asr6f2cI2BWorr"
+    },
+    {
+        "slug": "kyonin-emissary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pBX18FI1grWwkWjk"
+    },
+    {
+        "slug": "reclaimer-investigator",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pChM2ApTVEQ8SohP"
+    },
+    {
+        "slug": "badlands-scout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pDTQMksSVi77uqJk"
+    },
+    {
+        "slug": "haunted",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pGOlKz4Krnh7MyUM"
+    },
+    {
+        "slug": "town-troublemaker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pMntBDuzRu5dTeJQ"
+    },
+    {
+        "slug": "clan-associate",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pPR0HAeXLUxP3rx4"
+    },
+    {
+        "slug": "student-of-apotheosis",
+        "uuid": "Compendium.pf2e.backgrounds.Item.pZg3dGKD5jAfcJ0E"
+    },
+    {
+        "slug": "feybound",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ppBGlWl0UkBKkJgE"
+    },
+    {
+        "slug": "megafauna-hunter",
+        "uuid": "Compendium.pf2e.backgrounds.Item.q1OCPBAgYgvwy1Of"
+    },
+    {
+        "slug": "wonder-taster",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qB7g1OiZ8v8zgvkL"
+    },
+    {
+        "slug": "printer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qJNmSgzq0ae29qCC"
+    },
+    {
+        "slug": "cathedral-child",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qLr9HMlDTWS81NVj"
+    },
+    {
+        "slug": "blow-in",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qNpLqx6LhBo1jY4A"
+    },
+    {
+        "slug": "aerialist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qY4IUwVWIKPSFskP"
+    },
+    {
+        "slug": "squire",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qbvzNG8hMjb8f66D"
+    },
+    {
+        "slug": "legacy-of-the-hammer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qzKT7L1qldz14q8M"
+    },
+    {
+        "slug": "student-of-archery",
+        "uuid": "Compendium.pf2e.backgrounds.Item.qzzGLtQCPBTgKYAk"
+    },
+    {
+        "slug": "warrior",
+        "uuid": "Compendium.pf2e.backgrounds.Item.r0kYIbN06Cv8eNG3"
+    },
+    {
+        "slug": "free-spirit",
+        "uuid": "Compendium.pf2e.backgrounds.Item.r2ZRAcoDp6EdwNrh"
+    },
+    {
+        "slug": "pilgrim",
+        "uuid": "Compendium.pf2e.backgrounds.Item.r9fzNQEz33HyKTxm"
+    },
+    {
+        "slug": "professional-letter-writer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.rAvoo4cwdkWiGNe0"
+    },
+    {
+        "slug": "working-student",
+        "uuid": "Compendium.pf2e.backgrounds.Item.rESZQqHDJxZNqyR6"
+    },
+    {
+        "slug": "streetfood-vendor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.rUMHUzZhOMOVbxRO"
+    },
+    {
+        "slug": "returned",
+        "uuid": "Compendium.pf2e.backgrounds.Item.rzyRtasSTfHS3e0y"
+    },
+    {
+        "slug": "starwatcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.sR3S7Xn15drU6rOF"
+    },
+    {
+        "slug": "thassilonian-traveler",
+        "uuid": "Compendium.pf2e.backgrounds.Item.su8y75pGMVTUsNHK"
+    },
+    {
+        "slug": "charlatan",
+        "uuid": "Compendium.pf2e.backgrounds.Item.t0t1ck8iKpaI4o5W"
+    },
+    {
+        "slug": "wood-warden",
+        "uuid": "Compendium.pf2e.backgrounds.Item.t799dIUj6hlICExG"
+    },
+    {
+        "slug": "chelish-rebel",
+        "uuid": "Compendium.pf2e.backgrounds.Item.tA0nggrWfBEhvsKA"
+    },
+    {
+        "slug": "deep-sea-diver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.tGtrad5lJzXPZCx6"
+    },
+    {
+        "slug": "final-blade-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.tQ9t7uIssRCR2y3W"
+    },
+    {
+        "slug": "trade-consortium-underling",
+        "uuid": "Compendium.pf2e.backgrounds.Item.tcsSxwkl4wCsfO3k"
+    },
+    {
+        "slug": "street-preacher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.tqnrnXVTbdehohPL"
+    },
+    {
+        "slug": "royalty",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uC6D2nmDTATxXrV6"
+    },
+    {
+        "slug": "ruby-phoenix-fanatic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uF9nw15tK6b1bgre"
+    },
+    {
+        "slug": "lumber-consortium-laborer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uJcFanGjVranEarv"
+    },
+    {
+        "slug": "varisian-wanderer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uNhdcyhiog7YvXPT"
+    },
+    {
+        "slug": "child-of-westcrown",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uNvD4XK1kdvGjQVo"
+    },
+    {
+        "slug": "veteran",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uS1T7SpCtT0lZxep"
+    },
+    {
+        "slug": "close-ties",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uker8dnTA7WhzXSR"
+    },
+    {
+        "slug": "tall-tale",
+        "uuid": "Compendium.pf2e.backgrounds.Item.uwZ0emSBFNMGA74j"
+    },
+    {
+        "slug": "scholar",
+        "uuid": "Compendium.pf2e.backgrounds.Item.v0WPfxN6G8XFfFZT"
+    },
+    {
+        "slug": "osprey-fisher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.v319qChG1uAQkGEe"
+    },
+    {
+        "slug": "osprey-scout",
+        "uuid": "Compendium.pf2e.backgrounds.Item.v8pS4UCYjt9OTtQL"
+    },
+    {
+        "slug": "dreamer-of-the-verdant-moon",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vBPu7RwNXGDQ1ThL"
+    },
+    {
+        "slug": "sally-guard-neophyte",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vE6nb2OSIXqprDXk"
+    },
+    {
+        "slug": "friendly-darkmoon-kobold",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vEl3OBUsSmPh8b4N"
+    },
+    {
+        "slug": "scavenger",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vHeP960qjhfob4Je"
+    },
+    {
+        "slug": "wish-for-riches",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vMyMUZpg8MYZT2AZ"
+    },
+    {
+        "slug": "hellknight-historian",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vNWSzv36L1GBPPoc"
+    },
+    {
+        "slug": "junker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vTyG1bQkEENZHroY"
+    },
+    {
+        "slug": "former-aspis-agent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vgin9ff2sUBMpuaI"
+    },
+    {
+        "slug": "thassilonian-delver",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vjhB0ZTV9OZgSuSz"
+    },
+    {
+        "slug": "food-trader",
+        "uuid": "Compendium.pf2e.backgrounds.Item.vmdhw37F22FCMm50"
+    },
+    {
+        "slug": "chosen-one",
+        "uuid": "Compendium.pf2e.backgrounds.Item.w2GSRC5uMcSUfPGJ"
+    },
+    {
+        "slug": "mechanical-symbiosis",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wGB222d5UIBGYWsK"
+    },
+    {
+        "slug": "rostlander",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wKiFedYlHCsM5wN4"
+    },
+    {
+        "slug": "lost-and-alone",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wU1qd8tZNcYn43y2"
+    },
+    {
+        "slug": "wanted-witness",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wZikbWmCWYpjFxQF"
+    },
+    {
+        "slug": "foreign-diplomat",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wqzFhMzGYKsfrgyo"
+    },
+    {
+        "slug": "quartermaster",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wrNTaSFFTxznOZLF"
+    },
+    {
+        "slug": "barber",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wudDO9OEsRjJsqhU"
+    },
+    {
+        "slug": "second-chance-champion",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wz4fDeZtCvxC4vyO"
+    },
+    {
+        "slug": "ustalavic-academic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.x2y25cE98Eq4qxbu"
+    },
+    {
+        "slug": "medicinal-clocksmith",
+        "uuid": "Compendium.pf2e.backgrounds.Item.x3fFxtLogoy5hZfe"
+    },
+    {
+        "slug": "grizzled-muckrucker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xCCvT9tprRQVFVDq"
+    },
+    {
+        "slug": "clockwork-researcher",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xKEQvxDMHWRUkL6i"
+    },
+    {
+        "slug": "energy-scarred",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xbyQ1RAF6x4ceXLf"
+    },
+    {
+        "slug": "unremarkable",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xkRZUxWna7BcNnHZ"
+    },
+    {
+        "slug": "bibliophile",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xvz5F7iYBWEIjz0r"
+    },
+    {
+        "slug": "northland-forager",
+        "uuid": "Compendium.pf2e.backgrounds.Item.xyHndp512sLU4UOL"
+    },
+    {
+        "slug": "secular-medic",
+        "uuid": "Compendium.pf2e.backgrounds.Item.y0WZS51fSi6dILHq"
+    },
+    {
+        "slug": "artist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.y9OyNsxGfmjqdcP0"
+    },
+    {
+        "slug": "witch-wary",
+        "uuid": "Compendium.pf2e.backgrounds.Item.yAtyaKbcHZWCJlf5"
+    },
+    {
+        "slug": "grand-council-bureaucrat",
+        "uuid": "Compendium.pf2e.backgrounds.Item.yK40c3082U30BUX5"
+    },
+    {
+        "slug": "banished-celestial",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ySWc2RRRb7jnadSg"
+    },
+    {
+        "slug": "saved-by-clockwork",
+        "uuid": "Compendium.pf2e.backgrounds.Item.yZUzLCeuaIkNk4up"
+    },
+    {
+        "slug": "willing-host",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ykYaQwIX7sxvbhwc"
+    },
+    {
+        "slug": "ex-mendevian-crusader",
+        "uuid": "Compendium.pf2e.backgrounds.Item.ynObDI0VbZ4sqeMI"
+    },
+    {
+        "slug": "barker",
+        "uuid": "Compendium.pf2e.backgrounds.Item.z4cCsOT36MB7xldR"
+    },
+    {
+        "slug": "belkzen-anthropologist",
+        "uuid": "Compendium.pf2e.backgrounds.Item.zAE9QOrE4DzEFS1Y"
+    },
+    {
+        "slug": "company-agent",
+        "uuid": "Compendium.pf2e.backgrounds.Item.zhSGlVwl75CfVKfR"
+    },
+    {
+        "slug": "alloysmith",
+        "uuid": "Compendium.pf2e.backgrounds.Item.zwjoAOGkT44MmDKT"
+    }
+]

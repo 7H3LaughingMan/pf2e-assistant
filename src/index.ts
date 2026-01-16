@@ -17,6 +17,4 @@ Hooks.once("ready", async function () {
             }
         }
     }
-
-    foundry.ui.notifications.info("Hello World!");
 });

@@ -31,55 +31,7 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
         - Panache
 - Conditions
     - Frightened
-- Consumables
-    - Antidote
-    - Antiplague
-    - Arbor Wine
-    - Bendy-Arm Mutagen
-    - Bestial Mutagen
-    - Blood Booster
-    - Bomber's Eye Elixir
-    - Bottled Lightning
-    - Bravo's Brew
-    - Cheetah's Elixir
-    - Chromatic Jellyfish Oil
-    - Cognitive Mutagen
-    - Darkvision Elixir
-    - Deadweight Mutagen
-    - Drakeheart Mutagen
-    - Eagle Eye Elixir
-    - Egg Cream Fizz
-    - Elixir of Life
-    - Energy Mutagen
-    - Fury Cocktail
-    - Gecko Potion
-    - Insight Coffee
-    - Juggernaut Mutagen
-    - Merciful Balm
-    - Mistform Elixir
-    - Numbing Tonic
-    - Potency Crystal
-    - Potion of Emergency Escape
-    - Predator's Claw
-    - Prey Mutagen
-    - Quicksilver Mutagen
-    - Sanguine Mutagen
-    - Sea Touch Elixir
-    - Serene Mutagen
-    - Shielding Salve
-    - Shining Ammunition
-    - Silvertongue Mutagen
-    - Skeptic's Elixir
-    - Soothing Toddy
-    - Soothing Tonic
-    - Spiderfoot Brew
-    - Stone Body Mutagen
-    - Stone Fist Elixir
-    - Theatrical Mutagen
-    - Viperous Elixir
-    - War Blood Mutagen
 - Critical Specializations
-    - Axe
     - Bow
     - Brawling
     - Firearm
@@ -93,6 +45,67 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
     - Aura of Courage
     - Terrified Retreat
     - Tumble Behind
+- Items
+    - Consumables
+        - Ablative Armor Plating
+        - Alloy Orb
+        - Amphisbaena Spittle
+        - Antidote
+        - Antifungal Salve
+        - Antiplague
+        - Apricot of Bestial Might
+        - Arbor Wine
+        - Aromatic Ammunition
+        - Ascendant Dragon Spirit
+        - Auric Noodles
+        - Bendy-Arm Mutagen
+        - Bestial Mutagen
+        - Blight Breath
+        - Blood Booster
+        - Bloodhound Mask
+        - Bomber's Eye Elixir
+        - Bottled Lightning
+        - Bottled Omen
+        - Bravo's Brew
+        - Cheetah's Elixir
+        - Chromatic Jellyfish Oil
+        - Cognitive Mutagen
+        - Darkvision Elixir
+        - Deadweight Mutagen
+        - Drakeheart Mutagen
+        - Eagle Eye Elixir
+        - Egg Cream Fizz
+        - Elixir of Life
+        - Energy Mutagen
+        - Fury Cocktail
+        - Gecko Potion
+        - Insight Coffee
+        - Juggernaut Mutagen
+        - Merciful Balm
+        - Mistform Elixir
+        - Numbing Tonic
+        - Potency Crystal
+        - Potion of Emergency Escape
+        - Predator's Claw
+        - Prey Mutagen
+        - Quicksilver Mutagen
+        - Sanguine Mutagen
+        - Sea Touch Elixir
+        - Serene Mutagen
+        - Shielding Salve
+        - Shining Ammunition
+        - Silvertongue Mutagen
+        - Skeptic's Elixir
+        - Soothing Toddy
+        - Soothing Tonic
+        - Spiderfoot Brew
+        - Stone Body Mutagen
+        - Stone Fist Elixir
+        - Theatrical Mutagen
+        - Viperous Elixir
+        - War Blood Mutagen
+    - Runes
+        - Bloodthirsty
 - Other
     - Persistent Damage
     - Persistent Healing

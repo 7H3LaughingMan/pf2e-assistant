@@ -1,5 +1,5 @@
 import { Assistant } from "assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "effects.js";
+import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
 
 export const path = ["Spells", "1st Rank", "Rousing Splash"];
 

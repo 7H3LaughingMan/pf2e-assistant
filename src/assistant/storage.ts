@@ -14,8 +14,6 @@ export class Storage {
                 this.addModule(module, path);
             });
         }
-
-        this.sortFolder();
     }
 
     reset() {
@@ -29,12 +27,6 @@ export class Storage {
         if (!this.#disabledFiles.includes(path)) {
             this.#actions.push(...module.actions);
         }
-
-        this.sortFolder();
-    }
-
-    sortFolder() {
-        Storage.sortFolder(this.#rootFolder);
     }
 
     private static addFile(folder: Assistant.Folder, path: string[], value: string, enabled: boolean) {
@@ -43,21 +35,14 @@ export class Storage {
 
             if (!subFolder) {
                 subFolder = { label: path[0], children: [], entries: [] };
-                folder.children.push(subFolder);
+                Utils.Array.binaryInsert(folder.children, subFolder, (a, b) => a.label.localeCompare(b.label));
             }
 
             Storage.addFile(subFolder, path.slice(1), value, enabled);
         } else if (path.length == 1) {
-            folder.entries.push({ enabled, label: path[0], value });
-        }
-    }
-
-    private static sortFolder(folder: Assistant.Folder) {
-        folder.children.sort((a, b) => a.label.localeCompare(b.label));
-        folder.entries.sort((a, b) => a.label.localeCompare(b.label));
-
-        for (const child of folder.children) {
-            Storage.sortFolder(child);
+            Utils.Array.binaryInsert(folder.entries, { enabled, label: path[0], value }, (a, b) =>
+                a.label.localeCompare(b.label)
+            );
         }
     }
 
@@ -115,8 +100,6 @@ if (import.meta.hot) {
                 });
             });
         }
-
-        this.sortFolder();
     };
 
     import.meta.hot.accept((newModule) => {
@@ -127,7 +110,6 @@ if (import.meta.hot) {
             });
             // @ts-expect-error HMR
             game.assistant.storage.hotReload(modules);
-            game.assistant.storage.sortFolder();
         }
     });
 }

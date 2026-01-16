@@ -16,27 +16,29 @@
     "type": "module",
     "devDependencies": {
         "@eslint/js": "^9.39.2",
-        "@foundryvtt/foundryvtt-cli": "3.0.2",
+        "@foundryvtt/foundryvtt-cli": "3.0.3",
         "@types/js-yaml": "^4.0.9",
         "@types/prompts": "^2.4.9",
         "cmd-ts": "^0.14.3",
         "eslint": "^9.39.2",
         "eslint-config-prettier": "^10.1.8",
-        "eslint-plugin-prettier": "^5.5.4",
+        "eslint-plugin-prettier": "^5.5.5",
         "foundryvtt-sync": "github:7H3LaughingMan/FoundryVTT-Sync",
+        "glob": "^13.0.0",
         "globals": "^17.0.0",
         "js-yaml": "^4.1.1",
         "keep-a-changelog": "2.8.0",
-        "prettier": "3.7.4",
+        "prettier": "3.8.0",
         "prettier-plugin-organize-imports": "^4.3.0",
         "prompts": "^2.4.2",
         "typescript": "5.9.3",
         "typescript-eslint": "^8.53.0",
+        "unplugin-replace": "^0.6.3",
         "vite": "7.3.1",
         "vite-tsconfig-paths": "^6.0.4"
     },
     "dependencies": {
         "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
-        "remeda": "2.33.1"
+        "remeda": "2.33.4"
     }
 }

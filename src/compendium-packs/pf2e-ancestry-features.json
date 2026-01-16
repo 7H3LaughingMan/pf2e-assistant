@@ -1,0 +1,222 @@
+[
+    {
+        "slug": "awakened-mind",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.0qHN69NF7JBWKO8v"
+    },
+    {
+        "slug": "glowing-horn",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.8sxtjVsk9HBY5yAv"
+    },
+    {
+        "slug": "eyes-in-back",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.AUlPRySCqE6o6LHH"
+    },
+    {
+        "slug": "aquatic-adaptation",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.AzGJN1wwLFaLJIeo"
+    },
+    {
+        "slug": "constructed-poppet",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.BHPDeqQHqi7ukCUW"
+    },
+    {
+        "slug": "sunlight-healing",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.BgHrucbZ9TH92RDv"
+    },
+    {
+        "slug": "wanderers-soul",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.D6AjSg0JOYtn7Coa"
+    },
+    {
+        "slug": "iivlar-weaving",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.DPPFBUk0l9KfRN8h"
+    },
+    {
+        "slug": "hydration-merfolk",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.DWNRIgt3f92fSTBM"
+    },
+    {
+        "slug": "constructed-body",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.E28a45fUC2OkXZXY"
+    },
+    {
+        "slug": "clan-dagger",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.Eyuqu6eIaoGCjnMv"
+    },
+    {
+        "slug": "head-gem",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.HYefFkddD9lOhFM8"
+    },
+    {
+        "slug": "innate-venom",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.IXyXCMBldrU5G60e"
+    },
+    {
+        "slug": "awakened-form",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.ItQDbIiqpb50Zbtm"
+    },
+    {
+        "slug": "horns-sarangay",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.LhgVj9GhPsXGfwAM"
+    },
+    {
+        "slug": "photosynthesis",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.N0zhJ0whkDJPlftl"
+    },
+    {
+        "slug": "claws",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.NfkxFWUeG6g41e8w"
+    },
+    {
+        "slug": "big-sharp-teeth",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.PCLnnWPbiiSzrxEo"
+    },
+    {
+        "slug": "prehensile-tail",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.PtvzTm2gjdCKao4I"
+    },
+    {
+        "slug": "cryptomnesia",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.QLSvmOid6gAdzBYi"
+    },
+    {
+        "slug": "empathic-sense",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.QyBfftocP1i43Qrp"
+    },
+    {
+        "slug": "automaton-core",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.RYrY7o0i6s7KW9io"
+    },
+    {
+        "slug": "wings-dragonet",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.RjWv5oPKZtNQgEiK"
+    },
+    {
+        "slug": "robust",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.S5XriNcxiVvqZEu0"
+    },
+    {
+        "slug": "basic-undead-benefits",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.SAbzItAI4uwbdnQk"
+    },
+    {
+        "slug": "plant-nourishment",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.Sm3tKetM6kddTio3"
+    },
+    {
+        "slug": "magical-strikes",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.TRw4oBZBFZG96jKO"
+    },
+    {
+        "slug": "draconic-benefactor",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.UR8qLQdU9UOoZxXB"
+    },
+    {
+        "slug": "mount",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.VX267tc1uwocRu39"
+    },
+    {
+        "slug": "advanced-undead-benefits",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV"
+    },
+    {
+        "slug": "sunlight",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.bHUrm79wJCcI7L3A"
+    },
+    {
+        "slug": "aquatic-grace",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.d5TYEND07kwWRBIq"
+    },
+    {
+        "slug": "fangs",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.dCp517IUFJk8JvQc"
+    },
+    {
+        "slug": "revulsion",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.dkZ8RxdQFJrdxwQo"
+    },
+    {
+        "slug": "blunt-snout",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.dtNsRAhCRfteA1ev"
+    },
+    {
+        "slug": "draconic-exemplar",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.egpiSWBrNBb1Fmig"
+    },
+    {
+        "slug": "natural-climber",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.gZvgt5n5OYO3av2V"
+    },
+    {
+        "slug": "horns-minotaur",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.hUpYTsbLcBg4UcVp"
+    },
+    {
+        "slug": "fangs-nagaji",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.jS8GamSTl8yMLL4F"
+    },
+    {
+        "slug": "bite",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.jatezR4bENwhC6GL"
+    },
+    {
+        "slug": "swim",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.kMgyOI4kBIEtFvhb"
+    },
+    {
+        "slug": "change-shape",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.knaVRiZ2QNteat1P"
+    },
+    {
+        "slug": "unusual-anatomy",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.mEDTJi7d1bTEiwUD"
+    },
+    {
+        "slug": "constructed",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.mnhmhOKWLiOD0lev"
+    },
+    {
+        "slug": "wings",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.oCIO7UJqbpTkI62l"
+    },
+    {
+        "slug": "magiphage",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.oQ5478uONrGAWRgF"
+    },
+    {
+        "slug": "animal-attack",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.oj532l4YXqzedBBn"
+    },
+    {
+        "slug": "sharp-beak",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.qJD3PJdoSXFrZEwr"
+    },
+    {
+        "slug": "flammable",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.qKh6MxgE0cwde6mC"
+    },
+    {
+        "slug": "land-on-your-feet",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.sL1hHxrHdMNIZVAd"
+    },
+    {
+        "slug": "sharp-teeth",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.sW4ObB8wyLPPYvGj"
+    },
+    {
+        "slug": "emotionally-unaware",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.uSAYmU7PO2QoOWhB"
+    },
+    {
+        "slug": "greater-darkvision",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.vPhPgzpRjYDMT9Kq"
+    },
+    {
+        "slug": "hydration",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.vt67b8uoNEbskcBv"
+    },
+    {
+        "slug": "keen-eyes",
+        "uuid": "Compendium.pf2e.ancestryfeatures.Item.y1EmCv2cEb5hXBwx"
+    }
+]
