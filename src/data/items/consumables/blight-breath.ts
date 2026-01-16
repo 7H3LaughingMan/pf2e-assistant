@@ -15,8 +15,7 @@ export const actions: Assistant.Action[] = [
 
             await game.assistant.socket.addEffect(target.actor, PF2E_EQUIPMENT_EFFECTS["effect-blight-breath"], {
                 origin: data.speaker,
-                item: data.item,
-                target: target
+                item: data.item
             });
         }
     }

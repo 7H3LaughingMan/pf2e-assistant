@@ -18,8 +18,7 @@ export const actions: Assistant.Action[] = [
                 PF2E_EQUIPMENT_EFFECTS["effect-bloodhound-mask-lesser"],
                 {
                     origin: data.speaker,
-                    item: data.item,
-                    target: target
+                    item: data.item
                 }
             );
         }
@@ -38,8 +37,7 @@ export const actions: Assistant.Action[] = [
                 PF2E_EQUIPMENT_EFFECTS["effect-bloodhound-mask-moderate"],
                 {
                     origin: data.speaker,
-                    item: data.item,
-                    target: target
+                    item: data.item
                 }
             );
         }
@@ -58,8 +56,7 @@ export const actions: Assistant.Action[] = [
                 PF2E_EQUIPMENT_EFFECTS["effect-bloodhound-mask-greater"],
                 {
                     origin: data.speaker,
-                    item: data.item,
-                    target: target
+                    item: data.item
                 }
             );
         }

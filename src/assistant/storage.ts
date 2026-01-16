@@ -69,8 +69,6 @@ export class Storage {
         const reroll = Assistant.createReroll();
         if (data.trigger == "") return { data, reroll };
 
-        console.log(data);
-
         const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 
         for (const action of actions) {

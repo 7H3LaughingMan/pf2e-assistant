@@ -25,13 +25,7 @@ export function addContext(
               }
             : null;
 
-    const rollOptions = [
-        context.origin?.actor.getSelfRollOptions("origin"),
-        context.item?.getRollOptions("origin:item")
-    ]
-        .flat()
-        .filter(Utils.Remeda.isTruthy)
-        .sort();
+    const rollOptions = Utils.RollOptions.getOriginRollOptions(context.origin.actor, context.item);
 
     const origin = {
         actor: context.origin.actor.uuid,

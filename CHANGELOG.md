@@ -7,6 +7,103 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [7.8.3] - 2026-01-16
+
+### Added
+
+- Applereed Mutagen
+- Boulderhead Bock
+- Brewer's Regret
+- Bronze Bull Pendant
+- Cat's Eye Elixir
+- Chivalric Emblem
+- Cinnamon Seers
+- Cloud Buns
+- Cold Iron Blanch
+- Covenant Tea
+- Delve Scale
+- Demortification Oil
+- Diplomat's Charcuterie
+- Discord Fulu
+- Dragon Breath Scale
+- Dragon Pearl
+- Dragon Throat Scale
+- Dragon's Blood Pudding
+- Dragonfly Fulu
+- Dragonfly Potion
+- Drowsy Sun Eye Drops
+- Elysian Dew
+- Energized Cartridge
+- Energizing Pill
+- Energizing Tea
+- Escape Fulu
+- Ethereal Crescent
+- Featherlight Fletching
+- Feyfoul
+- Fire and Iceberg
+- Frost Breath
+- Galvanic Chew
+- Ghost Fowl Porridge
+- Ghost Oil
+- Ghostbane Fulu
+- Ginger Chew
+- Glow Rod
+- Golden Breath Fulu
+- Grindlegrub Steak
+- Hand of Mercy
+- Hydra Mutagen
+- Ichthyosis Mutagen
+- Impossible Cake
+- Iron Medallion
+- Iron Wine
+- Lastwall Soup
+- Life-Boosting Oil
+- Malleable Mixture
+- Mighty Counterweight
+- Morph Jewel
+- Mortalis Coin
+- Necrotic Cap
+- Ommatophoric Mutagen
+- Pallesthetic Mutagen
+- Phasing Trine
+- Phoenix Flask
+- Potion of Acid Resistance
+- Potion of Cold Resistance
+- Potion of Electricity Resistance
+- Potion of Fire Resistance
+- Potion of Flying
+- Potion of Minute Echoes
+- Potion of Quickness
+- Potion of Sonic Resistance
+- Potion of Stable Form
+- Potion of Swimming
+- Red-Rib Gill Mask
+- Sense-Dulling Hood
+- Shrinking Potion
+- Silver Crescent
+- Silver Salve
+- Sixfingers Elixir
+- Star of Cynosure
+- Statue Skin Salve
+- Storm Breath
+- Stormbreaker Fulu
+- Taper of Sanctification
+- Thawing Candle
+- Thousand-Year Dragonroot
+- Tiger Menuki
+- Topology Protoplasm
+- Tracker's Stew
+- Tricky Liniment
+- Tteokguk of Time Advancement
+- Valorous Coin
+- Vapor Sphere
+- Vengeful Demon's Tears
+- Vermin Repellent Agent
+- Wemmuth Trinket
+- Wine of the Blood
+- Witch's Finger
+- Wounding Oil
+
 ## [7.8.2] - 2026-01-16
 
 - Removed Effects Compendium Pack
@@ -427,7 +524,8 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
-[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.2...HEAD
+[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...HEAD
+[7.8.3]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.2...v7.8.3
 [7.8.2]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.1...v7.8.2
 [7.8.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.0...v7.8.1
 [7.8.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.2.0...v7.8.0

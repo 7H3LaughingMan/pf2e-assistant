@@ -18,8 +18,7 @@ export const actions: Assistant.Action[] = [
                 PF2E_EQUIPMENT_EFFECTS["effect-ascendant-dragon-spirit"],
                 {
                     origin: data.speaker,
-                    item: data.item,
-                    target: target
+                    item: data.item
                 }
             );
         }

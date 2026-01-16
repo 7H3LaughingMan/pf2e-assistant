@@ -9,6 +9,7 @@ export const actions: Assistant.Action[] = [
         predicate: [{ or: ["item:potency-crystal", "item:potency-crystal-greater", "item:potency-crystal-major"] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
+            if (!data.item?.isOfType("consumable")) return;
 
             await game.assistant.socket.addEffect(
                 data.speaker.actor,

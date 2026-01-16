@@ -57,10 +57,6 @@ export const actions: Assistant.Action[] = [
                             ]
                                 .flat()
                                 .filter(Utils.Remeda.isTruthy)
-                        },
-                        target: {
-                            actor: target.actor.uuid,
-                            token: target.token.uuid
                         }
                     }
                 },
@@ -119,10 +115,6 @@ export const actions: Assistant.Action[] = [
                             ]
                                 .flat()
                                 .filter(Utils.Remeda.isTruthy)
-                        },
-                        target: {
-                            actor: target.actor.uuid,
-                            token: target.token.uuid
                         }
                     }
                 },
@@ -181,10 +173,6 @@ export const actions: Assistant.Action[] = [
                             ]
                                 .flat()
                                 .filter(Utils.Remeda.isTruthy)
-                        },
-                        target: {
-                            actor: target.actor.uuid,
-                            token: target.token.uuid
                         }
                     }
                 },

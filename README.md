@@ -53,6 +53,7 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
         - Antidote
         - Antifungal Salve
         - Antiplague
+        - Applereed Mutagen
         - Apricot of Bestial Might
         - Arbor Wine
         - Aromatic Ammunition
@@ -66,44 +67,135 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
         - Bomber's Eye Elixir
         - Bottled Lightning
         - Bottled Omen
+        - Boulderhead Bock
         - Bravo's Brew
+        - Brewer's Regret
+        - Bronze Bull Pendant
+        - Cat's Eye Elixir
         - Cheetah's Elixir
+        - Chivalric Emblem
         - Chromatic Jellyfish Oil
+        - Cinnamon Seers
+        - Cloud Buns
         - Cognitive Mutagen
+        - Cold Iron Blanch
+        - Covenant Tea
         - Darkvision Elixir
         - Deadweight Mutagen
+        - Delve Scale
+        - Demortification Oil
+        - Diplomat's Charcuterie
+        - Discord Fulu
+        - Dragon Breath Scale
+        - Dragon Pearl
+        - Dragon Throat Scale
+        - Dragon's Blood Pudding
+        - Dragonfly Fulu
+        - Dragonfly Potion
         - Drakeheart Mutagen
+        - Drowsy Sun Eye Drops
         - Eagle Eye Elixir
         - Egg Cream Fizz
         - Elixir of Life
+        - Elysian Dew
+        - Energized Cartridge
+        - Energizing Pill
+        - Energizing Tea
         - Energy Mutagen
+        - Escape Fulu
+        - Ethereal Crescent
+        - Featherlight Fletching
+        - Feyfoul
+        - Fire and Iceberg
+        - Frost Breath
         - Fury Cocktail
+        - Galvanic Chew
         - Gecko Potion
+        - Ghost Fowl Porridge
+        - Ghost Oil
+        - Ghostbane Fulu
+        - Ginger Chew
+        - Glow Rod
+        - Golden Breath Fulu
+        - Grindlegrub Steak
+        - Hand of Mercy
+        - Hydra Mutagen
+        - Ichthyosis Mutagen
+        - Impossible Cake
         - Insight Coffee
+        - Iron Medallion
+        - Iron Wine
         - Juggernaut Mutagen
+        - Lastwall Soup
+        - Life-Boosting Oil
+        - Malleable Mixture
         - Merciful Balm
+        - Mighty Counterweight
         - Mistform Elixir
+        - Morph Jewel
+        - Mortalis Coin
+        - Necrotic Cap
         - Numbing Tonic
+        - Ommatophoric Mutagen
+        - Pallesthetic Mutagen
+        - Phasing Trine
+        - Phoenix Flask
         - Potency Crystal
+        - Potion of Acid Resistance
+        - Potion of Cold Resistance
+        - Potion of Electricity Resistance
         - Potion of Emergency Escape
+        - Potion of Fire Resistance
+        - Potion of Flying
+        - Potion of Minute Echoes
+        - Potion of Quickness
+        - Potion of Sonic Resistance
+        - Potion of Stable Form
+        - Potion of Swimming
         - Predator's Claw
         - Prey Mutagen
         - Quicksilver Mutagen
+        - Red-Rib Gill Mask
         - Sanguine Mutagen
         - Sea Touch Elixir
+        - Sense-Dulling Hood
         - Serene Mutagen
         - Shielding Salve
         - Shining Ammunition
+        - Shrinking Potion
+        - Silver Crescent
+        - Silver Salve
         - Silvertongue Mutagen
+        - Sixfingers Elixir
         - Skeptic's Elixir
         - Soothing Toddy
         - Soothing Tonic
         - Spiderfoot Brew
+        - Star of Cynosure
+        - Statue Skin Salve
         - Stone Body Mutagen
         - Stone Fist Elixir
+        - Storm Breath
+        - Stormbreaker Fulu
+        - Taper of Sanctification
+        - Thawing Candle
         - Theatrical Mutagen
+        - Thousand-Year Dragonroot
+        - Tiger Menuki
+        - Topology Protoplasm
+        - Tracker's Stew
+        - Tricky Liniment
+        - Tteokguk of Time Advancement
+        - Valorous Coin
+        - Vapor Sphere
+        - Vengeful Demon's Tears
+        - Vermin Repellent Agent
         - Viperous Elixir
         - War Blood Mutagen
+        - Wemmuth Trinket
+        - Wine of the Blood
+        - Witch's Finger
+        - Wounding Oil
     - Runes
         - Bloodthirsty
 - Other
