@@ -32,8 +32,10 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
 - Conditions
     - Frightened
 - Critical Specializations
+    - Axe
     - Bow
     - Brawling
+    - Crossbow
     - Firearm
     - Flail
     - Hammer
@@ -43,6 +45,7 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
 - Feats
     - Accelerating Touch
     - Aura of Courage
+    - Crushing Grab
     - Terrified Retreat
     - Tumble Behind
 - Items
@@ -198,6 +201,14 @@ Your personal assistant for your Pathfinder 2nd Edition games, helps automate va
         - Wounding Oil
     - Runes
         - Bloodthirsty
+        - Brilliant
+        - Crushing
+        - Fearsome
+        - Frost
+        - Rooting
+        - Shock
+        - Thundering
+        - Vitalizing
 - Other
     - Persistent Damage
     - Persistent Healing

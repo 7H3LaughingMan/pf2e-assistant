@@ -12,16 +12,22 @@ import {
     EffectSystemData,
     ItemPF2e,
     ItemSourcePF2e,
+    ModifierObjectParams,
+    RollNoteSource,
+    RollTwiceOption,
     SaveType,
-    TokenDocumentPF2e
+    TokenDocumentPF2e,
+    TraitViewData
 } from "foundry-pf2e";
 import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
+import { RollMode } from "foundry-pf2e/foundry/common/constants.mjs";
 import {
     ActorUUID,
     ChatMessageUUID,
     ItemUUID,
     TokenDocumentUUID
 } from "foundry-pf2e/foundry/common/documents/_module.mjs";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 import { ActorToken, isActorToken } from "./data.ts";
 import { AddItem, RemoveItem, UpdateCondition } from "./reroll.ts";
@@ -215,7 +221,7 @@ export class Socket {
 
             for (const condition of conditions) {
                 const currentValue = condition._source.system.value.value;
-                const newValue = Utils.Remeda.isNumber(currentValue) ? Math.max(currentValue - (value ?? 1), 0) : null;
+                const newValue = R.isNumber(currentValue) ? Math.max(currentValue - (value ?? 1), 0) : null;
                 if (newValue !== null && !forceRemove) {
                     await game.pf2e.ConditionManager.updateConditionValue(condition.id, actor, newValue);
                 } else {
@@ -271,7 +277,7 @@ export class Socket {
             return returnValue;
         } else {
             const conditionSource = game.pf2e.ConditionManager.getCondition(conditionSlug).toObject();
-            const conditionValue = Utils.Remeda.isNumber(conditionSource.system.value.value)
+            const conditionValue = R.isNumber(conditionSource.system.value.value)
                 ? Math.clamp(conditionSource.system.value.value, value ?? 1, max)
                 : null;
             conditionSource.system.value.value = conditionValue;
@@ -343,7 +349,7 @@ export class Socket {
         if (conditionSlug === "persistent-damage" && persistent === undefined) return [];
 
         const conditionSource = game.pf2e.ConditionManager.getCondition(conditionSlug).toObject();
-        const conditionValue = Utils.Remeda.isNumber(conditionSource.system.value.value)
+        const conditionValue = R.isNumber(conditionSource.system.value.value)
             ? Math.clamp(conditionSource.system.value.value, value ?? 1, Number.MAX_SAFE_INTEGER)
             : null;
         conditionSource.system.value.value = conditionValue;
@@ -393,43 +399,175 @@ export class Socket {
         actor: ActorPF2e,
         save: SaveType,
         args: {
-            origin?: ActorPF2e;
+            /** A string of some kind to identify the roll: will be included in `CheckRoll#options` */
+            identifier?: string;
+            /** The slug of an action of which this check is a constituent roll */
+            action?: string;
+            /** What token to use for the roll itself. Defaults to the actor's token */
+            token?: Maybe<TokenDocumentPF2e>;
+            /** Which attack this is (for the purposes of multiple attack penalty) */
+            attackNumber?: number;
+            /** Optional target for the roll */
+            target?: Maybe<ActorPF2e>;
+            /** Optional origin for the roll: only one of target and origin may be provided */
+            origin?: Maybe<ActorPF2e>;
+            /** Optional DC data for the roll */
             dc?: CheckDC | CheckDCReference | number | null;
+            /** Optional override for the check modifier label */
+            label?: string;
+            /** An optional identifying slug to give a specific check: propagated to roll options */
+            slug?: Maybe<string>;
+            /** Optional override for the dialog's title: defaults to label */
+            title?: string;
+            /** Any additional roll notes that should be used in the roll. */
+            extraRollNotes?: RollNoteSource[];
+            /** Any additional options that should be used in the roll. */
             extraRollOptions?: string[];
+            /** Additional modifiers */
+            modifiers?: ModifierObjectParams[];
+            /** The originating item of this attack, if any */
+            item?: ItemPF2e<ActorPF2e> | null;
+            /** The roll mode (i.e., 'roll', 'blindroll', etc) to use when rendering this roll. */
+            rollMode?: RollMode | "roll";
+            /** Should the dialog be skipped */
             skipDialog?: boolean;
+            /** Should this roll be rolled twice? If so, should it keep highest or lowest? */
+            rollTwice?: RollTwiceOption;
+            /** Any traits for the check */
+            traits?: (TraitViewData | string)[];
+            /** Whether the check is part of a damaging action */
+            damaging?: boolean;
+            /** Indication that the check is associated with a melee action */
+            melee?: boolean;
+            /** Whether to create a chat message using the roll (defaults true) */
+            createMessage?: boolean;
         }
     ) {
         if (!actor.canUserModify(game.user, "update")) {
             await this.#executeAsActor(actor, "rollSave", actor.uuid, save, {
+                identifier: args.identifier,
+                action: args.action,
+                token: args.token?.uuid,
+                attackNumber: args.attackNumber,
+                target: args.target?.uuid,
                 origin: args.origin?.uuid,
                 dc: args.dc,
+                label: args.label,
+                slug: args.slug,
+                title: args.title,
+                extraRollNodes: args.extraRollNotes,
                 extraRollOptions: args.extraRollOptions,
-                skipDialog: args.skipDialog
+                modifiers: args.modifiers,
+                item: args.item?.uuid,
+                rollMode: args.rollMode,
+                skipDialog: args.skipDialog,
+                rollTwice: args.rollTwice,
+                traits: args.traits,
+                damaging: args.damaging,
+                melee: args.melee,
+                createMessage: args.createMessage
             });
             return;
         }
 
-        await actor.saves?.[save]?.roll(args);
+        await actor.saves?.[save]?.roll({
+            identifier: args.identifier,
+            action: args.action,
+            token: args.token,
+            attackNumber: args.attackNumber,
+            target: args.target,
+            origin: args.origin,
+            dc: args.dc,
+            label: args.label,
+            slug: args.slug,
+            title: args.title,
+            extraRollNotes: args.extraRollNotes,
+            extraRollOptions: args.extraRollOptions,
+            modifiers: args.modifiers?.map((value) => new game.pf2e.Modifier(value)),
+            item: args.item,
+            rollMode: args.rollMode,
+            skipDialog: args.skipDialog,
+            rollTwice: args.rollTwice,
+            traits: args.traits,
+            damaging: args.damaging,
+            melee: args.melee,
+            createMessage: args.createMessage
+        });
     }
 
     async #rollSave(
         actorUuid: ActorUUID,
         save: SaveType,
         args: {
-            origin?: ActorUUID;
+            /** A string of some kind to identify the roll: will be included in `CheckRoll#options` */
+            identifier?: string;
+            /** The slug of an action of which this check is a constituent roll */
+            action?: string;
+            /** What token to use for the roll itself. Defaults to the actor's token */
+            token?: Maybe<TokenDocumentUUID>;
+            /** Which attack this is (for the purposes of multiple attack penalty) */
+            attackNumber?: number;
+            /** Optional target for the roll */
+            target?: Maybe<ActorUUID>;
+            /** Optional origin for the roll: only one of target and origin may be provided */
+            origin?: Maybe<ActorUUID>;
+            /** Optional DC data for the roll */
             dc?: CheckDC | CheckDCReference | number | null;
+            /** Optional override for the check modifier label */
+            label?: string;
+            /** An optional identifying slug to give a specific check: propagated to roll options */
+            slug?: Maybe<string>;
+            /** Optional override for the dialog's title: defaults to label */
+            title?: string;
+            /** Any additional roll notes that should be used in the roll. */
+            extraRollNotes?: RollNoteSource[];
+            /** Any additional options that should be used in the roll. */
             extraRollOptions?: string[];
+            /** Additional modifiers */
+            modifiers?: ModifierObjectParams[];
+            /** The originating item of this attack, if any */
+            item?: ItemUUID | null;
+            /** The roll mode (i.e., 'roll', 'blindroll', etc) to use when rendering this roll. */
+            rollMode?: RollMode | "roll";
+            /** Should the dialog be skipped */
             skipDialog?: boolean;
+            /** Should this roll be rolled twice? If so, should it keep highest or lowest? */
+            rollTwice?: RollTwiceOption;
+            /** Any traits for the check */
+            traits?: (TraitViewData | string)[];
+            /** Whether the check is part of a damaging action */
+            damaging?: boolean;
+            /** Indication that the check is associated with a melee action */
+            melee?: boolean;
+            /** Whether to create a chat message using the roll (defaults true) */
+            createMessage?: boolean;
         }
     ) {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return;
 
         await game.assistant.socket.rollSave(actor, save, {
+            identifier: args.identifier,
+            action: args.action,
+            token: args.token ? ((await fromUuid<TokenDocumentPF2e>(args.token)) ?? undefined) : undefined,
+            attackNumber: args.attackNumber,
+            target: args.target ? ((await fromUuid<ActorPF2e>(args.target)) ?? undefined) : undefined,
             origin: args.origin ? ((await fromUuid<ActorPF2e>(args.origin)) ?? undefined) : undefined,
             dc: args.dc,
+            label: args.label,
+            slug: args.slug,
+            title: args.title,
+            extraRollNotes: args.extraRollNotes,
             extraRollOptions: args.extraRollOptions,
-            skipDialog: args.skipDialog
+            modifiers: args.modifiers,
+            item: args.item ? ((await fromUuid<ItemPF2e<ActorPF2e>>(args.item)) ?? undefined) : undefined,
+            rollMode: args.rollMode,
+            skipDialog: args.skipDialog,
+            rollTwice: args.rollTwice,
+            traits: args.traits,
+            damaging: args.damaging,
+            melee: args.melee,
+            createMessage: args.createMessage
         });
     }
 
@@ -454,7 +592,7 @@ export class Socket {
             await this.#socket.executeAsGM("updateChatMessage", chatMessage.uuid, tokenId, reroll);
         }
 
-        this.#updateQueue.add(chatMessage.update, {
+        this.#updateQueue.add(chatMessage.update.bind(chatMessage), {
             flags: { "pf2e-assistant": { process: false, reroll: { [tokenId]: reroll } } }
         });
     }

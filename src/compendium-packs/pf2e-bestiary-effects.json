@@ -300,6 +300,14 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.7PjBr9LsVB0Jjzyu"
     },
     {
+        "slug": "effect-radiate-cold",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.7fTxNaznBfjrGTjt"
+    },
+    {
+        "slug": "effect-siphon-life",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.7j1fMrkI40XIlTUt"
+    },
+    {
         "slug": "effect-volcanic-purge",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.7qoZauizAKfPIXeu"
     },
@@ -564,6 +572,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.F1JHRa75KBAjHOs1"
     },
     {
+        "slug": "effect-damned-restoration",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.F4fWxN5WREaoWz19"
+    },
+    {
         "slug": "stance-hunters-precision",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.F9Wz99k6pXJYOfrC"
     },
@@ -810,6 +822,10 @@
     {
         "slug": "effect-drain-life",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.LRIYUFQ7FE9H4RWD"
+    },
+    {
+        "slug": "effect-binding-oath",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.LRLc8KQIJa4FhvvW"
     },
     {
         "slug": "effect-absorb-shock",
@@ -1420,6 +1436,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.bhSG1uP41ilmyzPu"
     },
     {
+        "slug": "effect-whisper-earworm-critical-failure",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.bzwFaDNBYsGpC4ed"
+    },
+    {
         "slug": "effect-drain-luck-success",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.c00YBD9y6ANnjTdF"
     },
@@ -1598,6 +1618,10 @@
     {
         "slug": "effect-inextinguishable-aura",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.gszL5RAakyyYfBMb"
+    },
+    {
+        "slug": "effect-rime-shield",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.gvCHmUQ2WxTdBKLq"
     },
     {
         "slug": "effect-ancestral-response",
@@ -1900,6 +1924,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.o6ZI01zZBQDASuaw"
     },
     {
+        "slug": "effect-heartening-aura",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.o86YugTsxhm1T86j"
+    },
+    {
         "slug": "effect-soul-crush-healing",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.oKNFSWJW2jat8Dli"
     },
@@ -2136,6 +2164,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.us3KiMrcGM8e6ri3"
     },
     {
+        "slug": "effect-shielding-wing",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.uxZSx9JfzwxdJg51"
+    },
+    {
         "slug": "effect-cloak-of-subversion",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.v4furpS1e0hiey4R"
     },
@@ -2150,6 +2182,10 @@
     {
         "slug": "effect-mortal-reflection",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.vUFIbQ74jz22rOXw"
+    },
+    {
+        "slug": "effect-to-shreds-ac-penalty",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.vaqiHzEewOKDx6rP"
     },
     {
         "slug": "effect-deceitful-feast-failure",

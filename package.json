@@ -32,7 +32,7 @@
         "prettier-plugin-organize-imports": "^4.3.0",
         "prompts": "^2.4.2",
         "typescript": "5.9.3",
-        "typescript-eslint": "^8.53.0",
+        "typescript-eslint": "^8.53.1",
         "unplugin-replace": "^0.6.3",
         "vite": "7.3.1",
         "vite-tsconfig-paths": "^6.0.4"

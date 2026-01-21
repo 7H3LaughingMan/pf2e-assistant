@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+PF2e System v7.9.1 Update
+Began implementing some changes to support the SF2e System; however, further work can't be completed untill the PF2e Anachronism module is released.
+
+### Added
+
+- Axe Critical Specialization
+- Brilliant Rune
+- Crushing Grab
+- Crushing Rune
+- Fearsome Rune
+- Frost Rune
+- Grievous Rune
+- Rooting Rune
+- Shock Rune
+- Thundering Rune
+- Vitalizing Rune
+
 ## [7.8.3] - 2026-01-16
 
 ### Added
@@ -107,7 +124,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [7.8.2] - 2026-01-16
 
 - Removed Effects Compendium Pack
-  - Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
+    - Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
 - Consumables are now under Items
 
 ### Added

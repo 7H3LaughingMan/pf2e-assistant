@@ -65,12 +65,7 @@ export const actions: Assistant.Action[] = [
                                     },
                                     tradition: data.item.spellcasting?.tradition
                                 },
-                                rollOptions: [
-                                    data.origin.actor.getSelfRollOptions("origin"),
-                                    data.item.getRollOptions("origin:item")
-                                ]
-                                    .flat()
-                                    .filter(Utils.Remeda.isTruthy)
+                                rollOptions: Utils.RollOptions.getOriginRollOptions(data.origin.actor, data.item)
                             },
                             target: {
                                 actor: data.speaker.actor.uuid,
@@ -148,12 +143,7 @@ export const actions: Assistant.Action[] = [
                                     },
                                     tradition: data.item.spellcasting?.tradition
                                 },
-                                rollOptions: [
-                                    data.origin.actor.getSelfRollOptions("origin"),
-                                    data.item.getRollOptions("origin:item")
-                                ]
-                                    .flat()
-                                    .filter(Utils.Remeda.isTruthy)
+                                rollOptions: Utils.RollOptions.getOriginRollOptions(data.origin.actor, data.item)
                             },
                             target: {
                                 actor: data.speaker.actor.uuid,

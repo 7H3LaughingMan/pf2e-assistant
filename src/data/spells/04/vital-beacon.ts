@@ -1,6 +1,6 @@
 import { Assistant } from "assistant.ts";
 import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
+import * as R from "remeda";
 
 export const path = ["Spells", "4th Rank", "Vital Beacon"];
 
@@ -28,7 +28,7 @@ export const actions: Assistant.Action[] = [
 
             const currentValue = data.item.system.badge?.value;
 
-            if (Utils.Remeda.isNonNullish(currentValue) && Utils.Remeda.isNumber(currentValue)) {
+            if (R.isNonNullish(currentValue) && R.isNumber(currentValue)) {
                 if (currentValue - 1 !== 0) {
                     await game.assistant.socket.updateEmbeddedItem(data.item, {
                         system: { badge: { value: currentValue - 1 } }

@@ -1,5 +1,4 @@
-import { ActorPF2e, CheckDC, ConditionSlug, EffectPF2e, UserPF2e, ZeroToThree } from "foundry-pf2e";
-
+import { ActorPF2e, CheckDC, ConditionSlug, DamageType, EffectPF2e, UserPF2e, ZeroToThree } from "foundry-pf2e";
 export function getClassDC(actor: ActorPF2e): CheckDC | number | undefined {
     if (actor.isOfType("character")) {
         return !actor.classDC
@@ -38,6 +37,12 @@ export function hasCondition(actor: ActorPF2e, conditionSlug: ConditionSlug, val
     }
 
     return conditions.length !== 0;
+}
+
+export function hasPersistentDamage(actor: ActorPF2e, damageType: DamageType): boolean {
+    return actor.conditions
+        .bySlug("persistent-damage", { active: true })
+        .some((value) => value.system.persistent.damageType === damageType);
 }
 
 export function hasEffect(

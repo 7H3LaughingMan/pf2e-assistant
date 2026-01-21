@@ -1,5 +1,5 @@
 import { ActorPF2e, ItemPF2e } from "foundry-pf2e";
-import { Utils } from "utils.ts";
+import * as R from "remeda";
 
 export function getOriginRollOptions(actor: Maybe<ActorPF2e>, item: Maybe<ItemPF2e>) {
     const rollOptions = [];
@@ -12,5 +12,5 @@ export function getOriginRollOptions(actor: Maybe<ActorPF2e>, item: Maybe<ItemPF
         rollOptions.push(...item.getRollOptions("origin:item"));
     }
 
-    return rollOptions.filter(Utils.Remeda.isTruthy).sort();
+    return rollOptions.filter(R.isTruthy).sort();
 }

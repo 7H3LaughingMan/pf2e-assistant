@@ -9,6 +9,7 @@ import {
     TokenDocumentPF2e
 } from "foundry-pf2e";
 import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 type SaveRollData = {
@@ -55,8 +56,8 @@ Hooks.on("pf2e-toolbelt.rollSave", function (args: RollSaveHook) {
 });
 
 Hooks.on("pf2e-toolbelt.rerollSave", function (args: RerollSaveHook) {
-    const reroll = args.message.flags["pf2e-assistant"]?.reroll;
-    if (reroll !== undefined) {
+    const reroll = R.prop(args.message.flags, "pf2e-assistant", "reroll") as Maybe<Record<string, Assistant.Reroll>>;
+    if (R.isNonNullish(reroll)) {
         Assistant.processReroll(reroll[args.target.id])
             .then(() => processToolbelt(args.message, args.keptRoll, args.target, args.data))
             .then((value) => game.assistant.storage.process(value))

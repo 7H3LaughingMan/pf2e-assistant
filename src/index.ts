@@ -1,9 +1,16 @@
 import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 import "./settings.ts";
 import "./triggers/index.ts";
 
 Hooks.once("ready", async function () {
-    Object.assign(game, { assistant: { socket: new Assistant.Socket(), storage: new Assistant.Storage() } });
+    game.assistant = {
+        socket: new Assistant.Socket(),
+        storage: new Assistant.Storage(),
+        systemId: game.system.id as SystemId,
+        extractPack: Utils.Macros.extractPack,
+        generateReadme: Utils.Macros.generateReadme
+    };
 
     if (game.user.isGM) {
         const module = game.modules.get("pf2e-assistant");

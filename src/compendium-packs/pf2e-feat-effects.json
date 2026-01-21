@@ -1736,10 +1736,6 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.WrWSieH9Acy6XuzV"
     },
     {
-        "slug": "effect-living-fortification-parry-trait",
-        "uuid": "Compendium.pf2e.feat-effects.Item.WxE5S3KY1DR5Nbxm"
-    },
-    {
         "slug": "effect-guardians-embrace",
         "uuid": "Compendium.pf2e.feat-effects.Item.X19XgqqItqZ4tfmq"
     },
@@ -1920,6 +1916,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.bWvOkRT3alzllsiG"
     },
     {
+        "slug": "effect-flensing-slice",
+        "uuid": "Compendium.pf2e.feat-effects.Item.bdq8ulAzatPMX8iK"
+    },
+    {
         "slug": "effect-hungry-blade",
         "uuid": "Compendium.pf2e.feat-effects.Item.blwrnLLvtR6PVJlp"
     },
@@ -1942,6 +1942,10 @@
     {
         "slug": "effect-accursed-clay-fist",
         "uuid": "Compendium.pf2e.feat-effects.Item.bvk5rwYSoTtz8QGf"
+    },
+    {
+        "slug": "effect-emergency-medical-assistance",
+        "uuid": "Compendium.pf2e.feat-effects.Item.bxXZYHCp6ftPSMCC"
     },
     {
         "slug": "effect-guide-the-timeline",
@@ -2036,7 +2040,7 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.e6mv68aarIbQ3tXL"
     },
     {
-        "slug": "effect-aldori-swordlord-tempory-hit-points",
+        "slug": "effect-aldori-swordlord-temporary-hit-points",
         "uuid": "Compendium.pf2e.feat-effects.Item.eJyyBqrXLOE4R9JI"
     },
     {
@@ -2506,6 +2510,10 @@
     {
         "slug": "effect-invented-vulnerability",
         "uuid": "Compendium.pf2e.feat-effects.Item.nOYXxWUT9i3z75GI"
+    },
+    {
+        "slug": "effect-whose-cry-is-thunder",
+        "uuid": "Compendium.pf2e.feat-effects.Item.nP3k4N52NzrR3KKf"
     },
     {
         "slug": "effect-spirits-mercy",

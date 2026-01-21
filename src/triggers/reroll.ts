@@ -1,5 +1,6 @@
 import { Assistant } from "assistant.ts";
 import { ChatMessagePF2e, Check } from "foundry-pf2e";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 interface RerollOptions {
@@ -29,8 +30,8 @@ Hooks.once("ready", async () => {
 
             if (!Utils.ChatMessage.isCheckContextFlag(message.flags.pf2e.context)) return;
 
-            const reroll = message.flags["pf2e-assistant"]?.reroll;
-            if (reroll !== undefined && message.token !== null) {
+            const reroll = R.prop(message.flags, "pf2e-assistant", "reroll") as Maybe<Record<string, Assistant.Reroll>>;
+            if (R.isNonNullish(reroll) && message.token !== null) {
                 await Assistant.processReroll(reroll[message.token.id]);
             }
         },

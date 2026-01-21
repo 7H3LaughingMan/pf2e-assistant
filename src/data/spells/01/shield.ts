@@ -1,6 +1,7 @@
 import { Assistant } from "assistant.ts";
 import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
 import { EffectSource } from "foundry-pf2e";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Shield"];
@@ -99,7 +100,7 @@ export const actions: Assistant.Action[] = [
                     .find((rule) => rule.option === "shield-block-layers");
                 const layers = Number(rollOption?.selection ?? "1");
 
-                if (Utils.Remeda.isNonNullish(currentValue) && Utils.Remeda.isNumber(currentValue)) {
+                if (R.isNonNullish(currentValue) && R.isNumber(currentValue)) {
                     if (currentValue - layers !== 0) {
                         await game.assistant.socket.updateEmbeddedItem(shieldEffect, {
                             system: { badge: { value: currentValue - layers } }

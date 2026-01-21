@@ -8,7 +8,12 @@ export const path = ["Critical Specializations", "Brawling"];
 export const actions: Assistant.Action[] = [
     {
         trigger: "damage-roll",
-        predicate: ["check:outcome:critical-success", "critical-specialization", "item:group:brawling"],
+        predicate: [
+            "check:outcome:critical-success",
+            "critical-specialization",
+            "item:group:brawling",
+            { not: "item:rune:property:grievous" }
+        ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
@@ -17,6 +22,27 @@ export const actions: Assistant.Action[] = [
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
                 extraRollOptions: ["critical-specialization", "item:group:brawling"],
+                skipDialog: true
+            });
+        }
+    },
+    {
+        trigger: "damage-roll",
+        predicate: [
+            "check:outcome:critical-success",
+            "critical-specialization",
+            "item:group:brawling",
+            "item:rune:property:grievous"
+        ],
+        process: async (data: Assistant.Data) => {
+            if (!data.speaker) return;
+            if (!data.target) return;
+
+            game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+                origin: data.speaker.actor,
+                dc: Utils.Actor.getClassDC(data.speaker.actor),
+                extraRollOptions: ["critical-specialization", "item:group:brawling", "grievous"],
+                modifiers: [{ label: "Grievous", modifier: -4, type: "circumstance" }],
                 skipDialog: true
             });
         }
@@ -80,7 +106,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "icons/magic/control/buff-luck-fortune-gold.webp"
+                    img: "icons/weapons/fist/fist-knuckles-brass.webp"
                 }))
             );
 

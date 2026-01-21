@@ -832,6 +832,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.KUNJk4bsCRDzArdK"
     },
     {
+        "slug": "effect-ouroboros-buckles",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.KbhyBlEERhMvGwbk"
+    },
+    {
         "slug": "effect-rowan-rifle-sonic",
         "uuid": "Compendium.pf2e.equipment-effects.Item.KiurLemTV8GV7OyM"
     },
@@ -910,6 +914,10 @@
     {
         "slug": "effect-potion-of-swimming-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.ModBoFdCi7YQU4gP"
+    },
+    {
+        "slug": "effect-ouroboros-buckles-swarm-of-snakes",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.MwOIzOn144wosWHQ"
     },
     {
         "slug": "effect-blight-breath",
@@ -1818,6 +1826,10 @@
     {
         "slug": "effect-holy-chain",
         "uuid": "Compendium.pf2e.equipment-effects.Item.gDefAEEMXVVZgqXH"
+    },
+    {
+        "slug": "effect-bolster-flesh",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.gKnoF5VKTCyl4JaN"
     },
     {
         "slug": "effect-it-cant-hurt-you",

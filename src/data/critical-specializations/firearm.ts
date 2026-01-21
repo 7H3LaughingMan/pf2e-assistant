@@ -6,7 +6,12 @@ export const path = ["Critical Specializations", "Firearm"];
 export const actions: Assistant.Action[] = [
     {
         trigger: "damage-roll",
-        predicate: ["check:outcome:critical-success", "critical-specialization", "item:group:firearm"],
+        predicate: [
+            "check:outcome:critical-success",
+            "critical-specialization",
+            "item:group:firearm",
+            { not: "item:rune:property:grievous" }
+        ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
@@ -14,7 +19,29 @@ export const actions: Assistant.Action[] = [
             game.assistant.socket.rollSave(data.target.actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
-                extraRollOptions: ["critical-specialization", "item:group:firearm"]
+                extraRollOptions: ["critical-specialization", "item:group:firearm"],
+                skipDialog: true
+            });
+        }
+    },
+    {
+        trigger: "damage-roll",
+        predicate: [
+            "check:outcome:critical-success",
+            "critical-specialization",
+            "item:group:firearm",
+            "item:rune:property:grievous"
+        ],
+        process: async (data: Assistant.Data) => {
+            if (!data.speaker) return;
+            if (!data.target) return;
+
+            game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+                origin: data.speaker.actor,
+                dc: Utils.Actor.getClassDC(data.speaker.actor),
+                extraRollOptions: ["critical-specialization", "item:group:firearm", "grievous"],
+                modifiers: [{ label: "Grievous", modifier: -4, type: "circumstance" }],
+                skipDialog: true
             });
         }
     },

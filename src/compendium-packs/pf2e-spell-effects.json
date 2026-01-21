@@ -356,6 +356,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.7OrZBwdgj563YzlW"
     },
     {
+        "slug": "spell-effect-crushing-ground",
+        "uuid": "Compendium.pf2e.spell-effects.Item.7YcVBf3OTyozFOVV"
+    },
+    {
         "slug": "spell-effect-tremorsense",
         "uuid": "Compendium.pf2e.spell-effects.Item.7cYUiOONB2lZfSaA"
     },
@@ -1156,6 +1160,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.WdXLgPashH5in5eB"
     },
     {
+        "slug": "spell-effect-holy-host-azata",
+        "uuid": "Compendium.pf2e.spell-effects.Item.WiGopdQekyLAa8mj"
+    },
+    {
         "slug": "spell-effect-anointed-ground",
         "uuid": "Compendium.pf2e.spell-effects.Item.Wlg9dAFQBuuv9oVa"
     },
@@ -1934,6 +1942,10 @@
     {
         "slug": "spell-effect-ghostly-shift",
         "uuid": "Compendium.pf2e.spell-effects.Item.vUjRvriyuHDZrsgc"
+    },
+    {
+        "slug": "spell-effect-holy-host-garuda",
+        "uuid": "Compendium.pf2e.spell-effects.Item.vWEYKF37OexA14Ki"
     },
     {
         "slug": "spell-effect-precious-metals",

@@ -51,12 +51,7 @@ export const actions: Assistant.Action[] = [
                             actor: data.speaker.actor.uuid,
                             token: data.speaker.token.uuid,
                             item: data.item.uuid,
-                            rollOptions: [
-                                data.speaker.actor.getSelfRollOptions("origin"),
-                                data.item.getRollOptions("origin:item")
-                            ]
-                                .flat()
-                                .filter(Utils.Remeda.isTruthy)
+                            rollOptions: Utils.RollOptions.getOriginRollOptions(data.speaker.actor, data.item)
                         }
                     }
                 },
@@ -109,12 +104,7 @@ export const actions: Assistant.Action[] = [
                             actor: data.speaker.actor.uuid,
                             token: data.speaker.token.uuid,
                             item: data.item.uuid,
-                            rollOptions: [
-                                data.speaker.actor.getSelfRollOptions("origin"),
-                                data.item.getRollOptions("origin:item")
-                            ]
-                                .flat()
-                                .filter(Utils.Remeda.isTruthy)
+                            rollOptions: Utils.RollOptions.getOriginRollOptions(data.speaker.actor, data.item)
                         }
                     }
                 },
@@ -167,12 +157,7 @@ export const actions: Assistant.Action[] = [
                             actor: data.speaker.actor.uuid,
                             token: data.speaker.token.uuid,
                             item: data.item.uuid,
-                            rollOptions: [
-                                data.speaker.actor.getSelfRollOptions("origin"),
-                                data.item.getRollOptions("origin:item")
-                            ]
-                                .flat()
-                                .filter(Utils.Remeda.isTruthy)
+                            rollOptions: Utils.RollOptions.getOriginRollOptions(data.speaker.actor, data.item)
                         }
                     }
                 },

@@ -37,9 +37,9 @@
             {
                 "id": "pf2e",
                 "type": "system",
-                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/static/system.json",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.pf2e.json",
                 "compatibility": {
-                    "minimum": "7.8.0"
+                    "minimum": "7.9.1"
                 }
             }
         ]

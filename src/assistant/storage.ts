@@ -1,4 +1,5 @@
 import { Assistant } from "assistant.ts";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 export class Storage {
@@ -47,7 +48,7 @@ export class Storage {
     }
 
     getRootFolder() {
-        return Utils.Remeda.clone(this.#rootFolder);
+        return R.clone(this.#rootFolder);
     }
 
     private static filterActions(action: Assistant.Action, data: Assistant.Data) {
@@ -68,6 +69,8 @@ export class Storage {
     async process(data: Assistant.Data): Promise<{ data: Assistant.Data; reroll: Assistant.Reroll }> {
         const reroll = Assistant.createReroll();
         if (data.trigger == "") return { data, reroll };
+
+        console.log(data);
 
         const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 

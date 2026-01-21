@@ -8,10 +8,12 @@ declare module "foundry-pf2e" {
     }
 
     interface GamePF2e {
-        assistant: { socket: Assistant.Socket; storage: Assistant.Storage };
-    }
-
-    interface ChatMessageFlagsPF2e {
-        "pf2e-assistant"?: { process?: boolean; reroll?: Record<string, Assistant.Reroll> };
+        assistant: {
+            socket: Assistant.Socket;
+            storage: Assistant.Storage;
+            systemId: SystemId;
+            extractPack: (packName: string, fileName: string) => void;
+            generateReadme: () => void;
+        };
     }
 }

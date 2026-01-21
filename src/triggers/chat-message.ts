@@ -1,10 +1,11 @@
 import { Assistant } from "assistant.ts";
 import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "foundry-pf2e";
+import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: ChatMessagePF2e) {
     if (!chatMessage.isAuthor) return;
-    if (chatMessage.flags["pf2e-assistant"]?.process === false) return;
+    if (R.prop(chatMessage.flags, "pf2e-assistant", "process") === false) return;
 
     processChatMessage(chatMessage)
         .then((data) => game.assistant.storage.process(data))
@@ -14,7 +15,7 @@ const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: C
 async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {
     const data: Assistant.Data = {
         trigger: chatMessage.flags.pf2e.context?.type ?? "",
-        rollOptions: chatMessage.flags.pf2e.context?.options ?? [],
+        rollOptions: chatMessage.flags.pf2e.context?.options ? Array.from(chatMessage.flags.pf2e.context.options) : [],
         chatMessage: chatMessage
     };
 
@@ -106,6 +107,8 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
     }
 
     if (data.item) data.rollOptions.push(...data.item.getRollOptions("item"));
+
+    data.rollOptions.sort((a, b) => a.localeCompare(b));
 
     return data;
 }

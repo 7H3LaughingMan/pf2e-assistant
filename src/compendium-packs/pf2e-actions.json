@@ -344,10 +344,6 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE"
     },
     {
-        "slug": "blood-feast",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.AOWwwXVDWwliFlWj"
-    },
-    {
         "slug": "marathon-dash",
         "uuid": "Compendium.pf2e.actionspf2e.Item.AZt0m0EHRmtDCd5s"
     },
@@ -422,6 +418,10 @@
     {
         "slug": "mirror-trickery",
         "uuid": "Compendium.pf2e.actionspf2e.Item.CPTolKAF55p7D7Sn"
+    },
+    {
+        "slug": "elemental-burst",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.Cb9XbKqHBHPAbQKk"
     },
     {
         "slug": "channel-draconic-essence",
@@ -590,6 +590,10 @@
     {
         "slug": "direct-follower",
         "uuid": "Compendium.pf2e.actionspf2e.Item.H72AAzknXiojqXdY"
+    },
+    {
+        "slug": "elemental-maelstrom",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.H8EXYfvFOSuq6vo8"
     },
     {
         "slug": "intensify-vulnerability",
@@ -956,10 +960,6 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.Q5iIYCFdqJFM31GW"
     },
     {
-        "slug": "telekinetic-assault",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.Q8H3lBgiUyGvZYTM"
-    },
-    {
         "slug": "spellstrike",
         "uuid": "Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4"
     },
@@ -1216,10 +1216,6 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.XFdTDDAPO7U0r4Et"
     },
     {
-        "slug": "screaming-skull",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.XH133DE3daobeav1"
-    },
-    {
         "slug": "hide",
         "uuid": "Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa"
     },
@@ -1230,10 +1226,6 @@
     {
         "slug": "resist-magic",
         "uuid": "Compendium.pf2e.actionspf2e.Item.XeZwXzR1KBlJF770"
-    },
-    {
-        "slug": "breath-weapon-riding-drake",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.Xg57qG1rOfSSobke"
     },
     {
         "slug": "plummeting-roll",
@@ -1364,16 +1356,8 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz"
     },
     {
-        "slug": "take-a-taste",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.aHE92WSosMDewe33"
-    },
-    {
         "slug": "lantern-strobe",
         "uuid": "Compendium.pf2e.actionspf2e.Item.aVGNaNgG6cYNRp5A"
-    },
-    {
-        "slug": "airy-step",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.akmQzZoNhyfCKFpL"
     },
     {
         "slug": "lantern-beam",
@@ -1914,10 +1898,6 @@
     {
         "slug": "runelords-response",
         "uuid": "Compendium.pf2e.actionspf2e.Item.rPefHA2zqmUvGXQ7"
-    },
-    {
-        "slug": "instinctive-obfuscation",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.rSpCV0leurp2Bg2d"
     },
     {
         "slug": "shed-the-mortal-skin",
