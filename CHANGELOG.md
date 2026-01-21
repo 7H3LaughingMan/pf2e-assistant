@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [7.9.0] - 2026-01-21
+
 PF2e System v7.9.1 Update
 Began implementing some changes to support the SF2e System; however, further work can't be completed untill the PF2e Anachronism module is released.
 
@@ -124,7 +126,7 @@ Began implementing some changes to support the SF2e System; however, further wor
 ## [7.8.2] - 2026-01-16
 
 - Removed Effects Compendium Pack
-    - Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
+  - Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
 - Consumables are now under Items
 
 ### Added
@@ -541,7 +543,8 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
-[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...HEAD
+[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.0...HEAD
+[7.9.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...v7.9.0
 [7.8.3]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.2...v7.8.3
 [7.8.2]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.1...v7.8.2
 [7.8.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.0...v7.8.1
