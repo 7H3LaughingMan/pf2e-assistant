@@ -1,18 +1,18 @@
 import fs from "fs";
 import path from "path";
 import prompts from "prompts";
-import module from "../module.json" with { type: "json" };
-import Config from "./config.ts";
+import moduleJSON from "../module.json" with { type: "json" };
+import { db } from "./database.ts";
 
-const dataPath = Config.instance.get("dataPath") as string;
-if (!dataPath) {
+if (db.data.dataPath === undefined) {
     console.error(
-        "The data path is not set. Use `npm run configure set dataPath <path>` to set it. Data paths looks like `C:/Users/Example/AppData/Local/FoundryVTT`"
+        "The data path is not set. Use `npm run configure set dataPath <path>` to set it. " +
+            "Data paths looks like `C:/Users/Example/AppData/Local/FoundryVTT`"
     );
     process.exit(1);
 }
 
-const symlinkPath = path.resolve(dataPath, "Data", "modules", module.id);
+const symlinkPath = path.resolve(db.data.dataPath, "Data", "modules", moduleJSON.id);
 const symlinkStats = fs.lstatSync(symlinkPath, { throwIfNoEntry: false });
 if (symlinkStats) {
     const atPath = symlinkStats.isDirectory() ? "folder" : symlinkStats.isSymbolicLink() ? "symlink" : "file";
@@ -21,7 +21,7 @@ if (symlinkStats) {
             type: "confirm",
             name: "value",
             initial: false,
-            message: `A "${module.id}" ${atPath} already exists in the "modules" subfolder. Replace with new symlink?`
+            message: `A "${moduleJSON.id}" ${atPath} already exists in the "modules" subfolder. Replace with new symlink?`
         })
     ).value;
     if (!proceed) {

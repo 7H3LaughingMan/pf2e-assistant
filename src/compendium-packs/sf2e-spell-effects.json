@@ -1,0 +1,422 @@
+[
+    {
+        "slug": "spell-effect-earthquake-shaking-ground",
+        "uuid": "Compendium.sf2e.spell-effects.Item.09rtx50laDw68FGT"
+    },
+    {
+        "slug": "spell-effect-aerial-form-bird",
+        "uuid": "Compendium.sf2e.spell-effects.Item.0QVufU5o3xIxiHmP"
+    },
+    {
+        "slug": "spell-effect-carcinization",
+        "uuid": "Compendium.sf2e.spell-effects.Item.16Li37zRYKClxqsv"
+    },
+    {
+        "slug": "spell-effect-fire-shield",
+        "uuid": "Compendium.sf2e.spell-effects.Item.1RsScTvNdGD9zGWe"
+    },
+    {
+        "slug": "spell-effect-feline-senses",
+        "uuid": "Compendium.sf2e.spell-effects.Item.1Ut6QrRtIZzjmqZW"
+    },
+    {
+        "slug": "spell-effect-dragon-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.1pC1qjvCuAKzjYo8"
+    },
+    {
+        "slug": "spell-effect-figment",
+        "uuid": "Compendium.sf2e.spell-effects.Item.2Hg3a06gZCSnUgSA"
+    },
+    {
+        "slug": "spell-effect-illusory-disguise",
+        "uuid": "Compendium.sf2e.spell-effects.Item.3Ktyd5F9lOPo4myk"
+    },
+    {
+        "slug": "effect-guidance-immunity",
+        "uuid": "Compendium.sf2e.spell-effects.Item.3LyOkV25p7wA181H"
+    },
+    {
+        "slug": "spell-effect-guidance",
+        "uuid": "Compendium.sf2e.spell-effects.Item.3qHKBDF7lrHw8jFK"
+    },
+    {
+        "slug": "spell-effect-enlarge-heightened-4th",
+        "uuid": "Compendium.sf2e.spell-effects.Item.41WThj17MZBXTO2X"
+    },
+    {
+        "slug": "spell-effect-elemental-barrier",
+        "uuid": "Compendium.sf2e.spell-effects.Item.4BwlNXei3xMKygMv"
+    },
+    {
+        "slug": "spell-effect-energy-aegis",
+        "uuid": "Compendium.sf2e.spell-effects.Item.4Lo2qb5PmavSsLNk"
+    },
+    {
+        "slug": "spell-effect-subjective-reality",
+        "uuid": "Compendium.sf2e.spell-effects.Item.4P2rPLVKjSpUbOWI"
+    },
+    {
+        "slug": "spell-effect-genetic-regeneration",
+        "uuid": "Compendium.sf2e.spell-effects.Item.4cFhz9knnHUHj3wi"
+    },
+    {
+        "slug": "spell-effect-ant-haul",
+        "uuid": "Compendium.sf2e.spell-effects.Item.5yCL7InrJDHpaQjz"
+    },
+    {
+        "slug": "spell-effect-insect-form-ant",
+        "uuid": "Compendium.sf2e.spell-effects.Item.6IvTWcispcDaw88N"
+    },
+    {
+        "slug": "spell-effect-acid-grip",
+        "uuid": "Compendium.sf2e.spell-effects.Item.6TGcfVyzzVHEo7ke"
+    },
+    {
+        "slug": "spell-effect-honeyed-words",
+        "uuid": "Compendium.sf2e.spell-effects.Item.6vodhSeI3ClMfOGd"
+    },
+    {
+        "slug": "spell-effect-insect-form-spider",
+        "uuid": "Compendium.sf2e.spell-effects.Item.782NyomkDHyfsUn6"
+    },
+    {
+        "slug": "spell-effect-analyze-target",
+        "uuid": "Compendium.sf2e.spell-effects.Item.7r6mw8H87SUaj9Tq"
+    },
+    {
+        "slug": "spell-effect-tailwind-8-hours",
+        "uuid": "Compendium.sf2e.spell-effects.Item.7vIUF5zbvHzVcJA0"
+    },
+    {
+        "slug": "spell-effect-shuffle-repeat",
+        "uuid": "Compendium.sf2e.spell-effects.Item.80ciNFwm19EKBONT"
+    },
+    {
+        "slug": "spell-effect-skyfire-wings-7th-rank",
+        "uuid": "Compendium.sf2e.spell-effects.Item.9DZ8819QPDnxcnFw"
+    },
+    {
+        "slug": "spell-effect-ill-omen",
+        "uuid": "Compendium.sf2e.spell-effects.Item.AmsVO5Q6078mEvNt"
+    },
+    {
+        "slug": "spell-effect-humanoid-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.B9Hzt4ki8eqlXxyh"
+    },
+    {
+        "slug": "spell-effect-unfettered-movement",
+        "uuid": "Compendium.sf2e.spell-effects.Item.CdAyAiMGESvgNQtz"
+    },
+    {
+        "slug": "spell-effect-insect-form-centipede",
+        "uuid": "Compendium.sf2e.spell-effects.Item.DENMzySYANjUBs4O"
+    },
+    {
+        "slug": "spell-effect-frostbite",
+        "uuid": "Compendium.sf2e.spell-effects.Item.DdqWMj7cuf4S1bgr"
+    },
+    {
+        "slug": "spell-effect-haste",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ElkXovNrHB0Doi6O"
+    },
+    {
+        "slug": "spell-effect-bless",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Gqy7K6FnbLtwGpud"
+    },
+    {
+        "slug": "spell-effect-oaken-resilience",
+        "uuid": "Compendium.sf2e.spell-effects.Item.HoOujAdQWCN4E6sQ"
+    },
+    {
+        "slug": "spell-effect-true-target",
+        "uuid": "Compendium.sf2e.spell-effects.Item.HuvucQ5nfpuVWNrw"
+    },
+    {
+        "slug": "spell-effect-skyfire-wings-5th-rank",
+        "uuid": "Compendium.sf2e.spell-effects.Item.IHIQ7PcirTwjJQev"
+    },
+    {
+        "slug": "spell-effect-darkvision",
+        "uuid": "Compendium.sf2e.spell-effects.Item.IXS15IQXYCZ8vsmX"
+    },
+    {
+        "slug": "spell-effect-quantum-analysis-fortune",
+        "uuid": "Compendium.sf2e.spell-effects.Item.J5f9SpgmiFOPKU8Q"
+    },
+    {
+        "slug": "spell-effect-read-aura",
+        "uuid": "Compendium.sf2e.spell-effects.Item.J6OhRNSN23KzOPRL"
+    },
+    {
+        "slug": "spell-effect-mountain-resilience",
+        "uuid": "Compendium.sf2e.spell-effects.Item.JHpYudY14g0H4VWU"
+    },
+    {
+        "slug": "spell-effect-shield",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Jemq5UknGdMO7b73"
+    },
+    {
+        "slug": "spell-effect-levitate",
+        "uuid": "Compendium.sf2e.spell-effects.Item.JqrTrvwV7pYStMXz"
+    },
+    {
+        "slug": "spell-effect-plant-form-flytrap",
+        "uuid": "Compendium.sf2e.spell-effects.Item.JrNHFNxJayevlv2G"
+    },
+    {
+        "slug": "spell-effect-shrink",
+        "uuid": "Compendium.sf2e.spell-effects.Item.LXf1Cqi1zyo4DaLv"
+    },
+    {
+        "slug": "spell-effect-wild-bond",
+        "uuid": "Compendium.sf2e.spell-effects.Item.LXi2h0q58zg9EFCN"
+    },
+    {
+        "slug": "spell-effect-promession",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Mjzoqg7MpTst3koD"
+    },
+    {
+        "slug": "spell-effect-fly",
+        "uuid": "Compendium.sf2e.spell-effects.Item.MuRBCiZn5IKeaoxi"
+    },
+    {
+        "slug": "spell-effect-vague-idea",
+        "uuid": "Compendium.sf2e.spell-effects.Item.NP75qOKsF43zLaiZ"
+    },
+    {
+        "slug": "spell-effect-void-vessel",
+        "uuid": "Compendium.sf2e.spell-effects.Item.NWNXwJhNpNvNdyLd"
+    },
+    {
+        "slug": "spell-effect-tech-intuition",
+        "uuid": "Compendium.sf2e.spell-effects.Item.NcPiz5TOhnel5ZoX"
+    },
+    {
+        "slug": "spell-effect-motivating-ringtone",
+        "uuid": "Compendium.sf2e.spell-effects.Item.NmhqKZyMgQSHbyHj"
+    },
+    {
+        "slug": "spell-effect-knock",
+        "uuid": "Compendium.sf2e.spell-effects.Item.OSapCU8heNHst21y"
+    },
+    {
+        "slug": "spell-effect-false-vitality",
+        "uuid": "Compendium.sf2e.spell-effects.Item.PANUWN5xXC20WBg2"
+    },
+    {
+        "slug": "spell-effect-tailwind",
+        "uuid": "Compendium.sf2e.spell-effects.Item.PQHP7Oph3BQX1GhF"
+    },
+    {
+        "slug": "effect-shield-immunity",
+        "uuid": "Compendium.sf2e.spell-effects.Item.QF6RDlCoTvkVHRo4"
+    },
+    {
+        "slug": "spell-effect-elemental-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Qp0dlhJaCzXIx73r"
+    },
+    {
+        "slug": "spell-effect-calm",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Qr5rgoZvI4KmFY0N"
+    },
+    {
+        "slug": "spell-effect-feline-senses-6th-rank",
+        "uuid": "Compendium.sf2e.spell-effects.Item.R9R0Nf8YX5ahx5FH"
+    },
+    {
+        "slug": "spell-effect-protection",
+        "uuid": "Compendium.sf2e.spell-effects.Item.RawLEPwyT5CtCZ4D"
+    },
+    {
+        "slug": "aura-bless",
+        "uuid": "Compendium.sf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ"
+    },
+    {
+        "slug": "spell-effect-see-the-unseen",
+        "uuid": "Compendium.sf2e.spell-effects.Item.T5bk6UH7yuYog1Fp"
+    },
+    {
+        "slug": "spell-effect-fleet-step",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ThFug45WHkQQXcoF"
+    },
+    {
+        "slug": "spell-effect-tangle-vine",
+        "uuid": "Compendium.sf2e.spell-effects.Item.TwtUIEyenrtAbeiX"
+    },
+    {
+        "slug": "spell-effect-bane",
+        "uuid": "Compendium.sf2e.spell-effects.Item.UTLp7omqsiC36bso"
+    },
+    {
+        "slug": "spell-effect-aerial-form-pterosaur",
+        "uuid": "Compendium.sf2e.spell-effects.Item.UjoNm3lrhlg4ctAQ"
+    },
+    {
+        "slug": "spell-effect-anthem",
+        "uuid": "Compendium.sf2e.spell-effects.Item.VacLbml5QIO0jqlO"
+    },
+    {
+        "slug": "spell-effect-vital-beacon",
+        "uuid": "Compendium.sf2e.spell-effects.Item.WWtSEJGwKY4bQpUn"
+    },
+    {
+        "slug": "spell-effect-infuse-vitality",
+        "uuid": "Compendium.sf2e.spell-effects.Item.X7RD0JRxhJV9u2LC"
+    },
+    {
+        "slug": "spell-effect-foresight",
+        "uuid": "Compendium.sf2e.spell-effects.Item.X9Na6IK8FSPcTuoc"
+    },
+    {
+        "slug": "spell-effect-quantum-analysis-cover-suppression",
+        "uuid": "Compendium.sf2e.spell-effects.Item.Yl3Wb0cN6Mvx2EWf"
+    },
+    {
+        "slug": "spell-effect-flicker",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ZlsuhS9J0S3PuvCO"
+    },
+    {
+        "slug": "spell-effect-insect-form-beetle",
+        "uuid": "Compendium.sf2e.spell-effects.Item.amTa9jSml9ioKduN"
+    },
+    {
+        "slug": "spell-effect-warp-time",
+        "uuid": "Compendium.sf2e.spell-effects.Item.bFy8NADnVR95YKyx"
+    },
+    {
+        "slug": "spell-effect-insect-form-scorpion",
+        "uuid": "Compendium.sf2e.spell-effects.Item.bOjuEX3qj7XAOoDF"
+    },
+    {
+        "slug": "spell-effect-quantum-analysis",
+        "uuid": "Compendium.sf2e.spell-effects.Item.bfimY3Rbx3lrsFAJ"
+    },
+    {
+        "slug": "spell-effect-light",
+        "uuid": "Compendium.sf2e.spell-effects.Item.cVVZXNbV0nElVOPZ"
+    },
+    {
+        "slug": "spell-effect-resist-energy",
+        "uuid": "Compendium.sf2e.spell-effects.Item.con2Hzt47JjpuUej"
+    },
+    {
+        "slug": "spell-effect-forbidding-ward",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ctMxYPGEpstvhW9C"
+    },
+    {
+        "slug": "spell-effect-regenerate",
+        "uuid": "Compendium.sf2e.spell-effects.Item.dXq7z633ve4E0nlX"
+    },
+    {
+        "slug": "spell-effect-sure-strike",
+        "uuid": "Compendium.sf2e.spell-effects.Item.fpGDAz2v5PG0zUSl"
+    },
+    {
+        "slug": "spell-effect-akashic-download",
+        "uuid": "Compendium.sf2e.spell-effects.Item.h1i8c47U0IOrMrHJ"
+    },
+    {
+        "slug": "spell-effect-glow-up",
+        "uuid": "Compendium.sf2e.spell-effects.Item.hOp5ybOzyJlECU6B"
+    },
+    {
+        "slug": "spell-effect-nature-incarnate",
+        "uuid": "Compendium.sf2e.spell-effects.Item.hfcFc8cV5wF2evWP"
+    },
+    {
+        "slug": "spell-effect-everlight",
+        "uuid": "Compendium.sf2e.spell-effects.Item.hpbCDbDOoVyhOmck"
+    },
+    {
+        "slug": "spell-effect-void-seed",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ikNI8DM5DRa1k4G3"
+    },
+    {
+        "slug": "spell-effect-darkvision-24-hours",
+        "uuid": "Compendium.sf2e.spell-effects.Item.inNfTmtWpsxeGBI9"
+    },
+    {
+        "slug": "spell-effect-aerial-form-bat",
+        "uuid": "Compendium.sf2e.spell-effects.Item.jvwKRHtOiPAm4uAP"
+    },
+    {
+        "slug": "spell-effect-skyfire-wings-3rd-rank",
+        "uuid": "Compendium.sf2e.spell-effects.Item.kT8REROKKaXF2QK1"
+    },
+    {
+        "slug": "spell-effect-heroism",
+        "uuid": "Compendium.sf2e.spell-effects.Item.l9HRQggofFGIxEse"
+    },
+    {
+        "slug": "spell-effect-insect-form-mantis",
+        "uuid": "Compendium.sf2e.spell-effects.Item.llrOM8rPP9nxIuEN"
+    },
+    {
+        "slug": "spell-effect-silence",
+        "uuid": "Compendium.sf2e.spell-effects.Item.mmJNE57hC7G3SPae"
+    },
+    {
+        "slug": "spell-effect-soothe",
+        "uuid": "Compendium.sf2e.spell-effects.Item.nkk4O5fyzrC0057i"
+    },
+    {
+        "slug": "spell-effect-enhance-body",
+        "uuid": "Compendium.sf2e.spell-effects.Item.oGUuRPGJHouppf8V"
+    },
+    {
+        "slug": "spell-effect-shifting-surge",
+        "uuid": "Compendium.sf2e.spell-effects.Item.pWm0NCsxjxTUCJ7y"
+    },
+    {
+        "slug": "spell-effect-commune-with-tech",
+        "uuid": "Compendium.sf2e.spell-effects.Item.q47pDFylqDY1VYEk"
+    },
+    {
+        "slug": "spell-effect-mystic-armor",
+        "uuid": "Compendium.sf2e.spell-effects.Item.qkwb5DD3zmKwvbk0"
+    },
+    {
+        "slug": "spell-effect-bind-undead",
+        "uuid": "Compendium.sf2e.spell-effects.Item.rVkUzqS4rpZp9LS3"
+    },
+    {
+        "slug": "spell-effect-entangling-flora",
+        "uuid": "Compendium.sf2e.spell-effects.Item.rjM25qfw5BKj9h97"
+    },
+    {
+        "slug": "spell-effect-skyfire-wings-9th-rank",
+        "uuid": "Compendium.sf2e.spell-effects.Item.sElqtOTF8X0LUcnZ"
+    },
+    {
+        "slug": "spell-effect-vapor-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.sILRkGTwoBywy0BU"
+    },
+    {
+        "slug": "spell-effect-enlarge",
+        "uuid": "Compendium.sf2e.spell-effects.Item.sPCWrhUHqlbGhYSD"
+    },
+    {
+        "slug": "spell-effect-plant-form-arboreal",
+        "uuid": "Compendium.sf2e.spell-effects.Item.tu8FyCtmL3YYR2jL"
+    },
+    {
+        "slug": "spell-effect-cairn-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.v724q5Xi7KPPnLQ3"
+    },
+    {
+        "slug": "spell-effect-aerial-form-wasp",
+        "uuid": "Compendium.sf2e.spell-effects.Item.xgZxYqjDPNtsQ3Qp"
+    },
+    {
+        "slug": "spell-effect-pest-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ydsLEGjY89Akc4oZ"
+    },
+    {
+        "slug": "spell-effect-enhance-weapon",
+        "uuid": "Compendium.sf2e.spell-effects.Item.yopd0S7smKU5eB07"
+    },
+    {
+        "slug": "spell-effect-supercharge-weapon",
+        "uuid": "Compendium.sf2e.spell-effects.Item.zzOekbiIKePQDQKy"
+    }
+]

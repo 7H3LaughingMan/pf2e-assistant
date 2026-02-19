@@ -1,5 +1,5 @@
+import { CombatantPF2e, EncounterPF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { CombatantPF2e, EncounterPF2e } from "foundry-pf2e";
 
 Hooks.on("pf2e.startTurn", (combatant: CombatantPF2e) => {
     if (combatant.token === null || combatant.actor === null) return;

@@ -1,3 +1,1 @@
-import * as _Utils from "./utils/index.ts";
-
-export import Utils = _Utils;
+export * as Utils from "./utils/index.ts";

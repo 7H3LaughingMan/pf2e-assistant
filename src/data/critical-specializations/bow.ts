@@ -1,6 +1,6 @@
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_ACTIONS, PF2E_CONDITIONS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
 
 export const path = ["Critical Specializations", "Bow"];
 

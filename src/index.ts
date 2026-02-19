@@ -1,19 +1,22 @@
+import { MODULE } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { Utils } from "utils.ts";
+import moduleJSON from "../module.json" with { type: "json" };
 import "./settings.ts";
 import "./triggers/index.ts";
+
+MODULE.register(moduleJSON.id);
 
 Hooks.once("ready", async function () {
     game.assistant = {
         socket: new Assistant.Socket(),
         storage: new Assistant.Storage(),
-        systemId: game.system.id as SystemId,
         extractPack: Utils.Macros.extractPack,
         generateReadme: Utils.Macros.generateReadme
     };
 
     if (game.user.isGM) {
-        const module = game.modules.get("pf2e-assistant");
+        const module = MODULE.current;
         const system = module?.relationships.systems.find((system) => system.id === game.system.id);
 
         if (module && system) {

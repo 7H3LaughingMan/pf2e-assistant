@@ -1,7 +1,7 @@
+import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_CONDITIONS, PF2E_EQUIPMENT } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
-import { Utils } from "utils.ts";
 
 export const path = ["Items", "Consumables", "Bottled Lightning"];
 
@@ -23,7 +23,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!data.item?.isOfType("consumable")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -72,7 +72,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp"
+                    img: SYSTEM.path("icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp")
                 }))
             );
 

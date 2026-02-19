@@ -1,3 +1,4 @@
+import { getDamageRollClass, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { Utils } from "utils.ts";
 
@@ -10,18 +11,18 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isDamageRoll(data.roll)) return;
+            if (!isRolledDamageRoll(data.roll)) return;
 
             const shockDamage = Utils.Roll.extractDamage(data.roll, "shock", true);
 
             if (shockDamage) {
-                const roll = await Utils.Roll.newDamageRoll(shockDamage).evaluate();
+                const roll = await new (getDamageRollClass())(shockDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [""] } }
                     },
-                    flavor: Utils.Rules.notesToHTML([
+                    flavor: notesToHTML([
                         {
                             title: "PF2E.WeaponPropertyRune.shock.Name",
                             text: "PF2E.WeaponPropertyRune.shock.Note.criticalSuccess"
@@ -38,12 +39,12 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isDamageRoll(data.roll)) return;
+            if (!isRolledDamageRoll(data.roll)) return;
 
             const shockDamage = Utils.Roll.extractDamage(data.roll, "greater-shock", true);
 
             if (shockDamage) {
-                const roll = await Utils.Roll.newDamageRoll(
+                const roll = await new (getDamageRollClass())(
                     shockDamage,
                     {},
                     {
@@ -58,7 +59,7 @@ export const actions: Assistant.Action[] = [
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [""] } }
                     },
-                    flavor: Utils.Rules.notesToHTML([
+                    flavor: notesToHTML([
                         {
                             title: "PF2E.WeaponPropertyRune.greaterShock.Name",
                             text: "PF2E.WeaponPropertyRune.greaterShock.Note.criticalSuccess"

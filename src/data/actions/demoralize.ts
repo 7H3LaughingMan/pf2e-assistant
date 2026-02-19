@@ -1,3 +1,4 @@
+import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { PF2E_ACTIONS } from "compendium-packs.ts";
 import { Utils } from "utils.ts";
@@ -11,7 +12,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             if (
@@ -81,7 +82,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             if (
@@ -151,7 +152,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(

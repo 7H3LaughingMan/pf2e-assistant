@@ -1,7 +1,8 @@
+import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
+
 import { Assistant } from "assistant.ts";
-import { PF2E_CONDITIONS, PF2E_OTHER_EFFECTS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
-import { Utils } from "utils.ts";
+import { PF2E_CONDITIONS, PF2E_OTHER_EFFECTS, SF2E_CONDITIONS } from "compendium-packs.ts";
 
 export const path = ["Actions", "Disarm"];
 
@@ -12,7 +13,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
@@ -32,7 +33,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
@@ -41,7 +42,7 @@ export const actions: Assistant.Action[] = [
                     type: "effect",
                     system: {
                         description: {
-                            value: `<p>You lose your balance and become @UUID[${PF2E_CONDITIONS["off-guard"]}]{Off-Guard} until the start of your next turn.</p>`
+                            value: `<p>You lose your balance and become @UUID[${SYSTEM.uuid(PF2E_CONDITIONS["off-guard"], SF2E_CONDITIONS["off-guard"])}]{Off-Guard} until the start of your next turn.</p>`
                         },
                         rules: [
                             {
@@ -49,7 +50,7 @@ export const actions: Assistant.Action[] = [
                                 onDeleteActions: {
                                     grantee: "restrict"
                                 },
-                                uuid: PF2E_CONDITIONS["off-guard"]
+                                uuid: SYSTEM.uuid(PF2E_CONDITIONS["off-guard"], SF2E_CONDITIONS["off-guard"])
                             } as GrantItemSource
                         ],
                         slug: "effect-disarm-critical-failure",

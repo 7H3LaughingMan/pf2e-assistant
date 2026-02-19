@@ -1,4 +1,4 @@
-import { Assistant } from "assistant.ts";
+import { Rolled } from "@7h3laughingman/foundry-types/client/dice/roll.mjs";
 import {
     ChatMessagePF2e,
     CheckRoll,
@@ -7,8 +7,8 @@ import {
     RollNoteSource,
     SaveType,
     TokenDocumentPF2e
-} from "foundry-pf2e";
-import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
+} from "@7h3laughingman/pf2e-types";
+import { Assistant } from "assistant.ts";
 import * as R from "remeda";
 import { Utils } from "utils.ts";
 

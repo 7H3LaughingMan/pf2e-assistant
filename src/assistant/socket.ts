@@ -1,4 +1,11 @@
-import { Assistant } from "assistant.ts";
+import { Rolled } from "@7h3laughingman/foundry-types/client/dice/roll.mjs";
+import { RollMode } from "@7h3laughingman/foundry-types/common/constants.mjs";
+import {
+    ActorUUID,
+    ChatMessageUUID,
+    ItemUUID,
+    TokenDocumentUUID
+} from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
 import {
     ActorPF2e,
     ChatMessageFlagsPF2e,
@@ -18,15 +25,8 @@ import {
     SaveType,
     TokenDocumentPF2e,
     TraitViewData
-} from "foundry-pf2e";
-import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
-import { RollMode } from "foundry-pf2e/foundry/common/constants.mjs";
-import {
-    ActorUUID,
-    ChatMessageUUID,
-    ItemUUID,
-    TokenDocumentUUID
-} from "foundry-pf2e/foundry/common/documents/_module.mjs";
+} from "@7h3laughingman/pf2e-types";
+import { Assistant } from "assistant.ts";
 import * as R from "remeda";
 import { Utils } from "utils.ts";
 import { ActorToken, isActorToken } from "./data.ts";
@@ -83,25 +83,56 @@ export class Socket {
         const effect = await fromUuid<ItemPF2e>(effectUuid);
         if (!effect?.isOfType("effect")) return [];
 
-        const effectSource = effect.toObject();
+        let effectSource = effect.toObject();
 
-        Utils.Effect.addContext(effectSource, {
-            origin: data.origin,
-            item: data.item,
-            target: data.target,
-            roll: data.roll
-        });
+        const item = data.item?.uuid ?? null;
+
+        const spellcasting =
+            data.item?.isOfType("spell") && data.item.spellcasting
+                ? {
+                      attribute: {
+                          type: data.item.attribute,
+                          mod: data.item.spellcasting.statistic?.attributeModifier?.value ?? 0
+                      },
+                      tradition: data.item.spellcasting.tradition
+                  }
+                : null;
+
+        const rollOptions = Utils.RollOptions.getOriginRollOptions(data.origin.actor, data.item);
+
+        const origin = {
+            actor: data.origin.actor.uuid,
+            token: data.origin.token.uuid,
+            item,
+            spellcasting,
+            rollOptions
+        };
+
+        const target = data.target ? { actor: data.target.actor.uuid, token: data.target.token.uuid } : null;
+
+        const roll =
+            data.roll?.total && data.roll?.degreeOfSuccess
+                ? { total: data.roll.total, degreeOfSuccess: data.roll.degreeOfSuccess }
+                : null;
+
+        effectSource.system.context = {
+            origin,
+            target,
+            roll
+        };
+
+        if (data.item?.isOfType("spell")) effectSource.system.level.value = data.item.rank;
 
         if (data.duration) {
-            Utils.Effect.setDuration(effectSource, data.duration);
+            effectSource.system.duration = data.duration;
         }
 
         if (data.choiceSet) {
-            Utils.Effect.setChoiceSet(effectSource, data.choiceSet);
+            effectSource = Utils.Effect.setChoiceSet(effectSource, data.choiceSet);
         }
 
         if (data.tokenMark) {
-            Utils.Effect.setTokenMark(effectSource, data.tokenMark);
+            effectSource = Utils.Effect.setTokenMark(effectSource, data.tokenMark);
         }
 
         return await this.createEmbeddedItem(actor, effectSource);

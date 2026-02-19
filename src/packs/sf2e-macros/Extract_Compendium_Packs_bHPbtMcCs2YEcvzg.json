@@ -1,0 +1,17 @@
+{
+	"folder": "qts4FZ2lq0YpsTni",
+	"name": "Extract Compendium Packs",
+	"type": "script",
+	"_id": "bHPbtMcCs2YEcvzg",
+	"author": "8Q6O361FADwv2DGE",
+	"img": "icons/tools/scribal/magnifying-glass.webp",
+	"scope": "global",
+	"command": "// SF2e Character Building\ngame.assistant.extractPack(\"sf2e.actions\", \"sf2e-actions.json\");\ngame.assistant.extractPack(\"sf2e.ancestries\", \"sf2e-ancestries.json\");\ngame.assistant.extractPack(\"sf2e.ancestry-features\", \"sf2e-ancestry-features.json\");\ngame.assistant.extractPack(\"sf2e.backgrounds\", \"sf2e-backgrounds.json\");\ngame.assistant.extractPack(\"sf2e.classes\", \"sf2e-classes.json\");\ngame.assistant.extractPack(\"sf2e.class-features\", \"sf2e-class-features.json\");\ngame.assistant.extractPack(\"sf2e.deities\", \"sf2e-deities.json\");\ngame.assistant.extractPack(\"sf2e.equipment\", \"sf2e-equipment.json\");\ngame.assistant.extractPack(\"sf2e.feats\", \"sf2e-feats.json\");\ngame.assistant.extractPack(\"sf2e.heritages\", \"sf2e-heritages.json\");\ngame.assistant.extractPack(\"sf2e.spells\", \"sf2e-spells.json\");\n\n// SF2e Effects\ngame.assistant.extractPack(\"sf2e.bestiary-effects\", \"sf2e-bestiary-effects.json\");\ngame.assistant.extractPack(\"sf2e.conditions\", \"sf2e-conditions.json\");\ngame.assistant.extractPack(\"sf2e.equipment-effects\", \"sf2e-equipment-effects.json\");\ngame.assistant.extractPack(\"sf2e.feat-effects\", \"sf2e-feat-effects.json\");\ngame.assistant.extractPack(\"sf2e.other-effects\", \"sf2e-other-effects.json\");\ngame.assistant.extractPack(\"sf2e.spell-effects\", \"sf2e-spell-effects.json\");",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_key": "!macros!bHPbtMcCs2YEcvzg"
+}
+

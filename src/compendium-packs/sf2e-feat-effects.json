@@ -1,0 +1,426 @@
+[
+    {
+        "slug": "effect-covering-fire",
+        "uuid": "Compendium.sf2e.feat-effects.Item.0kdfFVZuHoHTG5c0"
+    },
+    {
+        "slug": "effect-adaptive-locomotion",
+        "uuid": "Compendium.sf2e.feat-effects.Item.1KLuThhsYQMPO5Qj"
+    },
+    {
+        "slug": "effect-cellular-regeneration",
+        "uuid": "Compendium.sf2e.feat-effects.Item.22BLEySiAaQwoO6f"
+    },
+    {
+        "slug": "effect-digital-assessment",
+        "uuid": "Compendium.sf2e.feat-effects.Item.2Iuhg4udP9eQF3oM"
+    },
+    {
+        "slug": "effect-battle-medicine-immunity",
+        "uuid": "Compendium.sf2e.feat-effects.Item.2XEYQNZTCGpdkyR6"
+    },
+    {
+        "slug": "effect-meandering-mind",
+        "uuid": "Compendium.sf2e.feat-effects.Item.4DiN5KNJSrBkV1BA"
+    },
+    {
+        "slug": "effect-anchoring-impacts",
+        "uuid": "Compendium.sf2e.feat-effects.Item.5da0ZOocaoySCSJ2"
+    },
+    {
+        "slug": "effect-defensive-formation",
+        "uuid": "Compendium.sf2e.feat-effects.Item.6gduthFziKA5pU53"
+    },
+    {
+        "slug": "effect-rally-the-troops",
+        "uuid": "Compendium.sf2e.feat-effects.Item.6lT9d0YrRkdWOJ7u"
+    },
+    {
+        "slug": "effect-got-em",
+        "uuid": "Compendium.sf2e.feat-effects.Item.73I9yj9XlxcBLXfa"
+    },
+    {
+        "slug": "effect-aim",
+        "uuid": "Compendium.sf2e.feat-effects.Item.7o4KWymf4Yy2n2Qx"
+    },
+    {
+        "slug": "effect-plant-rumor",
+        "uuid": "Compendium.sf2e.feat-effects.Item.7tSTaSqLPYwPzbMx"
+    },
+    {
+        "slug": "effect-manifest-energy-wings",
+        "uuid": "Compendium.sf2e.feat-effects.Item.81igjVgKBDXMomwb"
+    },
+    {
+        "slug": "effect-telekinetic-sprint",
+        "uuid": "Compendium.sf2e.feat-effects.Item.8HDUnGy6hfvj6p37"
+    },
+    {
+        "slug": "effect-watch-out",
+        "uuid": "Compendium.sf2e.feat-effects.Item.8eqdNadBEcXMvjng"
+    },
+    {
+        "slug": "effect-not-in-the-face",
+        "uuid": "Compendium.sf2e.feat-effects.Item.8uHTQ6ha3CT79fS6"
+    },
+    {
+        "slug": "effect-bond-boost",
+        "uuid": "Compendium.sf2e.feat-effects.Item.9Sq4P1Pxr1owEv6R"
+    },
+    {
+        "slug": "effect-hidden-agenda",
+        "uuid": "Compendium.sf2e.feat-effects.Item.9Zp0f8bUTq4iZNBT"
+    },
+    {
+        "slug": "effect-holo-roger",
+        "uuid": "Compendium.sf2e.feat-effects.Item.9wWPl1LVWgqiZ2Wz"
+    },
+    {
+        "slug": "effect-youll-have-to-go-through-me",
+        "uuid": "Compendium.sf2e.feat-effects.Item.A8NpjGmBeDx3taOP"
+    },
+    {
+        "slug": "effect-intimidating-taunt",
+        "uuid": "Compendium.sf2e.feat-effects.Item.B0ZDwyk4qOr7hp4e"
+    },
+    {
+        "slug": "effect-hang-in-there",
+        "uuid": "Compendium.sf2e.feat-effects.Item.B4JhFkbk5WHmWcOZ"
+    },
+    {
+        "slug": "effect-mobile-aim-ephemeral",
+        "uuid": "Compendium.sf2e.feat-effects.Item.B8kDmWVlRX1uJb1o"
+    },
+    {
+        "slug": "effect-bone-shards",
+        "uuid": "Compendium.sf2e.feat-effects.Item.CIO1HR8vbx61qpXw"
+    },
+    {
+        "slug": "effect-repair-module",
+        "uuid": "Compendium.sf2e.feat-effects.Item.DjxZpQ4xJWWvYQqY"
+    },
+    {
+        "slug": "effect-infernal-armaments",
+        "uuid": "Compendium.sf2e.feat-effects.Item.DqJVydBDD48StDVh"
+    },
+    {
+        "slug": "effect-search-high-and-low",
+        "uuid": "Compendium.sf2e.feat-effects.Item.E5oRUzuYh5rLlPzu"
+    },
+    {
+        "slug": "effect-nanite-surge",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ErLweSmVAN57QIpp"
+    },
+    {
+        "slug": "effect-aim-reduce-cover",
+        "uuid": "Compendium.sf2e.feat-effects.Item.F2VaEGedUJJ5aPqF"
+    },
+    {
+        "slug": "effect-assistive-shove",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Gt6n0nYxHlPSmWVH"
+    },
+    {
+        "slug": "effect-unstoppable-directives",
+        "uuid": "Compendium.sf2e.feat-effects.Item.HB8lDFxU86aAl50M"
+    },
+    {
+        "slug": "effect-dramatic-reading-success",
+        "uuid": "Compendium.sf2e.feat-effects.Item.IPIYAY9bTGetPw12"
+    },
+    {
+        "slug": "effect-face-in-the-crowd",
+        "uuid": "Compendium.sf2e.feat-effects.Item.IaICLG7zwOV4OKgM"
+    },
+    {
+        "slug": "effect-restorative-shapeshifting",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ItKEn1ikbsZROaBL"
+    },
+    {
+        "slug": "effect-into-position-lead-by-example",
+        "uuid": "Compendium.sf2e.feat-effects.Item.K0hYQZcHLRa3GdfK"
+    },
+    {
+        "slug": "effect-bullet-fever",
+        "uuid": "Compendium.sf2e.feat-effects.Item.KiCwXxBqYjxS0u2Q"
+    },
+    {
+        "slug": "effect-treat-wounds-immunity",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Lb4q2bBAgxamtix5"
+    },
+    {
+        "slug": "effect-shattering-impact",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Ll3uZdiSqaszP3fn"
+    },
+    {
+        "slug": "effect-willful-defiance",
+        "uuid": "Compendium.sf2e.feat-effects.Item.MVoUvf0bzUUSUkiR"
+    },
+    {
+        "slug": "effect-drop-tail",
+        "uuid": "Compendium.sf2e.feat-effects.Item.MZzCPh8IHQwe4xP3"
+    },
+    {
+        "slug": "effect-size-of-the-ancients",
+        "uuid": "Compendium.sf2e.feat-effects.Item.N2sUfIzHp08G5fUA"
+    },
+    {
+        "slug": "effect-bring-it-on",
+        "uuid": "Compendium.sf2e.feat-effects.Item.NEgZy4YHA1TGlF6T"
+    },
+    {
+        "slug": "effect-rebellious-defiance",
+        "uuid": "Compendium.sf2e.feat-effects.Item.NNBc9roYRnFmB3dF"
+    },
+    {
+        "slug": "effect-vent-gas",
+        "uuid": "Compendium.sf2e.feat-effects.Item.NhV64Budza1tG6ah"
+    },
+    {
+        "slug": "effect-photosynthetic-regeneration",
+        "uuid": "Compendium.sf2e.feat-effects.Item.O4Ck3SKtbPWN3WKU"
+    },
+    {
+        "slug": "effect-unbound-mind",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Ojy9y4WYGjQJjUwj"
+    },
+    {
+        "slug": "effect-enter-rivener-state",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Pdm2JmwnKc6yB1y5"
+    },
+    {
+        "slug": "effect-dehydrated",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Q5FUu7yhWPJlcXei"
+    },
+    {
+        "slug": "effect-size-up",
+        "uuid": "Compendium.sf2e.feat-effects.Item.RBWwGxsrxPBKi3X7"
+    },
+    {
+        "slug": "effect-steel-yourselves",
+        "uuid": "Compendium.sf2e.feat-effects.Item.RhmWzzEbiykniDHQ"
+    },
+    {
+        "slug": "effect-homing-mote",
+        "uuid": "Compendium.sf2e.feat-effects.Item.SS3He5Oh41NZjmf7"
+    },
+    {
+        "slug": "effect-dual-aim",
+        "uuid": "Compendium.sf2e.feat-effects.Item.SjauZALDFxxkSNbl"
+    },
+    {
+        "slug": "effect-shed-skin",
+        "uuid": "Compendium.sf2e.feat-effects.Item.T9vJgdL1zidgsPJi"
+    },
+    {
+        "slug": "effect-skillful-encouragement",
+        "uuid": "Compendium.sf2e.feat-effects.Item.TMarUs51Jg7v3g3f"
+    },
+    {
+        "slug": "effect-energy-infusion",
+        "uuid": "Compendium.sf2e.feat-effects.Item.U7ZWScb2rLlZYxpF"
+    },
+    {
+        "slug": "effect-solar-weapon",
+        "uuid": "Compendium.sf2e.feat-effects.Item.UlFxEP3YrbseKA62"
+    },
+    {
+        "slug": "effect-mobile-aim",
+        "uuid": "Compendium.sf2e.feat-effects.Item.Uwb0PSFXd4QGG9Q1"
+    },
+    {
+        "slug": "effect-telepredict",
+        "uuid": "Compendium.sf2e.feat-effects.Item.V2RD3qNBmkrzXb4K"
+    },
+    {
+        "slug": "effect-bond-spell",
+        "uuid": "Compendium.sf2e.feat-effects.Item.WNCJ8ZgkqU7LhJNk"
+    },
+    {
+        "slug": "effect-harmonic-convergence",
+        "uuid": "Compendium.sf2e.feat-effects.Item.WUHSeAxZXX3Fin3S"
+    },
+    {
+        "slug": "effect-sway-the-heart-stoke-the-spirit",
+        "uuid": "Compendium.sf2e.feat-effects.Item.XmdJvu33YRjQbLsz"
+    },
+    {
+        "slug": "effect-confounding-disquisition-failure",
+        "uuid": "Compendium.sf2e.feat-effects.Item.YI60jVAgutn1YrI7"
+    },
+    {
+        "slug": "effect-focus-senses",
+        "uuid": "Compendium.sf2e.feat-effects.Item.YbBoPkBHnyyy3xLd"
+    },
+    {
+        "slug": "effect-infiltrator-enhanced-exploit",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ZLGe31v4jLANtk91"
+    },
+    {
+        "slug": "effect-effortless-influencer",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ZQM4vfHEKgxvNJik"
+    },
+    {
+        "slug": "effect-shielding-arrogance",
+        "uuid": "Compendium.sf2e.feat-effects.Item.af3dMl0TEkqOp2K9"
+    },
+    {
+        "slug": "effect-nanite-form",
+        "uuid": "Compendium.sf2e.feat-effects.Item.aw4sF8U2odkls99H"
+    },
+    {
+        "slug": "effect-bolstered-by-battle",
+        "uuid": "Compendium.sf2e.feat-effects.Item.b09qH19WK3FQi2QF"
+    },
+    {
+        "slug": "effect-gorge",
+        "uuid": "Compendium.sf2e.feat-effects.Item.b3bGLDuzs0lKS1Oq"
+    },
+    {
+        "slug": "effect-according-to-my-calculations",
+        "uuid": "Compendium.sf2e.feat-effects.Item.bbdg6JeElvGWb20A"
+    },
+    {
+        "slug": "effect-nimbus-ward",
+        "uuid": "Compendium.sf2e.feat-effects.Item.bynA4hR6QPQbiyJY"
+    },
+    {
+        "slug": "effect-heroic-last-stand",
+        "uuid": "Compendium.sf2e.feat-effects.Item.cnmur02H1qW03Gwi"
+    },
+    {
+        "slug": "effect-get-in-there",
+        "uuid": "Compendium.sf2e.feat-effects.Item.dAcHJiPDtqxxrR4Z"
+    },
+    {
+        "slug": "effect-get-em",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ey2zSEnprAGgvrij"
+    },
+    {
+        "slug": "effect-elemental-perfect-harmony",
+        "uuid": "Compendium.sf2e.feat-effects.Item.f92GBWr5lfx4tKot"
+    },
+    {
+        "slug": "effect-take-em-alive",
+        "uuid": "Compendium.sf2e.feat-effects.Item.fa4T1oR8S0lF5888"
+    },
+    {
+        "slug": "effect-inscrutable",
+        "uuid": "Compendium.sf2e.feat-effects.Item.fzsAxccVTPTMlpih"
+    },
+    {
+        "slug": "effect-energy-consumption",
+        "uuid": "Compendium.sf2e.feat-effects.Item.g1J6DOxBQkacvbyE"
+    },
+    {
+        "slug": "effect-solar-weapon-twin-weapons",
+        "uuid": "Compendium.sf2e.feat-effects.Item.gABm4VTVRcfbv5sG"
+    },
+    {
+        "slug": "effect-telekinetic-titan",
+        "uuid": "Compendium.sf2e.feat-effects.Item.gFELDtZR5N3jx7fl"
+    },
+    {
+        "slug": "effect-mental-interference",
+        "uuid": "Compendium.sf2e.feat-effects.Item.gKDw3GcOiOYMMK1k"
+    },
+    {
+        "slug": "effect-scrappers-ingenuity",
+        "uuid": "Compendium.sf2e.feat-effects.Item.hcH7IdEjC2wUVfaK"
+    },
+    {
+        "slug": "effect-undead-slayer",
+        "uuid": "Compendium.sf2e.feat-effects.Item.jtlZPjobJNXLol7S"
+    },
+    {
+        "slug": "effect-relentless-endurance",
+        "uuid": "Compendium.sf2e.feat-effects.Item.k2Sal2fpeoUsGZAv"
+    },
+    {
+        "slug": "effect-star-brand",
+        "uuid": "Compendium.sf2e.feat-effects.Item.kJR7VvSqPzhA6lR2"
+    },
+    {
+        "slug": "effect-meditative-analysis",
+        "uuid": "Compendium.sf2e.feat-effects.Item.kxaRFiXRKMNpasnu"
+    },
+    {
+        "slug": "effect-improvised-mastery",
+        "uuid": "Compendium.sf2e.feat-effects.Item.lRXqkQTrtVRqqDWH"
+    },
+    {
+        "slug": "effect-apocalypse-smite",
+        "uuid": "Compendium.sf2e.feat-effects.Item.mmT4wCspLVjiGnND"
+    },
+    {
+        "slug": "effect-dramatic-reading-critical-success",
+        "uuid": "Compendium.sf2e.feat-effects.Item.mpoTONLPMyb14mO9"
+    },
+    {
+        "slug": "effect-tactical-tutelage",
+        "uuid": "Compendium.sf2e.feat-effects.Item.n33jAVZDDWQ7ifvl"
+    },
+    {
+        "slug": "effect-tangible-object-anchoring-effect",
+        "uuid": "Compendium.sf2e.feat-effects.Item.nvB1852vEPVqjxhR"
+    },
+    {
+        "slug": "effect-nanite-surge-bonus",
+        "uuid": "Compendium.sf2e.feat-effects.Item.pFo9DVyaDb4LdURY"
+    },
+    {
+        "slug": "effect-spellsurge-ammo",
+        "uuid": "Compendium.sf2e.feat-effects.Item.pZabAZDrrIENU803"
+    },
+    {
+        "slug": "effect-keep-on-keeping-on",
+        "uuid": "Compendium.sf2e.feat-effects.Item.piyxWlJUtjJIKdW4"
+    },
+    {
+        "slug": "effect-tactical-strike",
+        "uuid": "Compendium.sf2e.feat-effects.Item.ppKeWbPcSaVqD1Cj"
+    },
+    {
+        "slug": "effect-solar-shield",
+        "uuid": "Compendium.sf2e.feat-effects.Item.q5W7fV1wXvqBFxt8"
+    },
+    {
+        "slug": "effect-attuned-wards",
+        "uuid": "Compendium.sf2e.feat-effects.Item.qA3xFKVmtZCXSgsg"
+    },
+    {
+        "slug": "effect-adaptive-defense",
+        "uuid": "Compendium.sf2e.feat-effects.Item.qbnXMOmVMMKphIgg"
+    },
+    {
+        "slug": "effect-deadlift",
+        "uuid": "Compendium.sf2e.feat-effects.Item.sEPdCQ7J3hF6mjHi"
+    },
+    {
+        "slug": "effect-kindle-blaze",
+        "uuid": "Compendium.sf2e.feat-effects.Item.x4fR05693ijNBCii"
+    },
+    {
+        "slug": "effect-electric-kalo",
+        "uuid": "Compendium.sf2e.feat-effects.Item.xQvyfiOh05xK2A5A"
+    },
+    {
+        "slug": "effect-cooperative",
+        "uuid": "Compendium.sf2e.feat-effects.Item.xYipnklm52BcgwSD"
+    },
+    {
+        "slug": "effect-elemental-harmony",
+        "uuid": "Compendium.sf2e.feat-effects.Item.xoUfhVC7gCK716ut"
+    },
+    {
+        "slug": "effect-phase-shift",
+        "uuid": "Compendium.sf2e.feat-effects.Item.y6VGOjPa8TtVVvYR"
+    },
+    {
+        "slug": "effect-atmospheric-flight",
+        "uuid": "Compendium.sf2e.feat-effects.Item.yDgrjb3OuB51axy7"
+    },
+    {
+        "slug": "effect-redirect-energy",
+        "uuid": "Compendium.sf2e.feat-effects.Item.yYafOxeNKG7n3WQn"
+    }
+]

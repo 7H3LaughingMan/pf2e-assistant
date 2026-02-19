@@ -1,11 +1,11 @@
+import { getTargets, MODULE, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "foundry-pf2e";
-import * as R from "remeda";
 import { Utils } from "utils.ts";
 
 const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: ChatMessagePF2e) {
     if (!chatMessage.isAuthor) return;
-    if (R.prop(chatMessage.flags, "pf2e-assistant", "process") === false) return;
+    if (chatMessage.getFlag(MODULE.id, "process") === false) return;
 
     processChatMessage(chatMessage)
         .then((data) => game.assistant.storage.process(data))
@@ -13,23 +13,25 @@ const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: C
 });
 
 async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {
-    const data: Assistant.Data = {
-        trigger: chatMessage.flags.pf2e.context?.type ?? "",
-        rollOptions: chatMessage.flags.pf2e.context?.options ? Array.from(chatMessage.flags.pf2e.context.options) : [],
+    const chatMessageFlags = chatMessage.flags[SYSTEM.id];
+
+    const data: WithOptional<Assistant.Data, "trigger"> = {
+        trigger: chatMessageFlags.context?.type,
+        rollOptions: chatMessageFlags.context?.options ? Array.from(chatMessageFlags.context.options) : [],
         chatMessage: chatMessage
     };
 
-    if (chatMessage.flags.pf2e.context?.domains) {
-        data.domains = chatMessage.flags.pf2e.context.domains;
+    if (chatMessageFlags.context?.domains) {
+        data.domains = chatMessageFlags.context.domains;
     }
 
-    if (data.trigger === "") {
+    if (data.trigger === undefined) {
         if (chatMessage.item?.isOfType("condition") && chatMessage.item.slug === "persistent-damage") {
             data.trigger = "damage-roll";
         } else if (chatMessage.item?.isOfType("spell")) {
             data.trigger = "spell-cast";
-        } else if (Utils.ChatMessage.isConsume(chatMessage.flags.pf2e.origin)) {
-            const item = await fromUuid<ConsumablePF2e>(chatMessage.flags.pf2e.origin.sourceId);
+        } else if (Utils.ChatMessage.isConsumable(chatMessage)) {
+            const item = await fromUuid<ConsumablePF2e>(chatMessageFlags.origin!.uuid);
             data.trigger = "consumable";
             data.item = item ?? undefined;
         } else if (chatMessage.isDamageRoll && Utils.ChatMessage.isFastHealing(chatMessage)) {
@@ -46,7 +48,7 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
         data.item = chatMessage.item;
     }
 
-    const outcome = chatMessage.flags.pf2e.context?.outcome;
+    const outcome = chatMessageFlags.context?.outcome;
     if (outcome) data.rollOptions.push(`check:outcome:${game.pf2e.system.sluggify(outcome)}`);
 
     if (chatMessage.actor && chatMessage.token) {
@@ -56,15 +58,15 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
     if (chatMessage.target) {
         data.target = { actor: chatMessage.target.actor, token: chatMessage.target.token };
     } else {
-        const target = Utils.User.getTargets()[0];
+        const target = getTargets()[0];
 
         if (target && target.actor) {
             data.target = { actor: target.actor, token: target.document };
         }
     }
 
-    if (Utils.ChatMessage.isCheckContextFlag(chatMessage.flags.pf2e.context)) {
-        const checkContext = chatMessage.flags.pf2e.context;
+    if (Utils.ChatMessage.isCheckContextChatFlag(chatMessageFlags.context)) {
+        const checkContext = chatMessageFlags.context;
 
         if (checkContext.origin) {
             const actor = fromUuidSync<ActorPF2e>(checkContext.origin.actor);
@@ -73,14 +75,6 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
             if (actor && token) {
                 data.origin = { actor, token };
             }
-        }
-    }
-
-    const strike = Utils.ChatMessage.getStrike(chatMessage.flags);
-    if (strike) {
-        const actor = fromUuidSync<ActorPF2e>(strike.actor);
-        if (actor) {
-            data.item = actor.system.actions?.[strike.index].item;
         }
     }
 
@@ -110,7 +104,9 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
 
     data.rollOptions.sort((a, b) => a.localeCompare(b));
 
-    return data;
+    if (data.trigger === undefined) return Promise.reject("Undefined Trigger");
+
+    return data as Assistant.Data;
 }
 
 async function processReroll(data: Assistant.Data, reroll: Assistant.Reroll) {

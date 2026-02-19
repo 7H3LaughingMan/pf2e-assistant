@@ -1,4 +1,4 @@
-import { ItemPF2e } from "foundry-pf2e";
+import { ItemPF2e } from "@7h3laughingman/pf2e-types";
 
 Hooks.on("createItem", (item: ItemPF2e) => {
     if (!(item.isOfType("effect") || item.isOfType("condition"))) return;

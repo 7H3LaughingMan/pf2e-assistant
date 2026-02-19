@@ -40,9 +40,7 @@ export default defineConfig({
             dataDirectory: "src/packs",
             transformer(doc) {
                 if (doc["system"]) {
-                    // @ts-expect-error Property '_migration' does not exist
                     if (doc["system"]["_migration"]) {
-                        // @ts-expect-error Property '_migration' does not exist
                         delete doc["system"]["_migration"];
                     }
                 }

@@ -1,6 +1,7 @@
+import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_CONDITIONS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Critical Specializations", "Brawling"];
@@ -57,7 +58,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 

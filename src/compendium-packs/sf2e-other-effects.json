@@ -1,0 +1,42 @@
+[
+    {
+        "slug": "effect-treat-poison",
+        "uuid": "Compendium.sf2e.other-effects.Item.1FrAlPeNseApVrX3"
+    },
+    {
+        "slug": "effect-aid",
+        "uuid": "Compendium.sf2e.other-effects.Item.AHMUpMbaVkZ5A1KX"
+    },
+    {
+        "slug": "effect-scout",
+        "uuid": "Compendium.sf2e.other-effects.Item.EMqGwUi3VMhCjTlF"
+    },
+    {
+        "slug": "effect-disarm-bonus",
+        "uuid": "Compendium.sf2e.other-effects.Item.EpvyTaklBQAOr1eT"
+    },
+    {
+        "slug": "effect-cover",
+        "uuid": "Compendium.sf2e.other-effects.Item.I9lfZUiCwMiGogVi"
+    },
+    {
+        "slug": "effect-disarm-success",
+        "uuid": "Compendium.sf2e.other-effects.Item.PuDS0DEq0CnaSIFV"
+    },
+    {
+        "slug": "effect-treat-disease",
+        "uuid": "Compendium.sf2e.other-effects.Item.TGGdM7XnjQkkijK7"
+    },
+    {
+        "slug": "effect-follow-the-expert",
+        "uuid": "Compendium.sf2e.other-effects.Item.VCSpuc3Tf3XWMkd3"
+    },
+    {
+        "slug": "effect-avert-gaze",
+        "uuid": "Compendium.sf2e.other-effects.Item.ZXUOdZqUW22OX3ge"
+    },
+    {
+        "slug": "effect-adverse-subsist-situation",
+        "uuid": "Compendium.sf2e.other-effects.Item.wHWWHkjDXmJl4Ia6"
+    }
+]

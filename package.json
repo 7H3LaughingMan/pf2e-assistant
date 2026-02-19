@@ -15,30 +15,32 @@
     "license": "MIT",
     "type": "module",
     "devDependencies": {
-        "@eslint/js": "^9.39.2",
-        "@foundryvtt/foundryvtt-cli": "3.0.3",
-        "@types/js-yaml": "^4.0.9",
+        "@eslint/js": "^10.0.1",
+        "@foundryvtt/foundryvtt-cli": "^3.0.3",
         "@types/prompts": "^2.4.9",
-        "cmd-ts": "^0.14.3",
-        "eslint": "^9.39.2",
+        "commander": "^14.0.3",
+        "eslint": "^10.0.0",
         "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-prettier": "^5.5.5",
         "foundryvtt-sync": "github:7H3LaughingMan/FoundryVTT-Sync",
-        "glob": "^13.0.0",
-        "globals": "^17.0.0",
-        "js-yaml": "^4.1.1",
+        "glob": "^13.0.5",
+        "globals": "^17.3.0",
         "keep-a-changelog": "2.8.0",
-        "prettier": "3.8.0",
+        "lowdb": "^7.0.1",
+        "prettier": "^3.8.1",
         "prettier-plugin-organize-imports": "^4.3.0",
         "prompts": "^2.4.2",
-        "typescript": "5.9.3",
-        "typescript-eslint": "^8.53.1",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.56.0",
         "unplugin-replace": "^0.6.3",
-        "vite": "7.3.1",
-        "vite-tsconfig-paths": "^6.0.4"
+        "vite": "^7.3.1",
+        "vite-tsconfig-paths": "^6.1.1"
     },
     "dependencies": {
-        "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
-        "remeda": "2.33.4"
+        "@7h3laughingman/foundry-types": "~13.351",
+        "@7h3laughingman/pf2e-helpers": "~7.10",
+        "@7h3laughingman/pf2e-types": "~7.10",
+        "remeda": "2.33.6",
+        "zod": "^4.3.6"
     }
 }

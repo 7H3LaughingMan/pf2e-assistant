@@ -1,6 +1,7 @@
+import { zIs, zRollOptionSource } from "@7h3laughingman/pf2e-helpers/zod";
+import { EffectSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
-import { EffectSource } from "foundry-pf2e";
 import * as R from "remeda";
 import { Utils } from "utils.ts";
 
@@ -96,7 +97,7 @@ export const actions: Assistant.Action[] = [
                 const origin = shieldEffect.origin;
                 const currentValue = shieldEffect.system.badge?.value;
                 const rollOption = shieldEffect.system.rules
-                    .filter(Utils.Rules.isRollOption)
+                    .filter((rule) => zIs(rule, zRollOptionSource))
                     .find((rule) => rule.option === "shield-block-layers");
                 const layers = Number(rollOption?.selection ?? "1");
 

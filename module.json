@@ -17,9 +17,7 @@
         "verified": "13.351",
         "maximum": "13"
     },
-    "esmodules": [
-        "dist/pf2e-assistant.js"
-    ],
+    "esmodules": ["dist/pf2e-assistant.js"],
     "relationships": {
         "requires": [
             {
@@ -39,7 +37,15 @@
                 "type": "system",
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.pf2e.json",
                 "compatibility": {
-                    "minimum": "7.9.1"
+                    "minimum": "7.10.1"
+                }
+            },
+            {
+                "id": "sf2e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.sf2e.json",
+                "compatibility": {
+                    "minimum": "0.0.4"
                 }
             }
         ]
@@ -56,6 +62,18 @@
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
             }
+        },
+        {
+            "name": "sf2e-macros",
+            "label": "SF2e Assistant Macros",
+            "path": "packs/sf2e-macros",
+            "type": "Macro",
+            "banner": "systems/sf2e/assets/compendium-banner/orange.webp",
+            "system": "sf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
         }
     ],
     "packFolders": [
@@ -63,9 +81,7 @@
             "name": "Macros",
             "sorting": "m",
             "color": "#181818",
-            "packs": [
-                "pf2e-macros"
-            ]
+            "packs": ["pf2e-macros", "sf2e-macros"]
         }
     ],
     "url": "https://github.com/7H3LaughingMan/pf2e-assistant",

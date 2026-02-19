@@ -1,3 +1,4 @@
+import { getDamageRollClass, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { Utils } from "utils.ts";
 
@@ -15,18 +16,18 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isDamageRoll(data.roll)) return;
+            if (!isRolledDamageRoll(data.roll)) return;
 
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 
             if (axeDamage) {
-                const roll = await Utils.Roll.newDamageRoll(axeDamage).evaluate();
+                const roll = await new (getDamageRollClass())(axeDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [""] } }
                     },
-                    flavor: Utils.Rules.notesToHTML([
+                    flavor: notesToHTML([
                         {
                             title: "PF2E.Actor.Creature.CriticalSpecialization",
                             text: "PF2E.Item.Weapon.CriticalSpecialization.axe"
@@ -48,18 +49,18 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isDamageRoll(data.roll)) return;
+            if (!isRolledDamageRoll(data.roll)) return;
 
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 
             if (axeDamage) {
-                const roll = await Utils.Roll.newDamageRoll(axeDamage).evaluate();
+                const roll = await new (getDamageRollClass())(axeDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [""] } }
                     },
-                    flavor: Utils.Rules.notesToHTML([
+                    flavor: notesToHTML([
                         {
                             title: "PF2E.Actor.Creature.CriticalSpecialization",
                             text: "PF2E.Item.Weapon.CriticalSpecialization.axe"

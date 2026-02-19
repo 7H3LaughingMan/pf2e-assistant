@@ -1,0 +1,482 @@
+[
+    {
+        "slug": "smuggler",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.15kkyHDQ3rDU6Kkr"
+    },
+    {
+        "slug": "chevalier",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.1psXSzBXfF9ixxN8"
+    },
+    {
+        "slug": "electrician",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.1tWQuMj6l5FdTOvl"
+    },
+    {
+        "slug": "anomaly-hunter",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.36cNp7LY8RmbFPRV"
+    },
+    {
+        "slug": "lodge-administrator",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.49R1MbdsFdtx1tCE"
+    },
+    {
+        "slug": "comedian",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.4MxBX1j7R00Rj8Lw"
+    },
+    {
+        "slug": "bartender",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.4QBZjtQ3lqUA89pH"
+    },
+    {
+        "slug": "bouncer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.4Yxr3P6cUCxTyOEE"
+    },
+    {
+        "slug": "first-ones-scholar",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.4xyPaBDI3fpcDCM7"
+    },
+    {
+        "slug": "runetouched",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.5IqlrsaBsXbhHlRT"
+    },
+    {
+        "slug": "recluse",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.5SNQkE3fOqJeDJNL"
+    },
+    {
+        "slug": "war-hardened-hero",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.5ebdjaDVJSIskU9P"
+    },
+    {
+        "slug": "courier",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.6McEFjfRlAuTrVvZ"
+    },
+    {
+        "slug": "alien-hunter",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.72Wu4YfmejYNaagv"
+    },
+    {
+        "slug": "daegox-convict",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.7L6Z84rvU48W2mPI"
+    },
+    {
+        "slug": "gene-splicer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.8M8ocSvx6hKMg19k"
+    },
+    {
+        "slug": "guidances-favored",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.9QjJzNIma16vB9CX"
+    },
+    {
+        "slug": "spacefarer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.9s3c14nfvvkk8Jbe"
+    },
+    {
+        "slug": "space-trooper",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.AhxV0vt0tsPQ9ULx"
+    },
+    {
+        "slug": "icon",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.CAKJcnuvQIMBxxSy"
+    },
+    {
+        "slug": "quantum-clone",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.CGQrWL2bV5PK2RUM"
+    },
+    {
+        "slug": "recruit",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Cclf3GeZGsxzxWDA"
+    },
+    {
+        "slug": "starfinder-trapsmith",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.CdIygfqF5KSSvKkj"
+    },
+    {
+        "slug": "defector",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.D3DnWgm8QXU9b47T"
+    },
+    {
+        "slug": "disciple",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.DHYbcVvo9jh2Ojzo"
+    },
+    {
+        "slug": "manifold-recruiter",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.FVBvHl7UVkFyVwgi"
+    },
+    {
+        "slug": "fixer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Fee1WwTVrIuaIVMb"
+    },
+    {
+        "slug": "socialite",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.FoaPf3HV54iLn874"
+    },
+    {
+        "slug": "hacktivist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.FyPulY1eEMJ76mdg"
+    },
+    {
+        "slug": "diplomat",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.GaMBVGpI5HLv2fsJ"
+    },
+    {
+        "slug": "magic-officer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Gclx24q3LXwB1IDb"
+    },
+    {
+        "slug": "xenoseeker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Ghct2BCZB7F5JcL0"
+    },
+    {
+        "slug": "hustler",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.GzRAw46at8ab7Man"
+    },
+    {
+        "slug": "junker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.IffzAa7BwVuI4GVx"
+    },
+    {
+        "slug": "gun-for-hire",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Ing0ZwqLvVvNh6t4"
+    },
+    {
+        "slug": "exo-guardian",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.IuGFxWybmHAJ3oxF"
+    },
+    {
+        "slug": "cyberborn",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.J8sC6fEmnP9ClAoK"
+    },
+    {
+        "slug": "street-psychic",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.JEARvianRcXQtTv5"
+    },
+    {
+        "slug": "phisher",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.JIFO1ucSlspDIKZB"
+    },
+    {
+        "slug": "rebel",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.LpHSR7OmHhzyZyO0"
+    },
+    {
+        "slug": "shrouded",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.M5yXdlH3A8e8ooA8"
+    },
+    {
+        "slug": "consultant",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.MAGiShfLHQ6q2Xml"
+    },
+    {
+        "slug": "corporate-agent",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.ML8vXoxCP0hEi4dr"
+    },
+    {
+        "slug": "crèche-born",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.MY8ZnGBRtfjRRH83"
+    },
+    {
+        "slug": "hitchhiker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.NZdZ09mi3GfwWSbx"
+    },
+    {
+        "slug": "scientist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.OBp4du7UmN7bFSSb"
+    },
+    {
+        "slug": "salvager",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.P35HciGIiFyd7BMr"
+    },
+    {
+        "slug": "trooper",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.PN8RcVDasZfYqINE"
+    },
+    {
+        "slug": "shipwrecked",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.PQrVuUxSORum5C5s"
+    },
+    {
+        "slug": "wayfinder",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.QNLyqefno1BWBqfe"
+    },
+    {
+        "slug": "wheel-winner",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Qy0bDQgSAarGvPEx"
+    },
+    {
+        "slug": "skyrigger",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.RWZju0fvHnNwwIvE"
+    },
+    {
+        "slug": "stowaway",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.SPlIl9oFe2korucB"
+    },
+    {
+        "slug": "space-trucker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.SmeEPOtPsZjorO3T"
+    },
+    {
+        "slug": "xenobiologist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.SwiBon194zlN4yz5"
+    },
+    {
+        "slug": "pilgrim",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.TAWZwa6Tdd2QU9m9"
+    },
+    {
+        "slug": "dreamer-disciple",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.TKxufQybzgBAtVrs"
+    },
+    {
+        "slug": "akashic-recorder",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.TXUm6Y7akSgfQq1L"
+    },
+    {
+        "slug": "forum-aspirant",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.UIGKDskFIQV4L6mf"
+    },
+    {
+        "slug": "busker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.UKjMyBzulOShPUma"
+    },
+    {
+        "slug": "antediluvian-seeker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.VESZkgOa4uuKzyIl"
+    },
+    {
+        "slug": "acquistive",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.W5lpy7i9eqpz5nG5"
+    },
+    {
+        "slug": "crystal-prospector",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.W6VzGBcZQtCUuptV"
+    },
+    {
+        "slug": "party-crasher",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Wb1caT6wInSCW3AM"
+    },
+    {
+        "slug": "escort",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.WpFZhdswYEA1jqGG"
+    },
+    {
+        "slug": "street-vendor",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.XIKZGJI3V0BZ9g7d"
+    },
+    {
+        "slug": "final-survivor",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.XQHfPb1mkSzffUas"
+    },
+    {
+        "slug": "escaped-experiment",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.YJ2k8RMNA8Il4WEB"
+    },
+    {
+        "slug": "scalawag",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.YvhLzn1CU12Zzm4n"
+    },
+    {
+        "slug": "magic-scholar",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.ZUg6TYBwLnJmPw2e"
+    },
+    {
+        "slug": "planetary-preservationist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.ZbsQ7OVyHTRTg7rD"
+    },
+    {
+        "slug": "masked",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.a0R3L7P9JnB4PssO"
+    },
+    {
+        "slug": "lorespire-archivist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.a3egX6gDtlW4vRYK"
+    },
+    {
+        "slug": "akitonian-explorer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.aIWJ3q8C3laoCMRK"
+    },
+    {
+        "slug": "street-rat",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.aKQYhqB8FssW55Pi"
+    },
+    {
+        "slug": "dataphile",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.akU1lb4aIGYsvDdZ"
+    },
+    {
+        "slug": "hellforged-squire",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.dgrdnhtgFNn1IHgT"
+    },
+    {
+        "slug": "dream-prophet",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.fJLv5UVXJKRWU22V"
+    },
+    {
+        "slug": "grifter",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.fQPesPjg4kIjw8dW"
+    },
+    {
+        "slug": "sacrifice",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.fjiv3a2DBc9ILdLa"
+    },
+    {
+        "slug": "tech-support",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.g1OCotaYBH2A0tAJ"
+    },
+    {
+        "slug": "scaletouched",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.gTCcODsEffkBV0LQ"
+    },
+    {
+        "slug": "scam-mage",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.hYjjqAE9Yx7LGQeR"
+    },
+    {
+        "slug": "vidgamer",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.iIMSVj69F0JYsQ2r"
+    },
+    {
+        "slug": "ghosted",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.iqfiyARvjjP4vPcp"
+    },
+    {
+        "slug": "unleashed",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.j7bueCNoGVrcvBLB"
+    },
+    {
+        "slug": "green-activist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.jDikmB6aZChiW2Va"
+    },
+    {
+        "slug": "brutaris-player",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.kFLyIvFFZAa6A4xK"
+    },
+    {
+        "slug": "pickpocket",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.kahsYeyhX7eXdlQ8"
+    },
+    {
+        "slug": "space-pirate",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.l17KkutNfkldxALX"
+    },
+    {
+        "slug": "technophile",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.lGIqMNaI4h7fjjiD"
+    },
+    {
+        "slug": "athlete",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.lHO7wont21ITsU0B"
+    },
+    {
+        "slug": "doctor",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.lye1QD6LAwmWvjwt"
+    },
+    {
+        "slug": "chatty",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.mbHpGR4qWdTvZI3u"
+    },
+    {
+        "slug": "code-carrier",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nFOwTBLZmripsnj4"
+    },
+    {
+        "slug": "taxi-driver",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nMv0r7KVvNbEf652"
+    },
+    {
+        "slug": "ancient-elebrian",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nS1azun1ePntzbYJ"
+    },
+    {
+        "slug": "tech-delver",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nUGvZ0Qz4907pzVd"
+    },
+    {
+        "slug": "absalom-local",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nlNvfX6dt0Hk5uwo"
+    },
+    {
+        "slug": "haunted",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nwKc3qm6hXNDnXLI"
+    },
+    {
+        "slug": "fashionista",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.oRys6HIxqrpVORT4"
+    },
+    {
+        "slug": "starship-dweller",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.oishnwqNSfJX2gJz"
+    },
+    {
+        "slug": "lost-aucturnite",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.pmlpHiqUOlZxX3qI"
+    },
+    {
+        "slug": "tech-jaded",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.qeBz5Gs7LU8szmAK"
+    },
+    {
+        "slug": "magitech-specialist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.qeUf6JINKUrCMxgh"
+    },
+    {
+        "slug": "tech-priest",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.rBQfRoJoXp5VuwyR"
+    },
+    {
+        "slug": "tech-troll",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.rKxGXU9gqy8ChGBv"
+    },
+    {
+        "slug": "cleaner",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.rxFc5d1lN2wHO6m2"
+    },
+    {
+        "slug": "society-scout",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.tWyb6ii74p8TpjLJ"
+    },
+    {
+        "slug": "cloud-chemist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.td4CIy0PhCaajtDA"
+    },
+    {
+        "slug": "tourist",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.vTxnVneNSrJ9ZCPn"
+    },
+    {
+        "slug": "timelost",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.wE9FNBorVHtua3xD"
+    },
+    {
+        "slug": "outlaw",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.xHRLGLF04QDmVbdr"
+    },
+    {
+        "slug": "arena-veteran",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.xUrb3P4loB1PqyjY"
+    },
+    {
+        "slug": "robot-adversary",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.xqAkHXzSTBSXvUmK"
+    },
+    {
+        "slug": "shimmerstone-savior",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.xrnataVvswQRI0Uw"
+    },
+    {
+        "slug": "joro-clone",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.yc1DKdjYeHi6Xnoe"
+    },
+    {
+        "slug": "hacker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.yuZhTCsX8zYgUjn6"
+    },
+    {
+        "slug": "clansworn",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.z4ksxU9VIivyxUZP"
+    },
+    {
+        "slug": "city-slicker",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.zHI8JeJlv1wllU05"
+    }
+]

@@ -8,9 +8,9 @@
             "DOM"
         ],
         "types": [
-            "foundry-pf2e",
-            "foundry-pf2e/lib-wrapper",
-            "foundry-pf2e/socketlib",
+            "@7h3laughingman/pf2e-types",
+            "@7h3laughingman/pf2e-helpers/lib-wrapper",
+            "@7h3laughingman/pf2e-helpers/socketlib",
             "jquery",
             "vite/client"
         ],

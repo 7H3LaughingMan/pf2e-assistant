@@ -1,31 +1,37 @@
+import { SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import {
     ChatContextFlag,
-    ChatMessageFlagsPF2e,
     ChatMessagePF2e,
     CheckContextChatFlag,
-    ItemOriginFlag
-} from "foundry-pf2e";
-import { ActorUUID, ItemUUID } from "foundry-pf2e/foundry/common/documents/_module.mjs";
+    DamageDamageContextFlag
+} from "@7h3laughingman/pf2e-types";
 import * as R from "remeda";
 
-interface ChatMessageStrikePF2e {
-    actor: ActorUUID;
-    index: number;
-    damaging: true;
-    name: string;
-    altUsage: "melee" | "thrown" | null;
+export function isConsumable(chatMessage: ChatMessagePF2e): boolean {
+    if (!chatMessage.item?.isOfType("consumable")) return false;
+    const itemOriginFlag = chatMessage.flags[SYSTEM.id].origin;
+    if (!itemOriginFlag) return false;
+    return R.isDeepEqual(R.keys(itemOriginFlag), ["sourceId", "uuid", "type"]);
 }
 
-export function getStrike(flags: ChatMessageFlagsPF2e): ChatMessageStrikePF2e | null {
-    if (flags.pf2e.strike) {
-        return flags.pf2e.strike as ChatMessageStrikePF2e;
-    }
-
-    return null;
+export function isCheckContextChatFlag(context?: ChatContextFlag): context is CheckContextChatFlag {
+    return (
+        R.isNonNullish(context) &&
+        [
+            "attack-roll",
+            "check",
+            "counteract-check",
+            "flat-check",
+            "initiative",
+            "perception-check",
+            "saving-throw",
+            "skill-check"
+        ].includes(context.type)
+    );
 }
 
-export function isCheckContextFlag(flag?: ChatContextFlag): flag is CheckContextChatFlag {
-    return !!flag && !["damage-roll", "spell-cast"].includes(flag.type);
+export function isDamageDamageContextFlag(context?: ChatContextFlag): context is DamageDamageContextFlag {
+    return R.isNonNullish(context) && context.type === "damage-roll";
 }
 
 let FAST_HEALING_REGEX: RegExp[];
@@ -40,16 +46,6 @@ export function isFastHealing(chatMessage: ChatMessagePF2e): boolean {
     ];
 
     return FAST_HEALING_REGEX.some((value) => value.test(chatMessage.flavor));
-}
-
-interface ConsumeOriginFlag {
-    sourceId: ItemUUID;
-    uuid: ItemUUID;
-    type: "consumable";
-}
-export function isConsume(origin: Maybe<ItemOriginFlag>): origin is ConsumeOriginFlag {
-    if (origin === null || origin === undefined) return false;
-    return R.isDeepEqual(R.keys(origin), ["sourceId", "uuid", "type"]);
 }
 
 let SHIELD_BLOCK_REGEX: RegExp[];

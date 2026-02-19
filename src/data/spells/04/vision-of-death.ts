@@ -1,6 +1,7 @@
+import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_CONDITIONS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Spells", "4th Rank", "Vision of Death"];
@@ -13,7 +14,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -31,7 +32,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -49,7 +50,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -107,7 +108,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "systems/pf2e/icons/spells/phantasmal-killer.webp"
+                    img: SYSTEM.path("icons/spells/phantasmal-killer.webp")
                 }))
             );
 

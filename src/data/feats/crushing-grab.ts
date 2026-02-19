@@ -1,6 +1,6 @@
+import { getDamageRollClass, isRolledCheckRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { PF2E_ACTIONS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
 
 export const path = ["Feats", "Crushing Grab"];
 
@@ -15,9 +15,9 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
-            const roll = await Utils.Roll.newDamageRoll(
+            const roll = await new (getDamageRollClass())(
                 `{${data.speaker.actor.abilities?.str.mod ?? 0}[bludgeoning]}`
             ).evaluate();
 
@@ -26,7 +26,7 @@ export const actions: Assistant.Action[] = [
                     "pf2e-assistant": { process: false },
                     "pf2e-toolbelt": { targetHelper: { targets: [data.target.token.uuid] } }
                 },
-                flavor: Utils.Rules.notesToHTML([
+                flavor: notesToHTML([
                     {
                         title: "Crushing Grab",
                         text: `Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully @UUID[${PF2E_ACTIONS["grapple"]}] a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.`

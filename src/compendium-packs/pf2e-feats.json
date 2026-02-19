@@ -732,12 +732,20 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.20Yax5lEqjftKBHZ"
     },
     {
+        "slug": "this-is-what-its-like-to-die",
+        "uuid": "Compendium.pf2e.feats-srd.Item.20eTy6lRpCnMymTp"
+    },
+    {
         "slug": "oozemorph-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.20jNBiIIxaiOVyi0"
     },
     {
         "slug": "master-druid-spellcasting",
         "uuid": "Compendium.pf2e.feats-srd.Item.218WeRqUqdnguRdS"
+    },
+    {
+        "slug": "autonomic-psychic-action",
+        "uuid": "Compendium.pf2e.feats-srd.Item.21HVwklTxmo8Dwdp"
     },
     {
         "slug": "harmonize",
@@ -3540,7 +3548,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.9LTBRvuQgXKZFiZc"
     },
     {
-        "slug": "exude-abyssal-corruption",
+        "slug": "exude-demonic-corruption",
         "uuid": "Compendium.pf2e.feats-srd.Item.9LvJo3K2AjKcVvTc"
     },
     {
@@ -6508,6 +6516,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.GzsPazilxYUPISm1"
     },
     {
+        "slug": "on-borrowed-time",
+        "uuid": "Compendium.pf2e.feats-srd.Item.H1kZ8nqvHlAazM35"
+    },
+    {
         "slug": "hybrid-study-spell",
         "uuid": "Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9"
     },
@@ -7606,6 +7618,10 @@
     {
         "slug": "sodbuster",
         "uuid": "Compendium.pf2e.feats-srd.Item.K9ixUl7PrNbBHGdA"
+    },
+    {
+        "slug": "trance-of-celerity",
+        "uuid": "Compendium.pf2e.feats-srd.Item.KANcYBVhzcpSat9s"
     },
     {
         "slug": "demolition-charge",
@@ -12688,10 +12704,6 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.XluSn2ejNkvFMuB6"
     },
     {
-        "slug": "deepest-wellspring",
-        "uuid": "Compendium.pf2e.feats-srd.Item.Xlz96xFxueCk47pb"
-    },
-    {
         "slug": "assured-identification",
         "uuid": "Compendium.pf2e.feats-srd.Item.XmF4q4rzKWg55vG4"
     },
@@ -16802,6 +16814,10 @@
     {
         "slug": "torrent-in-the-blood",
         "uuid": "Compendium.pf2e.feats-srd.Item.ijsMs8iv9AsHQWrv"
+    },
+    {
+        "slug": "amp-focus",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ikjPRBeBUWV6hYFF"
     },
     {
         "slug": "swift-swimmer",
@@ -21350,6 +21366,10 @@
     {
         "slug": "impaling-bone",
         "uuid": "Compendium.pf2e.feats-srd.Item.ud2ulIyiwIAelWyV"
+    },
+    {
+        "slug": "spell-acceleration",
+        "uuid": "Compendium.pf2e.feats-srd.Item.udGP9jMEOyipkA7n"
     },
     {
         "slug": "shield-from-spells",

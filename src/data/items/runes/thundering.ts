@@ -1,6 +1,7 @@
+import { SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_CONDITIONS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
 
 export const path = ["Items", "Runes", "Thundering"];
 
@@ -91,7 +92,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp"
+                    img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
                 }))
             );
 
@@ -148,7 +149,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp"
+                    img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
                 }))
             );
 
@@ -205,7 +206,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp"
+                    img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
                 }))
             );
 

@@ -940,6 +940,10 @@
         "uuid": "Compendium.pf2e.classfeatures.Item.HkN5OePNW60bce77"
     },
     {
+        "slug": "perfected-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.HlRYDdBh8oydCWgj"
+    },
+    {
         "slug": "dreamers-calling",
         "uuid": "Compendium.pf2e.classfeatures.Item.HnUzQqmAphx9nXDt"
     },
@@ -1656,6 +1660,10 @@
         "uuid": "Compendium.pf2e.classfeatures.Item.U74JoAcLHTOsZG6q"
     },
     {
+        "slug": "advanced-design",
+        "uuid": "Compendium.pf2e.classfeatures.Item.U7CBdITws4Sg3e5C"
+    },
+    {
         "slug": "tough-to-kill",
         "uuid": "Compendium.pf2e.classfeatures.Item.U9t3cmF4eXFiF7oI"
     },
@@ -2114,6 +2122,10 @@
     {
         "slug": "patrons-gift",
         "uuid": "Compendium.pf2e.classfeatures.Item.cDnFXfl3i5Z2l7JP"
+    },
+    {
+        "slug": "disciplined-mind",
+        "uuid": "Compendium.pf2e.classfeatures.Item.cF7GqQQvQbnUVf5o"
     },
     {
         "slug": "spell-repertoire-oracle",
@@ -2816,6 +2828,10 @@
         "uuid": "Compendium.pf2e.classfeatures.Item.pthjQIK9pDxnbER6"
     },
     {
+        "slug": "earned-resilience",
+        "uuid": "Compendium.pf2e.classfeatures.Item.puHtHGCjsJLWCP1u"
+    },
+    {
         "slug": "fourth-doctrine-warpriest",
         "uuid": "Compendium.pf2e.classfeatures.Item.px3gVYp7zlEQIpcl"
     },
@@ -3314,10 +3330,6 @@
     {
         "slug": "champion-mastery",
         "uuid": "Compendium.pf2e.classfeatures.Item.z5G0o04uV65zyxDB"
-    },
-    {
-        "slug": "great-fortitude-psychic",
-        "uuid": "Compendium.pf2e.classfeatures.Item.zAe95Uk5IPIT23K1"
     },
     {
         "slug": "order-of-the-pyre",

@@ -1,5 +1,5 @@
+import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Aqueous Blast"];
 
@@ -11,7 +11,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.updateCondition.push(

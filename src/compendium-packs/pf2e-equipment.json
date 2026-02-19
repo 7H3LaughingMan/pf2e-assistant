@@ -5816,7 +5816,7 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.GNX0BNOoCSOYPedi"
     },
     {
-        "slug": "green-wyrmling-breath-potion",
+        "slug": "horned-dragon-breath-potion",
         "uuid": "Compendium.pf2e.equipment-srd.Item.GNy0YEusxjcGMCNn"
     },
     {
@@ -21138,6 +21138,10 @@
     {
         "slug": "magic-wand-3rd-rank-spell",
         "uuid": "Compendium.pf2e.equipment-srd.Item.wrDmWkGxmwzYtfiA"
+    },
+    {
+        "slug": "horn-of-the-aoyin",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.wrTvu4gU5IzDJVbA"
     },
     {
         "slug": "tool-long",

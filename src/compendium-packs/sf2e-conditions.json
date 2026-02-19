@@ -1,0 +1,182 @@
+[
+    {
+        "slug": "observed",
+        "uuid": "Compendium.sf2e.conditions.Item.1wQY3JYyhMYeeV2G"
+    },
+    {
+        "slug": "doomed",
+        "uuid": "Compendium.sf2e.conditions.Item.3uh1r86TzbQvosxv"
+    },
+    {
+        "slug": "drained",
+        "uuid": "Compendium.sf2e.conditions.Item.4D2KBtexWXa6oUMR"
+    },
+    {
+        "slug": "glitching",
+        "uuid": "Compendium.sf2e.conditions.Item.6A2QDy8wRGCVQsSd"
+    },
+    {
+        "slug": "broken",
+        "uuid": "Compendium.sf2e.conditions.Item.6dNUvdb1dhToNDj3"
+    },
+    {
+        "slug": "paralyzed",
+        "uuid": "Compendium.sf2e.conditions.Item.6uEgoh53GbXuHpTF"
+    },
+    {
+        "slug": "deafened",
+        "uuid": "Compendium.sf2e.conditions.Item.9PR9y0bi4JPKnHPR"
+    },
+    {
+        "slug": "unnoticed",
+        "uuid": "Compendium.sf2e.conditions.Item.9evPzg9E6muFcoSk"
+    },
+    {
+        "slug": "controlled",
+        "uuid": "Compendium.sf2e.conditions.Item.9qGBRpbX9NEwtAAr"
+    },
+    {
+        "slug": "off-guard",
+        "uuid": "Compendium.sf2e.conditions.Item.AJh5ex99aV6VTggg"
+    },
+    {
+        "slug": "fascinated",
+        "uuid": "Compendium.sf2e.conditions.Item.AdPVz7rbaVSRxHFg"
+    },
+    {
+        "slug": "encumbered",
+        "uuid": "Compendium.sf2e.conditions.Item.D5mg6Tc7Jzrj6ro7"
+    },
+    {
+        "slug": "concealed",
+        "uuid": "Compendium.sf2e.conditions.Item.DmAIPqOBomZ7H95W"
+    },
+    {
+        "slug": "fatigued",
+        "uuid": "Compendium.sf2e.conditions.Item.HL2l2VRSaQHu9lUw"
+    },
+    {
+        "slug": "unfriendly",
+        "uuid": "Compendium.sf2e.conditions.Item.I1ffBVISxLr2gC4u"
+    },
+    {
+        "slug": "enfeebled",
+        "uuid": "Compendium.sf2e.conditions.Item.MIRkyAjyBeXivMa7"
+    },
+    {
+        "slug": "frightened",
+        "uuid": "Compendium.sf2e.conditions.Item.TBSHQspnbcqxsmjL"
+    },
+    {
+        "slug": "dazzled",
+        "uuid": "Compendium.sf2e.conditions.Item.TkIyaNPgTZFBCCuh"
+    },
+    {
+        "slug": "undetected",
+        "uuid": "Compendium.sf2e.conditions.Item.VRSef5y1LmL2Hkjf"
+    },
+    {
+        "slug": "restrained",
+        "uuid": "Compendium.sf2e.conditions.Item.VcDeM8A5oI6VqhbM"
+    },
+    {
+        "slug": "blinded",
+        "uuid": "Compendium.sf2e.conditions.Item.XgEqL1kFApUbl5Z2"
+    },
+    {
+        "slug": "wounded",
+        "uuid": "Compendium.sf2e.conditions.Item.Yl48xTdMh3aeQYL2"
+    },
+    {
+        "slug": "petrified",
+        "uuid": "Compendium.sf2e.conditions.Item.dTwPJuKgBQCMxixg"
+    },
+    {
+        "slug": "stunned",
+        "uuid": "Compendium.sf2e.conditions.Item.dfCMdR4wnpbYNTix"
+    },
+    {
+        "slug": "stupefied",
+        "uuid": "Compendium.sf2e.conditions.Item.e1XGnhKNSQIm5IXg"
+    },
+    {
+        "slug": "immobilized",
+        "uuid": "Compendium.sf2e.conditions.Item.eIcWbB5o3pP6OIMe"
+    },
+    {
+        "slug": "suppressed",
+        "uuid": "Compendium.sf2e.conditions.Item.enA7BxAjBb7ns1iF"
+    },
+    {
+        "slug": "unconscious",
+        "uuid": "Compendium.sf2e.conditions.Item.fBnFDH2MTzgFijKf"
+    },
+    {
+        "slug": "sickened",
+        "uuid": "Compendium.sf2e.conditions.Item.fesd1n5eVhpCSS18"
+    },
+    {
+        "slug": "indifferent",
+        "uuid": "Compendium.sf2e.conditions.Item.fuG8dgthlDWfWjIA"
+    },
+    {
+        "slug": "clumsy",
+        "uuid": "Compendium.sf2e.conditions.Item.i3OJZU2nk64Df3xm"
+    },
+    {
+        "slug": "hidden",
+        "uuid": "Compendium.sf2e.conditions.Item.iU0fEDdBp3rXpTMC"
+    },
+    {
+        "slug": "prone",
+        "uuid": "Compendium.sf2e.conditions.Item.j91X7x0XSomq8d60"
+    },
+    {
+        "slug": "grabbed",
+        "uuid": "Compendium.sf2e.conditions.Item.kWc1fhmv9LBiTuei"
+    },
+    {
+        "slug": "persistent-damage",
+        "uuid": "Compendium.sf2e.conditions.Item.lDVqvLKA6eF3Df60"
+    },
+    {
+        "slug": "quickened",
+        "uuid": "Compendium.sf2e.conditions.Item.nlCjDvLMf2EkV2dl"
+    },
+    {
+        "slug": "fleeing",
+        "uuid": "Compendium.sf2e.conditions.Item.sDPxOjQ9kx2RZE8D"
+    },
+    {
+        "slug": "hostile",
+        "uuid": "Compendium.sf2e.conditions.Item.ud7gTLwPeklzYSXG"
+    },
+    {
+        "slug": "helpful",
+        "uuid": "Compendium.sf2e.conditions.Item.v44P3WUcU1j0115l"
+    },
+    {
+        "slug": "friendly",
+        "uuid": "Compendium.sf2e.conditions.Item.v66R7FdOf11l94im"
+    },
+    {
+        "slug": "slowed",
+        "uuid": "Compendium.sf2e.conditions.Item.xYTAsEpcJE1Ccni3"
+    },
+    {
+        "slug": "dying",
+        "uuid": "Compendium.sf2e.conditions.Item.yZRUzMqrMmfLu0V1"
+    },
+    {
+        "slug": "confused",
+        "uuid": "Compendium.sf2e.conditions.Item.yblD8fOR1J8rDwEQ"
+    },
+    {
+        "slug": "untethered",
+        "uuid": "Compendium.sf2e.conditions.Item.z1ucw4CLwLqHoAp3"
+    },
+    {
+        "slug": "invisible",
+        "uuid": "Compendium.sf2e.conditions.Item.zJxUflt9np0q4yML"
+    }
+]

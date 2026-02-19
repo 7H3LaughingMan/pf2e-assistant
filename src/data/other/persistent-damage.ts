@@ -1,7 +1,6 @@
+import { isRolledDamageRoll } from "@7h3laughingman/pf2e-helpers/utilities";
+import { ActorPF2e, ConditionPF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { ActorPF2e, ConditionPF2e, DamageRoll } from "foundry-pf2e";
-import { Rolled } from "foundry-pf2e/foundry/client/dice/_module.mjs";
-import { Utils } from "utils.ts";
 
 export const path = ["Other", "Persistent Damage"];
 
@@ -14,7 +13,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.item?.isOfType("condition")) return;
             if (!data.item.parent) return;
-            if (!Utils.Roll.isDamageRoll(data.roll)) return;
+            if (!isRolledDamageRoll(data.roll)) return;
 
             if (
                 !(
@@ -23,7 +22,7 @@ export const actions: Assistant.Action[] = [
                 )
             ) {
                 await data.speaker.actor.applyDamage({
-                    damage: data.roll as Rolled<DamageRoll>,
+                    damage: data.roll,
                     token: data.speaker.token,
                     item: data.item as ConditionPF2e<ActorPF2e>,
                     rollOptions: new Set([

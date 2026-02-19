@@ -860,6 +860,10 @@
         "uuid": "Compendium.pf2e.feat-effects.Item.FL24cTM3EDqWLgHA"
     },
     {
+        "slug": "effect-unbreaking-castle",
+        "uuid": "Compendium.pf2e.feat-effects.Item.FMfcQ2EvQT8QV3V0"
+    },
+    {
         "slug": "effect-draconic-blood-magic",
         "uuid": "Compendium.pf2e.feat-effects.Item.FNTTeJHiK6iOjrSq"
     },
@@ -1010,6 +1014,10 @@
     {
         "slug": "effect-favored-terrain-increase-climb-speed",
         "uuid": "Compendium.pf2e.feat-effects.Item.IpRfT9lL3YR6MH6w"
+    },
+    {
+        "slug": "effect-trance-of-celerity",
+        "uuid": "Compendium.pf2e.feat-effects.Item.IzmXq1LycaKNqGIt"
     },
     {
         "slug": "effect-hasty-celebration",
@@ -2926,6 +2934,10 @@
     {
         "slug": "effect-uncanny-bombs",
         "uuid": "Compendium.pf2e.feat-effects.Item.ukdRbANZICKl29k9"
+    },
+    {
+        "slug": "effect-pact-of-the-final-breath",
+        "uuid": "Compendium.pf2e.feat-effects.Item.unMxC3XGviRjC1CH"
     },
     {
         "slug": "effect-invincible-army",

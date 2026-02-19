@@ -1,0 +1,534 @@
+[
+    {
+        "slug": "personal-gravity",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.0mNmVi9CLXor3McX"
+    },
+    {
+        "slug": "event-horizon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.0pl80qKToraH4dvO"
+    },
+    {
+        "slug": "warp-time",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.1gkdgFwKfAoQx163"
+    },
+    {
+        "slug": "feline-senses",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.1lv6Zmp2eWRIPn1n"
+    },
+    {
+        "slug": "seek-the-stars",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.3VucgRc8FRPGy9NI"
+    },
+    {
+        "slug": "motivating-ringtone",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.5ZZca1GGJs44OxC8"
+    },
+    {
+        "slug": "elemental-barrier",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.5apI8Yamauo02VYR"
+    },
+    {
+        "slug": "overload-systems",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.5cMDrC3jX1yrxOzh"
+    },
+    {
+        "slug": "recharge-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.5y70IWhVV6bVjC9N"
+    },
+    {
+        "slug": "telekinetic-tantrum",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.64DDZxOrmr4ddqs2"
+    },
+    {
+        "slug": "vitality-web",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.6HMiN0oQzeoYR3it"
+    },
+    {
+        "slug": "weight-of-ages",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.7Ib3qxIC0bFD3ued"
+    },
+    {
+        "slug": "shifting-surge",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.7P4eBdqWcgQJAFCa"
+    },
+    {
+        "slug": "control-machine",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.7WtiWJRYZhT6a9Ey"
+    },
+    {
+        "slug": "vague-idea",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.8FT564z5zMQVZNih"
+    },
+    {
+        "slug": "warp-world",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.9w90nlUdV5HBRWFm"
+    },
+    {
+        "slug": "tech-intuition",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.A09nTb61ceLF27vX"
+    },
+    {
+        "slug": "cozy-crashpad",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ASOR3qVrjqStL4Ph"
+    },
+    {
+        "slug": "shuffle-repeat",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.AlYzxLKWZujnzsjJ"
+    },
+    {
+        "slug": "rocket-dash",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.BHWG0rQPTgBF5Ye1"
+    },
+    {
+        "slug": "electrotether",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Cbj7tDkb2ZTp10Cg"
+    },
+    {
+        "slug": "data-drain",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.CjVOXjuvvTJqC7AD"
+    },
+    {
+        "slug": "subjective-reality",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.CptKtBneM7od45nc"
+    },
+    {
+        "slug": "x-ray-vision",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.DPP4TW5FxE85XPKZ"
+    },
+    {
+        "slug": "elemental-nova",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.DZOjyZBZUrzkw5q2"
+    },
+    {
+        "slug": "share-pain",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.EhN3GjdjXChMdiFk"
+    },
+    {
+        "slug": "eldritch-lance",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.FEaM1B4WuiqFO7Uk"
+    },
+    {
+        "slug": "awaken-computer",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.FIM54CSlkvBwwzdA"
+    },
+    {
+        "slug": "void-seed",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.FIW0VpGULprL2u8J"
+    },
+    {
+        "slug": "battle-sonata",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Fa1f7VtZitQYrArX"
+    },
+    {
+        "slug": "caustic-conversion",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.GB1RVtoFPwyH1B9G"
+    },
+    {
+        "slug": "times-edge",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.GdlG9a4o0ax0F2HT"
+    },
+    {
+        "slug": "enhance-body",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.GmeI009NbLbR6sR5"
+    },
+    {
+        "slug": "temporal-bullets",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.H0WECXb2wvTHT9yk"
+    },
+    {
+        "slug": "cairn-form",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.HAaRcHfN4g83eSEC"
+    },
+    {
+        "slug": "soul-surge",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.HPHr5aoLMH4eVwaw"
+    },
+    {
+        "slug": "time-loop",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.HzFdtjvRCFpb0NrS"
+    },
+    {
+        "slug": "pocket-vacuum",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ITzIb93GBvyX8UbJ"
+    },
+    {
+        "slug": "remix",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Ii8adgcCejAovsNv"
+    },
+    {
+        "slug": "call-cosmos",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.J3zMwmhIVgI2yzxm"
+    },
+    {
+        "slug": "deadly-vitality",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.J9IWyHhvdtMVBjqg"
+    },
+    {
+        "slug": "chill-gaze",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.JIAIyvj4PV84tnFk"
+    },
+    {
+        "slug": "warp-probability",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.KOkGLXwOBAIlczzk"
+    },
+    {
+        "slug": "summon-robot",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.KlJEDmAOk1ztdNFf"
+    },
+    {
+        "slug": "selective-invisibility",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.L6Gww2b2YVM3q0ZQ"
+    },
+    {
+        "slug": "vital-rebirth",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.MTulATAiOZfZNQ9d"
+    },
+    {
+        "slug": "irradiate",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.MfsxPjshwZJZuNpN"
+    },
+    {
+        "slug": "speak-with-computers",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Nf6GqoHkNbfWJDQT"
+    },
+    {
+        "slug": "analyze-target",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.NkvRoN33RbDg3fl9"
+    },
+    {
+        "slug": "telekinetic-strangulation",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.OudLZtxmg6gI1UEL"
+    },
+    {
+        "slug": "cellular-stimulant",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.QiW8VNdBf0SFUq69"
+    },
+    {
+        "slug": "sonic-scream",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.QpP30fcEl4NGjHwo"
+    },
+    {
+        "slug": "accelerate",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.RDvWFbAaXtxrhJMD"
+    },
+    {
+        "slug": "supercharge-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.SbBqa1HStMrV47fb"
+    },
+    {
+        "slug": "life-seal",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ShwUELLERVMtdjwE"
+    },
+    {
+        "slug": "wisp-ally",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Sqo1uzSmebVWpqoT"
+    },
+    {
+        "slug": "forget",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.TAbOBvFU8dLzKiWw"
+    },
+    {
+        "slug": "warp-terrain",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.TN2pHF9l3k4ZJ7di"
+    },
+    {
+        "slug": "atomic-blast",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.UnWaP06SVi3jRN0M"
+    },
+    {
+        "slug": "glow-up",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.V1cojmrEOWkJ1yPF"
+    },
+    {
+        "slug": "doom-scroll",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.VIKDSgBRR3Wd1mQx"
+    },
+    {
+        "slug": "skyfire-wings",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.VmtQlZqeraTv0Eer"
+    },
+    {
+        "slug": "akashic-download",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.VynaowCerc7B4yvI"
+    },
+    {
+        "slug": "twisted-vision",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.XhypWjpV3NP76ahy"
+    },
+    {
+        "slug": "parallel-forms",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.XoYUZP9OYdDMz4I0"
+    },
+    {
+        "slug": "phantasmal-fleet",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Y3egStSTzL8k86qc"
+    },
+    {
+        "slug": "eldritch-bond",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.Y8Y0LS6sh4pkxPsq"
+    },
+    {
+        "slug": "reality-wipe",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.YAa1StmuYC2QQ043"
+    },
+    {
+        "slug": "implant-data",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ZBeKxBcUOsXrfMRo"
+    },
+    {
+        "slug": "root-of-all-pain",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ZhQWnQ0500AAtjDb"
+    },
+    {
+        "slug": "inject-nanobots",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ZofLZ5Zs8NN5yDPJ"
+    },
+    {
+        "slug": "dream-of-home",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ZrFj6ktotd0pBnqO"
+    },
+    {
+        "slug": "slice-reality",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.a02hsymtiVRQvh3i"
+    },
+    {
+        "slug": "singularity-seed",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.aPZMapuunaNpxubp"
+    },
+    {
+        "slug": "enhance-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ahXTkKpQtOTAQOFm"
+    },
+    {
+        "slug": "measure",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.bBQ83xDvjQS3W1CG"
+    },
+    {
+        "slug": "ghost-killer-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.c3pohoiOH2qIhDDp"
+    },
+    {
+        "slug": "quantum-negation",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.d1weVZHIiCXhTlqg"
+    },
+    {
+        "slug": "elemental-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.d5dmu4HZ3YyrwcaF"
+    },
+    {
+        "slug": "infusion",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.d7Mj4nUQe8wg1mV7"
+    },
+    {
+        "slug": "wall-of-plasma",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.dRP4Imw3RJNQqEgc"
+    },
+    {
+        "slug": "commune-with-tech",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.dyDIRdq3QmP2QzBR"
+    },
+    {
+        "slug": "holographic-memory",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.eHiWtMiXoI1d48A7"
+    },
+    {
+        "slug": "akashic-revival",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.f98vwzcdxafum8ln"
+    },
+    {
+        "slug": "wall-of-steel",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.fRT0T9sbd8zWc1q9"
+    },
+    {
+        "slug": "chrono-push",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.g58dbrP7FadZhh6j"
+    },
+    {
+        "slug": "howl",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.g9QLswd5uqDdcCjv"
+    },
+    {
+        "slug": "gravity-field",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.gLOelTMvex2OgBqV"
+    },
+    {
+        "slug": "adhere",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.h7IhypLwItepwhou"
+    },
+    {
+        "slug": "verdant-code",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.hk2mTLH9DIvNqDuS"
+    },
+    {
+        "slug": "logic-bomb",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ijlB3l9IBnpppfK0"
+    },
+    {
+        "slug": "liquid-siphon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.j6KI3dFuaYJmMSZh"
+    },
+    {
+        "slug": "stumble",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.jgN33YSYXB8iIHTw"
+    },
+    {
+        "slug": "new-game",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.jon2tSGg7fSTqtk9"
+    },
+    {
+        "slug": "eldritch-wrath",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.jyrxfWeeCsrkhNit"
+    },
+    {
+        "slug": "absolute-zero",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.kGas0LdEAR1WjLGZ"
+    },
+    {
+        "slug": "entropy-strike",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.kR5A0h2a9hY41wav"
+    },
+    {
+        "slug": "wave-of-warning",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.kTzbLqmqPcZwOa5F"
+    },
+    {
+        "slug": "akashic-fount",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.mAu69GVbFKYzQM5a"
+    },
+    {
+        "slug": "instant-virus",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.mnoTqz0gjRmuc4oR"
+    },
+    {
+        "slug": "carcinization",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.n5a3t5Qnx5AU8auy"
+    },
+    {
+        "slug": "corrosive-haze",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.nbIGKNr7eyiTqKwS"
+    },
+    {
+        "slug": "scan-environment",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.nf8q0zvJDnnkzANe"
+    },
+    {
+        "slug": "forge-drift-beacon",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ogEFxmaTBlXcpdoS"
+    },
+    {
+        "slug": "adaptive-camouflage",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.p83iYWlcJRqe0PxL"
+    },
+    {
+        "slug": "shadow-prison",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.pgjlPNfXCpEYyLVu"
+    },
+    {
+        "slug": "explosion-of-rot",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.qAbHuohnFmiXx9sd"
+    },
+    {
+        "slug": "detect-thoughts",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.qOLMHvkAGsVYLhtn"
+    },
+    {
+        "slug": "void-whispers",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.qkehzRdn7JeGrR6E"
+    },
+    {
+        "slug": "discharge",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.rBh2PjtbDGAjbcu6"
+    },
+    {
+        "slug": "cloying-shadows",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.rluzzX2ml4yFWnYw"
+    },
+    {
+        "slug": "genetic-regeneration",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.s6J1Q0e28Gb42epQ"
+    },
+    {
+        "slug": "injury-echo",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.sNUvbMoMeLTnYJm8"
+    },
+    {
+        "slug": "void-vessel",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.sTpdXXaaKhoGOIxh"
+    },
+    {
+        "slug": "ricochet",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.sXnWQOcGG2ELcxXb"
+    },
+    {
+        "slug": "anthem",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.smCC1LNhMb7Z1lrU"
+    },
+    {
+        "slug": "wild-bond",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.ssOpTABjuHAqNTPu"
+    },
+    {
+        "slug": "reorient",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.t0oFlhMhNOHbb6rG"
+    },
+    {
+        "slug": "sift-the-sphere",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.tVTJS07cKDA5rNgc"
+    },
+    {
+        "slug": "warp-presence",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.tZQpEnaFqwmU4AMZ"
+    },
+    {
+        "slug": "mind-skewer",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.uBo6g5aW087cLSJR"
+    },
+    {
+        "slug": "shadow-snap",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.uh9Br4yrKvJA6zq0"
+    },
+    {
+        "slug": "skim-data",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.v2S6tlilNbA4uGdM"
+    },
+    {
+        "slug": "quantum-analysis",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.v8JA4sG2tsVP2gOM"
+    },
+    {
+        "slug": "alternate-outcome",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.vL7w8EtvZHlgRKlo"
+    },
+    {
+        "slug": "overheat",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.wOjoJjl2ndZKTuFJ"
+    },
+    {
+        "slug": "vibe-check",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.wRNRWwCEbmSxbHDl"
+    },
+    {
+        "slug": "void-scour",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.x21WInzhprQHMyKT"
+    },
+    {
+        "slug": "promession",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.xS4bqHnbodCwjpqI"
+    },
+    {
+        "slug": "delete",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.yXD9uU8w8uFD2OBQ"
+    },
+    {
+        "slug": "akashic-assistant",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.z0Spgrf92nmaqjCW"
+    },
+    {
+        "slug": "death-sentence",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.zdzeVZlKHkMAt2Rf"
+    },
+    {
+        "slug": "vitality-nova",
+        "uuid": "Compendium.sf2e-anachronism.spells.Item.zzi7LUKxKNWr5GsG"
+    }
+]

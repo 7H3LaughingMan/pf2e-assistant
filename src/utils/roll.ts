@@ -1,50 +1,16 @@
+import { DiceTermResult } from "@7h3laughingman/foundry-types/client/dice/_types.mjs";
+import { Rolled } from "@7h3laughingman/foundry-types/client/dice/roll.mjs";
 import {
     BaseDamageData,
-    CheckRoll,
-    CheckRollDataPF2e,
     DamageDiceFaces,
     DamageDicePF2e,
     DamageDieSize,
     DamageRoll,
-    DamageRollData,
     DamageTemplate,
     DamageType,
     WeaponDamageTemplate
-} from "foundry-pf2e";
-import { DiceTermResult } from "foundry-pf2e/foundry/client/dice/_types.mjs";
-import { Rolled } from "foundry-pf2e/foundry/client/dice/roll.mjs";
+} from "@7h3laughingman/pf2e-types";
 import * as R from "remeda";
-
-let _CheckRoll: typeof CheckRoll;
-let _DamageRoll: typeof DamageRoll;
-
-export function getCheckRoll(): typeof CheckRoll {
-    return (_CheckRoll ??= CONFIG.Dice.rolls.find((roll) => roll.name === "CheckRoll") as typeof CheckRoll);
-}
-
-export function isCheckRoll(roll: Maybe<Roll>): roll is Rolled<CheckRoll> {
-    if (!roll) return false;
-    return roll.constructor.name === "CheckRoll";
-}
-
-export function newCheckRoll(formula: string, data?: Record<string, unknown>, options?: CheckRollDataPF2e): CheckRoll {
-    const CheckRoll = getCheckRoll();
-    return new CheckRoll(formula, data, options);
-}
-
-export function getDamageRoll(): typeof DamageRoll {
-    return (_DamageRoll ??= CONFIG.Dice.rolls.find((roll) => roll.name === "DamageRoll") as typeof DamageRoll);
-}
-
-export function isDamageRoll(roll: Maybe<Roll>): roll is Rolled<DamageRoll> {
-    if (!roll) return false;
-    return roll.constructor.name === "DamageRoll";
-}
-
-export function newDamageRoll(formula: string, data?: Record<string, unknown>, options?: DamageRollData): DamageRoll {
-    const DamageRoll = getDamageRoll();
-    return new DamageRoll(formula, data, options);
-}
 
 export function convertDamageDieSize(dieSize: Maybe<DamageDieSize>): Maybe<DamageDiceFaces> {
     if (!dieSize) return undefined;
@@ -192,15 +158,12 @@ export function extractDamage(roll: Rolled<DamageRoll>, slug: string, applyCriti
 
     const rolledDice = getRolledDice(roll, map, slug);
 
-    let rolledValue = 0;
-
-    if (isCritical && !applyCritical && critRule === "double-dice") {
-        rolledValue = rolledDice
-            .slice(0, rolledDice.length / 2)
-            .reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
-    } else {
-        rolledValue = rolledDice.reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
-    }
+    let rolledValue =
+        isCritical && !applyCritical && critRule === "double-dice"
+            ? rolledDice
+                  .slice(0, rolledDice.length / 2)
+                  .reduce((previousValue, currentValue) => previousValue + currentValue.result, 0)
+            : rolledDice.reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
 
     if (isCritical && applyCritical && critRule === "double-damage") {
         rolledValue *= 2;
@@ -225,15 +188,12 @@ export function extractBaseDamage(roll: Rolled<DamageRoll>, applyCritical: boole
 
     const rolledDice = getRolledDice(roll, map, "base");
 
-    let rolledValue = 0;
-
-    if (isCritical && !applyCritical && critRule === "double-dice") {
-        rolledValue = rolledDice
-            .slice(0, rolledDice.length / 2)
-            .reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
-    } else {
-        rolledValue = rolledDice.reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
-    }
+    let rolledValue =
+        isCritical && !applyCritical && critRule === "double-dice"
+            ? rolledDice
+                  .slice(0, rolledDice.length / 2)
+                  .reduce((previousValue, currentValue) => previousValue + currentValue.result, 0)
+            : rolledDice.reduce((previousValue, currentValue) => previousValue + currentValue.result, 0);
 
     if (isCritical && applyCritical && critRule === "double-damage") {
         rolledValue *= 2;

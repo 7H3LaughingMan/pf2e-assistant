@@ -1,27 +1,42 @@
 import fs from "fs";
 import { glob } from "glob";
 import path from "path";
+import * as R from "remeda";
 
-interface JSON {
+interface Item {
     slug: string;
     uuid: string;
 }
 
-function creatEnum(name: string, effects: JSON[]) {
+function creatEnum(name: string, items: Item[]) {
     const data = [];
 
     data.push(`export const enum ${name} {`);
-    data.push(...effects.map((effect) => `    "${effect.slug}" = "${effect.uuid}",`));
+    data.push(...items.map((item) => `    "${item.slug}" = "${item.uuid}",`));
     data.push(`}`);
 
     return data;
+}
+
+function fixDuplicates(items: Item[]) {
+    const duplicates = R.filter(
+        items,
+        (value) => R.filter(items, (secondValue) => value.slug === secondValue.slug).length !== 1
+    );
+    if (duplicates.length !== 0) {
+        for (const item of duplicates) {
+            const itemId = item.uuid.split(".")[4];
+            item.slug = `${item.slug}-${itemId}`;
+        }
+    }
 }
 
 const jsonFiles = (await glob("./src/compendium-packs/*.json")).sort();
 const data = [];
 
 for (const jsonFile of jsonFiles) {
-    const jsonData = JSON.parse(fs.readFileSync(jsonFile, "utf-8")) as JSON[];
+    const jsonData = JSON.parse(fs.readFileSync(jsonFile, "utf-8")) as Item[];
+    fixDuplicates(jsonData);
     jsonData.sort((a, b) => a.slug.localeCompare(b.slug));
 
     data.push(

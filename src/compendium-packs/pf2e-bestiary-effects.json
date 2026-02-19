@@ -1764,6 +1764,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.jrfuplUEq3PIo6j1"
     },
     {
+        "slug": "effect-pall-of-silence",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.k3P0APls0jHEYdHz"
+    },
+    {
         "slug": "effect-soul-anchor",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.k8bmDh3nWi2FUyz5"
     },
@@ -1866,6 +1870,10 @@
     {
         "slug": "effect-medical-malpractice",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.m8RWVvhQ3LCMGQzs"
+    },
+    {
+        "slug": "effect-stone-flesh-weakened",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.m9hevf7O7XMUgG83"
     },
     {
         "slug": "effect-fetid-fumes",

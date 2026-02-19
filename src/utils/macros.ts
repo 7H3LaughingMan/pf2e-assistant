@@ -1,7 +1,14 @@
+import { isCompendiumPack } from "@7h3laughingman/pf2e-helpers/utilities";
+import { ItemPF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
+import * as R from "remeda";
 
-export function extractPack(packName: string, fileName: string) {
+const delay = (ms: number) =>
+    new Promise((resolve, _reject) => {
+        setTimeout(resolve, ms);
+    });
+
+export async function extractPack(packName: string, fileName: string) {
     function downloadFile(fileName: string, data: BlobPart, mime = "text/plain") {
         const blob = new Blob([data], { type: mime });
         const a = document.createElement("a");
@@ -16,16 +23,21 @@ export function extractPack(packName: string, fileName: string) {
     }
     const pack = game.packs.get(packName);
 
-    if (Utils.CompendiumCollection.isItemPack(pack)) {
-        pack.getDocuments()
-            .then((items) =>
-                JSON.stringify(
-                    items.map((item) => ({ slug: item.slug, uuid: item.uuid })),
-                    null,
-                    4
-                )
-            )
-            .then((value) => downloadFile(fileName, value));
+    if (isCompendiumPack<ItemPF2e<null>>(pack, "Item")) {
+        const items = await pack.getDocuments();
+        const json = JSON.stringify(
+            items.map((item) => ({
+                slug:
+                    R.isNullish(item.slug) || R.isEmptyish(item.slug)
+                        ? game.pf2e.system.sluggify(item.name)
+                        : item.slug,
+                uuid: item.uuid
+            })),
+            null,
+            4
+        );
+        downloadFile(fileName, json);
+        await delay(1000);
     }
 }
 

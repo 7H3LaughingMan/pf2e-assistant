@@ -1,5 +1,5 @@
+import { ChatMessagePF2e, Check } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { ChatMessagePF2e, Check } from "foundry-pf2e";
 import * as R from "remeda";
 import { Utils } from "utils.ts";
 
@@ -28,7 +28,7 @@ Hooks.once("ready", async () => {
                 }
             }
 
-            if (!Utils.ChatMessage.isCheckContextFlag(message.flags.pf2e.context)) return;
+            if (!Utils.ChatMessage.isCheckContextChatFlag(message.flags.pf2e.context)) return;
 
             const reroll = R.prop(message.flags, "pf2e-assistant", "reroll") as Maybe<Record<string, Assistant.Reroll>>;
             if (R.isNonNullish(reroll) && message.token !== null) {

@@ -1,6 +1,6 @@
+import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Frostbite"];
 
@@ -12,7 +12,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(

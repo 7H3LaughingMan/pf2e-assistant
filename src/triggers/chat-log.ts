@@ -1,6 +1,6 @@
+import { htmlQueryAll } from "@7h3laughingman/pf2e-helpers/utilities";
+import { ChatMessagePF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { ChatMessagePF2e } from "foundry-pf2e";
-import { htmlQueryAll } from "utils/dom.ts";
 
 Hooks.on("renderChatMessageHTML", function (message: ChatMessagePF2e, html: HTMLElement) {
     for (const button of htmlQueryAll<HTMLButtonElement>(html, "button[data-action]")) {

@@ -1,6 +1,6 @@
+import { DatabaseUpdateOperation } from "@7h3laughingman/foundry-types/common/abstract/_types.mjs";
+import { ActorPF2e, ActorSourcePF2e, CharacterPF2e } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
-import { ActorPF2e, ActorSourcePF2e, CharacterPF2e } from "foundry-pf2e";
-import { DatabaseUpdateOperation } from "foundry-pf2e/foundry/common/abstract/_module.mjs";
 import { Utils } from "utils.ts";
 
 Hooks.on(

@@ -1,6 +1,6 @@
+import { MODULE } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import * as R from "remeda";
-import { Utils } from "utils.ts";
 
 export class Storage {
     #actions: Assistant.Action[] = [];
@@ -36,14 +36,15 @@ export class Storage {
 
             if (!subFolder) {
                 subFolder = { label: path[0], children: [], entries: [] };
-                Utils.Array.binaryInsert(folder.children, subFolder, (a, b) => a.label.localeCompare(b.label));
+                const sortedIndex = R.sortedIndexBy(folder.children, subFolder, R.prop("label"));
+                folder.children.splice(sortedIndex, 0, subFolder);
             }
 
             Storage.addFile(subFolder, path.slice(1), value, enabled);
         } else if (path.length == 1) {
-            Utils.Array.binaryInsert(folder.entries, { enabled, label: path[0], value }, (a, b) =>
-                a.label.localeCompare(b.label)
-            );
+            const entry = { enabled, label: path[0], value };
+            const sortedIndex = R.sortedIndexBy(folder.entries, entry, R.prop("label"));
+            folder.entries.splice(sortedIndex, 0, entry);
         }
     }
 
@@ -68,9 +69,8 @@ export class Storage {
 
     async process(data: Assistant.Data): Promise<{ data: Assistant.Data; reroll: Assistant.Reroll }> {
         const reroll = Assistant.createReroll();
-        if (data.trigger == "") return { data, reroll };
 
-        console.log(data);
+        if (MODULE.isDebug) console.debug(data);
 
         const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 

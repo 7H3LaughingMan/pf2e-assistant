@@ -1,0 +1,3554 @@
+[
+    {
+        "slug": "disciple-of-the-cycle",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.00ZSZtCvFuJzXgNn"
+    },
+    {
+        "slug": "legendary-troll",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.01qv8QiKM7S6hHt7"
+    },
+    {
+        "slug": "double-draw",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.03UIYsCI4xZvkd2h"
+    },
+    {
+        "slug": "burst-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.04KKDJvHThu2hLa5"
+    },
+    {
+        "slug": "siphon-solar-vitality",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0AIlka5XzyM0VAd6"
+    },
+    {
+        "slug": "legend-weaver",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0DiJqneDdSKZh6z3"
+    },
+    {
+        "slug": "infodump",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0JLeRrEoDJcDw2Wj"
+    },
+    {
+        "slug": "encode-presence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0Qy2ByMZ86bR4Taq"
+    },
+    {
+        "slug": "surface-strider",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0U2qfko6c3XBaYm7"
+    },
+    {
+        "slug": "digital-diversion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0ZNErs9RICfOw1Nf"
+    },
+    {
+        "slug": "mind-over-matter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0e1MBOp6r6JBOFdr"
+    },
+    {
+        "slug": "mental-deflection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0ezvQlxETxMsGFx4"
+    },
+    {
+        "slug": "scatter-thoughts",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0gwnLMiRtFDE8BKz"
+    },
+    {
+        "slug": "mission-briefing",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0jw2LbYkT7WkfYi4"
+    },
+    {
+        "slug": "scrub-psyche",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0lq5ZSFzkbvSspZN"
+    },
+    {
+        "slug": "operative-resiliency",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0qw5IWck23QimHc6"
+    },
+    {
+        "slug": "expanded-connection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0tF69rIc308iAbaq"
+    },
+    {
+        "slug": "child-of-the-red-planet",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.0tdgb99mUuTw4FlL"
+    },
+    {
+        "slug": "heightened-thoughtsense",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.13cofwVwk4XvwNSO"
+    },
+    {
+        "slug": "got-em",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.15v6nXEIi10i0CNI"
+    },
+    {
+        "slug": "void-sight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.179D1ll6jPitkdHb"
+    },
+    {
+        "slug": "broadside-charge",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1FeZiKaHCoKpnsMb"
+    },
+    {
+        "slug": "red-eye",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1JZw1knjquhJeZQG"
+    },
+    {
+        "slug": "internal-chemistry",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1MK6OXaZe9wJj6Oz"
+    },
+    {
+        "slug": "distant-feint",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1X0VMGiCNhPPVleL"
+    },
+    {
+        "slug": "too-stubborn-to-die",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1ZL3tUfStY1rPtST"
+    },
+    {
+        "slug": "solarian-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1hp73yUEZoKWaV27"
+    },
+    {
+        "slug": "bullet-typhoon",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1itdVNkZwFaOlZi4"
+    },
+    {
+        "slug": "shirren-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1sw9sBje5grwUtiO"
+    },
+    {
+        "slug": "solar-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.1udHBHV6m2JFFtd1"
+    },
+    {
+        "slug": "exceptional-reach",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.240LEtG9bNlQNBMI"
+    },
+    {
+        "slug": "take-the-wheel",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.25Hj3IezfQOYBit1"
+    },
+    {
+        "slug": "unstable-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.2Ye5H37ZP0AYpxHT"
+    },
+    {
+        "slug": "folded-paradoxes",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.2iVU7Qq0f2lzsAnG"
+    },
+    {
+        "slug": "spread-the-love",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.2lZzp2B03JhLQmhd"
+    },
+    {
+        "slug": "master-witchwarper-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.2xEv22i8cPgGrmBb"
+    },
+    {
+        "slug": "go-to-ground",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.2zE1Q9TSj5utOTJz"
+    },
+    {
+        "slug": "squirt-blood",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.32W1Pnex4xbhx5Bj"
+    },
+    {
+        "slug": "dragons-tenacity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.39buScKHd66Z1Rho"
+    },
+    {
+        "slug": "star-brand",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3HmrwfbkjMHn6jw0"
+    },
+    {
+        "slug": "xenodruid-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3Jc7lz6O0M7aObtE"
+    },
+    {
+        "slug": "weakening-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3M56DryKBFBpODrX"
+    },
+    {
+        "slug": "influence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3ObXjbScOIOuyRCk"
+    },
+    {
+        "slug": "energy-consumption",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3RqBU4dfoegOPzqw"
+    },
+    {
+        "slug": "infernal-bulwark",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3SJtpZK58WKpC2SO"
+    },
+    {
+        "slug": "really-get-em",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3ahX6ykhR0eUbvGX"
+    },
+    {
+        "slug": "elusive-target",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3f9HwoDToOh3jvXi"
+    },
+    {
+        "slug": "bring-it-on",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3mMNEAr5wgTFC9mC"
+    },
+    {
+        "slug": "animal-skins",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.3pjfIw16GKmEYF9K"
+    },
+    {
+        "slug": "ready-reload",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4041QDrSgYeFDt2g"
+    },
+    {
+        "slug": "overwhelming-ego",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.44w1WEbY7QXSrHHo"
+    },
+    {
+        "slug": "ferocious-recovery",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.45NlyrR5JUuSp6HI"
+    },
+    {
+        "slug": "down-to-the-wire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.45uuX5EppO0FgilY"
+    },
+    {
+        "slug": "blend-in",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.49lDxXmZZ0eJFI78"
+    },
+    {
+        "slug": "voidstrong",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4Q2shCcRIzCtDIdO"
+    },
+    {
+        "slug": "shattering-impact",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4XYoe783SsKoVCsA"
+    },
+    {
+        "slug": "iomedaes-sword",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4Yxq6DxG3K9f41zK"
+    },
+    {
+        "slug": "keep-them-in-your-sights",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4bMox7VXPrLzKsV8"
+    },
+    {
+        "slug": "corpsefolk-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4eP7LvqWj3fI71Mu"
+    },
+    {
+        "slug": "heros-perseverance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4fUYVzqPQTfz1cNd"
+    },
+    {
+        "slug": "network-attunement",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4fnH8jSNVKHLj7MM"
+    },
+    {
+        "slug": "gifted-mentor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4t81Su8o58GUoYtJ"
+    },
+    {
+        "slug": "tactical-bully",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.4v1tOyYEGM1KOVRu"
+    },
+    {
+        "slug": "black-hole",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.51dFA09erqAeMt39"
+    },
+    {
+        "slug": "speed-of-thought",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5BSarl3Nfs9O0E7P"
+    },
+    {
+        "slug": "large-reach",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5IUQ1vBOaIeSOgiB"
+    },
+    {
+        "slug": "soldier-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5U1q1pLm3eBIHCXl"
+    },
+    {
+        "slug": "relentless-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5bI24fWYB9uK7MuR"
+    },
+    {
+        "slug": "supernatural-soothing",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5fcBv1Vu7C213hzw"
+    },
+    {
+        "slug": "convert-tempo",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5j38DYLlhZi2kfWK"
+    },
+    {
+        "slug": "enlightened-rivener",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5mpJwD7j8InP3yCQ"
+    },
+    {
+        "slug": "expansive-verse",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5ndv6xVcgJ96UTtf"
+    },
+    {
+        "slug": "uncontrollable",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5snnXHrqo5NSfQ4k"
+    },
+    {
+        "slug": "coronal-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.5vEB3hwojjKZ2Vrm"
+    },
+    {
+        "slug": "watch-out",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.60BRmtuNHT6mpJOH"
+    },
+    {
+        "slug": "seedling-reincarnation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.60vq5OZ44Ji7KRYK"
+    },
+    {
+        "slug": "double-draw",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.61txGmMLr22B93cU"
+    },
+    {
+        "slug": "improv-workshop",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.65j34j0yT6VaGfYT"
+    },
+    {
+        "slug": "infused-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.67LsozN4cJKHEWdN"
+    },
+    {
+        "slug": "concentrated-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6AMH5DfG2cSz1tY0"
+    },
+    {
+        "slug": "bone-shards",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6EULnMpte8cl2EET"
+    },
+    {
+        "slug": "plant-rumor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6ErQf23Gm9km8YSz"
+    },
+    {
+        "slug": "meyels-melody",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6JNMOkqnVoRqkX80"
+    },
+    {
+        "slug": "cloaking-field",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6PFzTOcdoOudpPy0"
+    },
+    {
+        "slug": "song-of-my-people",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6RPZDMPUzSJQOwRD"
+    },
+    {
+        "slug": "uncanny-comprehension",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6TqlX6m01QSQatom"
+    },
+    {
+        "slug": "unseen-tides",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6bJ11ho9L4JomESi"
+    },
+    {
+        "slug": "well-of-vitality",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6jNni17eQ3k3vwbh"
+    },
+    {
+        "slug": "follow-up-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6mQYPkXeWjvO9CcG"
+    },
+    {
+        "slug": "two-minds-one-soul",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6n8lPrRSBvWu9Dpa"
+    },
+    {
+        "slug": "electrical-shielding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6pbJgG8uJaNSdVj5"
+    },
+    {
+        "slug": "transcended-existence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.6tu2lS0CgxiDMHVO"
+    },
+    {
+        "slug": "supernova",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.71DtcZirJ9bbKMTY"
+    },
+    {
+        "slug": "starfinder-provisions",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.725sU5S9ZXXpkO1P"
+    },
+    {
+        "slug": "universal-translator",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.74PrrTXPLMPwHTi0"
+    },
+    {
+        "slug": "percussive-maintenance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7AvbXCgDkP9GDkbN"
+    },
+    {
+        "slug": "sidestep",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7BmJZ3iA7WpzPBx6"
+    },
+    {
+        "slug": "climbing-claws",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7Cj0US4Oh7gLdStE"
+    },
+    {
+        "slug": "triunes-chosen",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7LT4uNsB7RqwaKvs"
+    },
+    {
+        "slug": "shifters-feint",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7Th5q3QVYL2KzKEy"
+    },
+    {
+        "slug": "dead-nerves",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7aa1KDTvXriZjP6T"
+    },
+    {
+        "slug": "ready-for-trouble",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7eSdek1tvNhQ61dU"
+    },
+    {
+        "slug": "mystic-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7kCWmCSwlKQqQkLh"
+    },
+    {
+        "slug": "stellar-rush",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7nogykxuNzdaRfnf"
+    },
+    {
+        "slug": "basic-leadership",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7oChczYtNoWFII3r"
+    },
+    {
+        "slug": "damoritoshs-grip",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7r4QYITcF7LcaagL"
+    },
+    {
+        "slug": "corrosive-venting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7t8Wzb4PAD7YTD0k"
+    },
+    {
+        "slug": "soldiers-resiliency",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7usqQckH1Mx2FzqC"
+    },
+    {
+        "slug": "hammer-the-nail",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7v5tuehEjmQStncQ"
+    },
+    {
+        "slug": "restorative-shapeshifting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7yIxWfNZ7yEKs0Fd"
+    },
+    {
+        "slug": "switch-target",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.7z2jStHaxZbk1mhH"
+    },
+    {
+        "slug": "predict-outcome",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.81REBETJHky5GRrB"
+    },
+    {
+        "slug": "master-plan",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.864e9sSCKDcz7YDD"
+    },
+    {
+        "slug": "take-em-alive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.86YwN8XwJdk2kTgQ"
+    },
+    {
+        "slug": "reflexive-hypotheses",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.88ork3wcFUECxlfo"
+    },
+    {
+        "slug": "intimidating-taunt",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8EnKNTqKEZJBoIQb"
+    },
+    {
+        "slug": "run-cowards",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8ToT45Je3wD1ZJVH"
+    },
+    {
+        "slug": "prop-closet",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8VCGuAPwIs43qqFP"
+    },
+    {
+        "slug": "space-pirate-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8aGoy6Jaw4pDFZyN"
+    },
+    {
+        "slug": "consume-flesh",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8ftl9i9rmorxoBow"
+    },
+    {
+        "slug": "drop-tail",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8jmGw4nCmoq7pLWV"
+    },
+    {
+        "slug": "void-blood",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.8xtxZYud9OULEa72"
+    },
+    {
+        "slug": "kill-steal",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.99JrVhP4zKe3CAxZ"
+    },
+    {
+        "slug": "offensive-defense",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9BiW7yzDpWkj7hnv"
+    },
+    {
+        "slug": "aerial-master",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9GgDasvLuOeSGdjl"
+    },
+    {
+        "slug": "baleful-presence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9Mao1aasa9tWVIpb"
+    },
+    {
+        "slug": "vector-reflector",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9OSyLqbvtNU028ae"
+    },
+    {
+        "slug": "covering-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9RgKTogyOlvbf0LH"
+    },
+    {
+        "slug": "bullet-fever",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9RqJNPSx5T6b2WoB"
+    },
+    {
+        "slug": "barricade",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9S5mBcJujWOYCE6j"
+    },
+    {
+        "slug": "underwater-combatant",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9jDc7rybWCK4CZok"
+    },
+    {
+        "slug": "basic-mysticism",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9x7Ke7cc6BUheOUJ"
+    },
+    {
+        "slug": "pinpoint-thoughtsense",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.9yeWpYipqip44Inv"
+    },
+    {
+        "slug": "expanded-senses",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.A5p9Et1KduEq1BhW"
+    },
+    {
+        "slug": "life-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AE5ScIq8t4waaVXU"
+    },
+    {
+        "slug": "advanced-atmospheric-flight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AHTk5YkcV3lzm094"
+    },
+    {
+        "slug": "bond-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ANmwfBz6O24D5Zje"
+    },
+    {
+        "slug": "encyclopedic-recall",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AX1aZd5VzkcalLsr"
+    },
+    {
+        "slug": "sarcesian-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AZppgbJeG7PlzJYS"
+    },
+    {
+        "slug": "sensitive-antennae",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AcMMGduwWqnJeiX5"
+    },
+    {
+        "slug": "glimpse-the-pattern",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AhpkwOnIdbZYHa8O"
+    },
+    {
+        "slug": "cyclone",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AnV5YDStfunTnPyK"
+    },
+    {
+        "slug": "tech-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AvfH1TgQFIOkHp5n"
+    },
+    {
+        "slug": "breach",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AytE84e6pU6Achc3"
+    },
+    {
+        "slug": "four-armed-climber",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AyyRBi2imbURHzxK"
+    },
+    {
+        "slug": "ikeshti-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.AzwvJEYMSLOyx2Hn"
+    },
+    {
+        "slug": "widen-area",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.B2BaUMz72Q2Z5CSe"
+    },
+    {
+        "slug": "basic-gunner",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.B8LtCLANsVLU85zv"
+    },
+    {
+        "slug": "new-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BG4JNxkFYzGD2rJs"
+    },
+    {
+        "slug": "muzzle-flash",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BK1xOBi8FSrt5Lfg"
+    },
+    {
+        "slug": "cut-em-deep",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BL34yKdTM1gPrBAK"
+    },
+    {
+        "slug": "advanced-mysticism",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BLUUkk43oBILzC8s"
+    },
+    {
+        "slug": "shifters-shove",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BRQNBWlobuIvWAoU"
+    },
+    {
+        "slug": "draconic-senses",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BTjoKBpVtN2KXlFT"
+    },
+    {
+        "slug": "extend-directive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BUt7LSUaHTmjtKIx"
+    },
+    {
+        "slug": "impressive-lungs",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BVfib221WePDbxfz"
+    },
+    {
+        "slug": "melodic-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BWQQXCdv9qOy5DPp"
+    },
+    {
+        "slug": "digital-ambassador",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Bi0wdUuHsLxvSqrJ"
+    },
+    {
+        "slug": "leading-role",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BpeLt0TB3NiYJfSl"
+    },
+    {
+        "slug": "veteran-trap-finder",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BuTSr1Lo8vRxZ2cb"
+    },
+    {
+        "slug": "psychic-mastery",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.BycIrcZoimRDL8aY"
+    },
+    {
+        "slug": "unstoppable-directives",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Byflan3ypJEPDwby"
+    },
+    {
+        "slug": "masked",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Bzf7PzuQDYPaqUPt"
+    },
+    {
+        "slug": "intensified-psychic-shock",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.C9i9QgKcytScNld7"
+    },
+    {
+        "slug": "heros-edge",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CBuBWa9a7FgDp3x0"
+    },
+    {
+        "slug": "only-slightly-dead",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CD6stS729kh94ciV"
+    },
+    {
+        "slug": "molecular-modification",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CE9d04nIDzkWDbQp"
+    },
+    {
+        "slug": "smug-affirmation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CEG0OyTuYerUFg97"
+    },
+    {
+        "slug": "natural-camouflage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CFljdx9UR86iC1rD"
+    },
+    {
+        "slug": "frightening-display",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CGuDSVaPHNJdEc7a"
+    },
+    {
+        "slug": "pungent-astrazoan",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CJbfmjcI3CalYa3m"
+    },
+    {
+        "slug": "coagulation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CLNIJlz8GaCWzNn4"
+    },
+    {
+        "slug": "friendly-face",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CLVaFbrMGteLyUu6"
+    },
+    {
+        "slug": "metabolic-manipulation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CLqjExB2xWcFU5JN"
+    },
+    {
+        "slug": "disarming-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CMnwG6ScqfbEKr7N"
+    },
+    {
+        "slug": "biting-corpsefolk",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CTZgRrfVvHnCSIcF"
+    },
+    {
+        "slug": "mindrender",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CUZl01GJ70rM004v"
+    },
+    {
+        "slug": "quantum-recycle",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CVCT9Nay7nfEFAuj"
+    },
+    {
+        "slug": "natural-empathy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CZSit6pgL1EWdhOJ"
+    },
+    {
+        "slug": "defiant-liberation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CcOKDqU8RtKqrW5R"
+    },
+    {
+        "slug": "thick-skins",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Cizv80DJNxT9OCrN"
+    },
+    {
+        "slug": "telekinetic-titan",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Cj9UI2RZL6WBJ6EB"
+    },
+    {
+        "slug": "fly-anything",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CkYOYzeZUKWeeJVw"
+    },
+    {
+        "slug": "damoritoshs-claw",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CmK6MOwZ9KFX2TZU"
+    },
+    {
+        "slug": "eldritch-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Cs73duFVDLIcTBZ7"
+    },
+    {
+        "slug": "acquire-asset",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Cst3eALyEAakkmjy"
+    },
+    {
+        "slug": "shifters-squeeze",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.CwvroCs8PRZdbbJ9"
+    },
+    {
+        "slug": "swift-reposition",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.D7txRQIC586uOZMd"
+    },
+    {
+        "slug": "improved-conductivity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.D9VmYez4TIczPdFy"
+    },
+    {
+        "slug": "im-the-real-one",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DDFbyNAIiKOuKTHi"
+    },
+    {
+        "slug": "kick-it-into-overdrive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DG1zn37jIWSz6uLm"
+    },
+    {
+        "slug": "spectra-transmission",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DIy7pCjjlKyKHcGq"
+    },
+    {
+        "slug": "aspiring-necrovite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DMRniZMlnZAnoXk0"
+    },
+    {
+        "slug": "adaptive-talent",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DTTFeuW10H7QRAlE"
+    },
+    {
+        "slug": "blood-feast",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DWgfKsZGmidpyfDq"
+    },
+    {
+        "slug": "operative-exploit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Dd2326p0pqJaAwxi"
+    },
+    {
+        "slug": "canny-survivor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DfiqsFzUQppwlkL3"
+    },
+    {
+        "slug": "basic-soldier-training",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DlrCIyIAXZqoHFMx"
+    },
+    {
+        "slug": "surprising-escape",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DnK9XekYYKA3NqrC"
+    },
+    {
+        "slug": "enhanced-echolocation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DrRxVVXQMTib4ni1"
+    },
+    {
+        "slug": "enduring-echolocation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.DsS3TFeyVQiqhr3c"
+    },
+    {
+        "slug": "memory-recovery",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.E6QDGBpiuFMtyTcJ"
+    },
+    {
+        "slug": "cellular-acceleration",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.E6o233SXkv9qzBcz"
+    },
+    {
+        "slug": "advanced-gunner",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.E6qvaboWcvQXhoFT"
+    },
+    {
+        "slug": "cerebral-circumvention",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.E9L7E372G4Wz3lk7"
+    },
+    {
+        "slug": "skillful-encouragement",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EFkWRLQwain42TFm"
+    },
+    {
+        "slug": "gelid-bite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EGuboukc6LrUd4vT"
+    },
+    {
+        "slug": "commanding-pheromones",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EIBDGfiD5siW0dUU"
+    },
+    {
+        "slug": "harmonic-convergence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ELkCf9SO5URWXP0R"
+    },
+    {
+        "slug": "perfectly-balanced",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ENHAVgdMoZwpWRk1"
+    },
+    {
+        "slug": "all-hands-on-deck",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EPeo604ByeeAx3AL"
+    },
+    {
+        "slug": "homeguard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ESCBAfxDe7eHSsMI"
+    },
+    {
+        "slug": "advanced-distortion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ea4bswXApUsR4dGW"
+    },
+    {
+        "slug": "solar-weapon-customization",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ee3rEmM1ZSuGxohf"
+    },
+    {
+        "slug": "just-like-rehearsal",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EfDkXkKyFZZTaLui"
+    },
+    {
+        "slug": "kiss-it-better",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EfRt0g6vfKt2GFpi"
+    },
+    {
+        "slug": "works-never-done",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Egwaz4EJUJuAL7fJ"
+    },
+    {
+        "slug": "brutal-barrage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ElhRgSo375ERugIJ"
+    },
+    {
+        "slug": "psychic-constellation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Er8wuOwAZN6cEOCU"
+    },
+    {
+        "slug": "dramatic-blocking",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.EvO3CAUHcPLENizp"
+    },
+    {
+        "slug": "flip-the-script",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ExYhwMcLJYudEvMa"
+    },
+    {
+        "slug": "clustered-shots",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.F02phoqX8X60SnyZ"
+    },
+    {
+        "slug": "swerveshift",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.F3K4I4GWdty1Y5DM"
+    },
+    {
+        "slug": "shifters-reach",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.F3Q7TzvYQlqZF2I2"
+    },
+    {
+        "slug": "adaptable-intellect",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.F6y2aWiufZPRoi8c"
+    },
+    {
+        "slug": "undead-scholar",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FKomeKpgy7NUA2Hb"
+    },
+    {
+        "slug": "cosmic-caster",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FPJ3B9vFsNR3UaI2"
+    },
+    {
+        "slug": "born-to-fly",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Fg4M65FsO7ZSxCE2"
+    },
+    {
+        "slug": "brood-minder",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FgA7uXPGGYavF9RH"
+    },
+    {
+        "slug": "sense-emotions",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FlMtCbhm4ARYYhpt"
+    },
+    {
+        "slug": "danger-awareness",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FnAzJ4DIRPJJaGv7"
+    },
+    {
+        "slug": "arctic-bite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.FwNss6LroM7KZSUB"
+    },
+    {
+        "slug": "devastating-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.G2BRjjJodqDDCVan"
+    },
+    {
+        "slug": "hurry",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.G2Kxj7nNDkvWE1LC"
+    },
+    {
+        "slug": "lucky-improviser",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.G2f5Sm4Uc0UAUMDc"
+    },
+    {
+        "slug": "waste-not",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.G3n7BdG56o6qnF1h"
+    },
+    {
+        "slug": "hologram-skeptic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GBGvxPo6rnlEXFMg"
+    },
+    {
+        "slug": "vicious-takedown",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GBO7qD31Ie0lHkTX"
+    },
+    {
+        "slug": "natural-grace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GExi3NDWqhfICneX"
+    },
+    {
+        "slug": "opportune-retort",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GPFYj9TF7UzQWois"
+    },
+    {
+        "slug": "mighty-guardian",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GPrdVyoKBpIzE8pP"
+    },
+    {
+        "slug": "drift-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GUDyvtiwWuVYuTZN"
+    },
+    {
+        "slug": "monitoring-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GUnNXgK2XNS9LqVA"
+    },
+    {
+        "slug": "cleanse-spirit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GVrTUenThtL7mvDj"
+    },
+    {
+        "slug": "search-high-and-low",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GYk8nKT8abT5S5NO"
+    },
+    {
+        "slug": "sequester-form",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GYuW5KhcmQBrr6da"
+    },
+    {
+        "slug": "galactic-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GbG5m7R3ZjvHXq3Z"
+    },
+    {
+        "slug": "underfoot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GfsYdvVDWOJWeL5t"
+    },
+    {
+        "slug": "expert-witchwarper-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GgZfDFqZsvdT9ohg"
+    },
+    {
+        "slug": "lashunta-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.GnhT3k213Z6iBeFG"
+    },
+    {
+        "slug": "floating-balance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.H2Mjq4vkfxaZtEMV"
+    },
+    {
+        "slug": "propulsive-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HIHxmK5e02Mf2rE7"
+    },
+    {
+        "slug": "prophet",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HJBsluaq58vqHlIQ"
+    },
+    {
+        "slug": "bolstered-by-battle",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HKmLMpA5esbUsxTB"
+    },
+    {
+        "slug": "mounted-unity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HNVF2mCiODs8SFyn"
+    },
+    {
+        "slug": "twin-shooter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HPmI5ITOpwvbWQCQ"
+    },
+    {
+        "slug": "linguistic-master",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HQDXlIihi9qR7o4d"
+    },
+    {
+        "slug": "ruin-delver",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HWcbrUti93ukXoqo"
+    },
+    {
+        "slug": "cantrip-expansion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HZmD05LjJmOMlnG1"
+    },
+    {
+        "slug": "come-get-some",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HhjmPcqAtOZOXHaJ"
+    },
+    {
+        "slug": "glimpse-of-the-bloom",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.HiyKcS69XV98pQ2S"
+    },
+    {
+        "slug": "instinctive-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.I3SKICQDCaNuQ9QZ"
+    },
+    {
+        "slug": "powerful-exhalation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.I3WFIdKurB9OIYZM"
+    },
+    {
+        "slug": "repeating-role",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IBug8Fc4Usf9tE1N"
+    },
+    {
+        "slug": "radiant-zone",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IEPUsAbgkkdSAFFz"
+    },
+    {
+        "slug": "encore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IIMNM0nvYCnsk1sD"
+    },
+    {
+        "slug": "according-to-my-calculations",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IJvX7FJ40i84XPuR"
+    },
+    {
+        "slug": "you-can-do-it",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IKubKJb9vqFi0hFE"
+    },
+    {
+        "slug": "basic-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ILx4TaKIN9SEtRhh"
+    },
+    {
+        "slug": "wild-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IPkqRIWf8riO0krc"
+    },
+    {
+        "slug": "skulking-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IRl8dRNpGUTlg05Z"
+    },
+    {
+        "slug": "suppressing-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ITyH6Le70UdKBXea"
+    },
+    {
+        "slug": "gorge",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IYhooDxEG5NqFSom"
+    },
+    {
+        "slug": "mournful-howl",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IdP7WH78GovkzKrd"
+    },
+    {
+        "slug": "realized-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ih5wL2VqcCkO38OJ"
+    },
+    {
+        "slug": "tale-spinner",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.IuIzLQr2xkwJmnVH"
+    },
+    {
+        "slug": "load-bearing-hero",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.J1XVWYiR17es8m0m"
+    },
+    {
+        "slug": "bullet-dance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.J9MbGFyEZscnEaWU"
+    },
+    {
+        "slug": "crowd-control",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JFPGW8OiYNYtOYOL"
+    },
+    {
+        "slug": "universal-telepath",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JMpRc0eGNjSUN5pK"
+    },
+    {
+        "slug": "plantlike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JNgEoH4vAaNMgqVH"
+    },
+    {
+        "slug": "improvised-legend",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JSIlPiYbFOY1NkxV"
+    },
+    {
+        "slug": "scattering-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JSuwtcZgbz3fkyVX"
+    },
+    {
+        "slug": "look-alive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JYF9KC95ItpwkCwn"
+    },
+    {
+        "slug": "aberrant-shape",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JYPbUPZAV5PQTxAT"
+    },
+    {
+        "slug": "current-rider",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JvDANwjccI4rL65G"
+    },
+    {
+        "slug": "a-life-for-a-life",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.JyzcpbqsVVbSpgvm"
+    },
+    {
+        "slug": "darkvision-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.KFOXOovEhtvDZVXV"
+    },
+    {
+        "slug": "baleful-gaze",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.KMDfLxScL59k8eJR"
+    },
+    {
+        "slug": "sharpshooter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.KNAHp7MLPMso8K3d"
+    },
+    {
+        "slug": "mindward-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.KYdtXJXPBbLMRUB6"
+    },
+    {
+        "slug": "sigiled-scales",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Kgtj8NRoBnWCK9qw"
+    },
+    {
+        "slug": "cautious-trespasser",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ks7uSfEUcE4v18wk"
+    },
+    {
+        "slug": "reactive-shapeshifting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Kw65oclKUTzN1eBC"
+    },
+    {
+        "slug": "thermal-conversion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.L0MUHNikE5fo2DQY"
+    },
+    {
+        "slug": "partial-corpsefolk",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.L1xoJKmFcGtw2hRD"
+    },
+    {
+        "slug": "ready-to-roll",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.L8IpPIJUOFVDhSoY"
+    },
+    {
+        "slug": "supersonic-speed",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.L9IUYeXqWVrGlgke"
+    },
+    {
+        "slug": "pardon-me",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.L9sq9ROk0QFil5wl"
+    },
+    {
+        "slug": "unleash-pneuma",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LEDQYYh1uYiK5qjU"
+    },
+    {
+        "slug": "bond-boost",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LGrCVzOvUayHW1Pu"
+    },
+    {
+        "slug": "disperse",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LH1IEKqeb5wYj1XR"
+    },
+    {
+        "slug": "empowered-scales",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LH5dRKAG6GDPhFwO"
+    },
+    {
+        "slug": "cooperative",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LHtaCR4gS4kozJyP"
+    },
+    {
+        "slug": "mutable-manifestation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LTkzlr9KZrVpbg09"
+    },
+    {
+        "slug": "shroud-of-shattered-spirits",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LmCHemr9mZQlFUMw"
+    },
+    {
+        "slug": "septocular",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Logc2RRMGScxCMex"
+    },
+    {
+        "slug": "psychic-talent",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Lsu5dRPLTlMB5xpv"
+    },
+    {
+        "slug": "advanced-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.LvhBb8noKNc2A3EG"
+    },
+    {
+        "slug": "esoteric-education",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Lvq45hwOzhNEqDRM"
+    },
+    {
+        "slug": "predictive-positioning",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.M4WSRMcWSg95S0fP"
+    },
+    {
+        "slug": "sanctuary-kin",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.M5XIGRr2TZKSQ3bG"
+    },
+    {
+        "slug": "primafloral-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.M8FE9jj4lSsZSNYy"
+    },
+    {
+        "slug": "youll-have-to-go-through-me",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.M8kAxAXWRRWMRTzT"
+    },
+    {
+        "slug": "persistent-tactics",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MKLp4V5jCZBJbCEX"
+    },
+    {
+        "slug": "shobhad-spirit-blessed",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MKNbEWBOT91pwRob"
+    },
+    {
+        "slug": "hulking-corpsefolk",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MLLODiQmze45bUIg"
+    },
+    {
+        "slug": "abadar-corp-rep-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MRfRe8pL4rzDrXRE"
+    },
+    {
+        "slug": "quantum-research",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MVT7iJNv6L3y2eL9"
+    },
+    {
+        "slug": "soothing-anchor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MZAza87U33qs68Ky"
+    },
+    {
+        "slug": "etheric",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MbNWJIlVicCoiNiS"
+    },
+    {
+        "slug": "linguistic-prodigy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MeBVpW5EIOzoEHCh"
+    },
+    {
+        "slug": "spiritual-wards",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Mec5rU0SOB28Hqq2"
+    },
+    {
+        "slug": "twin-weapons",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Mett2INmoUZxE0CR"
+    },
+    {
+        "slug": "sheltering-limbs",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Mg0yYkrCsVQ6kYLY"
+    },
+    {
+        "slug": "icy-spelunker",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MjTcpII4r52vMSrI"
+    },
+    {
+        "slug": "sprint",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Mktaz78MaDtR4pxx"
+    },
+    {
+        "slug": "akashic-transcendence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MoFlThCPOrJj5t5u"
+    },
+    {
+        "slug": "elebrian-cantrip",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MrSdr4BSIcCm4cLa"
+    },
+    {
+        "slug": "zone-overlap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MsCW9UEjyWS73vz9"
+    },
+    {
+        "slug": "adapted-augmentations",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MsH43TvmVSf7ewKj"
+    },
+    {
+        "slug": "stubborn-corpse",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Mt9aWD58GblCbuDL"
+    },
+    {
+        "slug": "uncanny-awareness",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MwnabY9uE20mQaWn"
+    },
+    {
+        "slug": "galaxy-brain",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.MzN641BnPdMmdPAj"
+    },
+    {
+        "slug": "incredible-ferocity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.N0B2ArhFUVipdGV2"
+    },
+    {
+        "slug": "face-in-the-crowd",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.N68CjcvYmLF35KrD"
+    },
+    {
+        "slug": "binaric-assault",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.N8df8eJqEFiVDdmJ"
+    },
+    {
+        "slug": "barathu-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NESPbaZ58wcZ027U"
+    },
+    {
+        "slug": "deepspeaker",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NT3qcFKixhuZuF6C"
+    },
+    {
+        "slug": "willful-defiance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NUZClDNinM6oVgJN"
+    },
+    {
+        "slug": "religious-talisman",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NY2R5hNgdkSRPkTV"
+    },
+    {
+        "slug": "complete-transposition",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NYMnnMJMLw3aiciu"
+    },
+    {
+        "slug": "hampering-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Nh1QHQqbLXcMLRdo"
+    },
+    {
+        "slug": "headstrong",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NyrWOc6otZLbbgsY"
+    },
+    {
+        "slug": "vital-sap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.NzI8UeSgnxFtRQ8J"
+    },
+    {
+        "slug": "bullet-hell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.O3HJRpkDbnoO9Prn"
+    },
+    {
+        "slug": "talon-transporter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.O8ozWpzId4uhICQw"
+    },
+    {
+        "slug": "broodless",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OFM2dbsMPtz7Rs7J"
+    },
+    {
+        "slug": "plasma-ejection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OHZnPdwQe1GKwhMi"
+    },
+    {
+        "slug": "soul-sustenance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OPrs0Nbhdu9FKmgC"
+    },
+    {
+        "slug": "shobhad-special",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OScdfD8SyVvGqnog"
+    },
+    {
+        "slug": "gun-expert",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OW2RzoTyDGm1tl0x"
+    },
+    {
+        "slug": "overwatch",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OYLDlfwTOJef049H"
+    },
+    {
+        "slug": "fissile-budding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OhEATZzWsLaRd9mb"
+    },
+    {
+        "slug": "quip",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OjoM1PJ5RlXg2LtD"
+    },
+    {
+        "slug": "not-in-the-face",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OlIuxKxrKAeDklfN"
+    },
+    {
+        "slug": "nanite-form",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OlSfsaJSE4Lk7wkt"
+    },
+    {
+        "slug": "helping-hand",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OmKZ0EQLqd1ktdJR"
+    },
+    {
+        "slug": "psychic-master",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ow6E0zzzspTxW9be"
+    },
+    {
+        "slug": "telepathic-conduit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.OwKhWs0Qk0DCFHSM"
+    },
+    {
+        "slug": "mediator",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.P06SIkM0OQ9sINSx"
+    },
+    {
+        "slug": "widen-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.P7naikcqL9P6JTCU"
+    },
+    {
+        "slug": "witchwarper-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.P8nPDOlSIiKnkQAy"
+    },
+    {
+        "slug": "camouvisage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PF5sBTrvGTyGALfG"
+    },
+    {
+        "slug": "memories-of-ashok",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PLnos5N0yF3fADjD"
+    },
+    {
+        "slug": "secrete-numbing-saliva",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.POBFsfiYDrRUonvL"
+    },
+    {
+        "slug": "warp-wounds",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PRKr7ugCsMdaDrdK"
+    },
+    {
+        "slug": "elebrian-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PTdSkzlYel3lU8UA"
+    },
+    {
+        "slug": "quantum-breadth",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PZPSwGS5mR1B66dA"
+    },
+    {
+        "slug": "proleptic-parry",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PbPCMls5szAKHXtr"
+    },
+    {
+        "slug": "attuned-blow",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PdqQ8AXG3jPABM98"
+    },
+    {
+        "slug": "historian",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PgMLakZc1aGbr9xW"
+    },
+    {
+        "slug": "draconic-lethality",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PrG3NWw7X8TTJput"
+    },
+    {
+        "slug": "dragonkin-breath",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.PzfAk0BBtRviHW7E"
+    },
+    {
+        "slug": "greater-warp",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Q6iBJ7entZwxUqF5"
+    },
+    {
+        "slug": "feign-death",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Q6vXNDmTwDom59GV"
+    },
+    {
+        "slug": "dragonkin-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QCDFm9TfJEuKWcT1"
+    },
+    {
+        "slug": "travel-tongue",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QCNC3ooL3fD1y2ht"
+    },
+    {
+        "slug": "stunt-double",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QImUeDyZg8KKzNdx"
+    },
+    {
+        "slug": "dramatic-reading",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QYQmAFvXirWpHeC3"
+    },
+    {
+        "slug": "fundamental-understanding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QZTPMHVvZSlDrnCF"
+    },
+    {
+        "slug": "convert-illumination",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Qa0YQRBJj8TNmEVX"
+    },
+    {
+        "slug": "ammo-hoarder",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Qbg2LpdgXJi7Sd97"
+    },
+    {
+        "slug": "versatile-outfit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Qf5yZFh4RAamNGVC"
+    },
+    {
+        "slug": "shobhad-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QfMqsY8ZEHPBRAAQ"
+    },
+    {
+        "slug": "bonded-transposition",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QoDqOiFCq0OkZ7ne"
+    },
+    {
+        "slug": "terror-forming",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QpHJD3PSRSxq7Vu5"
+    },
+    {
+        "slug": "twin-draw",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QvOGVk20XzN3xDSQ"
+    },
+    {
+        "slug": "dual-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.QwTsuEY0PZz0rdcL"
+    },
+    {
+        "slug": "silent-tide",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.R52hSpOvF0ljiubW"
+    },
+    {
+        "slug": "shifters-orientation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.R6IusnBEHihQWPF6"
+    },
+    {
+        "slug": "swarm-evolution",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.R9K6Wgm2jYQMyHGX"
+    },
+    {
+        "slug": "learning-experience",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RFEpLG8MwHY1Paom"
+    },
+    {
+        "slug": "ill-be-back",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RHwcB2VGOHW0PN6k"
+    },
+    {
+        "slug": "basic-stellar-attunement",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RRjp2xNrzVQO9sDp"
+    },
+    {
+        "slug": "soldiers-training",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RWmxZ5irZu25bytb"
+    },
+    {
+        "slug": "swap-upgrades",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RbZCiRjHjF8g081P"
+    },
+    {
+        "slug": "fool-the-camera",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RdCEfz6Mn8IP1RDM"
+    },
+    {
+        "slug": "soldiers-toughness",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RhiQWWUdbwoUqBOD"
+    },
+    {
+        "slug": "clinging-bite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RjRIRJDAGMUazLvW"
+    },
+    {
+        "slug": "corporate-speak",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RnKrdgguZzuVb8Tv"
+    },
+    {
+        "slug": "centered-mind",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.RouLFLNSEAGDYHs5"
+    },
+    {
+        "slug": "power-slide",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ru3mI5xoPXns5HiS"
+    },
+    {
+        "slug": "consistent-communalism",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.S0XPUjurbuyOnjTc"
+    },
+    {
+        "slug": "planetary-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.SEqvBdZITnGXTIhS"
+    },
+    {
+        "slug": "hurl-ally",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.SJATkfqF5IeTwBRd"
+    },
+    {
+        "slug": "dragonkin-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.SX1BCOMptzYyaHqQ"
+    },
+    {
+        "slug": "furious-flap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Sg3W3VCNbnpPgpvx"
+    },
+    {
+        "slug": "shifting-smuggler",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.SguzfGVqJ5vOySHA"
+    },
+    {
+        "slug": "cellular-regeneration",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.SiVWK0ksapz0Y8UU"
+    },
+    {
+        "slug": "allsix",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Sm0y2cAEP8UXgp1Z"
+    },
+    {
+        "slug": "communalism",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.StCU4LUfFW6owYzf"
+    },
+    {
+        "slug": "assistive-shove",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TD9g4O6m7jngmFag"
+    },
+    {
+        "slug": "deaths-indifference",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TDphpBKl58Yj0iMV"
+    },
+    {
+        "slug": "fearsome",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TFxVT6iiDxLx6sOa"
+    },
+    {
+        "slug": "light-em-up",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TbHoIKZdGtHaS9Ct"
+    },
+    {
+        "slug": "gliding-wings",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Td4pZXAeuCLQEElT"
+    },
+    {
+        "slug": "ambidextrous-shifter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TidCHs7Yd7h4aOiV"
+    },
+    {
+        "slug": "bottomless-pockets",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TlZnjM85BmkiAqAQ"
+    },
+    {
+        "slug": "convert-information",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TmcPmncR1Y8sjPLz"
+    },
+    {
+        "slug": "pin-down",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Ts9l3J6pH1GPsL2W"
+    },
+    {
+        "slug": "dazzling-glare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.TuY90W5JlyUgdYtJ"
+    },
+    {
+        "slug": "advanced-soldier-training",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U0FX5NnFLYj3eTv1"
+    },
+    {
+        "slug": "meandering-mind",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U0g9zLZAat8RMJvx"
+    },
+    {
+        "slug": "distant-telepath",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U10WCzCTQNpYzJ8O"
+    },
+    {
+        "slug": "unconventional-expertise",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U1yWUSXLCXCs4Gzu"
+    },
+    {
+        "slug": "otherworldly-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U6ZzAyFSTI3WuanL"
+    },
+    {
+        "slug": "harness-cosmic-forces",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U720v15o8nhNwibY"
+    },
+    {
+        "slug": "scrappers-ingenuity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.U9Cv3DBWBjTPg1eR"
+    },
+    {
+        "slug": "fog-of-war",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UF45fuzJXbl04r2b"
+    },
+    {
+        "slug": "master-spy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UKN0Vm7kR7J2SsWj"
+    },
+    {
+        "slug": "impeding-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UPFUN2iKxHOHEZAD"
+    },
+    {
+        "slug": "xenodruid-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UTA9Fk6V6tPFkMdj"
+    },
+    {
+        "slug": "psychic-paragon",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UixUjTzatn3W63fw"
+    },
+    {
+        "slug": "nomads-persistence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.UyjHGfGyMV0c6FTp"
+    },
+    {
+        "slug": "momentum",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Uz6dTsSRif8UYWLN"
+    },
+    {
+        "slug": "twin-guard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.V0OlaVWSTWUh1qvm"
+    },
+    {
+        "slug": "operative-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.V0Qm2R3YUmS9fKrE"
+    },
+    {
+        "slug": "infinite-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VHAkNf4SY5FIaEB3"
+    },
+    {
+        "slug": "intuitive-talent",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VHNHXuYDkZ7MkSnR"
+    },
+    {
+        "slug": "stunt-maneuver",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VPFiluVQoj8F2Ho0"
+    },
+    {
+        "slug": "serum-crafting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VRLHQPDkjy0gbxBY"
+    },
+    {
+        "slug": "novice-necrovite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VSsqLuESvWHKIQAJ"
+    },
+    {
+        "slug": "solarians-resiliency",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VXUhOC7xHqoJXy21"
+    },
+    {
+        "slug": "contortive-compression",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VbRwIBl7eu7DAUF7"
+    },
+    {
+        "slug": "effortless-concentration",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ViSypoYw71pApZcZ"
+    },
+    {
+        "slug": "dazzling-diversion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VjSIPDj5PiMAPPNX"
+    },
+    {
+        "slug": "electrical-engineer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VxmkzyDr4ShmJnNZ"
+    },
+    {
+        "slug": "hair-trigger",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.VyCQ7YbM2BJhCnQ6"
+    },
+    {
+        "slug": "ancestral-knowledge",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.W5WkZTNWAh0cvxrz"
+    },
+    {
+        "slug": "rip-current",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.W5wOmOJ5Y242UFNT"
+    },
+    {
+        "slug": "stop-them-in-their-tracks",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.W75pq86D7sYW6Myx"
+    },
+    {
+        "slug": "hampering-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.W80bGpWLBSCLP9QE"
+    },
+    {
+        "slug": "parkour",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WBrg7BsHa8ylkigL"
+    },
+    {
+        "slug": "get-them",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WFLC2BR50XGhyHtI"
+    },
+    {
+        "slug": "enlightenment",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WLXWLYl4J8IIKpZh"
+    },
+    {
+        "slug": "energy-infusion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WNcP7KjKS65Rz46m"
+    },
+    {
+        "slug": "advanced-leadership",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WOZoG1rikcQ0eCb4"
+    },
+    {
+        "slug": "confounding-disquisition",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WR4Ziq4PIq2HFWyv"
+    },
+    {
+        "slug": "unsettling-display",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WUMwOGndWF6iaAKK"
+    },
+    {
+        "slug": "survivors-instincts",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WXyalVd471MVyoN6"
+    },
+    {
+        "slug": "nonlethal-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WY5yGfnTdZG82n96"
+    },
+    {
+        "slug": "opening-volley",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Wavi0q21NJNXkA6F"
+    },
+    {
+        "slug": "shed-skin",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Wb4vtGqg2Cl2FF1k"
+    },
+    {
+        "slug": "deadlift",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Wc26O3XFKxWfxY5N"
+    },
+    {
+        "slug": "iomedaes-barrage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WcDJMMPoAO2v26TN"
+    },
+    {
+        "slug": "long-whiskered",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WlcnVVvLPGt6uhQO"
+    },
+    {
+        "slug": "tag-team",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WlqXFnTC3ZXC3I1z"
+    },
+    {
+        "slug": "infernal-armaments",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WpJCB3dCycbIzG3w"
+    },
+    {
+        "slug": "natural-hunter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Wr07U9y4HdBXlS0M"
+    },
+    {
+        "slug": "implacable-grappler",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.WuSl6BGTt02jRxe6"
+    },
+    {
+        "slug": "longrifle-reload",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.XMDrSEgzLGSzFz9P"
+    },
+    {
+        "slug": "ravenous-restoration",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.XOfQpV10BtmZzNe7"
+    },
+    {
+        "slug": "persistent-confidence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.XUK4bZhHpWacvdXo"
+    },
+    {
+        "slug": "elebrian-magic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.XXdcwmXbu1OzaPyG"
+    },
+    {
+        "slug": "favored-disguise",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.XeL6uygxW4u2vMkF"
+    },
+    {
+        "slug": "machine-saboteur",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Xo4bUJdBAsoM4DcF"
+    },
+    {
+        "slug": "cosmic-traveler",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Xyf3tjm3nEliqaaf"
+    },
+    {
+        "slug": "diverse-schemes",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Y2CHy6HTI11oT3dR"
+    },
+    {
+        "slug": "emotional-defiance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Y6qEr3Kz5Hh61tCY"
+    },
+    {
+        "slug": "shobhad-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Y7AL0vuOdMorOte3"
+    },
+    {
+        "slug": "undead-empathy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YEekTdA0Q6kmqlGr"
+    },
+    {
+        "slug": "shifters-eye",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YK1EqEA73pazfBkb"
+    },
+    {
+        "slug": "share-quantum-aura",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YRAFkSogKx3WhxPc"
+    },
+    {
+        "slug": "hang-in-there",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YRy857LORIhKOgbY"
+    },
+    {
+        "slug": "basic-insectile-flight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YSi48yghu0wmkSrr"
+    },
+    {
+        "slug": "convergent-evolution",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YaS0LQv3YCfiBRgR"
+    },
+    {
+        "slug": "collateral-witness",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Yg8YVRLLfV7kGjCM"
+    },
+    {
+        "slug": "loping-vines",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YhZ1s6iEqQh2o2RW"
+    },
+    {
+        "slug": "tactical-swap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YhnO1igW6Ds2n4C7"
+    },
+    {
+        "slug": "urban-survivalist",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.YtbPw4FSa86QAdRq"
+    },
+    {
+        "slug": "chattermander",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Yz49JzHw8pEFSUBK"
+    },
+    {
+        "slug": "knight-of-golarion-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Z0lKny0VVq0zf3UY"
+    },
+    {
+        "slug": "method-actor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Z1ZGO2UWoV6IKLaO"
+    },
+    {
+        "slug": "undying",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Z1gVcykXan7GDWeh"
+    },
+    {
+        "slug": "enlarge-quantum-field",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Z96whXmfXXXfXp34"
+    },
+    {
+        "slug": "opportunistic-hug",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZB9gfqzJFtGccXwm"
+    },
+    {
+        "slug": "guarded-thoughts",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZDdgtUbkz5PGRcD2"
+    },
+    {
+        "slug": "cloud-storage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZH19WJdxc48e3tS1"
+    },
+    {
+        "slug": "iomedaes-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZOuBKbHt7E3BrksL"
+    },
+    {
+        "slug": "blazing-corona",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZX7RgHviBOn9PyOh"
+    },
+    {
+        "slug": "undead-senses",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZY7n1EwpR86duTIK"
+    },
+    {
+        "slug": "digestive-outburst",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZaRcUkykzxCEPqtn"
+    },
+    {
+        "slug": "heightened-paranoia",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZiyExMCbCKHwgbzh"
+    },
+    {
+        "slug": "basic-witchwarper-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZkKybSkWvM1Xbr2T"
+    },
+    {
+        "slug": "ascending-necrovite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZoiHVp984Kuanr5m"
+    },
+    {
+        "slug": "solar-manifestation-expert",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ZqDLcOYIGlAB5qzN"
+    },
+    {
+        "slug": "remix-worlds-rhythm",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.Zwg2i0FOossMTUNm"
+    },
+    {
+        "slug": "data-jockey",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.a4BhF5fJFjJmUlUT"
+    },
+    {
+        "slug": "heroic-last-stand",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.a9ER2amvCuQEJODm"
+    },
+    {
+        "slug": "avid-traveler",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.a9nZ0ILhLENEXnp9"
+    },
+    {
+        "slug": "basic-mystic-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aE3S7P6x9p1HRJtl"
+    },
+    {
+        "slug": "greater-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aFThHBV8YyYerNpf"
+    },
+    {
+        "slug": "adaptable-limbs",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aHLTHh3VjElAMQC7"
+    },
+    {
+        "slug": "eclipse-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aHslHBTkkPHQUBFX"
+    },
+    {
+        "slug": "masks-under-masks",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aK6zdP2tK4Y4BuXK"
+    },
+    {
+        "slug": "cheer-up",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aNlH5doV7DLZ037x"
+    },
+    {
+        "slug": "byzantine-linguistics",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aQ2VW51nBxfNXaTQ"
+    },
+    {
+        "slug": "use-the-scenery",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aQoNgLD8WhthMFyP"
+    },
+    {
+        "slug": "360-no-scope",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aRQhgf7tLFMfsHMa"
+    },
+    {
+        "slug": "death-touched-caster",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aTIbdcnMlwzg1XcR"
+    },
+    {
+        "slug": "combat-hack",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.abcKcLvAGE5AKig4"
+    },
+    {
+        "slug": "primary-target",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aezc7s7aGw8wJgAV"
+    },
+    {
+        "slug": "wormhole",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.afWWdc7Fc7p93fQg"
+    },
+    {
+        "slug": "coordinated-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ai1n3ZCBbM5VEGPo"
+    },
+    {
+        "slug": "massive-fists",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ak2RO5zLvrjdUchi"
+    },
+    {
+        "slug": "the-science-of-motion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.akrQJ3KbYdSQGc0m"
+    },
+    {
+        "slug": "emotional-maestro",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.alFHSgEGbUhGng4y"
+    },
+    {
+        "slug": "kasatha-weapon-elegance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.amYdnH5YgyywTWWC"
+    },
+    {
+        "slug": "nimbus-block",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.aqjGTsGT2aPUxC92"
+    },
+    {
+        "slug": "defensive-gunner",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bDoUr1qdg0cZphbK"
+    },
+    {
+        "slug": "frequent-drifter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bMFzbLqAEobIWlFL"
+    },
+    {
+        "slug": "fixation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bOuoMaJcdk0unLFf"
+    },
+    {
+        "slug": "covering-fire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bSNHMpq5e4ZYOyWo"
+    },
+    {
+        "slug": "change-of-plans",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bTiv9Yd6WJR6vFys"
+    },
+    {
+        "slug": "leaders-confidence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bUQPddjc1Y7CpLBh"
+    },
+    {
+        "slug": "telepredict",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bqQ80aCjgigKSJMY"
+    },
+    {
+        "slug": "memory-matrix",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.bw1u57AB9M5wA4eS"
+    },
+    {
+        "slug": "unleash-sotas-flame",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.c0Jduoit1Lzo7gxF"
+    },
+    {
+        "slug": "tactical-advance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.c0TkeJ8LytJ5A6A1"
+    },
+    {
+        "slug": "convert-life-force",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cA2llXc5XTOVUjgx"
+    },
+    {
+        "slug": "fearless",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cBMpUhDdPcRHrYgl"
+    },
+    {
+        "slug": "fish-in-a-barrel",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cDxFPXDuZpDbJEgU"
+    },
+    {
+        "slug": "sales-pitch",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cI7HyW33qezimXWG"
+    },
+    {
+        "slug": "effortless-influencer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cMbBH7RBX6Qtrym3"
+    },
+    {
+        "slug": "working-artist",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cTBp5oAwNOSMR59x"
+    },
+    {
+        "slug": "transforming-huddle",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cgruXxdR2cqjVk09"
+    },
+    {
+        "slug": "overwhelming-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.coyJHvbNqAci90Zg"
+    },
+    {
+        "slug": "magical-guardian",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cq0l8iIeN7FrvGKa"
+    },
+    {
+        "slug": "prismeni-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.crgckU918G7188aJ"
+    },
+    {
+        "slug": "follow-their-lead",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cvkSzyFsiwGyXdou"
+    },
+    {
+        "slug": "timber",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.cwhtA9D80XcPfnhF"
+    },
+    {
+        "slug": "mantarider",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.d6QkZhtt7nJRHsyY"
+    },
+    {
+        "slug": "meditative-analysis",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.d8ekF23HTScyOrbr"
+    },
+    {
+        "slug": "shell-shower",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dLcXl7VrHp34vwxb"
+    },
+    {
+        "slug": "return-to-the-river",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dMIij0rQ3Z0bErDY"
+    },
+    {
+        "slug": "student-of-the-unseen",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dTSvva2NW1kq6BT3"
+    },
+    {
+        "slug": "just-kidding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dTuDmdfeax9B6kIk"
+    },
+    {
+        "slug": "dauntless",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dWDC5L6mSBqfUbgH"
+    },
+    {
+        "slug": "boundless-energy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dapMcPgR17HUFJfT"
+    },
+    {
+        "slug": "prophets-premonition",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dcAVCzF4dlHEaSm4"
+    },
+    {
+        "slug": "toxic-transference",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.deGy1JMa2uLfKnIb"
+    },
+    {
+        "slug": "tech-caster",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dfbgBVXd3B9enbvV"
+    },
+    {
+        "slug": "cosmic-infusion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dgJ0Ms2ES0JO5BOk"
+    },
+    {
+        "slug": "shot-on-the-run",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dk5yvNJacVCxVYOd"
+    },
+    {
+        "slug": "kindle-blaze",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dp3jTnxAb98E2BCk"
+    },
+    {
+        "slug": "objects-in-motion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dtyolFw2GkOB2vYY"
+    },
+    {
+        "slug": "always-on-alert",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dvbF2j5DKQgliV4p"
+    },
+    {
+        "slug": "command-tactics",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.dyWMWnlBEqPkNnIF"
+    },
+    {
+        "slug": "advantageous-assault",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.e4YTFYqlosJCYpmu"
+    },
+    {
+        "slug": "multiverse-magic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.e8SJU9NmM35Z6huK"
+    },
+    {
+        "slug": "vent-gas",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.e9uXXN7GOtWBGz09"
+    },
+    {
+        "slug": "iomedaes-helm",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eJBTtj66SdMvLoQM"
+    },
+    {
+        "slug": "drift-blink",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eM9cctmBcIjjUQ1q"
+    },
+    {
+        "slug": "long-legged",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eQfyOv5RKKYd2AKz"
+    },
+    {
+        "slug": "management-material",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eR73a0yWba7clUyC"
+    },
+    {
+        "slug": "hardy-transplant",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eRktm0QkDNNwPUEh"
+    },
+    {
+        "slug": "menacing-snarl",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eRn7kFIHTMCl5y6g"
+    },
+    {
+        "slug": "attuned-wards",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eTefuy0BRvwAcqbQ"
+    },
+    {
+        "slug": "skilled-bodyguard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eVpE7gotiKAbgQkm"
+    },
+    {
+        "slug": "stunt-work",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eYL5cEaLyjZvRH7N"
+    },
+    {
+        "slug": "distant-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eYZnpU0uGSFyCRNF"
+    },
+    {
+        "slug": "smooth-diversions",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.enYJDAwYFLhrqDrP"
+    },
+    {
+        "slug": "range-sniper",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eo9bLAmEqXV6jOOu"
+    },
+    {
+        "slug": "trek-the-frigid-wastes",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.eq8KM8jS8vvqdNrh"
+    },
+    {
+        "slug": "network-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.etCe8dSuMyv1uS1O"
+    },
+    {
+        "slug": "digestive-spray",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ewtBlMMwV7F7YPPB"
+    },
+    {
+        "slug": "nomads-guard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.f7CDEE0BHxBb4IJ0"
+    },
+    {
+        "slug": "conceal-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.f8Blp2DpiiqBVWXa"
+    },
+    {
+        "slug": "pahtra-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.f8c1MXxBARqymXKF"
+    },
+    {
+        "slug": "psychic-bully",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fM77YeMtMyc2NI0a"
+    },
+    {
+        "slug": "flatten-body",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fMz3XrLqxB06A0J1"
+    },
+    {
+        "slug": "buoy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fRNNdUOhLQO1to7i"
+    },
+    {
+        "slug": "shoving-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fSqUeSAFhvBfq4sE"
+    },
+    {
+        "slug": "determined-optimist",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fXQxrEuO2ER8fUgW"
+    },
+    {
+        "slug": "overkill",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fa0mijOTL37Nj3bk"
+    },
+    {
+        "slug": "electromagnetic-whiskers",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.feom9It7PqL7RxMR"
+    },
+    {
+        "slug": "hellknight-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.filmD2J3y8UoVQIh"
+    },
+    {
+        "slug": "cosmic-alignment",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fjBHwVDDGGKJsEeD"
+    },
+    {
+        "slug": "advanced-warp",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fq19VhHnQ8Ho8FVC"
+    },
+    {
+        "slug": "inner-wellspring",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fqqmEkCgSH9R0XM3"
+    },
+    {
+        "slug": "persistent-quantum-field",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fr0GiGA5O9lkR7re"
+    },
+    {
+        "slug": "double-draw",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ft5LDDAZqhHYvgQW"
+    },
+    {
+        "slug": "punitive-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fwIazuCZJxGREspo"
+    },
+    {
+        "slug": "moodscales",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fypfpE2OFpHZEXNH"
+    },
+    {
+        "slug": "kill-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fyy19HaSmtKsnepl"
+    },
+    {
+        "slug": "vlaka-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.fzgkmQV00X7QuOXq"
+    },
+    {
+        "slug": "basic-warp-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.g7xhT2A6IqTohPCU"
+    },
+    {
+        "slug": "shobhad-ferocity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gD7l0iYrsdKMCmyV"
+    },
+    {
+        "slug": "grasping-tendrils",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gO0zaaX5fxh3IFDo"
+    },
+    {
+        "slug": "peek",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gSnImgOmBlHIahrH"
+    },
+    {
+        "slug": "pirates-parry",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gT70L4yEjpklDkxZ"
+    },
+    {
+        "slug": "masterful-imitation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gZ7zghmY31rM2ez1"
+    },
+    {
+        "slug": "radiant-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gdAHbyEjIQMf2ARy"
+    },
+    {
+        "slug": "death-blossom",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gibsdQ8jgyL8FZQc"
+    },
+    {
+        "slug": "fast-synergy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gnNtZKaHCLbdi0uQ"
+    },
+    {
+        "slug": "accelerated-step",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.goYtDvggPIibuDKX"
+    },
+    {
+        "slug": "defy-gravity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gqFni8l7l9fJZ43V"
+    },
+    {
+        "slug": "line-em-up",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gtYPdUsrTehjcbxZ"
+    },
+    {
+        "slug": "cellular-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.guAB6iY0mq3aIiPu"
+    },
+    {
+        "slug": "arcane-recall",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gvMJqU4wNt8zp0MW"
+    },
+    {
+        "slug": "master-mystic-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.gzVKE7AgtPtmNHYe"
+    },
+    {
+        "slug": "prismatic-display",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.h2j5UDmxAtKMyZI2"
+    },
+    {
+        "slug": "nimbus-ward",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hAOjYvcgTbWQffbT"
+    },
+    {
+        "slug": "dual-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hE7UxbuJvB1PsB6x"
+    },
+    {
+        "slug": "crew-member",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hEP34bAM7g2sNRpy"
+    },
+    {
+        "slug": "solar-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hKkUTNTjRztyRSJr"
+    },
+    {
+        "slug": "ride-the-river-between",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hPmYo6zCElcukFWV"
+    },
+    {
+        "slug": "seedpod-lure",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hQ6s9YekCTexSaId"
+    },
+    {
+        "slug": "armor-ace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hQHCzRzRPEHdLgMq"
+    },
+    {
+        "slug": "sturdy-vine",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hnL4m8dv53YkGDOE"
+    },
+    {
+        "slug": "inner-peace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ho5ZAFIrMa8Gh8u6"
+    },
+    {
+        "slug": "grandmothers-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hr2ugNVF1cvGQXkB"
+    },
+    {
+        "slug": "scramble-tech",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hrr9TUkQcGdSmB4L"
+    },
+    {
+        "slug": "history-buff",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hvKYNmAHs0Ybgb5c"
+    },
+    {
+        "slug": "energy-deflection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hvWJRc0dGF3ivrb6"
+    },
+    {
+        "slug": "fluid-anatomy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.hyl5HlC7YNxTmUPT"
+    },
+    {
+        "slug": "xenoarchaeologist-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.i5OwninARF668ud8"
+    },
+    {
+        "slug": "divine-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.i98LKe4OVRfvo33P"
+    },
+    {
+        "slug": "size-up",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iHzfiebxLxN3ogpH"
+    },
+    {
+        "slug": "crushing-fists",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iKl4RHQPi9eXLDpG"
+    },
+    {
+        "slug": "ultimate-spacefarer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iOl69a3tgFR7WrEv"
+    },
+    {
+        "slug": "dance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iQPcSeXhRdIAVTS5"
+    },
+    {
+        "slug": "predatory",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iX5qnxdVaxbIQcrQ"
+    },
+    {
+        "slug": "compact-predator",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.iac0qVH4SDzCXOyc"
+    },
+    {
+        "slug": "multi-stemmed",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.idTznaLfjJMW9HOT"
+    },
+    {
+        "slug": "sense-life",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ieR9nSO7oqamY1gJ"
+    },
+    {
+        "slug": "phreaker",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ifQiKhl0Gt2CM7i9"
+    },
+    {
+        "slug": "spirits-protection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.itv3fuCoKkZU0wZc"
+    },
+    {
+        "slug": "twitching-muscles",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.j1bp3PT5rfbUlyxx"
+    },
+    {
+        "slug": "synthetic-speech",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.j3Q78pOsFlConHDw"
+    },
+    {
+        "slug": "kasathan-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.j6Qnu67ZNnmfadkG"
+    },
+    {
+        "slug": "ancestral-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jGoacSlRk8afEqkj"
+    },
+    {
+        "slug": "basic-quantum-field",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jISf3f2KiAj56NJD"
+    },
+    {
+        "slug": "rip-tear",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jPUbNI1iFDU7NpOc"
+    },
+    {
+        "slug": "deaths-advance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jUj1iwCiFOrivhAc"
+    },
+    {
+        "slug": "dishonored-contrarian",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jZEoRmky1wkk6evN"
+    },
+    {
+        "slug": "resonant-weapon",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jfJUaCjGmhR7mu6O"
+    },
+    {
+        "slug": "floating-flight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jkPKKWlxEQPPf2Y2"
+    },
+    {
+        "slug": "statistical-anomaly",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jks2kk95Mt47rW6r"
+    },
+    {
+        "slug": "anchoring-impacts",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.jlfPjyWEzxQ2GiDh"
+    },
+    {
+        "slug": "careful-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.js2Qwj7qqY3NExtL"
+    },
+    {
+        "slug": "maximize-profits",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.k25vcbGtu5bsPF4h"
+    },
+    {
+        "slug": "borrow-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.k4n019dm7hx2uBU5"
+    },
+    {
+        "slug": "seedpod-surveillance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.k9K2sjAw9ocFSwfx"
+    },
+    {
+        "slug": "undead-slayer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kC42tjY689rma6Uc"
+    },
+    {
+        "slug": "vitality-network",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kK5JtGm6PQh7DT7Q"
+    },
+    {
+        "slug": "planetary-reincarnation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kPndV25wPdTvTriq"
+    },
+    {
+        "slug": "prehensile-tail",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kQZa9Vfl7qRRSJAX"
+    },
+    {
+        "slug": "singularity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kTXp7QPeIlNfl5CN"
+    },
+    {
+        "slug": "endlessly-adaptive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kTmHzD83BRz8bvmg"
+    },
+    {
+        "slug": "starfinder-field-agent-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kWOLT8dsYXWwmk2l"
+    },
+    {
+        "slug": "quick-install",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kcLeXu7Ikjh81o5h"
+    },
+    {
+        "slug": "magical-savior",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kpQcCjZbCAKnQ5qW"
+    },
+    {
+        "slug": "in-another-life",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ktfCt5Vi1fLI5TUY"
+    },
+    {
+        "slug": "drift-touched",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kvCXhmAdYFR2BTq4"
+    },
+    {
+        "slug": "tactical-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kwJB7fZABo1IvGi0"
+    },
+    {
+        "slug": "enter-rivener-state",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kxXC7sNk5GCDqKeZ"
+    },
+    {
+        "slug": "remote-access",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kxguGXvsFrUXRVWC"
+    },
+    {
+        "slug": "sense-abnormalities",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.kxyys4AseS9UgFYf"
+    },
+    {
+        "slug": "double-tap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.l5v7SnMbgsVGCsMA"
+    },
+    {
+        "slug": "thoughtful-insight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.lPTZmZhjdHyxYpuz"
+    },
+    {
+        "slug": "energy-shielding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.lmowZWTzJaZfM3bb"
+    },
+    {
+        "slug": "crowd-surfing",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.lqdeHNRyaa2EfXXG"
+    },
+    {
+        "slug": "predators-eye",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.luE3KQ8tAiYxipLq"
+    },
+    {
+        "slug": "situational-awareness",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mHcZdkio6UmPGXpD"
+    },
+    {
+        "slug": "brainsplain",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mJkdbGat3b6d8a1r"
+    },
+    {
+        "slug": "combine",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mK26QgHQvD7JSDQP"
+    },
+    {
+        "slug": "alluring-pheromones",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mQaqQIEtauUiqdDs"
+    },
+    {
+        "slug": "persistent-protection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mRJIE8SIT4TpKWPS"
+    },
+    {
+        "slug": "tech-crafting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mX0Xl6wY1WmhyuVO"
+    },
+    {
+        "slug": "death-eternal",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mXqAbWyB7bqizkZn"
+    },
+    {
+        "slug": "unconventional-weaponry",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mcl1efgOfMJK1UU9"
+    },
+    {
+        "slug": "anchoring-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.miDSBlxDcJdUn9n1"
+    },
+    {
+        "slug": "nimble-tail",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ms12IdKU40IUQEyw"
+    },
+    {
+        "slug": "protect-the-pack",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mttO15LzR2EJ5Ma7"
+    },
+    {
+        "slug": "solar-barrage",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.mwzOiGNsDVhuylfC"
+    },
+    {
+        "slug": "quick-swap",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.myRqOBWiyTlnPM92"
+    },
+    {
+        "slug": "slip-from-sight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.n85h3CaVZCiqhlBu"
+    },
+    {
+        "slug": "heart-of-planets-lost",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nGzImHzzDBPlGQvY"
+    },
+    {
+        "slug": "true-leader",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nH8j68JCBvrQX8tp"
+    },
+    {
+        "slug": "explosive-deflection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nIwH5MjTHCkQe7C6"
+    },
+    {
+        "slug": "synchronized-initiative",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nJDNq0cNJn0bgqKm"
+    },
+    {
+        "slug": "run-hot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nLQqltDF93pHHjLg"
+    },
+    {
+        "slug": "spectrasoul",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nPOCgeKARJGhRpoa"
+    },
+    {
+        "slug": "eager-assistant",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nQoNAj6noiCy2Hy0"
+    },
+    {
+        "slug": "unquenchable-breath",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.na4oi7S1tpD1loVj"
+    },
+    {
+        "slug": "do-you-know-who-i-work-for",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nbwTRNqbVwy7io1d"
+    },
+    {
+        "slug": "get-in-there",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ndYnIz8DvI8RpAup"
+    },
+    {
+        "slug": "dermal-spikes",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ndiCrnBVL7qD115a"
+    },
+    {
+        "slug": "burst-of-strength",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nhrviadHL9h3xjff"
+    },
+    {
+        "slug": "saw-it-coming",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nnnx5sO11sG3M200"
+    },
+    {
+        "slug": "ancestral-physiology",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nrBRVbQ8LvGO3HEm"
+    },
+    {
+        "slug": "manifold-masters",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nsiVrUSD16HzMGru"
+    },
+    {
+        "slug": "spellsurge-ammo",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.nygEe8US6gwSPJ9t"
+    },
+    {
+        "slug": "relentless-endurance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.o2Tknvim2UP2W6Yk"
+    },
+    {
+        "slug": "skittermander-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.o48idQ4nRxZ4K8pd"
+    },
+    {
+        "slug": "battle-saint",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.o7tBL0FGr9ptMPGe"
+    },
+    {
+        "slug": "zoomies",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.o7xxuslqMeEvsqha"
+    },
+    {
+        "slug": "destructive-dash",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oCR1IV0v8IXh67Ry"
+    },
+    {
+        "slug": "spirit-blessed-protections",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oOeW0NOc1saY8B3D"
+    },
+    {
+        "slug": "quantum-entanglement",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oRX1j8w0hMSivJjJ"
+    },
+    {
+        "slug": "role-repertoire",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oRZuA2FNSAcI9hO6"
+    },
+    {
+        "slug": "adopted-talents",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oVElzviiQAzmox6f"
+    },
+    {
+        "slug": "calm-before-the-storm",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oVRv2ny1ginYsU6R"
+    },
+    {
+        "slug": "without-a-trace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oVSrZDRpHZUoiXIy"
+    },
+    {
+        "slug": "secondary-directive",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oXWgo98rXjrxILa0"
+    },
+    {
+        "slug": "reunite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.of2jEhwftctikitr"
+    },
+    {
+        "slug": "wriggling-contortionist",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ogC4qn7wNOnjVswv"
+    },
+    {
+        "slug": "dont-you-die-on-me",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.onFpn2IPCZEm5mBb"
+    },
+    {
+        "slug": "carrion-feeder",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oqNJM8SOsmYlRaRZ"
+    },
+    {
+        "slug": "grazing-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.os6a17z3yBlbTV9Z"
+    },
+    {
+        "slug": "overwhelming-assault",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oxTOc7LL2FvpZaWy"
+    },
+    {
+        "slug": "combat-reflexes",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.oxgaZD7FcFE9yUyG"
+    },
+    {
+        "slug": "hug-master",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.p2buOu0jpzCHq7Yi"
+    },
+    {
+        "slug": "spot-healing",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pFr1JyMlyiVVsNDV"
+    },
+    {
+        "slug": "reach-spell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pJB9powzIAxCJTKU"
+    },
+    {
+        "slug": "data-bond",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pLNk9TItSEulQWfq"
+    },
+    {
+        "slug": "mental-interference",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pOQv4G8pLP6SWbmr"
+    },
+    {
+        "slug": "prototype-electroencephalon",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pPBz8XjqxxODrtSA"
+    },
+    {
+        "slug": "solar-nimbus",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pUjY86BZzj5pFbDa"
+    },
+    {
+        "slug": "hyper",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pfTGKcKoRpiCFnnA"
+    },
+    {
+        "slug": "aerial-dash",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.pyvN8ImE7TqR5Enp"
+    },
+    {
+        "slug": "hybrid-technique",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.q5Z3MubN2nioQ986"
+    },
+    {
+        "slug": "eager-combatant",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.q61FKwfib0A9Pxg6"
+    },
+    {
+        "slug": "sarcesian-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qAQfnNjONWfukQWn"
+    },
+    {
+        "slug": "perfectly-attuned",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qARRA5ro0HhvT6vs"
+    },
+    {
+        "slug": "luminous-wings",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qITHNzTMrTnnwTaY"
+    },
+    {
+        "slug": "improved-elebrian-magic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qQTFMTWuhIA7kGKL"
+    },
+    {
+        "slug": "drift-hop",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qZK8Jbg59oIpUS7W"
+    },
+    {
+        "slug": "basic-distortion",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.qdYOLC9JVaA8tGuR"
+    },
+    {
+        "slug": "terrifying-bravado",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.r1huiuhhfdWGB9vL"
+    },
+    {
+        "slug": "khizar-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.r3q6u0kOINoHMurf"
+    },
+    {
+        "slug": "stellar-shield-collapse",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.r5FD2LZ9kWOhDPby"
+    },
+    {
+        "slug": "talented-tracker",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.r8O7PCk2rsVBneWy"
+    },
+    {
+        "slug": "boundless-brachiator",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rC3ZB1F8ngBY7TN3"
+    },
+    {
+        "slug": "borai-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rD50FL4Z0mqSMpN9"
+    },
+    {
+        "slug": "partitioned-focus",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rQsfFYEapefaGHOx"
+    },
+    {
+        "slug": "twisted-dark-zone",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rTebGqlQpa420YQy"
+    },
+    {
+        "slug": "solar-rampart",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rU32khCvtNY7Pb1r"
+    },
+    {
+        "slug": "mobile-aim",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rWDM8q30Fay713In"
+    },
+    {
+        "slug": "soul-furnace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rgDcqcd7whBvFU0X"
+    },
+    {
+        "slug": "scope-sight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rhEfisGERMwwn0qz"
+    },
+    {
+        "slug": "size-of-the-ancients",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ri5qV0g9RwwWLiBk"
+    },
+    {
+        "slug": "plated-deflection",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.rihC7g7SmIz0nlSV"
+    },
+    {
+        "slug": "urchin",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ruiw4DcY40C58F8f"
+    },
+    {
+        "slug": "danger-zone",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ryCmTz9Z62qbtmQM"
+    },
+    {
+        "slug": "psychic-scholar",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s0Z63nGoTX3RO0hl"
+    },
+    {
+        "slug": "bloody-wounds",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s0vrkx346PLPbP3R"
+    },
+    {
+        "slug": "hush",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s1g2Ni6mgSQXM0H9"
+    },
+    {
+        "slug": "tentacle-whip",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s2ZpBKkDtbIzlbCU"
+    },
+    {
+        "slug": "corona",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s3AFgP78spcJGBt0"
+    },
+    {
+        "slug": "shy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s4Rr5vmMCN5DC0vf"
+    },
+    {
+        "slug": "deific-obedience",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s5q9GB5PHCUHCIbt"
+    },
+    {
+        "slug": "brutal-anatomy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.s7QK7Q63k9SxG106"
+    },
+    {
+        "slug": "embrace-the-magic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sAsVs0vxzdMccKKd"
+    },
+    {
+        "slug": "augmented-body",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sEb6KmjQVdWNTqiu"
+    },
+    {
+        "slug": "battleblessed",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sFwTLTMKDBTXKnTL"
+    },
+    {
+        "slug": "harmonic-shielding",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sH0N77Uby1LcJGkj"
+    },
+    {
+        "slug": "infinite-magic",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sHb5WHG22V425uIO"
+    },
+    {
+        "slug": "unleash-hell",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sKZJDPCrCehAC3Sq"
+    },
+    {
+        "slug": "quick-break",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sQXuTA06jmdrA546"
+    },
+    {
+        "slug": "debris-zone",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sW7AbeYfKc8OH7nG"
+    },
+    {
+        "slug": "big-bang",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sdf1sR7OjAx5Ljnw"
+    },
+    {
+        "slug": "linnorm-bite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sdwyBgOJSAxHtbbp"
+    },
+    {
+        "slug": "revitalized-by-the-drift",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.shLQcNg3CtUQmOH7"
+    },
+    {
+        "slug": "necrotized",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.shZanzwcaGEw4tqz"
+    },
+    {
+        "slug": "center-thoughts",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.sobAVW9cH4VGaRkn"
+    },
+    {
+        "slug": "stand-aside",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.spIr4dKoOld003LY"
+    },
+    {
+        "slug": "focus-pheromones",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.stVN1RNLbP2kmNFx"
+    },
+    {
+        "slug": "punishing-salvo",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.staCd7NUtYoa6Fnk"
+    },
+    {
+        "slug": "scrupulous-stalker",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.t15fosCmf6isG2Vg"
+    },
+    {
+        "slug": "congregants-acumen",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.t8UJEwp6jK1GmCUk"
+    },
+    {
+        "slug": "improved-undead-senses",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.t9Y0rtU5McaJUt8f"
+    },
+    {
+        "slug": "grandmothers-favorite",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tCO8xnFwEQeWWr83"
+    },
+    {
+        "slug": "guilt-trip",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tE1t3fwt4ukbfZ8f"
+    },
+    {
+        "slug": "suction-cups",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tEDa3aTb0rUt0wox"
+    },
+    {
+        "slug": "creative-combat",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tF0sAUpEiZqyCfHw"
+    },
+    {
+        "slug": "skirmish-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tL34fKWViogPJ0MU"
+    },
+    {
+        "slug": "dive-for-cover",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tNhDIAP90tt3XOPW"
+    },
+    {
+        "slug": "brutal-blows",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tWpWkc42MbAS16BP"
+    },
+    {
+        "slug": "undying-defiance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tgdUzgGuFjRxFcQY"
+    },
+    {
+        "slug": "shambling-corpsefolk",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.toXr9sOGmGM92Vu0"
+    },
+    {
+        "slug": "phishing-expertise",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.tqInOh5OiStqiCVg"
+    },
+    {
+        "slug": "necrogourmand",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ttLeQtd7BjUGHPuf"
+    },
+    {
+        "slug": "vicious-breath",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.txi5BrSLw29aCdze"
+    },
+    {
+        "slug": "toppling-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.u83c2XAxja0lLTfN"
+    },
+    {
+        "slug": "expanded-solar-reserves",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uDjmNIypyI1lNQRC"
+    },
+    {
+        "slug": "homing-mote",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uLZcelY6CTKJOOLU"
+    },
+    {
+        "slug": "syncretic-epiphany",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uQQ9v2KdOaKi67dY"
+    },
+    {
+        "slug": "specialized-operative",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uc5siPW4LQ5eXviI"
+    },
+    {
+        "slug": "menacing-laughter",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ulDDuZsHQsqHKEmj"
+    },
+    {
+        "slug": "clinging-flare",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uoFMox9RchlL7Jbm"
+    },
+    {
+        "slug": "from-hope",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.upAhgOzTQCTYEIHM"
+    },
+    {
+        "slug": "memory-shield",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.uwbdY8k9sAZDXAu3"
+    },
+    {
+        "slug": "thatll-show-em",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.v1WEgt6b1ZWczZvp"
+    },
+    {
+        "slug": "quickened-casting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.v7ro0JY321lrvFtl"
+    },
+    {
+        "slug": "quantum-negation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vIDD8TD5EIOjRISq"
+    },
+    {
+        "slug": "running-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vINNCMp04vI26mej"
+    },
+    {
+        "slug": "fan-the-hammer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vO9uljpsyAyjDe5h"
+    },
+    {
+        "slug": "fantastic-ferocity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vc2fiI68PUxqn5Gs"
+    },
+    {
+        "slug": "augmented-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vgHQELxr8Wn2QukL"
+    },
+    {
+        "slug": "overcome-shame",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vhbN1xKKgOQpa9SG"
+    },
+    {
+        "slug": "harmonic-sensitivity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vjJuvP5nxrASzMzv"
+    },
+    {
+        "slug": "press-gang-the-soul",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vjNtbPCT4SatU894"
+    },
+    {
+        "slug": "expert-mystic-spellcasting",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vlUtA0fGdDcyNA37"
+    },
+    {
+        "slug": "bondbearer",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vn6EDm2nvAkITmtX"
+    },
+    {
+        "slug": "flicker-strike",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vrYm2kc7lnwE2Hqo"
+    },
+    {
+        "slug": "quickened-processor",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.vzYKSXMmdCjNxSzQ"
+    },
+    {
+        "slug": "amplify-radiance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wADHwJTSe9ZIar9j"
+    },
+    {
+        "slug": "advanced-stellar-attunement",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wAerjBkKUHYXNbmB"
+    },
+    {
+        "slug": "envoy-dedication",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wUqOzEWcNX9ohLE2"
+    },
+    {
+        "slug": "confident-actualization",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wXZUPAcTlIn5uNxa"
+    },
+    {
+        "slug": "explosive-surprise",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wXfVye3TSCMaHTHm"
+    },
+    {
+        "slug": "atmospheric-flight",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wZyBTTRM2BjC93gg"
+    },
+    {
+        "slug": "extended-vitality",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wdziWIdMnc6MgurV"
+    },
+    {
+        "slug": "its-who-you-know",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wlYpPyBKa0rT52Oa"
+    },
+    {
+        "slug": "solar-wind",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.wv5mub14JX8lHXFC"
+    },
+    {
+        "slug": "opening-roar",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.x2H7npi8AUSnVFaD"
+    },
+    {
+        "slug": "constellation-vortex",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xCeTKPGMrwK2tWKX"
+    },
+    {
+        "slug": "defensive-formation",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xF4Vse5IwmWveqxI"
+    },
+    {
+        "slug": "spectra-ascendant",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xF9qa9uFi1U5UEhs"
+    },
+    {
+        "slug": "whirling-swipe",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xND8wnEdnGSq84kn"
+    },
+    {
+        "slug": "kalo-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xNhWhFxh1u8U8uQz"
+    },
+    {
+        "slug": "akashic-sync",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xQQgbsRjFWp7dZhU"
+    },
+    {
+        "slug": "competitive-spirit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xSWncnZFZw7bgufW"
+    },
+    {
+        "slug": "skyguard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xYvSZDBbPdMkLuIf"
+    },
+    {
+        "slug": "unhindered-advance",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xalt79rSmmtHjbQW"
+    },
+    {
+        "slug": "off-the-top-of-my-head",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.xlTv0VBGGwjTaWCi"
+    },
+    {
+        "slug": "filtering-tentacles",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.y07qgtt6osIDIjR1"
+    },
+    {
+        "slug": "adaptive-defense",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.y0dtKu1ZuwqMUFEf"
+    },
+    {
+        "slug": "just-the-thing",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.y0i2dBbVjtbYWm3U"
+    },
+    {
+        "slug": "bioluminescence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.y4ezCine7hGv24wv"
+    },
+    {
+        "slug": "soul-soother",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.y8cOnQWb0ZjAb794"
+    },
+    {
+        "slug": "far-reaching-mind",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yAXSsQoGuFglxOtx"
+    },
+    {
+        "slug": "bloomguard",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yDEcPHO2JXCFEZbm"
+    },
+    {
+        "slug": "body-art",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yFRVsyX9yR6Pgwzz"
+    },
+    {
+        "slug": "check-it-out",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yGVUJszXrL6sicX7"
+    },
+    {
+        "slug": "deep-diplomat",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yK7aB7d2QDZyzWgX"
+    },
+    {
+        "slug": "extreme-accuracy",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yQysR8OZFrL4Arlf"
+    },
+    {
+        "slug": "convert-elemental-essence",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yasxZn3sgWv55kFC"
+    },
+    {
+        "slug": "ascended-stability",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ydZJRxWQSxN3Y7IN"
+    },
+    {
+        "slug": "practiced-escape",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yf6ank3QcOwUZQ5A"
+    },
+    {
+        "slug": "quick-stow",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yihRg0mTC0dbZ3Fw"
+    },
+    {
+        "slug": "flashing-fit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yldWiA3mhg4NAs4W"
+    },
+    {
+        "slug": "menacing-snarl",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ym2RbWBf9vDzKVmJ"
+    },
+    {
+        "slug": "rocket-jump",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yoQdsiWMihueF5L0"
+    },
+    {
+        "slug": "sway-the-heart-stoke-the-spirit",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ypSQT2urAcrgaoQ1"
+    },
+    {
+        "slug": "living-battery",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.yvgbvOU6r5opYlex"
+    },
+    {
+        "slug": "photosynthetic-regeneration",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.ywM6SzmYVXtYExQn"
+    },
+    {
+        "slug": "quantum-aura",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.z0RLX3kWgdaILzmr"
+    },
+    {
+        "slug": "vitality-web",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.z49Npry4YAYHnG1V"
+    },
+    {
+        "slug": "dirty-retort",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.z5ezBD83rgjvP7ek"
+    },
+    {
+        "slug": "tripartite-mind",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zAeC7qKVJdfjcC0P"
+    },
+    {
+        "slug": "psychic-investigator",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zDrH3YGI4hJuFX2b"
+    },
+    {
+        "slug": "deathless-study",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zI2wWFyyxroZ3mzZ"
+    },
+    {
+        "slug": "arcane-adept",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zIJ7D33DM0hyAi6k"
+    },
+    {
+        "slug": "unliving-memories",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zJzo0bkZlfiTL0jD"
+    },
+    {
+        "slug": "reliable-grace",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zMkTMpxjk6w1yKCZ"
+    },
+    {
+        "slug": "manifold-evolution",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zNsHuFBbMYHwP38n"
+    },
+    {
+        "slug": "kasatha-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zSFfvQMPvZvgy8fP"
+    },
+    {
+        "slug": "vesk-weapon-familiarity",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zSRfyW0RVBN8mgnI"
+    },
+    {
+        "slug": "touch-the-sky",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zSc4smZxmfgJlqWn"
+    },
+    {
+        "slug": "deathly-constitution",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zZdeosoQTxKpmOZB"
+    },
+    {
+        "slug": "intimidating-shot",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zdycsO9Z0wHBZ17k"
+    },
+    {
+        "slug": "contemplative-lore",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zh2EP8Pr0i5lI0Bg"
+    },
+    {
+        "slug": "dont-touch-that",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zvNI1GGW7xzA677q"
+    },
+    {
+        "slug": "blood-sense",
+        "uuid": "Compendium.sf2e-anachronism.feats.Item.zvpABbaLyqtOmXi0"
+    }
+]

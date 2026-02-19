@@ -1,0 +1,366 @@
+[
+    {
+        "slug": "mercurial-dragonkin",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.1YJl56kqLbHdwHVq"
+    },
+    {
+        "slug": "early-stage-barathu",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.1eYRZT4aOJXrTAQF"
+    },
+    {
+        "slug": "empathic-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.2EBZRLWaeSJULFZb"
+    },
+    {
+        "slug": "venomthought-vesk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.2PxNQLqeXGAZ3VBf"
+    },
+    {
+        "slug": "unbound-lashunta",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.2TXiMFGXAL2aO6Ar"
+    },
+    {
+        "slug": "everwhelp-skittermander",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.46QpOfnvTpkFd9ST"
+    },
+    {
+        "slug": "plated-vesk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.4CW2vHPdjx9xDJVU"
+    },
+    {
+        "slug": "akitonian-kasatha",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.56iLg8E5YvvI6xk9"
+    },
+    {
+        "slug": "skitter-raised",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.5SqvxQBmTllq2Lzu"
+    },
+    {
+        "slug": "outworlder-kalo",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.8xJLb7SmPydkTzfG"
+    },
+    {
+        "slug": "flameheart-dragonkin",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.952YwmIOYQPJTLRB"
+    },
+    {
+        "slug": "aquazoan",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.9tHpz23J3FSz0K2E"
+    },
+    {
+        "slug": "entertainer-elebrian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.A3XpAjUgnGyxXoDI"
+    },
+    {
+        "slug": "shipborn-ysoki",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ApPYlfqJs6pIDF4D"
+    },
+    {
+        "slug": "akitonian-ysoki",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.BHG0mfWnbHhKluxO"
+    },
+    {
+        "slug": "mod-fanatic-android",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.C1E7FVWq1A9vmeeG"
+    },
+    {
+        "slug": "winter-coat-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.CMgZu5L4MXVX7Cwl"
+    },
+    {
+        "slug": "star-marked-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.DTDJDSro9YfgNuXi"
+    },
+    {
+        "slug": "crèche-raised-sarcesian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.DkMIxqmsFTrebsmd"
+    },
+    {
+        "slug": "survivalist-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Dz2ckZBbUuS5bIgQ"
+    },
+    {
+        "slug": "borai",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ENIlxRfjGN218iKJ"
+    },
+    {
+        "slug": "keen-sighted-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ESUvBfORAP5SY73a"
+    },
+    {
+        "slug": "sageborn-elebrian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.EXwIrrzLZQZODLOd"
+    },
+    {
+        "slug": "deep-kalo",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Ey2iWNKXd8rzHP2J"
+    },
+    {
+        "slug": "sharp-toothed-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.FDEvJXDoWPLHoEsT"
+    },
+    {
+        "slug": "meyels-chosen-pahtra",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.FGOV0tjruePwBpLM"
+    },
+    {
+        "slug": "cloned-astrazoan",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.GDVA8GmJg1slzKgv"
+    },
+    {
+        "slug": "nightstalker-vesk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.GhfhQjc0Id58xm8E"
+    },
+    {
+        "slug": "manufacturer-barathu",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.IKJwTaMRnPIio4jH"
+    },
+    {
+        "slug": "glacierborn-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.IMdFH4T27NC1GQCE"
+    },
+    {
+        "slug": "gadraveech-skittermander",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.JWt2ARxLCZ6ru8H2"
+    },
+    {
+        "slug": "stellar-nomad-kasatha",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.JiQwHacgrrb6qUqA"
+    },
+    {
+        "slug": "pampered-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.JuqBWWB16ekM0Tdf"
+    },
+    {
+        "slug": "sharp-eyed-sarcesian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.KTc9RuD02CDmAvzN"
+    },
+    {
+        "slug": "hunter-stalker-pahtra",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.KgekeGih8FTo36Sc"
+    },
+    {
+        "slug": "iridescent-shirren",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.LCC7RhgpBkhyHlFc"
+    },
+    {
+        "slug": "assimilated-astrazoan",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.LWYCoYVa9JiN5Cs6"
+    },
+    {
+        "slug": "desert-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Lc03oetnQ5sNRNYT"
+    },
+    {
+        "slug": "deadwood",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.MOuOhoGwjHkGoOrc"
+    },
+    {
+        "slug": "heartbroken-dragonkin",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.NXVULEwhf37gVKGf"
+    },
+    {
+        "slug": "inured-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Nkll4kC0WQW67wE8"
+    },
+    {
+        "slug": "shipborn-kasatha",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.P8x1XiN52lgbgzB0"
+    },
+    {
+        "slug": "warblood-vesk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Pxw4kKf2goygSYpB"
+    },
+    {
+        "slug": "akitonian-nomad-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.QFNqrRQncrkMniMA"
+    },
+    {
+        "slug": "golarion-survivor-human",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.QZ67FjD8QxI0Ab35"
+    },
+    {
+        "slug": "courtier-shirren",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.RPecy7rjuK40IJkx"
+    },
+    {
+        "slug": "sand-roamer",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.RafHOA55opMBMtiZ"
+    },
+    {
+        "slug": "wildseed",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.SBRnZHvzGQCSdlWE"
+    },
+    {
+        "slug": "stormrider-dragonkin",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ShGlcqeMXp7ZK0vC"
+    },
+    {
+        "slug": "dreamer-barathu",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.TZTa5BJoOyv5O0fS"
+    },
+    {
+        "slug": "underground-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.TwU15npTtpW9TJcv"
+    },
+    {
+        "slug": "exiled-elebrian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.UjSJHYe9RRXbGHl2"
+    },
+    {
+        "slug": "prismeni",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Usolg3I0x7V5RT3R"
+    },
+    {
+        "slug": "thorny-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.Vf8NOK1Jnk0zQDqv"
+    },
+    {
+        "slug": "swarm-exile-shirren",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.WyqKrnAAQXkJQyNm"
+    },
+    {
+        "slug": "manifested-contemplative",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ZA03oUyOKDSOOGaG"
+    },
+    {
+        "slug": "electric-kalo",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ZAOKze0PTYPPbUua"
+    },
+    {
+        "slug": "korasha-lashunta",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.a5znSq93Wz22iQHP"
+    },
+    {
+        "slug": "irreproachable-contemplative",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.bNR7l0I5yLA8pWbd"
+    },
+    {
+        "slug": "stellar-sarcesian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.bjgKWl3GbIywvJm6"
+    },
+    {
+        "slug": "experimental-ikeshti",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ezPp5n1TQKjhkZsy"
+    },
+    {
+        "slug": "wild-astrazoan",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.fTJTN6C6aVLcbb0n"
+    },
+    {
+        "slug": "kasath-survivalist",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.faGqBgQEAugkZ5wH"
+    },
+    {
+        "slug": "asteroid-hopper-sarcesian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.g8HDK1liSwjtUQNi"
+    },
+    {
+        "slug": "retrograde-contemplative",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.huDjFa4Vt7UF0JUa"
+    },
+    {
+        "slug": "corpsefolk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.iCOQI4pXzO98wnE1"
+    },
+    {
+        "slug": "compact-sarcesian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.j35JtiwUwUgulBuz"
+    },
+    {
+        "slug": "defiant-shirren",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.jbSgKLxeANdgrfvD"
+    },
+    {
+        "slug": "offworld-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.kxY0MXkQzEnGcbBo"
+    },
+    {
+        "slug": "petrified",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.l5WFo2QxPOYUyLTJ"
+    },
+    {
+        "slug": "briskwander-vesk",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.lHF7WmacNWdiRNNd"
+    },
+    {
+        "slug": "sniper-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.lN2YREClxT8iup5o"
+    },
+    {
+        "slug": "urban-shobhad",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.lTUuHE9w3mP7Q9Y2"
+    },
+    {
+        "slug": "stagehand-elebrian",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.llkEXzVjzZVl9lHW"
+    },
+    {
+        "slug": "scrabbler-skittermander",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.m9Nb3UrUoEGAxaCr"
+    },
+    {
+        "slug": "urbanite-human",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.mLPafbWvDDwKK7U4"
+    },
+    {
+        "slug": "construct-copycat",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.mLffetxNUmSHhGk1"
+    },
+    {
+        "slug": "tempering",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.mLgNG46EWZuabvqA"
+    },
+    {
+        "slug": "merged-barathu",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.mq92ECPMTFZXDI6E"
+    },
+    {
+        "slug": "winged-shirren",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.o9QBHUuvGsHcGh4n"
+    },
+    {
+        "slug": "renewed-android",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.oyxtHoW8wUWnYzTO"
+    },
+    {
+        "slug": "shipborn-dragonkin",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.qRHZENQf5C43t3q4"
+    },
+    {
+        "slug": "rime-walker-pahtra",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.sVLbQ2yf5ITq4asR"
+    },
+    {
+        "slug": "thoughtseeker-contemplative",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.t0OfbPwWPYSr7JL5"
+    },
+    {
+        "slug": "bloom-born-kalo",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.v1FRU6XUr7QZsG6d"
+    },
+    {
+        "slug": "inflorescent",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.vlLSIOKqJHXRaCIt"
+    },
+    {
+        "slug": "networked-android",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.wHGhjTqNvsaAMJHM"
+    },
+    {
+        "slug": "imperious-contemplative",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.xFescMtvHlMJSpTs"
+    },
+    {
+        "slug": "nomadic-vlaka",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ySfpV3VZIYdmI2fT"
+    },
+    {
+        "slug": "damaya-lashunta",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.ymuI4UO22iMmobRh"
+    },
+    {
+        "slug": "artificial-scion-android",
+        "uuid": "Compendium.sf2e-anachronism.heritages.Item.yp5O0Z97KtL0vlsZ"
+    }
+]

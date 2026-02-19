@@ -1,0 +1,2062 @@
+[
+    {
+        "slug": "shock-module-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.0Hdg9aWMIYVGjvj0"
+    },
+    {
+        "slug": "artificial-immortalizer",
+        "uuid": "Compendium.sf2e.equipment.Item.0J8PMTLDGIIP1KGE"
+    },
+    {
+        "slug": "graviton-crystal-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.0KN1ZsFpc7ks9eB7"
+    },
+    {
+        "slug": "uniclamp",
+        "uuid": "Compendium.sf2e.equipment.Item.0PuufwwJdcFcUPjt"
+    },
+    {
+        "slug": "laser-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.0TSUahGsoVnDZ6kv"
+    },
+    {
+        "slug": "sunshades-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.0X44YvSjbR2ER0gk"
+    },
+    {
+        "slug": "flash-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.0fZ9jBVvpljgAZC8"
+    },
+    {
+        "slug": "battery-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.0jSc8zqUPnAByMf9"
+    },
+    {
+        "slug": "filtered-rebreather-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.0kD0MZgiK0SYS6e6"
+    },
+    {
+        "slug": "maneuvering-unit-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.1034KqIGsMWJuEb3"
+    },
+    {
+        "slug": "snipers-scope-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.10lYyQDoJXUojKm2"
+    },
+    {
+        "slug": "dermal-plating-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.120680FW1mXo1vgt"
+    },
+    {
+        "slug": "scattergun",
+        "uuid": "Compendium.sf2e.equipment.Item.1cSlAefjEmcQd4h1"
+    },
+    {
+        "slug": "auto-cpr-unit",
+        "uuid": "Compendium.sf2e.equipment.Item.1kYUux9KdGkPggB4"
+    },
+    {
+        "slug": "vertebralis-thorn",
+        "uuid": "Compendium.sf2e.equipment.Item.1wM54zozOmNCDFwu"
+    },
+    {
+        "slug": "bipod-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.20MrfbsA9c1LN2Is"
+    },
+    {
+        "slug": "force-field-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.24LGHALXm2vl3oqq"
+    },
+    {
+        "slug": "acid-dart-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.25ePewNhni6x8zgX"
+    },
+    {
+        "slug": "force-field-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.2637b5l0hxitACkR"
+    },
+    {
+        "slug": "singing-spear",
+        "uuid": "Compendium.sf2e.equipment.Item.2BrT2UOFKWbXncAd"
+    },
+    {
+        "slug": "quicklock",
+        "uuid": "Compendium.sf2e.equipment.Item.2GvHO9VAUNqY4hUX"
+    },
+    {
+        "slug": "seeker-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.2gIo208O7zxPTL5J"
+    },
+    {
+        "slug": "invisibility-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.2lTv6zUJBAtgcxs2"
+    },
+    {
+        "slug": "datajack-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.3TQ2WCBNaFwEUDHo"
+    },
+    {
+        "slug": "fireburst-chamber",
+        "uuid": "Compendium.sf2e.equipment.Item.3gQ8AI0DUEJE7s9t"
+    },
+    {
+        "slug": "fire-extinguisher-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.3pptlSCHkO6d1NeU"
+    },
+    {
+        "slug": "undermounted-grenade-launcher-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.3sTFk0Qxt656QpuU"
+    },
+    {
+        "slug": "flamethrower",
+        "uuid": "Compendium.sf2e.equipment.Item.3yWQhmBrAXnBhYaF"
+    },
+    {
+        "slug": "filtered-rebreather-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.41drAN0CXPX7whb9"
+    },
+    {
+        "slug": "chem-tank-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.49Qja6ALTUaQuVIb"
+    },
+    {
+        "slug": "cellular-stimulant-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.4G2EmBJ1B0a6lzqx"
+    },
+    {
+        "slug": "dragon-gland-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.4PgeysPXkt6G5xua"
+    },
+    {
+        "slug": "assassin-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.4X0L8oORH8ty2tH4"
+    },
+    {
+        "slug": "cloaking-skin-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.4Yj6UtcTQAp2OyU4"
+    },
+    {
+        "slug": "null-space-chamber-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.4lriWcmTDwklOTqO"
+    },
+    {
+        "slug": "card-slinger",
+        "uuid": "Compendium.sf2e.equipment.Item.4pnd1mGCNrsQckXi"
+    },
+    {
+        "slug": "cloaking-device-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.4sj4PcFSP7dAqaIp"
+    },
+    {
+        "slug": "divas-microphone-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.54kRtg5Dies13GLc"
+    },
+    {
+        "slug": "medpatch-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.55nSLw1aQ0K0rK2L"
+    },
+    {
+        "slug": "emergency-beacon",
+        "uuid": "Compendium.sf2e.equipment.Item.5GeONzHSxmn3uvtw"
+    },
+    {
+        "slug": "shimmerstone-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.5IayDQk6oasOBPOM"
+    },
+    {
+        "slug": "spell-chip-4th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.5O3DUTQoUA3rcF6v"
+    },
+    {
+        "slug": "battery-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.5PS5ESGpnQfJNOdg"
+    },
+    {
+        "slug": "smoke-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.5Tc2Eaaf15LVByBJ"
+    },
+    {
+        "slug": "ultralight-wings-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.5Zgnk1EEYEaddjSY"
+    },
+    {
+        "slug": "glamer-projector",
+        "uuid": "Compendium.sf2e.equipment.Item.5ar8OM7cYywnfTjD"
+    },
+    {
+        "slug": "fear-projector-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.5esAuSMPfXOGd0P2"
+    },
+    {
+        "slug": "congealer-incense-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.5fpWv1rl1TwORrmP"
+    },
+    {
+        "slug": "hacking-toolkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.5o7wOnkxEsyBwBNj"
+    },
+    {
+        "slug": "battery-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.6Ac3Vkyp7V0xxRnr"
+    },
+    {
+        "slug": "hypopen-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.6JzH3VDHqv2rZJer"
+    },
+    {
+        "slug": "medpatch-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.6VDHl7xkSp8Sc8yy"
+    },
+    {
+        "slug": "voice-amplifier",
+        "uuid": "Compendium.sf2e.equipment.Item.6Y9wXEATPg8EezD7"
+    },
+    {
+        "slug": "force-field-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.6ZW9IcSwd4WCFuf6"
+    },
+    {
+        "slug": "pulse-gauntlet",
+        "uuid": "Compendium.sf2e.equipment.Item.6g4SJgd2LUGnA0jj"
+    },
+    {
+        "slug": "lock-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.6gVlmHbuFtwaPCjs"
+    },
+    {
+        "slug": "boom-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.6goqwLZUy4eUro6T"
+    },
+    {
+        "slug": "force-field-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.6hunzJ4gwfNT58vl"
+    },
+    {
+        "slug": "thermal-capacitor-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.6oHrw4XN1IULr9fv"
+    },
+    {
+        "slug": "cairn-form-spell-amp-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.6so0q5TRrPqs4KUb"
+    },
+    {
+        "slug": "lock-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.6v7263bADqPT8XXp"
+    },
+    {
+        "slug": "fangblade",
+        "uuid": "Compendium.sf2e.equipment.Item.7BZM2I0fasujPIEa"
+    },
+    {
+        "slug": "magboots",
+        "uuid": "Compendium.sf2e.equipment.Item.7CMMrOsOmHPKffsB"
+    },
+    {
+        "slug": "battleglove",
+        "uuid": "Compendium.sf2e.equipment.Item.7KrNTRa5WpVdv2Vw"
+    },
+    {
+        "slug": "smoke-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.7NnacNASvkIezlZO"
+    },
+    {
+        "slug": "active-camouflage-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.7Qj7zNHqp5KW9omz"
+    },
+    {
+        "slug": "degradation-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.7S1nh9Dftkt68DtS"
+    },
+    {
+        "slug": "field-scientists-toolkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.7aGluzZ4bjfXbygG"
+    },
+    {
+        "slug": "veskarium-imperial-plate",
+        "uuid": "Compendium.sf2e.equipment.Item.7eVxrzhOlRCw4cvL"
+    },
+    {
+        "slug": "carbon-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.7fIZAOxTqKohRhVv"
+    },
+    {
+        "slug": "aeon-stone-life-giving",
+        "uuid": "Compendium.sf2e.equipment.Item.7pABFja0fmeeSJGo"
+    },
+    {
+        "slug": "darkvision-visor",
+        "uuid": "Compendium.sf2e.equipment.Item.7psnMwQ95uO5apQz"
+    },
+    {
+        "slug": "resist-energy-spell-amp-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.7ujCSefy4ELtHfT3"
+    },
+    {
+        "slug": "smoke-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.7y8IWTlnQnnjkfXe"
+    },
+    {
+        "slug": "archaic-text",
+        "uuid": "Compendium.sf2e.equipment.Item.84ae9kFPqWmqUZDC"
+    },
+    {
+        "slug": "spell-gem-4th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.88IBM9viOjJ0kJbm"
+    },
+    {
+        "slug": "spell-chip-2nd-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.88WZweNBd4j2X2hd"
+    },
+    {
+        "slug": "fire-extinguisher-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.8CgzoVKwSX9TiAaM"
+    },
+    {
+        "slug": "cable-line-50-feet-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.8Fk7Zhf7xdrrzun3"
+    },
+    {
+        "slug": "frag-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.8ThQnRVi44idLq8T"
+    },
+    {
+        "slug": "spell-gem-9th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.8nNTrkf4ZCqkApNT"
+    },
+    {
+        "slug": "hammer",
+        "uuid": "Compendium.sf2e.equipment.Item.8nvXQmFxd5eCkD9v"
+    },
+    {
+        "slug": "wildwise-graft",
+        "uuid": "Compendium.sf2e.equipment.Item.8oT6jfnuyUWVU5Nc"
+    },
+    {
+        "slug": "thermal-capacitor-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.92Q2vr8vxJgldLKQ"
+    },
+    {
+        "slug": "spell-gem-6th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.9PAmdF8UqVQKXWPA"
+    },
+    {
+        "slug": "marrow-paste-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.9Ty5YbJIv8wNXEVr"
+    },
+    {
+        "slug": "quilted-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.9UiGMq93t13HEz90"
+    },
+    {
+        "slug": "flashlight-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.9gKyKIMhT4AnUwr5"
+    },
+    {
+        "slug": "portable-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.9huJDWkgN0zK5jNw"
+    },
+    {
+        "slug": "infinity-deck",
+        "uuid": "Compendium.sf2e.equipment.Item.9lRzR6X1xEuBOy6A"
+    },
+    {
+        "slug": "skull-of-yore",
+        "uuid": "Compendium.sf2e.equipment.Item.9u9HHjFJuCQeYhSq"
+    },
+    {
+        "slug": "animated-intelligence-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.AILwbnjXnT1BVYYd"
+    },
+    {
+        "slug": "muscle-invigorator",
+        "uuid": "Compendium.sf2e.equipment.Item.AMO15E9lrNJ93fJI"
+    },
+    {
+        "slug": "null-space-chamber-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.ASYV7hnQ7PzICUzp"
+    },
+    {
+        "slug": "2-weapon-potency-crystal",
+        "uuid": "Compendium.sf2e.equipment.Item.AYZ8VGXirdelFqBb"
+    },
+    {
+        "slug": "autodreamer",
+        "uuid": "Compendium.sf2e.equipment.Item.AdUYBa6CvmgDSN0v"
+    },
+    {
+        "slug": "dermal-plating-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.AlRslI3YH2h1B4xY"
+    },
+    {
+        "slug": "striking-crystal-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.AmF4ApGgYVhwU04Z"
+    },
+    {
+        "slug": "cognition-accelerator",
+        "uuid": "Compendium.sf2e.equipment.Item.AupC6W7aSI3Sszg7"
+    },
+    {
+        "slug": "medpatch-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.B0FiYMxy7iDiHh48"
+    },
+    {
+        "slug": "second-skin",
+        "uuid": "Compendium.sf2e.equipment.Item.BANdFbfuD16lPHs4"
+    },
+    {
+        "slug": "spell-gem-5th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.BVCQFla90m2JDepV"
+    },
+    {
+        "slug": "frag-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.BmJARyq7RrMXQezF"
+    },
+    {
+        "slug": "regenerative-rune-splice",
+        "uuid": "Compendium.sf2e.equipment.Item.BzX1RzuIyckt52k6"
+    },
+    {
+        "slug": "necrolung-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.CBFbt7Xg5YP856ld"
+    },
+    {
+        "slug": "jetpack-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.CIZ3Walj6DmiaJGq"
+    },
+    {
+        "slug": "sunshades-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.CJwfbmQO91Q9v3kg"
+    },
+    {
+        "slug": "frost-module-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.CcN2GgKeeau0IUJk"
+    },
+    {
+        "slug": "load-lifter-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.CiGu0DmW03OiYkLY"
+    },
+    {
+        "slug": "snipers-scope-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.ClyvL5OGaqYbZ6jQ"
+    },
+    {
+        "slug": "microcord-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.CtWyIgI76ku9Fn8x"
+    },
+    {
+        "slug": "baton",
+        "uuid": "Compendium.sf2e.equipment.Item.D4KuxPi9gqFkvZ3h"
+    },
+    {
+        "slug": "entropic-destabilizer-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.DObTb7yBvPPvl8nq"
+    },
+    {
+        "slug": "akashic-lens-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.DSDFCIDP7qPcDadq"
+    },
+    {
+        "slug": "telepathy-node",
+        "uuid": "Compendium.sf2e.equipment.Item.Dmwb9DcWLf9y8JmC"
+    },
+    {
+        "slug": "jetpack-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.DnuTMCJFBDj9nNRx"
+    },
+    {
+        "slug": "aegis-series",
+        "uuid": "Compendium.sf2e.equipment.Item.E9MKSSJCOk9ceLKc"
+    },
+    {
+        "slug": "null-space-chamber-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.EAMHdtJLqWUO0ZU0"
+    },
+    {
+        "slug": "incendiary-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.EgAVqAYCrSJzxF1j"
+    },
+    {
+        "slug": "lock-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.EjjBj2kwhHxVisqR"
+    },
+    {
+        "slug": "skyfire-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.ElDjApS0gmItATq4"
+    },
+    {
+        "slug": "machine-gun",
+        "uuid": "Compendium.sf2e.equipment.Item.EnufuFPBa1U2pPDn"
+    },
+    {
+        "slug": "infiltrators-toolkit-commercial-picks",
+        "uuid": "Compendium.sf2e.equipment.Item.F0SYGfqJatyyxl79"
+    },
+    {
+        "slug": "energy-shielding-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.F3xHu12Jmk8GgPGI"
+    },
+    {
+        "slug": "mobility-enhancer-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.F76S117Yl85MCqp0"
+    },
+    {
+        "slug": "data-chip",
+        "uuid": "Compendium.sf2e.equipment.Item.FDR6syV9prX8EDF6"
+    },
+    {
+        "slug": "basic-environmental-protection",
+        "uuid": "Compendium.sf2e.equipment.Item.FLODmOj4yK7eJn0a"
+    },
+    {
+        "slug": "cycling-crystal",
+        "uuid": "Compendium.sf2e.equipment.Item.FtXDw1QyZz3CJoKX"
+    },
+    {
+        "slug": "estex-suit",
+        "uuid": "Compendium.sf2e.equipment.Item.FySX3VPYY1YkdBZg"
+    },
+    {
+        "slug": "silencer-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.G64VfK5H5zUM1tB0"
+    },
+    {
+        "slug": "cryopike",
+        "uuid": "Compendium.sf2e.equipment.Item.G8dJYbYBmxHZhV8q"
+    },
+    {
+        "slug": "autorecognition-lens",
+        "uuid": "Compendium.sf2e.equipment.Item.GBtIO5fqFGD9Dzk1"
+    },
+    {
+        "slug": "active-camouflage-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.GKnDEM8RWyo3UhKu"
+    },
+    {
+        "slug": "fly-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.GRbM0QdnPCAW4OHl"
+    },
+    {
+        "slug": "jump-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.GXq5CGCuz4xd2Hps"
+    },
+    {
+        "slug": "undermounted-grenade-launcher-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.GmdWyq6QB9n1DHxi"
+    },
+    {
+        "slug": "grenade-launcher-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.Gvd406aqaxjBcnFI"
+    },
+    {
+        "slug": "photon-crystal-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.HRpZtAdpSg12N9n0"
+    },
+    {
+        "slug": "glow-up-spell-amp-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.HTVWcutHX9THYB99"
+    },
+    {
+        "slug": "shrouding-sphere",
+        "uuid": "Compendium.sf2e.equipment.Item.HUlH5jza7pcI71qM"
+    },
+    {
+        "slug": "medpatch-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.HWHdAQArhRauTpm6"
+    },
+    {
+        "slug": "speed-suspension-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.HZPVRQWgGreue272"
+    },
+    {
+        "slug": "smoke-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.HlrNSzynsQuZrc2o"
+    },
+    {
+        "slug": "stellar-cannon",
+        "uuid": "Compendium.sf2e.equipment.Item.HubVnt6gFuzaXMUK"
+    },
+    {
+        "slug": "machine-mind-serum-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.HxHlEHM9F9AH36sI"
+    },
+    {
+        "slug": "datapad",
+        "uuid": "Compendium.sf2e.equipment.Item.HxaKRfVbL1ZyGcu1"
+    },
+    {
+        "slug": "defrex-hide",
+        "uuid": "Compendium.sf2e.equipment.Item.IKHNA2PcSB3zIMlp"
+    },
+    {
+        "slug": "photosynthetic-skin",
+        "uuid": "Compendium.sf2e.equipment.Item.IjmO1DY00eygOvCO"
+    },
+    {
+        "slug": "entropic-destabilizer-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.JGbmqiZS3kurgKFu"
+    },
+    {
+        "slug": "vesk-scales",
+        "uuid": "Compendium.sf2e.equipment.Item.JOz3bGC8AGOPuAZl"
+    },
+    {
+        "slug": "feline-senses-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.JSPjvrjCVWvmrDol"
+    },
+    {
+        "slug": "projectile-ammo",
+        "uuid": "Compendium.sf2e.equipment.Item.JSS89QXZggfF3OHJ"
+    },
+    {
+        "slug": "aeon-stone-projecting",
+        "uuid": "Compendium.sf2e.equipment.Item.JTgJTAunHqnLjwLs"
+    },
+    {
+        "slug": "presence-intensifier",
+        "uuid": "Compendium.sf2e.equipment.Item.JU2rhUAAl824OYAH"
+    },
+    {
+        "slug": "1-weapon-potency-crystal",
+        "uuid": "Compendium.sf2e.equipment.Item.JdBYoPRqFhVWoJFi"
+    },
+    {
+        "slug": "celebrity-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.JgVv4m4sh9faVSDD"
+    },
+    {
+        "slug": "spell-gem-7th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.JgvLQeWK45OxFrx0"
+    },
+    {
+        "slug": "crystallized-shockshard-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.Jjwqidw5MhFBeYk8"
+    },
+    {
+        "slug": "maneuvering-unit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.JkAPHaa3tRidHD2M"
+    },
+    {
+        "slug": "petrified-bark",
+        "uuid": "Compendium.sf2e.equipment.Item.JmxOtIEBwUuYWmmA"
+    },
+    {
+        "slug": "zero-knife",
+        "uuid": "Compendium.sf2e.equipment.Item.Jtl2vxrTdhm1e3Er"
+    },
+    {
+        "slug": "holoskin-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.Jvp0x2Sc82WVpExT"
+    },
+    {
+        "slug": "semi-auto-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.K0xFwEC6Zv7ghVFa"
+    },
+    {
+        "slug": "tailblade",
+        "uuid": "Compendium.sf2e.equipment.Item.KA4zMLBuYb3DgUe6"
+    },
+    {
+        "slug": "climbing-kit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.KFHRIjcpbV8YYtCd"
+    },
+    {
+        "slug": "medpatch-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.KFjPEG7kw733splu"
+    },
+    {
+        "slug": "necrolung-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.KTx6t0YaoPy8VCuj"
+    },
+    {
+        "slug": "gluon-crystal-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.KZhgAm5kmlv5KWIQ"
+    },
+    {
+        "slug": "frag-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.KaUapB2WwBE6wnzd"
+    },
+    {
+        "slug": "antigrav-harness-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.KbVBdUXq1kOcC2vI"
+    },
+    {
+        "slug": "reality-ripper",
+        "uuid": "Compendium.sf2e.equipment.Item.KnGzQ30kkhYPxABY"
+    },
+    {
+        "slug": "flash-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.KtThxo7Jv7eYAiwR"
+    },
+    {
+        "slug": "hypopen-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.LD6JfxuvszVgQWVd"
+    },
+    {
+        "slug": "chem-tank-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.LMBwav4NYaXPDvxF"
+    },
+    {
+        "slug": "shirren-eye-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.LTYzHdOOhCjtb79T"
+    },
+    {
+        "slug": "frag-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.LaDOwzjCIAskfql0"
+    },
+    {
+        "slug": "gluon-crystal-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.LgJrTVo1rReh9H5m"
+    },
+    {
+        "slug": "smoke-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.Lx9IS1tHIzSICJi7"
+    },
+    {
+        "slug": "arc-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.M0PsUbGLkBk878YZ"
+    },
+    {
+        "slug": "reusable-grenade-shell",
+        "uuid": "Compendium.sf2e.equipment.Item.MCRSSwFdemDLmLYv"
+    },
+    {
+        "slug": "maratan-headache-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.MU6FApzuFhTccPaT"
+    },
+    {
+        "slug": "hardlight-handwraps-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.MeV8qRq6cMlSBC2E"
+    },
+    {
+        "slug": "irising-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.Myr4T1uWznTNsWhZ"
+    },
+    {
+        "slug": "camping-kit",
+        "uuid": "Compendium.sf2e.equipment.Item.NAa1537jLii1129F"
+    },
+    {
+        "slug": "lock-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.NE6LenCQSFEAhWwX"
+    },
+    {
+        "slug": "puzzleblade",
+        "uuid": "Compendium.sf2e.equipment.Item.NENPU3uX5dtxdakS"
+    },
+    {
+        "slug": "force-field-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.NN0cdTkaj69R2B2u"
+    },
+    {
+        "slug": "crystallized-shockshard-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.NrP9WazrcBuJfjxR"
+    },
+    {
+        "slug": "force-needle",
+        "uuid": "Compendium.sf2e.equipment.Item.NvchdxN8P3W2rLJo"
+    },
+    {
+        "slug": "spell-gem-3rd-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.Nwl7YydQ0r8cAhw7"
+    },
+    {
+        "slug": "zero-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.O3QRrXVfhNpF0XyY"
+    },
+    {
+        "slug": "quantum-reaver",
+        "uuid": "Compendium.sf2e.equipment.Item.O5NUuLG5fECaz8dQ"
+    },
+    {
+        "slug": "ultralight-wings-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.OCqs5ZRBmqsGmKfr"
+    },
+    {
+        "slug": "shuriken-drone",
+        "uuid": "Compendium.sf2e.equipment.Item.OEZJFJFLL5xmfAaZ"
+    },
+    {
+        "slug": "crystallized-shockshard-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.OLJP9rwS0TWHDz9v"
+    },
+    {
+        "slug": "aeon-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.OP6XoTRsDvPfYU5o"
+    },
+    {
+        "slug": "plasma-caster",
+        "uuid": "Compendium.sf2e.equipment.Item.OQJQqJlUYR9JhWjs"
+    },
+    {
+        "slug": "dreamlink-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.OTfHjwzsIOy64CLL"
+    },
+    {
+        "slug": "dermal-plating-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.OesDcmqYJV7OGJ1F"
+    },
+    {
+        "slug": "frost-module-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.OpSc2QLvJECTWRov"
+    },
+    {
+        "slug": "explosive-defense-unit",
+        "uuid": "Compendium.sf2e.equipment.Item.OsURCZfOTbeU5wqq"
+    },
+    {
+        "slug": "smoke-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.OvyHsBJVspNBZQhR"
+    },
+    {
+        "slug": "shielding-skin-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.OxabxPb3yC7AcKSw"
+    },
+    {
+        "slug": "loudener-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.OyqLJ1zQy8PpnSHR"
+    },
+    {
+        "slug": "thermal-capacitor-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.P4807u23Ixo6Puat"
+    },
+    {
+        "slug": "grenade-launcher-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.P4SuZ6SumQ0YV9JN"
+    },
+    {
+        "slug": "battle-ribbon",
+        "uuid": "Compendium.sf2e.equipment.Item.PIdM8V0m8nLEI73e"
+    },
+    {
+        "slug": "retinal-reflectors",
+        "uuid": "Compendium.sf2e.equipment.Item.PJaarOSEHTLje8sT"
+    },
+    {
+        "slug": "electromag-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.PQU82RsdMS1g7YTV"
+    },
+    {
+        "slug": "spell-chip-6th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.PinBkpx2xRvmUiiM"
+    },
+    {
+        "slug": "electroencephalon",
+        "uuid": "Compendium.sf2e.equipment.Item.PlcS8xrnX8NyWxj9"
+    },
+    {
+        "slug": "datajack-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.PrU4x8lXoSclhUEF"
+    },
+    {
+        "slug": "active-camouflage-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.PwEKIutKVOwGmk4o"
+    },
+    {
+        "slug": "hardlight-handwraps-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.Q2wVgoS7y1JlciTV"
+    },
+    {
+        "slug": "degradation-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.Q65y4LVV2DAf8Hef"
+    },
+    {
+        "slug": "vocal-modulator",
+        "uuid": "Compendium.sf2e.equipment.Item.QCzqkk6x05wG7qWV"
+    },
+    {
+        "slug": "great-absalom-relay-medal",
+        "uuid": "Compendium.sf2e.equipment.Item.QGV4NiKDCHYOK5Dj"
+    },
+    {
+        "slug": "fire-extinguisher-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.QTc6Z2G5G3PORbcB"
+    },
+    {
+        "slug": "doshko",
+        "uuid": "Compendium.sf2e.equipment.Item.QWWg91KgMFSqK6lv"
+    },
+    {
+        "slug": "skyfire-sword",
+        "uuid": "Compendium.sf2e.equipment.Item.QdxskYrRPk92siaB"
+    },
+    {
+        "slug": "rotolaser",
+        "uuid": "Compendium.sf2e.equipment.Item.QqR5bmqrv8VzWdll"
+    },
+    {
+        "slug": "fear-projector-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.QuUyXSB0yTCM3bcR"
+    },
+    {
+        "slug": "sonic-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.QzG4mOFftnN2v9Wd"
+    },
+    {
+        "slug": "spell-gem-1st-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.R6LuVXimv1Hh8ehE"
+    },
+    {
+        "slug": "cairn-form-spell-amp-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.R8d8zi0vsNf8vbSJ"
+    },
+    {
+        "slug": "incendiary-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.R8dEureCA93msBsa"
+    },
+    {
+        "slug": "programmers-plushie-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.REFyZv56sXT408L6"
+    },
+    {
+        "slug": "dragon-gland-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.RMrZyCh0sdhEF8Mp"
+    },
+    {
+        "slug": "dermal-plating-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.RfKBzZcysjL6f4Vq"
+    },
+    {
+        "slug": "divas-microphone-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.RfYKYFGsjUemREqF"
+    },
+    {
+        "slug": "maratan-headache-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.RlU8twwDgwwqwZ5J"
+    },
+    {
+        "slug": "holospark",
+        "uuid": "Compendium.sf2e.equipment.Item.S12VloOQmRvzHN4D"
+    },
+    {
+        "slug": "shredskin-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.SGdVaPZmhell8gsV"
+    },
+    {
+        "slug": "medkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.SGkOHFyBbzWdBk8D"
+    },
+    {
+        "slug": "streetsweeper",
+        "uuid": "Compendium.sf2e.equipment.Item.SGy1aJYOIKeg1k4T"
+    },
+    {
+        "slug": "machine-mind-serum-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.SPGtFVOnoOSFNk89"
+    },
+    {
+        "slug": "shock-truncheon",
+        "uuid": "Compendium.sf2e.equipment.Item.ST6R4rRFf50vzSdJ"
+    },
+    {
+        "slug": "phase-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.SYQx5Lv36L0yOrrN"
+    },
+    {
+        "slug": "disintegration-lash",
+        "uuid": "Compendium.sf2e.equipment.Item.SiYdlPu9zfqZrBdR"
+    },
+    {
+        "slug": "nano-optics-node",
+        "uuid": "Compendium.sf2e.equipment.Item.SoB2prFShd0z31Cp"
+    },
+    {
+        "slug": "frag-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.SzGr78zdpnnrorre"
+    },
+    {
+        "slug": "compact-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.T0E2WL0QBpaUSlNL"
+    },
+    {
+        "slug": "dragon-gland-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.T3QeQ51KwNyJdkLb"
+    },
+    {
+        "slug": "adaptive-energy-shielding",
+        "uuid": "Compendium.sf2e.equipment.Item.T4JV6YG5OwIPh5UL"
+    },
+    {
+        "slug": "arc-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.TAgaAiDMPGnF87Vv"
+    },
+    {
+        "slug": "spell-chip-7th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.TBtiV7FLBpI2HtCC"
+    },
+    {
+        "slug": "haste-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.TEYH3HhM9vs5hmky"
+    },
+    {
+        "slug": "chem-tank-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.TGmKOBG0V73uensD"
+    },
+    {
+        "slug": "electromag-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.TTWzhSdn1RlBVJ2D"
+    },
+    {
+        "slug": "ghost-killer",
+        "uuid": "Compendium.sf2e.equipment.Item.TgJMTB1ub5Eh4xJO"
+    },
+    {
+        "slug": "container-designer",
+        "uuid": "Compendium.sf2e.equipment.Item.TirRAlOEF2h2CWUs"
+    },
+    {
+        "slug": "incendiary-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.TrS4puy7wfjbDJIA"
+    },
+    {
+        "slug": "musical-instrument-handheld-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.TwnyjvE7ZX35lCrj"
+    },
+    {
+        "slug": "spell-chip-1st-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.U48mM3lcrBTh25d9"
+    },
+    {
+        "slug": "3-weapon-potency-crystal",
+        "uuid": "Compendium.sf2e.equipment.Item.U746WCfdSOJs0qwd"
+    },
+    {
+        "slug": "resist-energy-spell-amp-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.UXEZCHFWwvNS43ug"
+    },
+    {
+        "slug": "undermounted-grenade-launcher-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.UbgiYNUHFy0pycfS"
+    },
+    {
+        "slug": "dermal-plating-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.UlKke1R62YMFXrdG"
+    },
+    {
+        "slug": "knife",
+        "uuid": "Compendium.sf2e.equipment.Item.V0LgOSOvkNvs2i0x"
+    },
+    {
+        "slug": "coil-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.V7epvZwIrMLMYI97"
+    },
+    {
+        "slug": "speed-suspension-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.VIGFz39NLcNarYl9"
+    },
+    {
+        "slug": "maneuvering-unit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.VS8uXQqDqsc6hp8k"
+    },
+    {
+        "slug": "shredskin-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.VYC16EQv9hqltURV"
+    },
+    {
+        "slug": "moodskin",
+        "uuid": "Compendium.sf2e.equipment.Item.VYtnxv13EtkyggD4"
+    },
+    {
+        "slug": "marrow-paste-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.VhjdSGik7eZXUFQQ"
+    },
+    {
+        "slug": "nano-edge-rapier",
+        "uuid": "Compendium.sf2e.equipment.Item.VkepQ6oX9SYeQrTt"
+    },
+    {
+        "slug": "hardlight-handwraps-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.Vp7O4NTBJ5OZwGMG"
+    },
+    {
+        "slug": "spell-gem-8th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.Vt6VVUXFf1boNs3P"
+    },
+    {
+        "slug": "dragon-gland-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.W64JcFdOg4XjucFP"
+    },
+    {
+        "slug": "explorers-canteen",
+        "uuid": "Compendium.sf2e.equipment.Item.WGdcokSMynEyF332"
+    },
+    {
+        "slug": "degradation-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.WOvRpqLDNOatDgcO"
+    },
+    {
+        "slug": "plasma-cannon",
+        "uuid": "Compendium.sf2e.equipment.Item.WTG6BeN4WJfbA3lO"
+    },
+    {
+        "slug": "photon-crystal-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.WZgjjY3FrWG7p8B7"
+    },
+    {
+        "slug": "dermal-plating-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.WezCJAnWTRUTLDi7"
+    },
+    {
+        "slug": "spell-chip-3rd-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.Wn8GEmCG24QIM1wt"
+    },
+    {
+        "slug": "cosmic-connector",
+        "uuid": "Compendium.sf2e.equipment.Item.X3nrJlRfyuuHKOtb"
+    },
+    {
+        "slug": "degradation-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.XFolhh9K0gccBe8i"
+    },
+    {
+        "slug": "holy-module-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.XJEqTuohpEGkHQAt"
+    },
+    {
+        "slug": "starfall-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.XOT0d4a0G5fhb674"
+    },
+    {
+        "slug": "chem-tank-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.XPwiBjnQgSyb6uZ4"
+    },
+    {
+        "slug": "container-ordinary",
+        "uuid": "Compendium.sf2e.equipment.Item.XRk3UWHAQ5WVkZGu"
+    },
+    {
+        "slug": "microgoggles",
+        "uuid": "Compendium.sf2e.equipment.Item.XUv5DLh6QUCOs7JT"
+    },
+    {
+        "slug": "autograppler-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.XrEbh1PXWWVp6O7K"
+    },
+    {
+        "slug": "cloaking-skin-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.XrMKojmO5brKtWGR"
+    },
+    {
+        "slug": "thermal-capacitor-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.Xuz9uyRo2hE2CNvh"
+    },
+    {
+        "slug": "force-field-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.YZjmnoJD64oLMQ7q"
+    },
+    {
+        "slug": "marrow-paste-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.YhiW4zUtd0WcYeSD"
+    },
+    {
+        "slug": "holoskin-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.YhkomhtKBK3i9C7Q"
+    },
+    {
+        "slug": "defiance-series",
+        "uuid": "Compendium.sf2e.equipment.Item.YkwoE8FiD0UJXDkl"
+    },
+    {
+        "slug": "commando-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.Yuws1too4LhO7Cu9"
+    },
+    {
+        "slug": "slough-do-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.ZHqx7LT3eIYnA1T8"
+    },
+    {
+        "slug": "deflecting-field",
+        "uuid": "Compendium.sf2e.equipment.Item.ZIIEmh2nAnST6vGk"
+    },
+    {
+        "slug": "incendiary-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.ZIm4WMr5CYblEBHF"
+    },
+    {
+        "slug": "snipers-scope-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.ZTTC6SoRggi3HIoq"
+    },
+    {
+        "slug": "hypernerves",
+        "uuid": "Compendium.sf2e.equipment.Item.ZYEtDkPBD5Lm6Unj"
+    },
+    {
+        "slug": "force-field-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.ZdItrVii0l2yuSMJ"
+    },
+    {
+        "slug": "crystallized-shockshard-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.ZmPUZnE30kgYMZb4"
+    },
+    {
+        "slug": "quasar-crystal",
+        "uuid": "Compendium.sf2e.equipment.Item.ZzdJKzOrz6i5WuAp"
+    },
+    {
+        "slug": "pain-journal-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.a0Kh8y8UHHyRVcz4"
+    },
+    {
+        "slug": "swarmsuit",
+        "uuid": "Compendium.sf2e.equipment.Item.a180Wn9Ah604bJST"
+    },
+    {
+        "slug": "dueling-sword",
+        "uuid": "Compendium.sf2e.equipment.Item.a2e5svVQ20WrzRTK"
+    },
+    {
+        "slug": "repair-toolkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.aDsdYMPpVc8hOnM5"
+    },
+    {
+        "slug": "resist-energy-spell-amp-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.aEDrntQhg5xuE20A"
+    },
+    {
+        "slug": "carbon-skin",
+        "uuid": "Compendium.sf2e.equipment.Item.aNoSZiPBfxVJYvap"
+    },
+    {
+        "slug": "electromag-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.aVuRjQz18Sjv1ipB"
+    },
+    {
+        "slug": "psychoactive-eyes-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.aXZPaqzYOrY9fVjh"
+    },
+    {
+        "slug": "filtered-rebreather-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.aac5hRRU0wbqSHki"
+    },
+    {
+        "slug": "infiltrators-toolkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.ao5MC3I1b4Gx9LNC"
+    },
+    {
+        "slug": "grindblade",
+        "uuid": "Compendium.sf2e.equipment.Item.awjAsQFUBIFFx7R1"
+    },
+    {
+        "slug": "maratan-headache-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.axc1Ov6XUYc4cdwV"
+    },
+    {
+        "slug": "hardlight-handwraps-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.b12tnjobe9IrphII"
+    },
+    {
+        "slug": "magnetar-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.bHHFXS2nmfOQFQyu"
+    },
+    {
+        "slug": "datajack-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.bMgxTWp5PGp30uQ8"
+    },
+    {
+        "slug": "invisibility-potion",
+        "uuid": "Compendium.sf2e.equipment.Item.bikFUFRLwfdvX2x2"
+    },
+    {
+        "slug": "chemalyzer",
+        "uuid": "Compendium.sf2e.equipment.Item.btcbYUK4UqgQ699i"
+    },
+    {
+        "slug": "tempweave",
+        "uuid": "Compendium.sf2e.equipment.Item.cDRxtKbxzHQ7t5sb"
+    },
+    {
+        "slug": "spell-chip-8th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.cUks0bsnFkfxeojU"
+    },
+    {
+        "slug": "flashlight-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.cjOdJfGUs5IDw8Pi"
+    },
+    {
+        "slug": "hypopen-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.ckRc9E6AmJRalfV4"
+    },
+    {
+        "slug": "infiltrators-toolkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.coJUVZGcuVg3FoYh"
+    },
+    {
+        "slug": "akashic-lens-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.coLUuQfleC56qdhe"
+    },
+    {
+        "slug": "duo-enhancers",
+        "uuid": "Compendium.sf2e.equipment.Item.cw9u2izfwLqWZYBb"
+    },
+    {
+        "slug": "antigrav-harness-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.d2Z53s2y4CUJi7sK"
+    },
+    {
+        "slug": "gyrojet-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.dEk5qaPw43AoKhxv"
+    },
+    {
+        "slug": "smugglers-grip-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.dJgKsigmKDBjWz7u"
+    },
+    {
+        "slug": "medpatch-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.dJyYifMFfgbIwT3c"
+    },
+    {
+        "slug": "ivory-chompers",
+        "uuid": "Compendium.sf2e.equipment.Item.dSBaVgdksA6zDfWZ"
+    },
+    {
+        "slug": "retrieval-boosters",
+        "uuid": "Compendium.sf2e.equipment.Item.dUeJNZWPHaTDf3qT"
+    },
+    {
+        "slug": "animated-intelligence-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.diAapfk5dEZlghqV"
+    },
+    {
+        "slug": "hacking-toolkit-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.dk4qkf4BF7wCPV4u"
+    },
+    {
+        "slug": "flight-suit",
+        "uuid": "Compendium.sf2e.equipment.Item.dnv1OFVU6BpyfAWi"
+    },
+    {
+        "slug": "bone-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.dvvYuzx0QUORXMl1"
+    },
+    {
+        "slug": "autotarget-rifle",
+        "uuid": "Compendium.sf2e.equipment.Item.dxkmvJZOblZ8oImW"
+    },
+    {
+        "slug": "phase-cutlass",
+        "uuid": "Compendium.sf2e.equipment.Item.eBWGwv3rryQkHfh4"
+    },
+    {
+        "slug": "battery-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.eMNjuin4r6DivIsI"
+    },
+    {
+        "slug": "shotalashu-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.eU5n2fP7DvnFyqov"
+    },
+    {
+        "slug": "painglaive",
+        "uuid": "Compendium.sf2e.equipment.Item.eUZcCSon8XlQzOqR"
+    },
+    {
+        "slug": "cloaking-device-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.efmRJxyFS6KUTeMr"
+    },
+    {
+        "slug": "abadarcorp-travel-suit",
+        "uuid": "Compendium.sf2e.equipment.Item.ehsCl5WJTANTlzBy"
+    },
+    {
+        "slug": "dragon-gland-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.ejsPnjUVXf2TJgeD"
+    },
+    {
+        "slug": "crystallized-shockshard-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.fAWMLqyaCsFm0Oxg"
+    },
+    {
+        "slug": "comm-unit",
+        "uuid": "Compendium.sf2e.equipment.Item.fClhrG92Zi4k14Hq"
+    },
+    {
+        "slug": "energy-shielding-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.fQxWOthZx2HZUEzZ"
+    },
+    {
+        "slug": "smugglers-grip-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.fUbHquBm5ImybSTz"
+    },
+    {
+        "slug": "battery-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.fWrcguxFWeIVsuvl"
+    },
+    {
+        "slug": "radiation-sweeper",
+        "uuid": "Compendium.sf2e.equipment.Item.fWsawZJ5YGIyHWpa"
+    },
+    {
+        "slug": "truesight-sight-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.fY3howNXvpWRYW4j"
+    },
+    {
+        "slug": "undermounted-grenade-launcher-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.fZ0YzlGLRk1FUrLp"
+    },
+    {
+        "slug": "congealer-incense-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.fdnaS0ivMWDwa6fE"
+    },
+    {
+        "slug": "merciful",
+        "uuid": "Compendium.sf2e.equipment.Item.ftorYf0SB1C4omud"
+    },
+    {
+        "slug": "incendiary-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.fvKj2J4p6MwXeupx"
+    },
+    {
+        "slug": "iovan-ammunition",
+        "uuid": "Compendium.sf2e.equipment.Item.g00dmHOWZiRVk3yU"
+    },
+    {
+        "slug": "kyokor-plating",
+        "uuid": "Compendium.sf2e.equipment.Item.g51GJbedie9jebNg"
+    },
+    {
+        "slug": "hypopen-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.gRZxPwfmz3O0bgOt"
+    },
+    {
+        "slug": "radiation-buffer-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.gZmmlNszibwt5y0f"
+    },
+    {
+        "slug": "crossbolter",
+        "uuid": "Compendium.sf2e.equipment.Item.gwVhd31nGDXo5HAa"
+    },
+    {
+        "slug": "flaming-module-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.h4oJih49e0kZcsWG"
+    },
+    {
+        "slug": "incendiary-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.h53QPQt1GlzPwdaY"
+    },
+    {
+        "slug": "maratan-headache-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.h6HfP8BorXGIluiw"
+    },
+    {
+        "slug": "ultralight-wings-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.h8YVrmdfqepbhS2T"
+    },
+    {
+        "slug": "ultralight-wings-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.hCGBEZKmTi6oLGBI"
+    },
+    {
+        "slug": "filtered-rebreather-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.hFU8q6aCS6bq89oW"
+    },
+    {
+        "slug": "striking-crystal-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.hLQlFY3NpdZ67uWE"
+    },
+    {
+        "slug": "holy-module-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.he1AD9ck10fLSvWn"
+    },
+    {
+        "slug": "rotating-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.hrjtJgBrmYfDPRlx"
+    },
+    {
+        "slug": "infiltrators-toolkit-tactical-picks",
+        "uuid": "Compendium.sf2e.equipment.Item.hsk3weQS9I7LyGkn"
+    },
+    {
+        "slug": "hygiene-kit",
+        "uuid": "Compendium.sf2e.equipment.Item.iNMomdgMWzzZ7cPt"
+    },
+    {
+        "slug": "necrolung-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.iPJkp8LnQVKybqqm"
+    },
+    {
+        "slug": "artillery-laser",
+        "uuid": "Compendium.sf2e.equipment.Item.iQqOE805CjAUyTt3"
+    },
+    {
+        "slug": "shrink-spell-amp",
+        "uuid": "Compendium.sf2e.equipment.Item.iRaxjZFzrdCHETt2"
+    },
+    {
+        "slug": "hideaway-limb-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.ib7UwlCqzgOlC4wK"
+    },
+    {
+        "slug": "gluon-crystal-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.icgDHyiDNUspNcR7"
+    },
+    {
+        "slug": "slough-do-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.ifIGbGiqjGRpzwDO"
+    },
+    {
+        "slug": "pow-ammunition",
+        "uuid": "Compendium.sf2e.equipment.Item.ijUVS3a2PODx9u9H"
+    },
+    {
+        "slug": "dermal-plating-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.j66fZJrm1nECG3UM"
+    },
+    {
+        "slug": "talon",
+        "uuid": "Compendium.sf2e.equipment.Item.jBc5pGz3AbkKTx9v"
+    },
+    {
+        "slug": "shielding-skin-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.jKsuo5rytI4rvr8q"
+    },
+    {
+        "slug": "plasma-sword",
+        "uuid": "Compendium.sf2e.equipment.Item.jLiackiAHgru9OY0"
+    },
+    {
+        "slug": "truesight-sight-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.jYBxzNbdEanJ89rA"
+    },
+    {
+        "slug": "reality-distorter",
+        "uuid": "Compendium.sf2e.equipment.Item.k1fLpwMmXM5RKdGI"
+    },
+    {
+        "slug": "aeon-stone-uplifting",
+        "uuid": "Compendium.sf2e.equipment.Item.kFfYq4ONuKMgISRi"
+    },
+    {
+        "slug": "hypopen-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.kJmAAmnck30kNx2X"
+    },
+    {
+        "slug": "maratan-headache-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.kUfQvnJzmB1GO1Lh"
+    },
+    {
+        "slug": "makers-app",
+        "uuid": "Compendium.sf2e.equipment.Item.keOgvGTouQardZ5f"
+    },
+    {
+        "slug": "lock-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.kjoqoG7H7ceZycez"
+    },
+    {
+        "slug": "null-space-chamber-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.klJ5cYUmVrHHVBaH"
+    },
+    {
+        "slug": "divas-microphone-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.kljB8eEkjUKfcmY2"
+    },
+    {
+        "slug": "machine-mind-serum-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.ksKJlrHEUFwZxVCj"
+    },
+    {
+        "slug": "snipers-scope-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.kx5czsbsN9ryr1z2"
+    },
+    {
+        "slug": "smoke-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.kzc2sa3DulMUTx3m"
+    },
+    {
+        "slug": "replica-zo-microphone",
+        "uuid": "Compendium.sf2e.equipment.Item.l4yre1br3yCOeciB"
+    },
+    {
+        "slug": "mobile-bulwark",
+        "uuid": "Compendium.sf2e.equipment.Item.l59yRzJzWCMgjcVi"
+    },
+    {
+        "slug": "radiation-buffer-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.lLBKptoIh0mj2KV4"
+    },
+    {
+        "slug": "aeon-stone-navigating",
+        "uuid": "Compendium.sf2e.equipment.Item.lLXSHmNwWUuSiACi"
+    },
+    {
+        "slug": "maratan-headache-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.lNtur8hLaimtVXJj"
+    },
+    {
+        "slug": "darkvision-capacitors-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.lOnsIupW1Ocve3kB"
+    },
+    {
+        "slug": "dragon-gland-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.lfWvZTop2cPqufWU"
+    },
+    {
+        "slug": "wheelchair",
+        "uuid": "Compendium.sf2e.equipment.Item.ll89ge5rVvrQMShV"
+    },
+    {
+        "slug": "congealer-incense-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.lxsq1n60AUXKrwsd"
+    },
+    {
+        "slug": "programmers-plushie-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.ly2Jpx5f5SlF0WRS"
+    },
+    {
+        "slug": "thermal-dynafan",
+        "uuid": "Compendium.sf2e.equipment.Item.lzhMTwh9Ur1Enf6D"
+    },
+    {
+        "slug": "singing-coil",
+        "uuid": "Compendium.sf2e.equipment.Item.mBwMcT367Qaigo0t"
+    },
+    {
+        "slug": "riot-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.n7My3cvLdfygf9xp"
+    },
+    {
+        "slug": "reaction-breacher",
+        "uuid": "Compendium.sf2e.equipment.Item.nCDhToSxmf9xrpEh"
+    },
+    {
+        "slug": "silencer-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.nPmeqjZ8b0mjqSfs"
+    },
+    {
+        "slug": "crystallized-shockshard-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.nQEIjZYijX5fxPVA"
+    },
+    {
+        "slug": "zero-cannon",
+        "uuid": "Compendium.sf2e.equipment.Item.nTfNpQOrzgNuWcSx"
+    },
+    {
+        "slug": "flaming-module-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.nVHtapEShNIu1f4V"
+    },
+    {
+        "slug": "electromag-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.nW1ZJKG81d9I3mAA"
+    },
+    {
+        "slug": "autograppler-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.nYzvVgdK4iS4r2Mk"
+    },
+    {
+        "slug": "striking-crystal-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.nZVTCMNdBmbNBQmb"
+    },
+    {
+        "slug": "venom-spur",
+        "uuid": "Compendium.sf2e.equipment.Item.nflzpHfTNsAovvhH"
+    },
+    {
+        "slug": "shock-module-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.nl4tBzrHddJgpgbs"
+    },
+    {
+        "slug": "spell-chip-5th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.nyTMtaCsBvXeK4JP"
+    },
+    {
+        "slug": "electromag-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.oBIUI95iuUisM7fZ"
+    },
+    {
+        "slug": "psychoactive-eyes-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.oBmL3AYC9mPIxci0"
+    },
+    {
+        "slug": "chem-tank-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.oOFi3NRGW1w1O3PD"
+    },
+    {
+        "slug": "musical-instrument-handheld-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.oRuWi8EhgBiS3cbh"
+    },
+    {
+        "slug": "marrow-paste-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.oVIp7s2QLj99b7qJ"
+    },
+    {
+        "slug": "frag-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.omxqK2E84pGaMj6x"
+    },
+    {
+        "slug": "energy-shielding-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.on8hik5UAQRzJTjN"
+    },
+    {
+        "slug": "flash-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.p4S4iBqbVkpvWP6Z"
+    },
+    {
+        "slug": "spell-gem-2nd-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.p5DYjh3sCSjzrBBg"
+    },
+    {
+        "slug": "radiation-buffer-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.p8WHKcuKovu9Q4pR"
+    },
+    {
+        "slug": "dragonsight-flashlight",
+        "uuid": "Compendium.sf2e.equipment.Item.p9INuxluZEUJvoAv"
+    },
+    {
+        "slug": "field-scientists-toolkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.pEob2HYKeFtToeeC"
+    },
+    {
+        "slug": "makers-toolkit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.pMvFn7PTtcpIANTe"
+    },
+    {
+        "slug": "degradation-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.pV3VmchqUUirCkEa"
+    },
+    {
+        "slug": "hardlight-series",
+        "uuid": "Compendium.sf2e.equipment.Item.pcPU3BjbNclch4lS"
+    },
+    {
+        "slug": "freebooter-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.plBUD8dy3M3gGiHK"
+    },
+    {
+        "slug": "musical-instrument-heavy-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.pm5cjJotmQRlJ0pZ"
+    },
+    {
+        "slug": "hardlight-handwraps-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.pwN8Bh8amBjBPka4"
+    },
+    {
+        "slug": "crystallized-shockshard-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.q0qabDaBo7MPOBy3"
+    },
+    {
+        "slug": "speed-suspension-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.q5vKWIwkpKECVPN1"
+    },
+    {
+        "slug": "shielding-skin-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.q8FqlWg5u1Qvih0r"
+    },
+    {
+        "slug": "laser-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.qIgcUV22LaDCzmb2"
+    },
+    {
+        "slug": "breaching-gun",
+        "uuid": "Compendium.sf2e.equipment.Item.qRg7totm2jOAWd4c"
+    },
+    {
+        "slug": "cloaking-skin-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.qUak1gMC2VQGANSR"
+    },
+    {
+        "slug": "animated-intelligence-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.qbmzVsnSWfneGlI9"
+    },
+    {
+        "slug": "grenade-launcher-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.qqFSu3Ed6zirmoXn"
+    },
+    {
+        "slug": "hacking-toolkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.qqjDcCW118ySAlAS"
+    },
+    {
+        "slug": "plasma-doshko",
+        "uuid": "Compendium.sf2e.equipment.Item.quVFEQcSblaeKD1v"
+    },
+    {
+        "slug": "load-lifter-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.qyqiI7slF9PEHSI3"
+    },
+    {
+        "slug": "blockthrower",
+        "uuid": "Compendium.sf2e.equipment.Item.r2EzMZWgtMaJth6A"
+    },
+    {
+        "slug": "degradation-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.rAjQodk6M3JHhWaF"
+    },
+    {
+        "slug": "mobility-enhancer-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.rBIx7Ll5RFo4ZQsQ"
+    },
+    {
+        "slug": "degradation-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.rIcsfhrhP23RUYzx"
+    },
+    {
+        "slug": "telebond-band",
+        "uuid": "Compendium.sf2e.equipment.Item.rOtCdylPWiIiswbP"
+    },
+    {
+        "slug": "jump-jets",
+        "uuid": "Compendium.sf2e.equipment.Item.rcoxWcmLV9G7HKG0"
+    },
+    {
+        "slug": "grenade-launcher-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.rgprAOXrCIFtwfpr"
+    },
+    {
+        "slug": "filtered-rebreather-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.rvHo4g2VFgGdUESn"
+    },
+    {
+        "slug": "medkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.s1vB3HdXjMigYAnY"
+    },
+    {
+        "slug": "electromag-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.s2uqSzSvkRFXb3Ag"
+    },
+    {
+        "slug": "spell-chip-9th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.sB9xK4xLUCyXUDzm"
+    },
+    {
+        "slug": "load-lifter-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.sEFRqPaYmIvc3H0Q"
+    },
+    {
+        "slug": "sprayflesh",
+        "uuid": "Compendium.sf2e.equipment.Item.sFKOrJVfupoXyNtO"
+    },
+    {
+        "slug": "hypopen-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.sOnw25eL6RJuc5rE"
+    },
+    {
+        "slug": "shock-pad",
+        "uuid": "Compendium.sf2e.equipment.Item.sTe6qQmJ1lC1xDfC"
+    },
+    {
+        "slug": "gluon-crystal-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.sZcqNfSvls2rI8xU"
+    },
+    {
+        "slug": "pain-journal-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.smtr0wluu4BChOoR"
+    },
+    {
+        "slug": "musical-instrument-heavy-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.suvVsy5oA4WjgetD"
+    },
+    {
+        "slug": "screamer",
+        "uuid": "Compendium.sf2e.equipment.Item.tAolYCDR7VlfJZjQ"
+    },
+    {
+        "slug": "loudener-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.tMVTprjg28EEYqz9"
+    },
+    {
+        "slug": "maratan-headache-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.u45uqFNOb3paG9Za"
+    },
+    {
+        "slug": "infiltrator-serum",
+        "uuid": "Compendium.sf2e.equipment.Item.u82tssnDgj4f9UCS"
+    },
+    {
+        "slug": "graviton-crystal-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.uj6raatkNE6E9nFA"
+    },
+    {
+        "slug": "arc-emitter",
+        "uuid": "Compendium.sf2e.equipment.Item.uk9u5cX31uEuFMEa"
+    },
+    {
+        "slug": "spell-gem-10th-rank-spell",
+        "uuid": "Compendium.sf2e.equipment.Item.ulNSlan9Q5j1ozPI"
+    },
+    {
+        "slug": "aucturnite-chakram",
+        "uuid": "Compendium.sf2e.equipment.Item.utPFW3Cg5iPOUMPO"
+    },
+    {
+        "slug": "aeon-stone-guiding",
+        "uuid": "Compendium.sf2e.equipment.Item.uxHoe7QTTXreGBky"
+    },
+    {
+        "slug": "hearing-aid",
+        "uuid": "Compendium.sf2e.equipment.Item.uxJScsvafT7Nqwhj"
+    },
+    {
+        "slug": "maneuvering-unit-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.uyBTaJIspxwF4598"
+    },
+    {
+        "slug": "laser-eye",
+        "uuid": "Compendium.sf2e.equipment.Item.vB760MwE0ZUJv3Rq"
+    },
+    {
+        "slug": "prosthetic-limb",
+        "uuid": "Compendium.sf2e.equipment.Item.vJvy0qPz2Mcd7yXl"
+    },
+    {
+        "slug": "repair-toolkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.vLGDUFrg4yGzpTQX"
+    },
+    {
+        "slug": "glow-up-spell-amp-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.vSVP3ewo2sAJ6lXo"
+    },
+    {
+        "slug": "sharpshooter-serum-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.vcCeNRokXv5HSlRf"
+    },
+    {
+        "slug": "antigrav-harness-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.voeYTU9JcpjmOufS"
+    },
+    {
+        "slug": "pulsecaster-pistol",
+        "uuid": "Compendium.sf2e.equipment.Item.vpjJYIgYZab0UZFa"
+    },
+    {
+        "slug": "cardiac-accelerator",
+        "uuid": "Compendium.sf2e.equipment.Item.vsNJcwknK2irmIjC"
+    },
+    {
+        "slug": "necrolung-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.vvoIYWfv7OGgeEqR"
+    },
+    {
+        "slug": "bone-scepter",
+        "uuid": "Compendium.sf2e.equipment.Item.w0ajYoUHRxs0mdHM"
+    },
+    {
+        "slug": "dizzying-anesthetic",
+        "uuid": "Compendium.sf2e.equipment.Item.w1WaRSchtEsQbhim"
+    },
+    {
+        "slug": "makers-toolkit-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.wCso2FANtxU43Who"
+    },
+    {
+        "slug": "shredskin-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.wS5fBC7TRbDM4q3q"
+    },
+    {
+        "slug": "shooting-starknife",
+        "uuid": "Compendium.sf2e.equipment.Item.wbKiBgYY120RyoGg"
+    },
+    {
+        "slug": "neural-lash",
+        "uuid": "Compendium.sf2e.equipment.Item.wbXXoYRwqZDKPTFr"
+    },
+    {
+        "slug": "frag-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.weV9f340wsszD1rD"
+    },
+    {
+        "slug": "bipod-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.wn4wjYcoVxAm0lWy"
+    },
+    {
+        "slug": "hidden-soldier-armor",
+        "uuid": "Compendium.sf2e.equipment.Item.wnJTyjfupLw4Cy7G"
+    },
+    {
+        "slug": "homespun-hat",
+        "uuid": "Compendium.sf2e.equipment.Item.x6gjdASwtFcMmGWf"
+    },
+    {
+        "slug": "sharpshooter-serum-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.xBlfbu0fUmV6ucqR"
+    },
+    {
+        "slug": "incendiary-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.xFmyDUWtH9PDJ8ww"
+    },
+    {
+        "slug": "climbing-kit-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.xG9CN7dm8Tx7ih83"
+    },
+    {
+        "slug": "hardlight-handwraps-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.xIyau4fBsCcoLB9x"
+    },
+    {
+        "slug": "hardlight-handwraps-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.xJBRvJHRz7KHAlpj"
+    },
+    {
+        "slug": "darkvision-capacitors-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.xKa81R2YkJwdgLPb"
+    },
+    {
+        "slug": "thinplate",
+        "uuid": "Compendium.sf2e.equipment.Item.xQYaULcqM8yE194M"
+    },
+    {
+        "slug": "hideaway-limb-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.xTbGz4uDeCWwMyVA"
+    },
+    {
+        "slug": "bipod-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.xgeRYUg32Jex5GSY"
+    },
+    {
+        "slug": "radiation-buffer-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.xvYdM79er23ljP6T"
+    },
+    {
+        "slug": "akashic-lens-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.yAXP5QTRFBf8mvqR"
+    },
+    {
+        "slug": "flash-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.yJYorlEvJLSxc3VS"
+    },
+    {
+        "slug": "flash-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.yZ1PddTL7huZhECC"
+    },
+    {
+        "slug": "armored-coat",
+        "uuid": "Compendium.sf2e.equipment.Item.ycTqUK3Fp178FfH9"
+    },
+    {
+        "slug": "flash-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.z4hYYCFlMRypJ6Wd"
+    },
+    {
+        "slug": "microphone",
+        "uuid": "Compendium.sf2e.equipment.Item.z6gMut93BGlGbvz1"
+    },
+    {
+        "slug": "programmers-plushie-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.z9B1rE6L3ICLyKsG"
+    },
+    {
+        "slug": "polyglove",
+        "uuid": "Compendium.sf2e.equipment.Item.zMq3hXhcgohjoSnp"
+    },
+    {
+        "slug": "flash-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.zQlnRRTdC4pdwCvi"
+    },
+    {
+        "slug": "electromag-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.zZfvCl6hcRMAiJQB"
+    },
+    {
+        "slug": "bone-speaker-bobblehead",
+        "uuid": "Compendium.sf2e.equipment.Item.zdIIbAt8D0CMwzEL"
+    },
+    {
+        "slug": "glow-up-spell-amp-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.zuDBJVIut3VcAvKD"
+    },
+    {
+        "slug": "gill-sheath",
+        "uuid": "Compendium.sf2e.equipment.Item.zyrPSFBAwL58wCUB"
+    },
+    {
+        "slug": "cable-line-50-feet-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.zzNRlflg2JlybDzq"
+    }
+]

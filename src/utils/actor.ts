@@ -1,4 +1,12 @@
-import { ActorPF2e, CheckDC, ConditionSlug, DamageType, EffectPF2e, UserPF2e, ZeroToThree } from "foundry-pf2e";
+import {
+    ActorPF2e,
+    CheckDC,
+    ConditionSlug,
+    DamageType,
+    EffectPF2e,
+    UserPF2e,
+    ZeroToThree
+} from "@7h3laughingman/pf2e-types";
 export function getClassDC(actor: ActorPF2e): CheckDC | number | undefined {
     if (actor.isOfType("character")) {
         return !actor.classDC

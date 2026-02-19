@@ -1,0 +1,262 @@
+[
+    {
+        "slug": "beginners-luck",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.00RryKnz4fXq455m"
+    },
+    {
+        "slug": "focus-senses",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.0vqXr3SYakIa19k3"
+    },
+    {
+        "slug": "into-position",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.1lkfbLoteDlzoqxb"
+    },
+    {
+        "slug": "quantum-pulse",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.30Nw5q4vWKCQIBIZ"
+    },
+    {
+        "slug": "attune",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.3xDhpvORBmK6AtcI"
+    },
+    {
+        "slug": "digital-assessment",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.4oIErnhDm0qCCpxs"
+    },
+    {
+        "slug": "auto-fire",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.6ctkxUnVwqooSvgg"
+    },
+    {
+        "slug": "puff-up",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.6fsMvO0jXtK8gYkH"
+    },
+    {
+        "slug": "stunt",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.7KMyRISNqp7JTzMn"
+    },
+    {
+        "slug": "coordinated-ambush",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.8mIyIlniGH2SMO6B"
+    },
+    {
+        "slug": "holo-roger",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.8zWFGKRXg1SxIwFH"
+    },
+    {
+        "slug": "redirect-energy",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.9P2ZptR0PrYyiJFl"
+    },
+    {
+        "slug": "isolated-spell-matrix",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.E7HvICcH9CRAVzGc"
+    },
+    {
+        "slug": "push-off",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.FF5KgZHj345s2moq"
+    },
+    {
+        "slug": "implant-augmentation",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Iy3IsWEfMLGiVAPv"
+    },
+    {
+        "slug": "ghost-tap",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.JXQaCPCd10sE0Gaa"
+    },
+    {
+        "slug": "line-up-the-shot",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.K2wMNyK4JGwgrjVL"
+    },
+    {
+        "slug": "plot-course",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.LXqcXRayK58inaKo"
+    },
+    {
+        "slug": "silver-tongue",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.MZ65QZDqa9ignWXm"
+    },
+    {
+        "slug": "manifest-energy-wings",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.NEYVJWYtgl0rRSwg"
+    },
+    {
+        "slug": "light-speed",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.P95mzZ3VV40cXbx5"
+    },
+    {
+        "slug": "once-more-with-feeling",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.QQSO7DzeNKCWf9XW"
+    },
+    {
+        "slug": "hack",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.RF8xNJ8QsMwogerB"
+    },
+    {
+        "slug": "ready-arms",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.RNilk6Evoi0xNbWX"
+    },
+    {
+        "slug": "deny-failure",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.SdPRiTobzR8adtXq"
+    },
+    {
+        "slug": "oppressive-presence",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.TBLHu4RhvhPrKid6"
+    },
+    {
+        "slug": "transfer-vitality",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.UeMHbnnaXDa3sGfG"
+    },
+    {
+        "slug": "targeted-immunization",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.VIv5Gt3yndrk0qgb"
+    },
+    {
+        "slug": "cosmic-blast",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.VQH9rEQuNb06NQ4b"
+    },
+    {
+        "slug": "improvised-mastery",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.WFFYDg0sgjaXCeq6"
+    },
+    {
+        "slug": "network-spell",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.XSMTalRsPwQ0beIE"
+    },
+    {
+        "slug": "access-infosphere",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Yn4jLPVWVE1vtAaF"
+    },
+    {
+        "slug": "plate-deflection",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Z8GMkB50OfXBX67a"
+    },
+    {
+        "slug": "piercing-spikes",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.ZVzoIaWpXs62QVcu"
+    },
+    {
+        "slug": "warp-reality",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.ZoMpqQgDdlT13Jp0"
+    },
+    {
+        "slug": "get-em",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.cmCtfURzpbzkxWsy"
+    },
+    {
+        "slug": "install-upgrade",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.d4vJxq49lUb7fGXq"
+    },
+    {
+        "slug": "reactive-step",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.eBxEPfTafaJaK4Kf"
+    },
+    {
+        "slug": "eccentric-orbit",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.fQJ8xyZH3Dch5xtN"
+    },
+    {
+        "slug": "telekinetic-lift",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.gNUrQ8jimAvAA0xg"
+    },
+    {
+        "slug": "steel-yourselves",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.gZr207z8Q7AuH2RT"
+    },
+    {
+        "slug": "navigate",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.hsUKPqTdAvWwsqH2"
+    },
+    {
+        "slug": "adaptive-locomotion",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.iIESt0oV0vobl41N"
+    },
+    {
+        "slug": "unbound-mind",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.j1FsKMy7CTtrp3Fu"
+    },
+    {
+        "slug": "soul-shield",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.kF6CV5Jo4gfz4gVs"
+    },
+    {
+        "slug": "shimmering-dazzle",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.lIZ9DhrkzM3AEQmX"
+    },
+    {
+        "slug": "living-shield",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.lNcZ7j1T2YmMwXF7"
+    },
+    {
+        "slug": "nanite-form-strike",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.mbRH3JIu44z8nxXj"
+    },
+    {
+        "slug": "redirect-current",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.mrcKklMzhRG4WcbH"
+    },
+    {
+        "slug": "livestream",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.n2QwzNZLrpVnM58K"
+    },
+    {
+        "slug": "rebellious-defiance",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.nAJeT29ZJvqeg98h"
+    },
+    {
+        "slug": "keep-on-keeping-on",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.oRdDgSC3RVpNgisd"
+    },
+    {
+        "slug": "switch-hands",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.oW81CfM9ebxXnrw3"
+    },
+    {
+        "slug": "area-fire",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.oc0ZKnk5zD0GXqZi"
+    },
+    {
+        "slug": "nimbus-surge",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.q7UDeO9Ko1EbPRWm"
+    },
+    {
+        "slug": "sabotage",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.qbyer2woEdGXZzoR"
+    },
+    {
+        "slug": "telekinetic-sprint",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.r1bUsyDwcwuN3MUG"
+    },
+    {
+        "slug": "dance-partner",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.rlhZC1VPq3XixagS"
+    },
+    {
+        "slug": "aim",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.sLikawnrJJzHMYeC"
+    },
+    {
+        "slug": "umbral-stride",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.u9NU2bULHg3S5FaP"
+    },
+    {
+        "slug": "re-forge-solar-weapon",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.uvtdqSfKD6oXNA29"
+    },
+    {
+        "slug": "shielding-arrogance",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.wI0g2nRfu2d0YFAd"
+    },
+    {
+        "slug": "operate-device",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.wWtBcshahm11stMY"
+    },
+    {
+        "slug": "recharge",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.ydUK0TjHlK8VKgbs"
+    },
+    {
+        "slug": "new-plan",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.ygvLiQmneqp1pjWb"
+    }
+]

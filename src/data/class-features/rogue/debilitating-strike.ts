@@ -1,6 +1,7 @@
+import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
+import { GrantItemSource } from "@7h3laughingman/pf2e-types";
 import { Assistant } from "assistant.ts";
 import { PF2E_ACTIONS, PF2E_CLASS_FEATURES, PF2E_CONDITIONS, PF2E_FEAT_EFFECTS, PF2E_FEATS } from "compendium-packs.ts";
-import { GrantItemSource } from "foundry-pf2e";
 import { Utils } from "utils.ts";
 
 export const path = ["Class Features", "Rogue", "Debilitating Strike"];
@@ -98,7 +99,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -160,7 +161,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -229,7 +230,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.origin) return;
-            if (!Utils.Roll.isCheckRoll(data.roll)) return;
+            if (!isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -487,7 +488,7 @@ export const actions: Assistant.Action[] = [
                         }
                     }
                 },
-                img: "systems/pf2e/icons/spells/clairvoyance.webp"
+                img: SYSTEM.path("icons/spells/clairvoyance.webp")
             });
         }
     },

@@ -1,5 +1,6 @@
-import { ActorPF2e, ChatMessagePF2e, ItemPF2e, ScenePF2e, TokenDocumentPF2e } from "foundry-pf2e";
-import { ActorUUID, TokenDocumentUUID } from "foundry-pf2e/foundry/common/documents/_module.mjs";
+import { ActorUUID, TokenDocumentUUID } from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
+import { ActorPF2e, ChatMessagePF2e, ItemPF2e, ScenePF2e, TokenDocumentPF2e } from "@7h3laughingman/pf2e-types";
+
 import * as R from "remeda";
 
 export interface ActorToken {
@@ -12,8 +13,34 @@ export interface SerializedActorToken {
     token: TokenDocumentUUID;
 }
 
+export type Trigger =
+    | "action"
+    | "activate-exploration"
+    | "area-fire"
+    | "attack-roll"
+    | "auto-fire"
+    | "check"
+    | "choice"
+    | "combat-start"
+    | "consumable"
+    | "counteract-check"
+    | "create-effect"
+    | "damage-roll"
+    | "damage-taken"
+    | "deactivate-exploration"
+    | "delete-effect"
+    | "end-turn"
+    | "flat-check"
+    | "initiative"
+    | "perception-check"
+    | "saving-throw"
+    | "self-effect"
+    | "skill-check"
+    | "spell-cast"
+    | "start-turn";
+
 export interface Data {
-    trigger: string;
+    trigger: Trigger;
     rollOptions: string[];
     domains?: string[];
     chatMessage?: ChatMessagePF2e;
