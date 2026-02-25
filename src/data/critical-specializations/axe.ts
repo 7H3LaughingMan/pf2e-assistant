@@ -1,4 +1,4 @@
-import { getDamageRollClass, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
+import { getDamageRollClass, getTokens, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { Utils } from "utils.ts";
 
@@ -16,7 +16,20 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
+            if (!Utils.Item.isWeapon(data.item)) return;
             if (!isRolledDamageRoll(data.roll)) return;
+
+            const validTargets = getTokens(data.target.token.scene, {
+                enemyOf: data.speaker.actor,
+                adjacentTo: data.target.token,
+                distanceTo: {
+                    target: data.speaker.token,
+                    distance: data.speaker.actor.getReach({ action: "attack", weapon: data.item })
+                },
+                predicate: (token) => token.uuid !== data.target?.token.uuid
+            });
+
+            if (validTargets.length === 0) return;
 
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 
@@ -49,7 +62,20 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
+            if (!Utils.Item.isWeapon(data.item)) return;
             if (!isRolledDamageRoll(data.roll)) return;
+
+            const validTargets = getTokens(data.target.token.scene, {
+                enemyOf: data.speaker.actor,
+                adjacentTo: data.target.token,
+                distanceTo: {
+                    target: data.speaker.token,
+                    distance: data.speaker.actor.getReach({ action: "attack", weapon: data.item })
+                },
+                predicate: (token) => token.uuid !== data.target?.token.uuid
+            });
+
+            if (validTargets.length === 0) return;
 
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 

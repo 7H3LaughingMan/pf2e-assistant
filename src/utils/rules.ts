@@ -1,4 +1,4 @@
-import { RuleElementSource } from "@7h3laughingman/pf2e-types";
+import { RuleElement, RuleElementSource } from "@7h3laughingman/pf2e-types";
 
 export interface ModifyFlatDCRuleElementSource extends RuleElementSource {
     type: string;
@@ -12,4 +12,8 @@ export interface TreatAsRuleElementSource extends RuleElementSource {
     treatAs: "observed" | "concaled" | "hidden";
     mode: "upgrade" | "downgrade" | "override";
     affects?: "origin" | "self";
+}
+
+export function isRuleElement<T extends RuleElement>(value: Maybe<RuleElement>, key: string): value is T {
+    return value instanceof game.pf2e.RuleElements.all[key];
 }

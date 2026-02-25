@@ -5,7 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [7.10.0] - 2026-02-25
+
+### Added
+
+- Champion's Resistance
+  - Only automates the automatic removal after taking damage
+- Precious Gleam
+
+### Changed
+
+- Axe Critical Specialization now checks to see if there are any other enemies within reach and adjacent to the target, if there are none it will not post anything
+- Shock Rune now checks to see if there are any other enemies within 10 feet of the target, if there are non it will not post anything
 
 ## [7.9.1] - 2026-02-19
 
@@ -135,7 +146,7 @@ Began implementing some changes to support the SF2e System; however, further wor
 ## [7.8.2] - 2026-01-16
 
 - Removed Effects Compendium Pack
-    - Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
+- Custom effects are generated at runtime now, this is in preparation for adding support for SF2e.
 - Consumables are now under Items
 
 ### Added
@@ -168,13 +179,13 @@ General Updates/Improvements as well
 ### Removed
 
 - Dice So Nice Support
-    - Caused enough issues trying to support so not going to bother with it anymore
+  - Caused enough issues trying to support so not going to bother with it anymore
 - Befuddle
-    - Appears to be broken and just removing it temporarily
+  - Appears to be broken and just removing it temporarily
 - Chilling Spray
-    - Appears to be broken and just removing it temporarily
+  - Appears to be broken and just removing it temporarily
 - Aberrant Form
-    - Don't like how this is handled
+  - Don't like how this is handled
 
 ## [7.2.0] - 2025-06-25
 
@@ -257,7 +268,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 
 - Support for PF2e Toolbelt's Target Helper
 - Support for PF2e Toolbelt's Actionable
-    - There is now a "Use Action" macro, in order to actually automate actions you will have to add this macro to the action using PF2e Toolbelt.
+  - There is now a "Use Action" macro, in order to actually automate actions you will have to add this macro to the action using PF2e Toolbelt.
 - Drop Prone
 - Kip Up
 - Stand
@@ -359,7 +370,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 ### Added
 
 - Reroll Support
-    - When rerolling a check any effects/conditions/etc. that were created from the first result of the check will be removed
+  - When rerolling a check any effects/conditions/etc. that were created from the first result of the check will be removed
 
 ### Changed
 
@@ -381,7 +392,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 ### Added
 
 - Chat Message Prompts
-    - Some automations require a choice from someone because their are multiple options, in these cases you will now see a whisper prompting you to make a decision.
+  - Some automations require a choice from someone because their are multiple options, in these cases you will now see a whisper prompting you to make a decision.
 - Aberrant Form
 - Grapple (Critical Failure)
 
@@ -516,7 +527,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 ### Added
 
 - Basic support for Dice So Nice!
-    - This is reliant on whoever is rolling to have 3D dice enabled, if they have it disabled than it will start processing their automations while it's still rolling on everyone else's screen.
+  - This is reliant on whoever is rolling to have 3D dice enabled, if they have it disabled than it will start processing their automations while it's still rolling on everyone else's screen.
 - Bon Mot (Critical Success, Success, Critical Failure)
 - Demoralize (Critical Success, Success)
 - Stunning Blows (Failure, Critical Failure)
@@ -531,7 +542,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 
 - Disarm (Success, Critical Failure)
 - Feint (Critical Success, Success, Critical Failure)
-    - Please note that for a successful feint the effect lasts until the end of your current turn, you will have to manually remove the effect after your next melee attack.
+  - Please note that for a successful feint the effect lasts until the end of your current turn, you will have to manually remove the effect after your next melee attack.
 
 ### Changed
 
@@ -552,7 +563,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
-[Unreleased]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.1...HEAD
+[7.10.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.1...v7.10.0
 [7.9.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.0...v7.9.1
 [7.9.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...v7.9.0
 [7.8.3]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.2...v7.8.3

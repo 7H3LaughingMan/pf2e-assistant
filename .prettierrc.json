@@ -1,7 +1,5 @@
 {
-    "plugins": [
-        "prettier-plugin-organize-imports"
-    ],
+    "plugins": ["prettier-plugin-organize-imports"],
     "printWidth": 120,
     "endOfLine": "lf",
     "tabWidth": 4,
@@ -9,6 +7,12 @@
     "overrides": [
         {
             "files": "*.yml",
+            "options": {
+                "tabWidth": 2
+            }
+        },
+        {
+            "files": "*.md",
             "options": {
                 "tabWidth": 2
             }

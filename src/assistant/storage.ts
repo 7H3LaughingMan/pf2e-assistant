@@ -1,4 +1,3 @@
-import { MODULE } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import * as R from "remeda";
 
@@ -70,7 +69,7 @@ export class Storage {
     async process(data: Assistant.Data): Promise<{ data: Assistant.Data; reroll: Assistant.Reroll }> {
         const reroll = Assistant.createReroll();
 
-        if (MODULE.isDebug) console.debug(data);
+        if (import.meta.env.DEV) console.debug(data);
 
         const actions = this.#actions.filter((action) => Storage.filterActions(action, data));
 

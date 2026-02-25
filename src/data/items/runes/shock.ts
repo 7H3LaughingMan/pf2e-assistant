@@ -1,4 +1,4 @@
-import { getDamageRollClass, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
+import { getDamageRollClass, getTokens, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
 import { Assistant } from "assistant.ts";
 import { Utils } from "utils.ts";
 
@@ -12,6 +12,17 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!isRolledDamageRoll(data.roll)) return;
+
+            const validTargets = getTokens(data.target.token.scene, {
+                enemyOf: data.speaker.actor,
+                distanceTo: {
+                    target: data.target.token,
+                    distance: 10
+                },
+                predicate: (token) => token.uuid !== data.target?.token.uuid
+            });
+
+            if (validTargets.length === 0) return;
 
             const shockDamage = Utils.Roll.extractDamage(data.roll, "shock", true);
 
@@ -40,6 +51,17 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.target) return;
             if (!isRolledDamageRoll(data.roll)) return;
+
+            const validTargets = getTokens(data.target.token.scene, {
+                enemyOf: data.speaker.actor,
+                distanceTo: {
+                    target: data.target.token,
+                    distance: 10
+                },
+                predicate: (token) => token.uuid !== data.target?.token.uuid
+            });
+
+            if (validTargets.length === 0) return;
 
             const shockDamage = Utils.Roll.extractDamage(data.roll, "greater-shock", true);
 
