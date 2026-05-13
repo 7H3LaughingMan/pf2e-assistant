@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [8.0.0] - Unreleased
+## [8.0.0] - 2026-05-13
 
 v14 Update
 
@@ -567,7 +567,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
-[8.0.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.10.0...HEAD
+[8.0.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.10.0...v8.0.0
 [7.10.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.1...v7.10.0
 [7.9.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.0...v7.9.1
 [7.9.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...v7.9.0
