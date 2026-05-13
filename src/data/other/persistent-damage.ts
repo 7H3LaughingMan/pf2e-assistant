@@ -1,6 +1,6 @@
 import { isRolledDamageRoll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ActorPF2e, ConditionPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
 export const path = ["Other", "Persistent Damage"];
 

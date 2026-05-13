@@ -40,10 +40,6 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.3qHKBDF7lrHw8jFK"
     },
     {
-        "slug": "spell-effect-enlarge-heightened-4th",
-        "uuid": "Compendium.sf2e.spell-effects.Item.41WThj17MZBXTO2X"
-    },
-    {
         "slug": "spell-effect-elemental-barrier",
         "uuid": "Compendium.sf2e.spell-effects.Item.4BwlNXei3xMKygMv"
     },
@@ -104,6 +100,10 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.B9Hzt4ki8eqlXxyh"
     },
     {
+        "slug": "spell-effect-animal-form-bull",
+        "uuid": "Compendium.sf2e.spell-effects.Item.BT1ofB6RvRocQOWO"
+    },
+    {
         "slug": "spell-effect-unfettered-movement",
         "uuid": "Compendium.sf2e.spell-effects.Item.CdAyAiMGESvgNQtz"
     },
@@ -118,6 +118,10 @@
     {
         "slug": "spell-effect-haste",
         "uuid": "Compendium.sf2e.spell-effects.Item.ElkXovNrHB0Doi6O"
+    },
+    {
+        "slug": "spell-effect-animal-form-deer",
+        "uuid": "Compendium.sf2e.spell-effects.Item.F4DTpDXNu5IliyhJ"
     },
     {
         "slug": "spell-effect-bless",
@@ -228,10 +232,6 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.RawLEPwyT5CtCZ4D"
     },
     {
-        "slug": "aura-bless",
-        "uuid": "Compendium.sf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ"
-    },
-    {
         "slug": "spell-effect-see-the-unseen",
         "uuid": "Compendium.sf2e.spell-effects.Item.T5bk6UH7yuYog1Fp"
     },
@@ -292,6 +292,10 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.bfimY3Rbx3lrsFAJ"
     },
     {
+        "slug": "spell-effect-eldritch-bond",
+        "uuid": "Compendium.sf2e.spell-effects.Item.cGBjkNm9P7Ra09rp"
+    },
+    {
         "slug": "spell-effect-light",
         "uuid": "Compendium.sf2e.spell-effects.Item.cVVZXNbV0nElVOPZ"
     },
@@ -310,6 +314,10 @@
     {
         "slug": "spell-effect-sure-strike",
         "uuid": "Compendium.sf2e.spell-effects.Item.fpGDAz2v5PG0zUSl"
+    },
+    {
+        "slug": "spell-effect-animal-form-bear",
+        "uuid": "Compendium.sf2e.spell-effects.Item.gQnDKDeBTtjwOWAk"
     },
     {
         "slug": "spell-effect-akashic-download",
@@ -336,12 +344,20 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.inNfTmtWpsxeGBI9"
     },
     {
+        "slug": "spell-effect-animal-form-frog",
+        "uuid": "Compendium.sf2e.spell-effects.Item.j2LhQ7kEQhq3J3zZ"
+    },
+    {
         "slug": "spell-effect-aerial-form-bat",
         "uuid": "Compendium.sf2e.spell-effects.Item.jvwKRHtOiPAm4uAP"
     },
     {
         "slug": "spell-effect-skyfire-wings-3rd-rank",
         "uuid": "Compendium.sf2e.spell-effects.Item.kT8REROKKaXF2QK1"
+    },
+    {
+        "slug": "spell-effect-animal-form-snake",
+        "uuid": "Compendium.sf2e.spell-effects.Item.kz3mlFwb9tV9bFwu"
     },
     {
         "slug": "spell-effect-heroism",
@@ -364,12 +380,24 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.oGUuRPGJHouppf8V"
     },
     {
+        "slug": "spell-effect-monstrosity-form",
+        "uuid": "Compendium.sf2e.spell-effects.Item.oMtbVNQ5YFmmQUlU"
+    },
+    {
         "slug": "spell-effect-shifting-surge",
         "uuid": "Compendium.sf2e.spell-effects.Item.pWm0NCsxjxTUCJ7y"
     },
     {
+        "slug": "spell-effect-animal-form-cat",
+        "uuid": "Compendium.sf2e.spell-effects.Item.ptOqsN5FS0nQh7RW"
+    },
+    {
         "slug": "spell-effect-commune-with-tech",
         "uuid": "Compendium.sf2e.spell-effects.Item.q47pDFylqDY1VYEk"
+    },
+    {
+        "slug": "spell-effect-animal-form-shark",
+        "uuid": "Compendium.sf2e.spell-effects.Item.qPaEEhczUWCQo6ux"
     },
     {
         "slug": "spell-effect-mystic-armor",
@@ -392,8 +420,16 @@
         "uuid": "Compendium.sf2e.spell-effects.Item.sILRkGTwoBywy0BU"
     },
     {
+        "slug": "spell-effect-animal-form-canine",
+        "uuid": "Compendium.sf2e.spell-effects.Item.sN3mQ7YrPBogEJRn"
+    },
+    {
         "slug": "spell-effect-enlarge",
         "uuid": "Compendium.sf2e.spell-effects.Item.sPCWrhUHqlbGhYSD"
+    },
+    {
+        "slug": "spell-effect-animal-form-ape",
+        "uuid": "Compendium.sf2e.spell-effects.Item.tk3go5Cl6Qt130Dk"
     },
     {
         "slug": "spell-effect-plant-form-arboreal",

@@ -1,5 +1,6 @@
 import { ItemPF2e } from "@7h3laughingman/pf2e-types";
 
+// @ts-expect-error No overload matches this call.
 Hooks.on("createItem", (item: ItemPF2e) => {
     if (!(item.isOfType("effect") || item.isOfType("condition"))) return;
     if (!item.actor) return;
@@ -13,6 +14,7 @@ Hooks.on("createItem", (item: ItemPF2e) => {
     });
 });
 
+// @ts-expect-error No overload matches this call.
 Hooks.on("deleteItem", (item: ItemPF2e) => {
     if (!(item.isOfType("effect") || item.isOfType("condition"))) return;
     if (!item.actor) return;

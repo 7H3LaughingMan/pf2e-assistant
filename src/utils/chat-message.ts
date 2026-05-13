@@ -53,7 +53,7 @@ export function isShieldBlock(chatMessage: ChatMessagePF2e): boolean {
     SHIELD_BLOCK_REGEX ??= [
         new RegExp(
             game.i18n
-                .format("PF2E.Actor.ApplyDamage.DamagedForNShield", {
+                .localize("PF2E.Actor.ApplyDamage.DamagedForNShield", {
                     actor: "(.*)",
                     absorbedDamage: "([0-9]*)",
                     hpDamage: "([0-9]*)"
@@ -63,7 +63,7 @@ export function isShieldBlock(chatMessage: ChatMessagePF2e): boolean {
         ),
         new RegExp(
             game.i18n
-                .format("PF2E.Actor.ApplyDamage.ShieldAbsorbsAll", {
+                .localize("PF2E.Actor.ApplyDamage.ShieldAbsorbsAll", {
                     actor: "(.*)",
                     absorbedDamage: "([0-9]*)",
                     hpDamage: "([0-9]*)"

@@ -60,6 +60,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.07jxXvRZ8nD3JLF4"
     },
     {
+        "slug": "polished-distraction",
+        "uuid": "Compendium.pf2e.feats-srd.Item.08fKms4aCYR2bujl"
+    },
+    {
         "slug": "combat-climber",
         "uuid": "Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq"
     },
@@ -164,6 +168,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.0PcVi7eav6PMLOPl"
     },
     {
+        "slug": "sailfish-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0PiXj5FRAubjqSMV"
+    },
+    {
         "slug": "shattering-spellstrike",
         "uuid": "Compendium.pf2e.feats-srd.Item.0PiyHEuxpB5zPctX"
     },
@@ -212,6 +220,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.0UzxiSrTfVs0jvBa"
     },
     {
+        "slug": "ivy-playhouse-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0VOzclP73W0txuvF"
+    },
+    {
         "slug": "steal-essence",
         "uuid": "Compendium.pf2e.feats-srd.Item.0VUx8g8GJzuxvLSa"
     },
@@ -246,6 +258,10 @@
     {
         "slug": "champion-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.0YjetnLVIUz9zQt5"
+    },
+    {
+        "slug": "hells-bane",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0YtidWmL4GTpONkq"
     },
     {
         "slug": "invented-vulnerability",
@@ -328,6 +344,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.0lieFKdwgNVXep7u"
     },
     {
+        "slug": "swallow-pain",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0noupNIuXPoNZuns"
+    },
+    {
         "slug": "living-vessel-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.0ogbBzSD7fmiWp9d"
     },
@@ -354,6 +374,10 @@
     {
         "slug": "climate-adaptation",
         "uuid": "Compendium.pf2e.feats-srd.Item.0u1SZ1c6gDo6l0hS"
+    },
+    {
+        "slug": "remote-detonation",
+        "uuid": "Compendium.pf2e.feats-srd.Item.0wpnyayq9ZXmfv7H"
     },
     {
         "slug": "execution",
@@ -576,8 +600,16 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.1Yo3FD5HKJpGbQFD"
     },
     {
+        "slug": "do-you-know-who-i-am",
+        "uuid": "Compendium.pf2e.feats-srd.Item.1Z4ps6u7RtA57ksK"
+    },
+    {
         "slug": "perfections-path",
         "uuid": "Compendium.pf2e.feats-srd.Item.1ZbLYY5m2YALrrgA"
+    },
+    {
+        "slug": "greater-deific-power",
+        "uuid": "Compendium.pf2e.feats-srd.Item.1bEfezBi7cLzU47m"
     },
     {
         "slug": "alter-admixture",
@@ -768,6 +800,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.243yFdMntCMPLLrp"
     },
     {
+        "slug": "hellbreakers-resolve",
+        "uuid": "Compendium.pf2e.feats-srd.Item.24LBBYT1op52Pm4J"
+    },
+    {
         "slug": "call-from-deaths-door",
         "uuid": "Compendium.pf2e.feats-srd.Item.24giyNqSjqrEnhN9"
     },
@@ -818,6 +854,10 @@
     {
         "slug": "target-of-opportunity",
         "uuid": "Compendium.pf2e.feats-srd.Item.2FJwXMTJycSZY80Q"
+    },
+    {
+        "slug": "legions-aim",
+        "uuid": "Compendium.pf2e.feats-srd.Item.2FqgPiW7B0w9jzXd"
     },
     {
         "slug": "guardian-resiliency",
@@ -1096,6 +1136,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.2shqQYK6l3RUEqiQ"
     },
     {
+        "slug": "starstone-aspirant-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.2tF5kSGaSEmhQg1i"
+    },
+    {
         "slug": "tangled-forest-stance",
         "uuid": "Compendium.pf2e.feats-srd.Item.2tUdsoPEnW9yS8so"
     },
@@ -1116,6 +1160,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.2wLfchKVDSKBOIpV"
     },
     {
+        "slug": "ivy-district-influencer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.2wq9XTY7YUnUWl0g"
+    },
+    {
         "slug": "vicious-swing",
         "uuid": "Compendium.pf2e.feats-srd.Item.2xk4jdwcCfmasYfT"
     },
@@ -1130,6 +1178,10 @@
     {
         "slug": "monster-warden",
         "uuid": "Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV"
+    },
+    {
+        "slug": "golden-legionnaire-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.2z583cNP2e585eJC"
     },
     {
         "slug": "first-to-strike-first-to-fall",
@@ -1232,6 +1284,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.3KVFBmWPVSItUuq3"
     },
     {
+        "slug": "swift-support",
+        "uuid": "Compendium.pf2e.feats-srd.Item.3MVDp4uEQpY3LEfF"
+    },
+    {
         "slug": "just-as-planned",
         "uuid": "Compendium.pf2e.feats-srd.Item.3My19Wif5ks29tyg"
     },
@@ -1288,7 +1344,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.3X8BkDZEDWp90U4u"
     },
     {
-        "slug": "sense-chaos",
+        "slug": "sense-iniquity",
         "uuid": "Compendium.pf2e.feats-srd.Item.3XFKXB3ffeIkrQYe"
     },
     {
@@ -1310,6 +1366,10 @@
     {
         "slug": "turn-back-the-clock",
         "uuid": "Compendium.pf2e.feats-srd.Item.3aG0gkHulBIHqqGE"
+    },
+    {
+        "slug": "hellknight-errant",
+        "uuid": "Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7"
     },
     {
         "slug": "greater-security",
@@ -1362,6 +1422,14 @@
     {
         "slug": "opportune-opening",
         "uuid": "Compendium.pf2e.feats-srd.Item.3q7uo810lJJ09ghv"
+    },
+    {
+        "slug": "fabricated-credentials",
+        "uuid": "Compendium.pf2e.feats-srd.Item.3qvanRQLNhOTzpXV"
+    },
+    {
+        "slug": "shake-off-the-gods",
+        "uuid": "Compendium.pf2e.feats-srd.Item.3r19NQsopPsPfE34"
     },
     {
         "slug": "alter-ego-dedication",
@@ -2108,6 +2176,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.5fu0H5ZpBxSOwtCL"
     },
     {
+        "slug": "thorn-in-hells-side",
+        "uuid": "Compendium.pf2e.feats-srd.Item.5gj6tZyQLfA1iQwn"
+    },
+    {
         "slug": "furious-finish",
         "uuid": "Compendium.pf2e.feats-srd.Item.5gnBhockV7O32jTR"
     },
@@ -2272,7 +2344,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.62glnJI2o0KnHULB"
     },
     {
-        "slug": "hellknight-signifer-dedication",
+        "slug": "hellknight-signifer-preferment",
         "uuid": "Compendium.pf2e.feats-srd.Item.62hpJOuvYYSa4X7u"
     },
     {
@@ -2794,6 +2866,10 @@
     {
         "slug": "advanced-devotion",
         "uuid": "Compendium.pf2e.feats-srd.Item.7JjNWSuutkjrMrd0"
+    },
+    {
+        "slug": "lasting-protection",
+        "uuid": "Compendium.pf2e.feats-srd.Item.7JneFz4asWtotVfy"
     },
     {
         "slug": "combination-finisher",
@@ -3468,6 +3544,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.97twoPOGsPa7pnWu"
     },
     {
+        "slug": "battle-scars",
+        "uuid": "Compendium.pf2e.feats-srd.Item.97zURBF7RiVcbBsQ"
+    },
+    {
         "slug": "unbreakable-er-goblin",
         "uuid": "Compendium.pf2e.feats-srd.Item.99WRahrMC91D6MMe"
     },
@@ -3660,6 +3740,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.9dPz3x6uLCFEB3yK"
     },
     {
+        "slug": "armed-and-armored",
+        "uuid": "Compendium.pf2e.feats-srd.Item.9e6FQPOn8RXFJpJZ"
+    },
+    {
         "slug": "catch-the-details",
         "uuid": "Compendium.pf2e.feats-srd.Item.9eDA2RLnrBBlCvce"
     },
@@ -3696,6 +3780,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.9jGaBxLUtevZYcZO"
     },
     {
+        "slug": "watch-your-back-golden-legionnaire",
+        "uuid": "Compendium.pf2e.feats-srd.Item.9jc2G0Rc4hjcYakh"
+    },
+    {
         "slug": "resounding-blow",
         "uuid": "Compendium.pf2e.feats-srd.Item.9kY9B5WgtEleOicn"
     },
@@ -3706,6 +3794,10 @@
     {
         "slug": "fit-for-the-role",
         "uuid": "Compendium.pf2e.feats-srd.Item.9mpjAbkfQD59RIpn"
+    },
+    {
+        "slug": "anchor-stance",
+        "uuid": "Compendium.pf2e.feats-srd.Item.9nT7E44aTosTrzhb"
     },
     {
         "slug": "and-will-do-so-once-more",
@@ -3890,6 +3982,10 @@
     {
         "slug": "pierce-the-light",
         "uuid": "Compendium.pf2e.feats-srd.Item.ABx8keV4c43gEmeN"
+    },
+    {
+        "slug": "such-a-disgrace",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ACVze8hUm9L5Slrg"
     },
     {
         "slug": "catchy-tune",
@@ -4320,6 +4416,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.B4nuabUvA1rk7Hej"
     },
     {
+        "slug": "opportune-trickster",
+        "uuid": "Compendium.pf2e.feats-srd.Item.B51a2EwAD84xVX1n"
+    },
+    {
         "slug": "bone-caller",
         "uuid": "Compendium.pf2e.feats-srd.Item.B53sWzd5irAoLn2U"
     },
@@ -4400,6 +4500,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.BBvmmULFPLlHCeIK"
     },
     {
+        "slug": "golden-erinys-stance",
+        "uuid": "Compendium.pf2e.feats-srd.Item.BE5YNJooh0jfVVfM"
+    },
+    {
         "slug": "aldori-swordlord",
         "uuid": "Compendium.pf2e.feats-srd.Item.BEgz2GnG2MKmmaZX"
     },
@@ -4422,10 +4526,6 @@
     {
         "slug": "agile-grace",
         "uuid": "Compendium.pf2e.feats-srd.Item.BJKTUGplI9nwhJxg"
-    },
-    {
-        "slug": "evasiveness-swashbuckler",
-        "uuid": "Compendium.pf2e.feats-srd.Item.BJfIGuUMItalNYet"
     },
     {
         "slug": "death-dive",
@@ -4644,6 +4744,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.Bp02C07s4RTS4vsV"
     },
     {
+        "slug": "branding-spell",
+        "uuid": "Compendium.pf2e.feats-srd.Item.BpFj45tQY8ExHIRm"
+    },
+    {
         "slug": "shadow-master",
         "uuid": "Compendium.pf2e.feats-srd.Item.BqcAwmNjDlKEI84X"
     },
@@ -4684,6 +4788,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.BujTSrQI7o0dZolY"
     },
     {
+        "slug": "boarding-party",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Bvwx5oKridmQErxh"
+    },
+    {
         "slug": "spellshot-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.BwDIwjHasZwcd61Z"
     },
@@ -4710,6 +4818,10 @@
     {
         "slug": "hefty-hauler",
         "uuid": "Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J"
+    },
+    {
+        "slug": "holy-flower",
+        "uuid": "Compendium.pf2e.feats-srd.Item.C0lm4rtptGdRbLem"
     },
     {
         "slug": "overpowering-charge",
@@ -5260,6 +5372,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.DS0XlHfi3ztb3ET7"
     },
     {
+        "slug": "tidal-wave",
+        "uuid": "Compendium.pf2e.feats-srd.Item.DS4UpUyUDraaJfIu"
+    },
+    {
         "slug": "versatile-blasts",
         "uuid": "Compendium.pf2e.feats-srd.Item.DSN8HoWGaf42eyxY"
     },
@@ -5338,6 +5454,10 @@
     {
         "slug": "manifold-edge",
         "uuid": "Compendium.pf2e.feats-srd.Item.Dcr63tofZUome1Ze"
+    },
+    {
+        "slug": "shadowpiercing-charge",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Dezo2txVNhMKDcNz"
     },
     {
         "slug": "deadly-simplicity",
@@ -5424,6 +5544,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.DqD7htz8Sd1dh3BT"
     },
     {
+        "slug": "devil-you-know",
+        "uuid": "Compendium.pf2e.feats-srd.Item.DqPZCCbWzfMMGFI8"
+    },
+    {
         "slug": "resurrectionist",
         "uuid": "Compendium.pf2e.feats-srd.Item.Dr6h8WRW6xnLRfxr"
     },
@@ -5458,6 +5582,10 @@
     {
         "slug": "overwhelming-breath",
         "uuid": "Compendium.pf2e.feats-srd.Item.Dwxi1q1OWB1ufFvy"
+    },
+    {
+        "slug": "wrath-against-the-divine",
+        "uuid": "Compendium.pf2e.feats-srd.Item.DxAt8Ol7UKDx4Acn"
     },
     {
         "slug": "reinforce-eidolon",
@@ -6024,6 +6152,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.FVDozRTuCQQzD97D"
     },
     {
+        "slug": "frightening-indignation",
+        "uuid": "Compendium.pf2e.feats-srd.Item.FVUdPhbBOvirUNbN"
+    },
+    {
         "slug": "fey-fellowship",
         "uuid": "Compendium.pf2e.feats-srd.Item.FWCULKnVXhSPL0ST"
     },
@@ -6202,6 +6334,10 @@
     {
         "slug": "battlefront-sabotage",
         "uuid": "Compendium.pf2e.feats-srd.Item.FtnFytJxa2ix1r5z"
+    },
+    {
+        "slug": "shroud-of-the-seas",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Fve2elM0GSKnRTcV"
     },
     {
         "slug": "scattering-shout",
@@ -6520,6 +6656,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.H1kZ8nqvHlAazM35"
     },
     {
+        "slug": "cruel-piercing",
+        "uuid": "Compendium.pf2e.feats-srd.Item.H2FfkPRRBwTlCAQW"
+    },
+    {
         "slug": "hybrid-study-spell",
         "uuid": "Compendium.pf2e.feats-srd.Item.H2GlPobLyqgBYbd9"
     },
@@ -6780,6 +6920,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.HkbP5zbN2meRiP7w"
     },
     {
+        "slug": "ships-shadow",
+        "uuid": "Compendium.pf2e.feats-srd.Item.HlQyTq4A8fGKxuKz"
+    },
+    {
         "slug": "lethargy-poisoner",
         "uuid": "Compendium.pf2e.feats-srd.Item.HlSwpxreIfsglTJ8"
     },
@@ -7012,6 +7156,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.IQGx2nSNsyPGtzYt"
     },
     {
+        "slug": "denounce-tyranny",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ISjnymvdFOPED9um"
+    },
+    {
         "slug": "elemental-existence",
         "uuid": "Compendium.pf2e.feats-srd.Item.IUQPZnHQYQbnxFzo"
     },
@@ -7116,12 +7264,20 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.Ij6BBPzZvOFZ3prs"
     },
     {
+        "slug": "mortal-possibility",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Il4Zx2Z2tvJoWVTF"
+    },
+    {
         "slug": "heart-of-earth",
         "uuid": "Compendium.pf2e.feats-srd.Item.IlD1DL4kZl1tinCT"
     },
     {
         "slug": "quick-identification",
         "uuid": "Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S"
+    },
+    {
+        "slug": "high-alert",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Ilh66megcbP7ahMN"
     },
     {
         "slug": "dire-growth",
@@ -7404,6 +7560,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.JStTmD3W8R41WvPg"
     },
     {
+        "slug": "norgorbers-secret",
+        "uuid": "Compendium.pf2e.feats-srd.Item.JVrA68GeZBvlE9Nv"
+    },
+    {
         "slug": "base-kinesis",
         "uuid": "Compendium.pf2e.feats-srd.Item.JX9RKSlI9jSqkXa0"
     },
@@ -7564,6 +7724,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.JxZobgFhLBNcFCwE"
     },
     {
+        "slug": "fast-swimmer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.JyXNe9gV7LVHIjxz"
+    },
+    {
         "slug": "weighty-impact",
         "uuid": "Compendium.pf2e.feats-srd.Item.K0gyvvX0S2FdJZ5T"
     },
@@ -7632,6 +7796,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.KFM6XeDnQoYQsIM5"
     },
     {
+        "slug": "nidalese-horselord-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.KGskOgyMJVlpNtua"
+    },
+    {
         "slug": "waters-of-creation",
         "uuid": "Compendium.pf2e.feats-srd.Item.KGxGE0yv69ND2hct"
     },
@@ -7658,6 +7826,10 @@
     {
         "slug": "coral-reserve",
         "uuid": "Compendium.pf2e.feats-srd.Item.KN6IxTO7H5WGYh3W"
+    },
+    {
+        "slug": "horselords-bond",
+        "uuid": "Compendium.pf2e.feats-srd.Item.KNMKhrpOLb5X6RaX"
     },
     {
         "slug": "scour-the-library",
@@ -8152,6 +8324,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.LlTIbv1py77nACkI"
     },
     {
+        "slug": "rose-warden-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.LlV0KHIebzdczgyD"
+    },
+    {
         "slug": "soothing-ballad",
         "uuid": "Compendium.pf2e.feats-srd.Item.LmdOWCDffhBiyzM3"
     },
@@ -8184,6 +8360,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.Ls3MiZ5RcAWaiQ7f"
     },
     {
+        "slug": "commitment-to-valor",
+        "uuid": "Compendium.pf2e.feats-srd.Item.LuVFotZD7ifyUROq"
+    },
+    {
         "slug": "story-crooner",
         "uuid": "Compendium.pf2e.feats-srd.Item.Lug2p9E065L05Rhi"
     },
@@ -8202,6 +8382,10 @@
     {
         "slug": "delver",
         "uuid": "Compendium.pf2e.feats-srd.Item.LxAEF9VPwUVttA0F"
+    },
+    {
+        "slug": "propelled-leap",
+        "uuid": "Compendium.pf2e.feats-srd.Item.LyqXT4XYYlgf8KYK"
     },
     {
         "slug": "hybrid-shape",
@@ -8384,6 +8568,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.MYzRfNExDYp25rro"
     },
     {
+        "slug": "libertys-promise",
+        "uuid": "Compendium.pf2e.feats-srd.Item.MbNLIACQfPdVOL6F"
+    },
+    {
         "slug": "perfect-dive",
         "uuid": "Compendium.pf2e.feats-srd.Item.MbvPuMVy2VhftJgd"
     },
@@ -8406,6 +8594,10 @@
     {
         "slug": "energy-fusion",
         "uuid": "Compendium.pf2e.feats-srd.Item.MgqRwyL8PWyYvoZs"
+    },
+    {
+        "slug": "march-of-law",
+        "uuid": "Compendium.pf2e.feats-srd.Item.MhPL9hPE9Mwg20zk"
     },
     {
         "slug": "tactical-entry",
@@ -8642,6 +8834,10 @@
     {
         "slug": "magpie-snatch",
         "uuid": "Compendium.pf2e.feats-srd.Item.NBwH9wEeUfKfOg8R"
+    },
+    {
+        "slug": "caydens-freedom",
+        "uuid": "Compendium.pf2e.feats-srd.Item.NCoSf77e6etkfqtx"
     },
     {
         "slug": "concentrated-assault",
@@ -8900,6 +9096,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.NwMiszlcqNZWtezq"
     },
     {
+        "slug": "uncanny-prediction",
+        "uuid": "Compendium.pf2e.feats-srd.Item.NxLgBXWeq4h4PDmQ"
+    },
+    {
         "slug": "impressive-mount",
         "uuid": "Compendium.pf2e.feats-srd.Item.Nxke8WzifQafSa4I"
     },
@@ -8942,6 +9142,10 @@
     {
         "slug": "strike-rivers-seize-winds",
         "uuid": "Compendium.pf2e.feats-srd.Item.O3vj6p7K49gKKVWM"
+    },
+    {
+        "slug": "gather-disciples",
+        "uuid": "Compendium.pf2e.feats-srd.Item.O5EQnF6Iqs8uD64X"
     },
     {
         "slug": "duskwalker-lore",
@@ -9196,7 +9400,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.OljNnAAEwvD7qDOt"
     },
     {
-        "slug": "armigers-mobility",
+        "slug": "hellknight-mobility",
         "uuid": "Compendium.pf2e.feats-srd.Item.Olx796SgBbHUFeHc"
     },
     {
@@ -9254,6 +9458,10 @@
     {
         "slug": "eye-of-the-arclords",
         "uuid": "Compendium.pf2e.feats-srd.Item.OtV7esAwza1U6Kwr"
+    },
+    {
+        "slug": "brastlewark-snare-engineering",
+        "uuid": "Compendium.pf2e.feats-srd.Item.OuEIsBtQD1Fgx6Gz"
     },
     {
         "slug": "ocean-wariness",
@@ -9756,6 +9964,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.Q21KzuubUBBkoges"
     },
     {
+        "slug": "rend-armor",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Q35r2ssLpGUBRksE"
+    },
+    {
         "slug": "headshot",
         "uuid": "Compendium.pf2e.feats-srd.Item.Q4NiHmThMtk8razS"
     },
@@ -9842,6 +10054,10 @@
     {
         "slug": "vicious-incisors",
         "uuid": "Compendium.pf2e.feats-srd.Item.QHwajD5n8P3oS9Wb"
+    },
+    {
+        "slug": "libertys-devotion",
+        "uuid": "Compendium.pf2e.feats-srd.Item.QJpaTE4irRo5P5By"
     },
     {
         "slug": "counter-thought",
@@ -10012,6 +10228,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.QlBQEkFqiYsU2Y3x"
     },
     {
+        "slug": "repel-darkness",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Qlj0afC9E60yAKML"
+    },
+    {
         "slug": "pathfinder-agent-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.QnB5ArlO4wlRXQ2E"
     },
@@ -10070,6 +10290,10 @@
     {
         "slug": "reflect-harm",
         "uuid": "Compendium.pf2e.feats-srd.Item.Qy25HbkFgoUn4Vb3"
+    },
+    {
+        "slug": "vengeance-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Qzc6Af0o0IjjtCer"
     },
     {
         "slug": "ranger-dedication",
@@ -10348,6 +10572,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.RlhvppSmQRqL2RUe"
     },
     {
+        "slug": "iomedaes-valor",
+        "uuid": "Compendium.pf2e.feats-srd.Item.RmAl2BfBkFj8RC1S"
+    },
+    {
         "slug": "haughty-obstinacy",
         "uuid": "Compendium.pf2e.feats-srd.Item.RmiMUZlae6yGUyXY"
     },
@@ -10508,6 +10736,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.S6ilPkeroXoGgZXm"
     },
     {
+        "slug": "arodens-innovation",
+        "uuid": "Compendium.pf2e.feats-srd.Item.S7g69b0VW1nUJsCs"
+    },
+    {
         "slug": "quietus-strikes",
         "uuid": "Compendium.pf2e.feats-srd.Item.S7z1LbnSRlBep8rO"
     },
@@ -10594,6 +10826,10 @@
     {
         "slug": "advanced-flair",
         "uuid": "Compendium.pf2e.feats-srd.Item.SHhiLn0OSILEXNOj"
+    },
+    {
+        "slug": "advanced-deific-power",
+        "uuid": "Compendium.pf2e.feats-srd.Item.SHhuzlK4VkOMlZBh"
     },
     {
         "slug": "swordmaster-dedication",
@@ -10820,6 +11056,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.SuIRAnpe0RvNrx6I"
     },
     {
+        "slug": "make-do",
+        "uuid": "Compendium.pf2e.feats-srd.Item.SveiYRnJQ2plYFJ7"
+    },
+    {
         "slug": "make-em-sweat",
         "uuid": "Compendium.pf2e.feats-srd.Item.SwkIcrtHO60FkhEH"
     },
@@ -10990,6 +11230,10 @@
     {
         "slug": "exorcist-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.TUIQBw9miDowhezw"
+    },
+    {
+        "slug": "minor-deific-power",
+        "uuid": "Compendium.pf2e.feats-srd.Item.TUeIJ8TVGxIyd8dr"
     },
     {
         "slug": "cloud-jump",
@@ -11352,6 +11596,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.UCen3Tq6BJlNI7rx"
     },
     {
+        "slug": "sister-of-the-golden-erinys-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.UChWjUmCHLTny5QA"
+    },
+    {
         "slug": "disk-rider",
         "uuid": "Compendium.pf2e.feats-srd.Item.UEbBOljjXvKsGKFu"
     },
@@ -11542,6 +11790,10 @@
     {
         "slug": "eagle-eyes",
         "uuid": "Compendium.pf2e.feats-srd.Item.UhmPekgw2HO40zKC"
+    },
+    {
+        "slug": "feign-innocence",
+        "uuid": "Compendium.pf2e.feats-srd.Item.UhyoBNQbGP6lKjwE"
     },
     {
         "slug": "noxious-odor",
@@ -11748,6 +12000,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.V9kShXu84NlORfcg"
     },
     {
+        "slug": "fiendish-brand",
+        "uuid": "Compendium.pf2e.feats-srd.Item.VAIr1TpHZdxWovqG"
+    },
+    {
         "slug": "enervating-wail",
         "uuid": "Compendium.pf2e.feats-srd.Item.VAxtUenSWEBWYBRt"
     },
@@ -11764,7 +12020,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.VCjAlOvjNvFJOsG5"
     },
     {
-        "slug": "evasiveness-rogue",
+        "slug": "evasiveness",
         "uuid": "Compendium.pf2e.feats-srd.Item.VD446AflrQ3kO1al"
     },
     {
@@ -11806,6 +12062,10 @@
     {
         "slug": "terrain-master",
         "uuid": "Compendium.pf2e.feats-srd.Item.VKNxblSUxYXQYlLr"
+    },
+    {
+        "slug": "undersea-privateer-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.VKpPMt0W3eVGnjB3"
     },
     {
         "slug": "flexible-tail",
@@ -11908,6 +12168,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.VXAIElMlMnVvz3x5"
     },
     {
+        "slug": "broad-snare",
+        "uuid": "Compendium.pf2e.feats-srd.Item.VXIfIC7mFHx1Tl7C"
+    },
+    {
         "slug": "deflecting-cloud",
         "uuid": "Compendium.pf2e.feats-srd.Item.VYdZmTifZRkRF7ey"
     },
@@ -11930,6 +12194,10 @@
     {
         "slug": "untamed-form",
         "uuid": "Compendium.pf2e.feats-srd.Item.VaIHQzOE5ibmbtqU"
+    },
+    {
+        "slug": "instant-credentials",
+        "uuid": "Compendium.pf2e.feats-srd.Item.VaKsW4wjZ9g7UZGh"
     },
     {
         "slug": "cavaliers-charge",
@@ -12264,6 +12532,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.WfbmFsRxbVyzMmCz"
     },
     {
+        "slug": "unassailable-enforcer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Wgkcwsq6irXpwyve"
+    },
+    {
         "slug": "transcendent-deflection",
         "uuid": "Compendium.pf2e.feats-srd.Item.WglDQlEtHnZ2eFhW"
     },
@@ -12338,6 +12610,10 @@
     {
         "slug": "phonetic-training",
         "uuid": "Compendium.pf2e.feats-srd.Item.Wsrw68pklQyaScMX"
+    },
+    {
+        "slug": "inked-cache",
+        "uuid": "Compendium.pf2e.feats-srd.Item.WtswAs4isNAQUNey"
     },
     {
         "slug": "secrets-of-the-past",
@@ -12554,6 +12830,10 @@
     {
         "slug": "gang-up",
         "uuid": "Compendium.pf2e.feats-srd.Item.XRahcvEPEAEdGUn8"
+    },
+    {
+        "slug": "talons-mark",
+        "uuid": "Compendium.pf2e.feats-srd.Item.XUqqOiIpCXXTHxce"
     },
     {
         "slug": "complete-the-heros-journey",
@@ -12936,6 +13216,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.YNk0BekymS3bBvCT"
     },
     {
+        "slug": "crack-retort",
+        "uuid": "Compendium.pf2e.feats-srd.Item.YNypgzb58G3HKT6h"
+    },
+    {
         "slug": "cascade-bearers-flexibility",
         "uuid": "Compendium.pf2e.feats-srd.Item.YOU5eCD5S4cS6Qeu"
     },
@@ -13104,6 +13388,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.YndH82FX7KLawNBW"
     },
     {
+        "slug": "promise-of-pain",
+        "uuid": "Compendium.pf2e.feats-srd.Item.YojUMTTPbLdqk5Rq"
+    },
+    {
         "slug": "effortless-impulse",
         "uuid": "Compendium.pf2e.feats-srd.Item.YpRd68IAAKz64Lwt"
     },
@@ -13134,6 +13422,10 @@
     {
         "slug": "surging-interference",
         "uuid": "Compendium.pf2e.feats-srd.Item.YtvnnUwh4IHPz0MW"
+    },
+    {
+        "slug": "gallop-across-shadow",
+        "uuid": "Compendium.pf2e.feats-srd.Item.YvgOUg1h0WDasGWl"
     },
     {
         "slug": "occult-breadth",
@@ -13184,6 +13476,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.Z7M3ImHWqUyGu6cN"
     },
     {
+        "slug": "domino-effect",
+        "uuid": "Compendium.pf2e.feats-srd.Item.Z8r7U99OSmlxmV1b"
+    },
+    {
         "slug": "greater-armament",
         "uuid": "Compendium.pf2e.feats-srd.Item.Z91dIlVcJXoicbHj"
     },
@@ -13222,6 +13518,10 @@
     {
         "slug": "rod-of-rule",
         "uuid": "Compendium.pf2e.feats-srd.Item.ZELjVKOohGw3ECwB"
+    },
+    {
+        "slug": "sundown-street-posturing",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ZFC7VRYrNOsxlihA"
     },
     {
         "slug": "caretakers-intuition",
@@ -13326,6 +13626,10 @@
     {
         "slug": "pin-to-the-spot",
         "uuid": "Compendium.pf2e.feats-srd.Item.ZTxiM8NExDmxHJDf"
+    },
+    {
+        "slug": "officers-protection",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ZWyJB0ykD9Mh001u"
     },
     {
         "slug": "shared-dream",
@@ -13688,6 +13992,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.aSgLhr8mM53DWbFc"
     },
     {
+        "slug": "deceptive-deduction",
+        "uuid": "Compendium.pf2e.feats-srd.Item.aTDFdtAuzPBv2xbw"
+    },
+    {
         "slug": "lonely-army",
         "uuid": "Compendium.pf2e.feats-srd.Item.aTI1r1RaZ1o0givR"
     },
@@ -13862,6 +14170,10 @@
     {
         "slug": "ive-had-many-jobs",
         "uuid": "Compendium.pf2e.feats-srd.Item.asjDgf7Q9BWZoK5Y"
+    },
+    {
+        "slug": "unbalancing-appearance",
+        "uuid": "Compendium.pf2e.feats-srd.Item.atyeSqWEXRxnrt7i"
     },
     {
         "slug": "sneaky",
@@ -14164,6 +14476,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.bft7gWfibx3BY5BK"
     },
     {
+        "slug": "bloom-cabaret-entrance",
+        "uuid": "Compendium.pf2e.feats-srd.Item.bgchp6d8tRwo1Uj2"
+    },
+    {
         "slug": "investigate-haunting",
         "uuid": "Compendium.pf2e.feats-srd.Item.bgnf7USFkqsNh8j1"
     },
@@ -14218,6 +14534,10 @@
     {
         "slug": "cave-climber",
         "uuid": "Compendium.pf2e.feats-srd.Item.bo4JG09pkoS7ywSZ"
+    },
+    {
+        "slug": "stealthy-as-an-octopus",
+        "uuid": "Compendium.pf2e.feats-srd.Item.boYbKJ0xTHAWMSk4"
     },
     {
         "slug": "ceremony-of-strengthened-hand",
@@ -14340,7 +14660,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.c9fHUSI5lRdXu1Ic"
     },
     {
-        "slug": "skill-mastery-rogue",
+        "slug": "skill-mastery",
         "uuid": "Compendium.pf2e.feats-srd.Item.c9rhGmKft1BVT4JO"
     },
     {
@@ -14600,6 +14920,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.ct4dJHBn1Dj4cx4B"
     },
     {
+        "slug": "perplex",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ctl5zNJC3APlHg9o"
+    },
+    {
         "slug": "ode-to-ouroboros",
         "uuid": "Compendium.pf2e.feats-srd.Item.cvo3DIL0BIRrDkQ6"
     },
@@ -14768,6 +15092,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.dHJw5Yv0gY3suBZo"
     },
     {
+        "slug": "blessed-thorn-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.dHQovShiOg8CsuhJ"
+    },
+    {
         "slug": "reflexive-shield",
         "uuid": "Compendium.pf2e.feats-srd.Item.dHUoQVzDa9Cf4QCG"
     },
@@ -14790,6 +15118,10 @@
     {
         "slug": "sixth-sense",
         "uuid": "Compendium.pf2e.feats-srd.Item.dMKx0T629hpJCN8T"
+    },
+    {
+        "slug": "pure-legion-enforcer-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.dMzUm4TJ7KeX2DLR"
     },
     {
         "slug": "nimble-dodge",
@@ -14862,6 +15194,10 @@
     {
         "slug": "worm-empathy",
         "uuid": "Compendium.pf2e.feats-srd.Item.dbbX170jFFMi8sac"
+    },
+    {
+        "slug": "infernal-interference",
+        "uuid": "Compendium.pf2e.feats-srd.Item.dbqpcMp7RwYzT4Ec"
     },
     {
         "slug": "terrified-retreat",
@@ -15620,6 +15956,14 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.fOIUmDGa9gkeCHA0"
     },
     {
+        "slug": "rise-up",
+        "uuid": "Compendium.pf2e.feats-srd.Item.fOwArAHixZsrpUMM"
+    },
+    {
+        "slug": "burn-identity",
+        "uuid": "Compendium.pf2e.feats-srd.Item.fPTwCnKYesk1PvuI"
+    },
+    {
         "slug": "digger",
         "uuid": "Compendium.pf2e.feats-srd.Item.fPYf0uKRz3ce29PR"
     },
@@ -15646,6 +15990,10 @@
     {
         "slug": "basic-cathartic-spellcasting",
         "uuid": "Compendium.pf2e.feats-srd.Item.fVP8jX7yRUpyrcVO"
+    },
+    {
+        "slug": "petal-district-socialite",
+        "uuid": "Compendium.pf2e.feats-srd.Item.fWyBSrf2IxMEoqNa"
     },
     {
         "slug": "water-walker",
@@ -15866,6 +16214,14 @@
     {
         "slug": "esteemed-visitor",
         "uuid": "Compendium.pf2e.feats-srd.Item.gC5EnlP38t1vTlWt"
+    },
+    {
+        "slug": "commitment-to-protection",
+        "uuid": "Compendium.pf2e.feats-srd.Item.gCUJYnWPQ9VM8eXk"
+    },
+    {
+        "slug": "repelling-enforcer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.gDpOpq5SDBnSYWUm"
     },
     {
         "slug": "nothing-personal",
@@ -16196,6 +16552,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.h11M3QrIHKLj2ezy"
     },
     {
+        "slug": "armigers-protection",
+        "uuid": "Compendium.pf2e.feats-srd.Item.h1TgAE6YeoiJnmex"
+    },
+    {
         "slug": "political-acumen",
         "uuid": "Compendium.pf2e.feats-srd.Item.h3h6QWv1m3MOpx66"
     },
@@ -16258,6 +16618,10 @@
     {
         "slug": "elbow-breaker",
         "uuid": "Compendium.pf2e.feats-srd.Item.hENWnoZNljeJnZBR"
+    },
+    {
+        "slug": "conjure-hell",
+        "uuid": "Compendium.pf2e.feats-srd.Item.hEcKcvcrnL7olmsc"
     },
     {
         "slug": "crushing-grab",
@@ -16456,6 +16820,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.hlX7jYoS1s6srZC2"
     },
     {
+        "slug": "commitment-to-vigilance",
+        "uuid": "Compendium.pf2e.feats-srd.Item.hlujiz5xxb50jqeL"
+    },
+    {
         "slug": "wither-away",
         "uuid": "Compendium.pf2e.feats-srd.Item.hmpkzEQV6kTFxPan"
     },
@@ -16632,7 +17000,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.iDimfGmQHacwxeh2"
     },
     {
-        "slug": "hellknight-order-cross-training",
+        "slug": "order-cross-training",
         "uuid": "Compendium.pf2e.feats-srd.Item.iFEecf9o6uhJxWcG"
     },
     {
@@ -17020,6 +17388,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.jABl7ROkV1tsX87g"
     },
     {
+        "slug": "hell-lancer-shot",
+        "uuid": "Compendium.pf2e.feats-srd.Item.jAQRg40crmZgPkDr"
+    },
+    {
         "slug": "greater-magical-edification",
         "uuid": "Compendium.pf2e.feats-srd.Item.jBHDVsTVOBeoMoO4"
     },
@@ -17288,6 +17660,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.jxUPlkB2kFuZKXef"
     },
     {
+        "slug": "salt-kissed",
+        "uuid": "Compendium.pf2e.feats-srd.Item.jyNLPVWczMYA1ZXR"
+    },
+    {
         "slug": "worm-form",
         "uuid": "Compendium.pf2e.feats-srd.Item.jynhIXH1zEavQA7v"
     },
@@ -17378,6 +17754,10 @@
     {
         "slug": "shadow-of-the-wilds",
         "uuid": "Compendium.pf2e.feats-srd.Item.kDklfrprKTuTpcEE"
+    },
+    {
+        "slug": "liberated-mind",
+        "uuid": "Compendium.pf2e.feats-srd.Item.kF7dYvDYcoBABmLA"
     },
     {
         "slug": "advanced-weaponry",
@@ -17856,6 +18236,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.lLO0WSxE3tO3Ovsq"
     },
     {
+        "slug": "slippery-as-an-eel",
+        "uuid": "Compendium.pf2e.feats-srd.Item.lLYn6GtAbyns0ENC"
+    },
+    {
         "slug": "rivethun-disciple",
         "uuid": "Compendium.pf2e.feats-srd.Item.lLZ9B0KeMDf3BNuA"
     },
@@ -17926,6 +18310,10 @@
     {
         "slug": "energy-resistance",
         "uuid": "Compendium.pf2e.feats-srd.Item.lVXk0fhZqjqKilhB"
+    },
+    {
+        "slug": "magpie-manor-recovery",
+        "uuid": "Compendium.pf2e.feats-srd.Item.lWDM4XNj1MQzTVm2"
     },
     {
         "slug": "tangle-of-limbs",
@@ -18764,6 +19152,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.nWxNV9pFeBHV671W"
     },
     {
+        "slug": "no-gods-only-mortals",
+        "uuid": "Compendium.pf2e.feats-srd.Item.nXbczPfLNbuosNLE"
+    },
+    {
         "slug": "phase-bullet",
         "uuid": "Compendium.pf2e.feats-srd.Item.nY8HtHNJMqP0hz3v"
     },
@@ -19116,7 +19508,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.oNUIacH67QDxT5ki"
     },
     {
-        "slug": "hellknight-dedication",
+        "slug": "hellknight-preferment",
         "uuid": "Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph"
     },
     {
@@ -19236,6 +19628,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.okJjCvQ6hcCk8FOC"
     },
     {
+        "slug": "major-deific-power",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ol8PwEDWmkl5zdOy"
+    },
+    {
         "slug": "battle-hardened-companion",
         "uuid": "Compendium.pf2e.feats-srd.Item.ollJpDIYG2z8oSm1"
     },
@@ -19312,6 +19708,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.oyE933TmrbRyYqJY"
     },
     {
+        "slug": "return-to-the-pit",
+        "uuid": "Compendium.pf2e.feats-srd.Item.oyIswzxeih08b4rA"
+    },
+    {
         "slug": "eldritch-archer-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.oyLkqhDGwGGj40ME"
     },
@@ -19366,6 +19766,10 @@
     {
         "slug": "shackleborn",
         "uuid": "Compendium.pf2e.feats-srd.Item.p5MNrGSTmMATRG8C"
+    },
+    {
+        "slug": "holy-bloom",
+        "uuid": "Compendium.pf2e.feats-srd.Item.p6TGLeRmYINvbLNW"
     },
     {
         "slug": "snow-step",
@@ -19446,6 +19850,10 @@
     {
         "slug": "twin-stars",
         "uuid": "Compendium.pf2e.feats-srd.Item.pJaJUmTrQkXW2s9G"
+    },
+    {
+        "slug": "for-the-fallen",
+        "uuid": "Compendium.pf2e.feats-srd.Item.pKAjzKWH6ZH10wpb"
     },
     {
         "slug": "haft-striker-stance",
@@ -19534,6 +19942,10 @@
     {
         "slug": "basic-field-training",
         "uuid": "Compendium.pf2e.feats-srd.Item.pYG2LqJ644pzwtIG"
+    },
+    {
+        "slug": "edict-of-mortality",
+        "uuid": "Compendium.pf2e.feats-srd.Item.pYYSLNUWGMYxYNkG"
     },
     {
         "slug": "horizon-walker-dedication",
@@ -19732,8 +20144,20 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.q4wFELOV4BQO4cDd"
     },
     {
+        "slug": "barricade-snare",
+        "uuid": "Compendium.pf2e.feats-srd.Item.q5nSrvVggjSBcc0f"
+    },
+    {
         "slug": "propulsive-leap",
         "uuid": "Compendium.pf2e.feats-srd.Item.q8c0LINVNcJrdK91"
+    },
+    {
+        "slug": "twilight-talon-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.q8xL4l04rFcc126W"
+    },
+    {
+        "slug": "defy-chains",
+        "uuid": "Compendium.pf2e.feats-srd.Item.q9ssy4PN38l0930m"
     },
     {
         "slug": "coughing-dragon-display",
@@ -19742,6 +20166,10 @@
     {
         "slug": "ceremony-of-aeons-shield",
         "uuid": "Compendium.pf2e.feats-srd.Item.qAdlJvAHkWBisDJ0"
+    },
+    {
+        "slug": "steel-falcon-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.qBiKxw3rzDAH7oz3"
     },
     {
         "slug": "foxfire",
@@ -19774,6 +20202,10 @@
     {
         "slug": "verbose-distraction",
         "uuid": "Compendium.pf2e.feats-srd.Item.qIppU9rZRmgEA5pX"
+    },
+    {
+        "slug": "hidden-intentions",
+        "uuid": "Compendium.pf2e.feats-srd.Item.qJ4UbBYajh62SWDE"
     },
     {
         "slug": "heavens-thunder",
@@ -19952,7 +20384,7 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.qgn9YpmmmnB17mzD"
     },
     {
-        "slug": "hellknight-armiger-dedication",
+        "slug": "hellknight-dedication",
         "uuid": "Compendium.pf2e.feats-srd.Item.qhs0mWbaLKsdckZX"
     },
     {
@@ -20176,6 +20608,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.rKZE8BA9IQHSSWoW"
     },
     {
+        "slug": "defy-hell",
+        "uuid": "Compendium.pf2e.feats-srd.Item.rLAaQBIgnv6zeNvP"
+    },
+    {
         "slug": "glorious-gamtu",
         "uuid": "Compendium.pf2e.feats-srd.Item.rLP6gkn74KxjqUz6"
     },
@@ -20278,6 +20714,10 @@
     {
         "slug": "treat-condition",
         "uuid": "Compendium.pf2e.feats-srd.Item.rfnEcjxIFqwlJwJT"
+    },
+    {
+        "slug": "flower-street-infamy",
+        "uuid": "Compendium.pf2e.feats-srd.Item.rgmX9TTthBYo508T"
     },
     {
         "slug": "effortless-concentration",
@@ -20632,6 +21072,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.si8FGX2ZRxetdVHp"
     },
     {
+        "slug": "no-need-to-fear",
+        "uuid": "Compendium.pf2e.feats-srd.Item.siAyL2fB3iSNmMRA"
+    },
+    {
         "slug": "denier-of-destruction",
         "uuid": "Compendium.pf2e.feats-srd.Item.siegOEdEpevAJNFw"
     },
@@ -20860,6 +21304,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.tFgsBRsEo9ZEA5fU"
     },
     {
+        "slug": "face-your-fears",
+        "uuid": "Compendium.pf2e.feats-srd.Item.tFoInIrUkGlWeNFF"
+    },
+    {
         "slug": "exploit-blunder",
         "uuid": "Compendium.pf2e.feats-srd.Item.tFrGaa0qI2JvnHsD"
     },
@@ -20976,6 +21424,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.tZLixgaZKeWwPXKW"
     },
     {
+        "slug": "gray-corsair-training",
+        "uuid": "Compendium.pf2e.feats-srd.Item.tajGEkmgUq2OY4W9"
+    },
+    {
         "slug": "world-wise-vigilance",
         "uuid": "Compendium.pf2e.feats-srd.Item.thNurw2OnN9jpBGV"
     },
@@ -21082,6 +21534,10 @@
     {
         "slug": "project-persona",
         "uuid": "Compendium.pf2e.feats-srd.Item.twnZopGlB392hmqH"
+    },
+    {
+        "slug": "fear-no-pain",
+        "uuid": "Compendium.pf2e.feats-srd.Item.twx7XDGabYJz92mD"
     },
     {
         "slug": "elementalist-dedication",
@@ -21532,6 +21988,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.v22FQuw17Dlr1b3x"
     },
     {
+        "slug": "hellbreaker-dedication",
+        "uuid": "Compendium.pf2e.feats-srd.Item.v22KrWg1T7F5VYgx"
+    },
+    {
         "slug": "slowing-strike",
         "uuid": "Compendium.pf2e.feats-srd.Item.v2AScyQidSsrfm6z"
     },
@@ -21542,10 +22002,6 @@
     {
         "slug": "borrowed-ability",
         "uuid": "Compendium.pf2e.feats-srd.Item.v4N0tTGjKGMwjqUG"
-    },
-    {
-        "slug": "skill-mastery-investigator",
-        "uuid": "Compendium.pf2e.feats-srd.Item.v4O6eDiSOkzQZHmT"
     },
     {
         "slug": "craft-anything",
@@ -21678,6 +22134,10 @@
     {
         "slug": "burning-jet",
         "uuid": "Compendium.pf2e.feats-srd.Item.vS3GSv6ndGmh8FXz"
+    },
+    {
+        "slug": "throttle-the-divine",
+        "uuid": "Compendium.pf2e.feats-srd.Item.vU2wlSpnBTZK72MB"
     },
     {
         "slug": "vindicator-dedication",
@@ -21952,6 +22412,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.w7dOgJvqAqyqSeSQ"
     },
     {
+        "slug": "trained-swimmer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.w7qyBwVzAAL1ORDd"
+    },
+    {
         "slug": "reactive-shield",
         "uuid": "Compendium.pf2e.feats-srd.Item.w8Ycgeq2zfyshtoS"
     },
@@ -21990,6 +22454,10 @@
     {
         "slug": "apparition-stabilization",
         "uuid": "Compendium.pf2e.feats-srd.Item.wEMZv0MIBktiwgxH"
+    },
+    {
+        "slug": "unfettering-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.wEd75qYscD6PsRnE"
     },
     {
         "slug": "nosois-mask",
@@ -22312,6 +22780,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.xAIUuSw5A85XEStY"
     },
     {
+        "slug": "wall-of-roses",
+        "uuid": "Compendium.pf2e.feats-srd.Item.xANbzN9fbrrPSpZw"
+    },
+    {
         "slug": "reactive-interference",
         "uuid": "Compendium.pf2e.feats-srd.Item.xBqDeQFzvuDfqhZC"
     },
@@ -22454,6 +22926,10 @@
     {
         "slug": "sin-counterspell",
         "uuid": "Compendium.pf2e.feats-srd.Item.xblAUCASehLA9fbc"
+    },
+    {
+        "slug": "eye-for-smugglers",
+        "uuid": "Compendium.pf2e.feats-srd.Item.xbop3j8WZmCw9cAQ"
     },
     {
         "slug": "fortunate-blow",
@@ -22672,6 +23148,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.yEbXxbD317IZgtsN"
     },
     {
+        "slug": "eye-for-weakness",
+        "uuid": "Compendium.pf2e.feats-srd.Item.yEf1fHurgE7dMRcT"
+    },
+    {
         "slug": "communal-healing",
         "uuid": "Compendium.pf2e.feats-srd.Item.yExxOkHN1PN37hUa"
     },
@@ -22888,6 +23368,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.yj70CxBMXuyjqiIU"
     },
     {
+        "slug": "wrathful-presence",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ykqZmY0CsaV1kyt4"
+    },
+    {
         "slug": "scattering-charge",
         "uuid": "Compendium.pf2e.feats-srd.Item.ylDAxUpT0rXxilro"
     },
@@ -22898,6 +23382,10 @@
     {
         "slug": "mature-animal-companion-druid",
         "uuid": "Compendium.pf2e.feats-srd.Item.yozSCfdLFHVBbTxj"
+    },
+    {
+        "slug": "riptide-undersea-privateer",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ypIzURz2VBJCOran"
     },
     {
         "slug": "alchemical-assessment",
@@ -22938,6 +23426,10 @@
     {
         "slug": "apparitions-quickening",
         "uuid": "Compendium.pf2e.feats-srd.Item.yvEzj1dnBEggKuST"
+    },
+    {
+        "slug": "traces-of-the-divine",
+        "uuid": "Compendium.pf2e.feats-srd.Item.yxScjPfOuvrIqPkQ"
     },
     {
         "slug": "apparitions-enhancement",
@@ -23144,6 +23636,10 @@
         "uuid": "Compendium.pf2e.feats-srd.Item.zTulA4sVXwLRm28Z"
     },
     {
+        "slug": "unfetter-sight",
+        "uuid": "Compendium.pf2e.feats-srd.Item.zTzReEKvTwtRczlI"
+    },
+    {
         "slug": "pact-of-the-crossroads",
         "uuid": "Compendium.pf2e.feats-srd.Item.zU0nKWJIWlKaT0gt"
     },
@@ -23230,6 +23726,10 @@
     {
         "slug": "bloodline-resistance",
         "uuid": "Compendium.pf2e.feats-srd.Item.zf6Poru1jNmrO3kk"
+    },
+    {
+        "slug": "float-free",
+        "uuid": "Compendium.pf2e.feats-srd.Item.zfNLF9S8drNKkljN"
     },
     {
         "slug": "dual-thrower",
@@ -23334,6 +23834,10 @@
     {
         "slug": "pact-of-infernal-prowess",
         "uuid": "Compendium.pf2e.feats-srd.Item.ztxbGySxIEeWvsAT"
+    },
+    {
+        "slug": "dismounting-strike",
+        "uuid": "Compendium.pf2e.feats-srd.Item.zv1J1SlorWZc4P8U"
     },
     {
         "slug": "cat-nap",

@@ -1,4 +1,4 @@
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
 export const path = ["Actions", "Drop Prone"];
 

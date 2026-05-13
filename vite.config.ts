@@ -1,12 +1,10 @@
 import vttSync from "foundryvtt-sync";
 import { defineConfig } from "vite";
-import tsconfigPaths from "vite-tsconfig-paths";
 import moduleJSON from "./module.json" with { type: "json" };
 import * as compendiumPacks from "./src/compendium-packs.ts";
 import { replaceCodePlugin } from "./vite-plugin-replace.ts";
 
 export default defineConfig({
-    root: "./src",
     base: `/modules/${moduleJSON.id}/dist`,
     server: {
         open: "/",
@@ -21,21 +19,12 @@ export default defineConfig({
         }
     },
     build: {
-        outDir: "../dist",
         emptyOutDir: true,
         sourcemap: true,
-        lib: { entry: "index.ts", formats: ["es"], fileName: moduleJSON.id },
-        rollupOptions: {
-            output: {
-                manualChunks: () => {
-                    return moduleJSON.id;
-                }
-            }
-        }
+        lib: { entry: "./src/index.ts", formats: ["es"], fileName: moduleJSON.id }
     },
     plugins: [
         replaceCodePlugin(compendiumPacks),
-        tsconfigPaths(),
         vttSync(moduleJSON, {
             dataDirectory: "src/packs",
             transformer(doc) {

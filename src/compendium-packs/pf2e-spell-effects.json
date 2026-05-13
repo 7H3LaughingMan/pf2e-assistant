@@ -56,10 +56,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.0eP0JRBPwfRyu7gN"
     },
     {
-        "slug": "spell-effect-adapt-self-darkvision",
-        "uuid": "Compendium.pf2e.spell-effects.Item.0gv9D5RlrF5cKA3I"
-    },
-    {
         "slug": "spell-effect-anima-invocation",
         "uuid": "Compendium.pf2e.spell-effects.Item.0koqUuC1YW4F1l5z"
     },
@@ -140,10 +136,6 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.2KQSsrzUqAxSXOdd"
     },
     {
-        "slug": "spell-effect-adapt-self-swim",
-        "uuid": "Compendium.pf2e.spell-effects.Item.2SWUzp4JuNK5EX0J"
-    },
-    {
         "slug": "spell-effect-silvers-refrain",
         "uuid": "Compendium.pf2e.spell-effects.Item.2W4qAipPVlapaWbc"
     },
@@ -198,10 +190,6 @@
     {
         "slug": "spell-effect-thematic-action-ally",
         "uuid": "Compendium.pf2e.spell-effects.Item.3wvfYn9CujpwAjZ3"
-    },
-    {
-        "slug": "spell-effect-enlarge-heightened-4th",
-        "uuid": "Compendium.pf2e.spell-effects.Item.41WThj17MZBXTO2X"
     },
     {
         "slug": "spell-effect-litany-of-righteousness",
@@ -596,6 +584,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.EScdpppYsf9KhG4D"
     },
     {
+        "slug": "spell-effect-frozen-fog",
+        "uuid": "Compendium.pf2e.spell-effects.Item.EftEpvhOKwDn63eL"
+    },
+    {
         "slug": "spell-effect-haste",
         "uuid": "Compendium.pf2e.spell-effects.Item.ElkXovNrHB0Doi6O"
     },
@@ -852,6 +844,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.LfxwvZRwtrh8mQN0"
     },
     {
+        "slug": "spell-effect-divine-keystone-critical-failure",
+        "uuid": "Compendium.pf2e.spell-effects.Item.LiQDQYAYYE6Qg4yI"
+    },
+    {
         "slug": "spell-effect-elemental-absorption",
         "uuid": "Compendium.pf2e.spell-effects.Item.LldX5hnNhKzGtOS0"
     },
@@ -1002,10 +998,6 @@
     {
         "slug": "spell-effect-protection",
         "uuid": "Compendium.pf2e.spell-effects.Item.RawLEPwyT5CtCZ4D"
-    },
-    {
-        "slug": "aura-bless",
-        "uuid": "Compendium.pf2e.spell-effects.Item.RfCEHpMoEAZvB9IZ"
     },
     {
         "slug": "spell-effect-cascade-countermeasure",
@@ -1204,7 +1196,7 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.XT3AyRfx4xeXfAjP"
     },
     {
-        "slug": "spell-effect-iron-gut-3rd-level",
+        "slug": "spell-effect-iron-gut-3rd-rank",
         "uuid": "Compendium.pf2e.spell-effects.Item.XTgxkQkhlap66e54"
     },
     {
@@ -1234,6 +1226,10 @@
     {
         "slug": "spell-effect-enduring-might",
         "uuid": "Compendium.pf2e.spell-effects.Item.ZHVtJKnur9PAF5TO"
+    },
+    {
+        "slug": "spell-effect-sparkleskin",
+        "uuid": "Compendium.pf2e.spell-effects.Item.ZK90sMiPCJzet8Rg"
     },
     {
         "slug": "spell-effect-phase-bolt",
@@ -1540,6 +1536,10 @@
         "uuid": "Compendium.pf2e.spell-effects.Item.kMoOWWBqDYmPcYyS"
     },
     {
+        "slug": "spell-effect-adapt-self",
+        "uuid": "Compendium.pf2e.spell-effects.Item.kTFIq6FOziSP2D3e"
+    },
+    {
         "slug": "spell-effect-inspire-heroics-courage-2",
         "uuid": "Compendium.pf2e.spell-effects.Item.kZ39XWJA3RBDTnqG"
     },
@@ -1810,6 +1810,10 @@
     {
         "slug": "spell-effect-bind-undead",
         "uuid": "Compendium.pf2e.spell-effects.Item.rVkUzqS4rpZp9LS3"
+    },
+    {
+        "slug": "spell-effect-murmuration",
+        "uuid": "Compendium.pf2e.spell-effects.Item.rZRCgogKkUERRy6Q"
     },
     {
         "slug": "spell-effect-entangling-flora",

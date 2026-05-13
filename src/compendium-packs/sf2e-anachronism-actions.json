@@ -16,12 +16,24 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.30Nw5q4vWKCQIBIZ"
     },
     {
+        "slug": "feign-prone",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.3In9EAqKoYiCDmz4"
+    },
+    {
         "slug": "attune",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.3xDhpvORBmK6AtcI"
     },
     {
         "slug": "digital-assessment",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.4oIErnhDm0qCCpxs"
+    },
+    {
+        "slug": "listen",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.4yWUVp205mJWuqNI"
+    },
+    {
+        "slug": "game-face",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.4yr6PSebbNdw9ofY"
     },
     {
         "slug": "auto-fire",
@@ -36,6 +48,10 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.7KMyRISNqp7JTzMn"
     },
     {
+        "slug": "tactical-symbiosis",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.81EiW8ycG0Tmyl7x"
+    },
+    {
         "slug": "coordinated-ambush",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.8mIyIlniGH2SMO6B"
     },
@@ -44,8 +60,32 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.8zWFGKRXg1SxIwFH"
     },
     {
+        "slug": "tuck-and-roll",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.9MaexGGEFV3tw5ea"
+    },
+    {
         "slug": "redirect-energy",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.9P2ZptR0PrYyiJFl"
+    },
+    {
+        "slug": "skitter-idol-transformation",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.9moYuimhiXJTkkkc"
+    },
+    {
+        "slug": "undo-undo",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.A2T7BjMzvTg8KMMd"
+    },
+    {
+        "slug": "doomsayers-litany",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.CPO4LgkZPHIHQEB4"
+    },
+    {
+        "slug": "one-up",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.CwOcMVOyIIWuJn0R"
+    },
+    {
+        "slug": "mucous-spurt",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.DQSW4YEotxrLJIEl"
     },
     {
         "slug": "isolated-spell-matrix",
@@ -56,6 +96,18 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.FF5KgZHj345s2moq"
     },
     {
+        "slug": "search-infosphere",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.HnuFb8wzkKD0dRPN"
+    },
+    {
+        "slug": "deflect-force",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Hq7duW66un55uGoA"
+    },
+    {
+        "slug": "burrowing-charge",
+        "uuid": null
+    },
+    {
         "slug": "implant-augmentation",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.Iy3IsWEfMLGiVAPv"
     },
@@ -64,8 +116,32 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.JXQaCPCd10sE0Gaa"
     },
     {
+        "slug": "drill-rush",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.JZGy20v74pSYR7yF"
+    },
+    {
+        "slug": "absorb-light",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.JdLNIaTM4eyI9Luo"
+    },
+    {
         "slug": "line-up-the-shot",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.K2wMNyK4JGwgrjVL"
+    },
+    {
+        "slug": "concentrate-light",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.K37N5t6v7kgImnDN"
+    },
+    {
+        "slug": "mini-nova",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.KhX0FDMxGVgHjXdU"
+    },
+    {
+        "slug": "siphon-poison",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.L0MLZNUoJ6lTlBZu"
+    },
+    {
+        "slug": "change-posture",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.L2k363LraGLUZIgM"
     },
     {
         "slug": "plot-course",
@@ -76,20 +152,60 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.MZ65QZDqa9ignWXm"
     },
     {
+        "slug": "controlled-rage",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Mfih4GjatO1sw2Ug"
+    },
+    {
+        "slug": "madrosarai-tenacity",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.NAqdTW3tC0eqGiIq"
+    },
+    {
         "slug": "manifest-energy-wings",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.NEYVJWYtgl0rRSwg"
+    },
+    {
+        "slug": "nourishing-light",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.NhqAjQ2qP6a2G1Sk"
+    },
+    {
+        "slug": "photon-accelerator",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.OdKGpXP83uA1wdES"
+    },
+    {
+        "slug": "seize-object",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.P5FKQOFiuApG9QyG"
     },
     {
         "slug": "light-speed",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.P95mzZ3VV40cXbx5"
     },
     {
+        "slug": "analyze-environment",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.PKu1HhCbmhuwm82o"
+    },
+    {
+        "slug": "wail",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.Pdam8vyOw6KSQvRe"
+    },
+    {
+        "slug": "pardon-me",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.QMxO5Y1b9ORvlogx"
+    },
+    {
         "slug": "once-more-with-feeling",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.QQSO7DzeNKCWf9XW"
     },
     {
+        "slug": "thoughts-of-a-lost-home",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.QYBx5xYENl3hXZPB"
+    },
+    {
         "slug": "hack",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.RF8xNJ8QsMwogerB"
+    },
+    {
+        "slug": "polyp-print",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.RNEFfOL4d6WkTTpP"
     },
     {
         "slug": "ready-arms",
@@ -112,6 +228,10 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.VIv5Gt3yndrk0qgb"
     },
     {
+        "slug": "big-wet-eye-blink",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.VPUwqRHwijGcMVOH"
+    },
+    {
         "slug": "cosmic-blast",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.VQH9rEQuNb06NQ4b"
     },
@@ -122,6 +242,10 @@
     {
         "slug": "network-spell",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.XSMTalRsPwQ0beIE"
+    },
+    {
+        "slug": "living-submersible",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.XYLK5aZ2WAMJGRAc"
     },
     {
         "slug": "access-infosphere",
@@ -140,12 +264,40 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.ZoMpqQgDdlT13Jp0"
     },
     {
+        "slug": "instantaneous-adaptation",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.aswV37TglbLLXmAA"
+    },
+    {
+        "slug": "pickle-switch",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.bWD4NpW0NB8aDwZF"
+    },
+    {
+        "slug": "shine",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.bXLJtouJRWQXxLUP"
+    },
+    {
+        "slug": "toxic-tear",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.cShf7HifoNI7XzKd"
+    },
+    {
         "slug": "get-em",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.cmCtfURzpbzkxWsy"
     },
     {
+        "slug": "self-soothe",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.cx5V4zwJFbsKG1ri"
+    },
+    {
         "slug": "install-upgrade",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.d4vJxq49lUb7fGXq"
+    },
+    {
+        "slug": "dazzling-shell",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.e2lugcxHnxTkQeMc"
+    },
+    {
+        "slug": "hug-the-world",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.e7Io0ZnzHuFD6yek"
     },
     {
         "slug": "reactive-step",
@@ -156,8 +308,16 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.fQJ8xyZH3Dch5xtN"
     },
     {
+        "slug": "battle-gobbing",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.fz1XOiQr3FJYRxJh"
+    },
+    {
         "slug": "telekinetic-lift",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.gNUrQ8jimAvAA0xg"
+    },
+    {
+        "slug": "fidget",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.gS62Drm7DuTrc9Y3"
     },
     {
         "slug": "steel-yourselves",
@@ -180,12 +340,28 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.kF6CV5Jo4gfz4gVs"
     },
     {
+        "slug": "phasic-flurry",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.lDfffQX5QYWnNVA6"
+    },
+    {
         "slug": "shimmering-dazzle",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.lIZ9DhrkzM3AEQmX"
     },
     {
         "slug": "living-shield",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.lNcZ7j1T2YmMwXF7"
+    },
+    {
+        "slug": "unleash-majesty",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.lTxbKyZoxEJWqHjX"
+    },
+    {
+        "slug": "contaminate",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.lizh6clVUQm76uvK"
+    },
+    {
+        "slug": "overwhelming-strike",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.m4IGOcYt8TBpYD8T"
     },
     {
         "slug": "nanite-form-strike",
@@ -204,6 +380,18 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.nAJeT29ZJvqeg98h"
     },
     {
+        "slug": "living-capsule",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.nPn7rGTTao4cFYDr"
+    },
+    {
+        "slug": "empathic-assistance",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.ntmBjxw7Hw81Fogq"
+    },
+    {
+        "slug": "slitherskin",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.oKLA4xGqOkugw45C"
+    },
+    {
         "slug": "keep-on-keeping-on",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.oRdDgSC3RVpNgisd"
     },
@@ -216,12 +404,32 @@
         "uuid": "Compendium.sf2e-anachronism.actions.Item.oc0ZKnk5zD0GXqZi"
     },
     {
+        "slug": "volosian-spit",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.oxYfBuSCruRWTqJ9"
+    },
+    {
+        "slug": "become-ooze",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.pO1wkgklxp9j1taY"
+    },
+    {
+        "slug": "shifthide-camouflage",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.pWMwGj8lnOpkU3Hr"
+    },
+    {
         "slug": "nimbus-surge",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.q7UDeO9Ko1EbPRWm"
     },
     {
+        "slug": "bounce-back",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.qOh7Oq5r9uc3EswW"
+    },
+    {
         "slug": "sabotage",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.qbyer2woEdGXZzoR"
+    },
+    {
+        "slug": "static-shield",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.qjcTcdQpCVMJcNgi"
     },
     {
         "slug": "telekinetic-sprint",
@@ -242,6 +450,10 @@
     {
         "slug": "re-forge-solar-weapon",
         "uuid": "Compendium.sf2e-anachronism.actions.Item.uvtdqSfKD6oXNA29"
+    },
+    {
+        "slug": "tap-wellspring",
+        "uuid": "Compendium.sf2e-anachronism.actions.Item.vOQ6BYpQpHd4IycO"
     },
     {
         "slug": "shielding-arrogance",

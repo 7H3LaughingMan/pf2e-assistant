@@ -8,6 +8,10 @@
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.0qcXAQo7iZkZXNO9"
     },
     {
+        "slug": "urog",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.1gJeLPnHFATPQej2"
+    },
+    {
         "slug": "kalo",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.23MA5Ee7ExUfzrqk"
     },
@@ -20,8 +24,24 @@
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.3iuWdarohpDFhlxX"
     },
     {
+        "slug": "moyishuu",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.62AMzNlZzxTG0oxE"
+    },
+    {
+        "slug": "orocoran",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.6BG5tO0g9kCFfTym"
+    },
+    {
         "slug": "pahtra",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.75TqHknsQuinDLjn"
+    },
+    {
+        "slug": "izalguun",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.8GXuOAZR2i39RGji"
+    },
+    {
+        "slug": "brenneri",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.9p9GNLHDRocLlKVU"
     },
     {
         "slug": "khizar",
@@ -30,6 +50,14 @@
     {
         "slug": "shobhad",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.CURlEp5fEl0WJq9L"
+    },
+    {
+        "slug": "bantrid",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.FeoOVtm7zVhgxXtg"
+    },
+    {
+        "slug": "talphi",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.Fhhxk7toaVGjwoMY"
     },
     {
         "slug": "shirren",
@@ -44,16 +72,36 @@
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.HFVQhUxBt6UTtuny"
     },
     {
+        "slug": "entu-colony",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.HIfj37OghTgagFkx"
+    },
+    {
         "slug": "contemplative",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.KFNOUfQWPUBW5zSC"
+    },
+    {
+        "slug": "ijtikri",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.RP7fqj4Rpu0IBf6t"
+    },
+    {
+        "slug": "ryphorian",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.WfllaPpt1pxGVMAG"
     },
     {
         "slug": "elebrian",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.XKW1SziWusHoaCRd"
     },
     {
+        "slug": "maraquoi",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.XcmRKGimGvezRawa"
+    },
+    {
         "slug": "lashunta",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.ZDExBZqdqYUtv5dg"
+    },
+    {
+        "slug": "gfolian",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.fqn2WK47MN0gqax3"
     },
     {
         "slug": "sarcesian",
@@ -64,7 +112,43 @@
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.jNE2Zq46a9kQj7bi"
     },
     {
+        "slug": "raxilite",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.lU4TJFs95esViIHI"
+    },
+    {
         "slug": "vlaka",
         "uuid": "Compendium.sf2e-anachronism.ancestries.Item.mBsOLC7cRc7nkzV2"
+    },
+    {
+        "slug": "trox",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.mvomk7uS0Gfh72sg"
+    },
+    {
+        "slug": "worlanisi",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.oKcAbl5mPNkFYhQM"
+    },
+    {
+        "slug": "madrosarai",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.q6fTXrRTneiqXs63"
+    },
+    {
+        "slug": "osharu",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.r1f3ChFtmCRQ9fMj"
+    },
+    {
+        "slug": "copaxi",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.tvjMyXjibIywAPh2"
+    },
+    {
+        "slug": "fonqugon",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.vlYBDZbj6zWBFR0b"
+    },
+    {
+        "slug": "novian",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.waaL4y6dUPzy8Emb"
+    },
+    {
+        "slug": "formian",
+        "uuid": "Compendium.sf2e-anachronism.ancestries.Item.yOnW818fHTfnwg2k"
     }
 ]

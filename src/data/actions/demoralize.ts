@@ -1,7 +1,7 @@
 import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "assistant.ts";
-import { PF2E_ACTIONS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
+import { Assistant } from "@root/assistant.ts";
+import { PF2E_ACTIONS } from "@root/compendium-packs.ts";
+import { Utils } from "@root/utils.ts";
 
 export const path = ["Actions", "Demoralize"];
 

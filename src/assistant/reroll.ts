@@ -1,11 +1,12 @@
-import { ActorUUID, ChatMessageUUID, ItemUUID } from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
+import { DocumentUUID } from "@7h3laughingman/foundry-types/client/utils/_module.mjs";
+import { ActorUUID, ItemUUID } from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
 import { ActorPF2e, ChatMessagePF2e, ConditionSource, ItemPF2e, ItemSourcePF2e } from "@7h3laughingman/pf2e-types";
 
 export interface Reroll {
     updateCondition: UpdateCondition[];
     removeItem: RemoveItem[];
     addItem: AddItem[];
-    deleteChatMessage: ChatMessageUUID[];
+    deleteChatMessage: DocumentUUID[];
 }
 
 export interface UpdateCondition {

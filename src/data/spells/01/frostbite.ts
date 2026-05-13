@@ -1,6 +1,6 @@
 import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
+import { Assistant } from "@root/assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "@root/compendium-packs.ts";
 
 export const path = ["Spells", "1st Rank", "Frostbite"];
 

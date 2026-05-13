@@ -8,24 +8,44 @@
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.2UI9dt0QM2VEvpJV"
     },
     {
+        "slug": "effect-starship-possession",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.4J30S9nhyfaCX1Cm"
+    },
+    {
         "slug": "effect-input-overload-aura",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.5IVLUdHeIGnHADjZ"
+    },
+    {
+        "slug": "effect-rallied-by-the-beasts",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.5lbVIAgzYywMJ3t2"
+    },
+    {
+        "slug": "effect-self-destructive-frenzy",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.Asd7LTVUZDrqZN6A"
     },
     {
         "slug": "effect-follicle-germination",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.Bw1u0YIbG0ZV1CIR"
     },
     {
+        "slug": "effect-morale-boost",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.Gl74rxqPUxtOgj8E"
+    },
+    {
         "slug": "effect-scoring",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.GpzaKY9WlDFAhgcg"
     },
     {
-        "slug": "effect-archons-protection",
-        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.IsNnfuzanT5teGt4"
+        "slug": "effect-atavistic-rage",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.K1v7z7TWE52mpDV3"
     },
     {
         "slug": "effect-gremlins-inverted-gift",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.LdbqPPiSg5gn5Kqp"
+    },
+    {
+        "slug": "effect-enhance-mutation",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.NfqD670wtJoKTKW8"
     },
     {
         "slug": "effect-seep-in",
@@ -34,6 +54,10 @@
     {
         "slug": "effect-lead-the-charge",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.UEnGE804ZFRJmQYN"
+    },
+    {
+        "slug": "effect-buffering-zone-failure",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.X5oMEjGHa8WsCiqW"
     },
     {
         "slug": "effect-bolstering-aura",
@@ -82,6 +106,10 @@
     {
         "slug": "effect-sharpshooter",
         "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.mprZBMDC5a4U2STA"
+    },
+    {
+        "slug": "effect-spin-doctor",
+        "uuid": "Compendium.sf2e-anachronism.bestiary-effects.Item.ncmWr1EPq7nGErQf"
     },
     {
         "slug": "effect-rally-the-troops",

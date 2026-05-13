@@ -1,7 +1,7 @@
-import { Assistant } from "assistant.ts";
-import { PF2E_CONDITIONS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
-import { ModifyFlatDCRuleElementSource, TreatAsRuleElementSource } from "utils/rules.ts";
+import { Assistant } from "@root/assistant.ts";
+import { PF2E_CONDITIONS } from "@root/compendium-packs.ts";
+import { Utils } from "@root/utils.ts";
+import { ModifyFlatDCRuleElementSource, TreatAsRuleElementSource } from "@root/utils/rules.ts";
 
 export const path = ["Items", "Consumables", "Cat's Eye Elixir"];
 

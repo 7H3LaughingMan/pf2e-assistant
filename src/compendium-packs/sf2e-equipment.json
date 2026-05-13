@@ -1,5 +1,9 @@
 [
     {
+        "slug": "ossifying-grenade-elite",
+        "uuid": "Compendium.sf2e.equipment.Item.05fb97mQM2HkKCxD"
+    },
+    {
         "slug": "shock-module-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.0Hdg9aWMIYVGjvj0"
     },
@@ -244,6 +248,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.6v7263bADqPT8XXp"
     },
     {
+        "slug": "radiant-star-mote",
+        "uuid": "Compendium.sf2e.equipment.Item.6xFaHl4tPTKMFaW6"
+    },
+    {
         "slug": "fangblade",
         "uuid": "Compendium.sf2e.equipment.Item.7BZM2I0fasujPIEa"
     },
@@ -270,6 +278,10 @@
     {
         "slug": "field-scientists-toolkit-tactical",
         "uuid": "Compendium.sf2e.equipment.Item.7aGluzZ4bjfXbygG"
+    },
+    {
+        "slug": "shobhad-longrifle",
+        "uuid": "Compendium.sf2e.equipment.Item.7cpnKlkU5QEiuISo"
     },
     {
         "slug": "veskarium-imperial-plate",
@@ -348,6 +360,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.9UiGMq93t13HEz90"
     },
     {
+        "slug": "ossifying-grenade-superior",
+        "uuid": "Compendium.sf2e.equipment.Item.9UnShOLCo6JWWrtW"
+    },
+    {
         "slug": "flashlight-tactical",
         "uuid": "Compendium.sf2e.equipment.Item.9gKyKIMhT4AnUwr5"
     },
@@ -404,6 +420,14 @@
         "uuid": "Compendium.sf2e.equipment.Item.BANdFbfuD16lPHs4"
     },
     {
+        "slug": "hellforged-plates",
+        "uuid": "Compendium.sf2e.equipment.Item.BJsogI1a5WSUHudq"
+    },
+    {
+        "slug": "urog-shell",
+        "uuid": "Compendium.sf2e.equipment.Item.BPNh8roBSnuKXqYb"
+    },
+    {
         "slug": "spell-gem-5th-rank-spell",
         "uuid": "Compendium.sf2e.equipment.Item.BVCQFla90m2JDepV"
     },
@@ -454,6 +478,10 @@
     {
         "slug": "akashic-lens-tactical",
         "uuid": "Compendium.sf2e.equipment.Item.DSDFCIDP7qPcDadq"
+    },
+    {
+        "slug": "ossifying-grenade-commercial",
+        "uuid": "Compendium.sf2e.equipment.Item.DUg4iVtsgCidutJM"
     },
     {
         "slug": "telepathy-node",
@@ -548,6 +576,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.Gvd406aqaxjBcnFI"
     },
     {
+        "slug": "ossifying-grenade-tactical",
+        "uuid": "Compendium.sf2e.equipment.Item.HHasuyLvKgVdv5r5"
+    },
+    {
         "slug": "photon-crystal-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.HRpZtAdpSg12N9n0"
     },
@@ -586,6 +618,10 @@
     {
         "slug": "defrex-hide",
         "uuid": "Compendium.sf2e.equipment.Item.IKHNA2PcSB3zIMlp"
+    },
+    {
+        "slug": "trinary-egg",
+        "uuid": "Compendium.sf2e.equipment.Item.ILx39bW3FlK9SRlD"
     },
     {
         "slug": "photosynthetic-skin",
@@ -666,6 +702,10 @@
     {
         "slug": "necrolung-superior",
         "uuid": "Compendium.sf2e.equipment.Item.KTx6t0YaoPy8VCuj"
+    },
+    {
+        "slug": "hoverzooms",
+        "uuid": "Compendium.sf2e.equipment.Item.KUFtUjzQ8RzQ5Ykd"
     },
     {
         "slug": "gluon-crystal-advanced",
@@ -976,6 +1016,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.T4JV6YG5OwIPh5UL"
     },
     {
+        "slug": "ossifying-grenade-advanced",
+        "uuid": "Compendium.sf2e.equipment.Item.T6mFICQAIuByIyV2"
+    },
+    {
         "slug": "arc-rifle",
         "uuid": "Compendium.sf2e.equipment.Item.TAgaAiDMPGnF87Vv"
     },
@@ -1020,6 +1064,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.U746WCfdSOJs0qwd"
     },
     {
+        "slug": "chitinous-shield",
+        "uuid": "Compendium.sf2e.equipment.Item.UNOzJIywKggJ9xhr"
+    },
+    {
         "slug": "resist-energy-spell-amp-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.UXEZCHFWwvNS43ug"
     },
@@ -1034,6 +1082,10 @@
     {
         "slug": "knife",
         "uuid": "Compendium.sf2e.equipment.Item.V0LgOSOvkNvs2i0x"
+    },
+    {
+        "slug": "armplates",
+        "uuid": "Compendium.sf2e.equipment.Item.V4kcwGZw9t2zAW1k"
     },
     {
         "slug": "coil-rifle",
@@ -1082,6 +1134,10 @@
     {
         "slug": "degradation-grenade-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.WOvRpqLDNOatDgcO"
+    },
+    {
+        "slug": "ossifying-grenade-ultimate",
+        "uuid": "Compendium.sf2e.equipment.Item.WRAI1Ho6T8XLRXvk"
     },
     {
         "slug": "plasma-cannon",
@@ -1324,6 +1380,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.dnv1OFVU6BpyfAWi"
     },
     {
+        "slug": "consecrated-keycaps",
+        "uuid": "Compendium.sf2e.equipment.Item.dov79V3iw5rJyxCR"
+    },
+    {
         "slug": "bone-serum",
         "uuid": "Compendium.sf2e.equipment.Item.dvvYuzx0QUORXMl1"
     },
@@ -1434,6 +1494,10 @@
     {
         "slug": "maratan-headache-ultimate",
         "uuid": "Compendium.sf2e.equipment.Item.h6HfP8BorXGIluiw"
+    },
+    {
+        "slug": "armored-copi-exoskeleton",
+        "uuid": "Compendium.sf2e.equipment.Item.h6HnZ8Vfb3AQW0z8"
     },
     {
         "slug": "ultralight-wings-advanced",
@@ -1608,6 +1672,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.mBwMcT367Qaigo0t"
     },
     {
+        "slug": "armored-coat",
+        "uuid": "Compendium.sf2e.equipment.Item.mkMWda6ivlhnXq4d"
+    },
+    {
         "slug": "riot-shield",
         "uuid": "Compendium.sf2e.equipment.Item.n7My3cvLdfygf9xp"
     },
@@ -1650,6 +1718,10 @@
     {
         "slug": "shock-module-tactical",
         "uuid": "Compendium.sf2e.equipment.Item.nl4tBzrHddJgpgbs"
+    },
+    {
+        "slug": "chitinous-plates",
+        "uuid": "Compendium.sf2e.equipment.Item.noNRKd9LA7z9hQqp"
     },
     {
         "slug": "spell-chip-5th-rank-spell",
@@ -1700,6 +1772,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.p9INuxluZEUJvoAv"
     },
     {
+        "slug": "functionarys-mask",
+        "uuid": "Compendium.sf2e.equipment.Item.pD2x3KhZhmTRLeIP"
+    },
+    {
         "slug": "field-scientists-toolkit-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.pEob2HYKeFtToeeC"
     },
@@ -1744,6 +1820,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.qIgcUV22LaDCzmb2"
     },
     {
+        "slug": "ossifying-grenade-paragon",
+        "uuid": "Compendium.sf2e.equipment.Item.qMbuhxD7SVA11fOE"
+    },
+    {
         "slug": "breaching-gun",
         "uuid": "Compendium.sf2e.equipment.Item.qRg7totm2jOAWd4c"
     },
@@ -1754,6 +1834,10 @@
     {
         "slug": "animated-intelligence-tactical",
         "uuid": "Compendium.sf2e.equipment.Item.qbmzVsnSWfneGlI9"
+    },
+    {
+        "slug": "barathu-shell",
+        "uuid": "Compendium.sf2e.equipment.Item.qk1WmXl94mDdyLtD"
     },
     {
         "slug": "grenade-launcher-superior",
@@ -1790,6 +1874,10 @@
     {
         "slug": "telebond-band",
         "uuid": "Compendium.sf2e.equipment.Item.rOtCdylPWiIiswbP"
+    },
+    {
+        "slug": "glarecaster",
+        "uuid": "Compendium.sf2e.equipment.Item.raxz4fpTfjM0L1Qj"
     },
     {
         "slug": "jump-jets",
@@ -1988,6 +2076,10 @@
         "uuid": "Compendium.sf2e.equipment.Item.xKa81R2YkJwdgLPb"
     },
     {
+        "slug": "parallel-accord",
+        "uuid": "Compendium.sf2e.equipment.Item.xLxqq8NKbZsFt7EC"
+    },
+    {
         "slug": "thinplate",
         "uuid": "Compendium.sf2e.equipment.Item.xQYaULcqM8yE194M"
     },
@@ -2014,10 +2106,6 @@
     {
         "slug": "flash-grenade-commercial",
         "uuid": "Compendium.sf2e.equipment.Item.yZ1PddTL7huZhECC"
-    },
-    {
-        "slug": "armored-coat",
-        "uuid": "Compendium.sf2e.equipment.Item.ycTqUK3Fp178FfH9"
     },
     {
         "slug": "flash-grenade-superior",

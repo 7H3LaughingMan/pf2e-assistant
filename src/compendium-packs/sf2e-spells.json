@@ -88,6 +88,10 @@
         "uuid": "Compendium.sf2e.spells.Item.2ykmAVKrsAWcazcC"
     },
     {
+        "slug": "diabolic-pact",
+        "uuid": "Compendium.sf2e.spells.Item.30BBep9U4BDV0EgQ"
+    },
+    {
         "slug": "blur",
         "uuid": "Compendium.sf2e.spells.Item.3JG1t3T4mWn6vTke"
     },
@@ -564,6 +568,10 @@
         "uuid": "Compendium.sf2e.spells.Item.JIAIyvj4PV84tnFk"
     },
     {
+        "slug": "dispelling-globe",
+        "uuid": "Compendium.sf2e.spells.Item.JOdOpbPDl7nqvJUm"
+    },
+    {
         "slug": "vision-of-death",
         "uuid": "Compendium.sf2e.spells.Item.Jmxru8zMdYMRuO5n"
     },
@@ -884,6 +892,10 @@
         "uuid": "Compendium.sf2e.spells.Item.WPXzPl7YbMEIGWfi"
     },
     {
+        "slug": "spiritual-armament",
+        "uuid": "Compendium.sf2e.spells.Item.WPu3UE3kTXSLqO40"
+    },
+    {
         "slug": "slow",
         "uuid": "Compendium.sf2e.spells.Item.WsUwpfmhKrKwoIe3"
     },
@@ -990,6 +1002,10 @@
     {
         "slug": "dream-of-home",
         "uuid": "Compendium.sf2e.spells.Item.ZrFj6ktotd0pBnqO"
+    },
+    {
+        "slug": "blazing-bolt",
+        "uuid": "Compendium.sf2e.spells.Item.ZxHC7V7HtjUsB8zH"
     },
     {
         "slug": "slice-reality",
@@ -1234,6 +1250,10 @@
     {
         "slug": "blessed-boundary",
         "uuid": "Compendium.sf2e.spells.Item.jj5d830iUi2ZlQfs"
+    },
+    {
+        "slug": "angelic-messenger",
+        "uuid": "Compendium.sf2e.spells.Item.joEruBVz31Uxczzq"
     },
     {
         "slug": "new-game",
@@ -1512,6 +1532,10 @@
         "uuid": "Compendium.sf2e.spells.Item.tpLTLbJUrYcMWGld"
     },
     {
+        "slug": "demonic-pact",
+        "uuid": "Compendium.sf2e.spells.Item.tsKnoBuBbKMXkiz5"
+    },
+    {
         "slug": "mind-skewer",
         "uuid": "Compendium.sf2e.spells.Item.uBo6g5aW087cLSJR"
     },
@@ -1578,6 +1602,10 @@
     {
         "slug": "possession",
         "uuid": "Compendium.sf2e.spells.Item.wU6hNzK8Yfqdmc8m"
+    },
+    {
+        "slug": "harm",
+        "uuid": "Compendium.sf2e.spells.Item.wdA52JJnsuQWeyqz"
     },
     {
         "slug": "disappearance",

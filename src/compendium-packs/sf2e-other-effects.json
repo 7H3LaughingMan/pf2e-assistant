@@ -4,6 +4,14 @@
         "uuid": "Compendium.sf2e.other-effects.Item.1FrAlPeNseApVrX3"
     },
     {
+        "slug": "effect-remaining-air",
+        "uuid": "Compendium.sf2e.other-effects.Item.2u26bmArDPuoCljc"
+    },
+    {
+        "slug": "effect-mounted",
+        "uuid": "Compendium.sf2e.other-effects.Item.9c93NfZpENofiGUp"
+    },
+    {
         "slug": "effect-aid",
         "uuid": "Compendium.sf2e.other-effects.Item.AHMUpMbaVkZ5A1KX"
     },
@@ -26,6 +34,10 @@
     {
         "slug": "effect-treat-disease",
         "uuid": "Compendium.sf2e.other-effects.Item.TGGdM7XnjQkkijK7"
+    },
+    {
+        "slug": "effect-aquatic-combat",
+        "uuid": "Compendium.sf2e.other-effects.Item.TPbr1kErAAJKBi3V"
     },
     {
         "slug": "effect-follow-the-expert",

@@ -60,6 +60,10 @@
         "uuid": "Compendium.pf2e.backgrounds.Item.1M91pTjatEejBjEl"
     },
     {
+        "slug": "foreign-aid",
+        "uuid": "Compendium.pf2e.backgrounds.Item.1SdtFFVDXpTz4Ksx"
+    },
+    {
         "slug": "godless-graycloak",
         "uuid": "Compendium.pf2e.backgrounds.Item.1VdLr4Qm8fv1m4tM"
     },
@@ -828,6 +832,10 @@
         "uuid": "Compendium.pf2e.backgrounds.Item.OD8RTS7cTeMJJFcR"
     },
     {
+        "slug": "breachill-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.OL58pki9nNu608hp"
+    },
+    {
         "slug": "conservator",
         "uuid": "Compendium.pf2e.backgrounds.Item.Ods1qOZ8CTCru8XQ"
     },
@@ -874,6 +882,10 @@
     {
         "slug": "war-orphan",
         "uuid": "Compendium.pf2e.backgrounds.Item.QQxXV2zHATLZ07rA"
+    },
+    {
+        "slug": "chelaxian-exile",
+        "uuid": "Compendium.pf2e.backgrounds.Item.Qg8bHCKrj1t1tPUo"
     },
     {
         "slug": "newcomer-in-need",
@@ -1244,6 +1256,10 @@
         "uuid": "Compendium.pf2e.backgrounds.Item.cODrdTvko4Om26ik"
     },
     {
+        "slug": "goblinblood-survivor",
+        "uuid": "Compendium.pf2e.backgrounds.Item.cfFQituks3OSgpRg"
+    },
+    {
         "slug": "otherworldly-mission",
         "uuid": "Compendium.pf2e.backgrounds.Item.d5fKB0ZMJQkwDF5p"
     },
@@ -1334,6 +1350,10 @@
     {
         "slug": "empty-whispers",
         "uuid": "Compendium.pf2e.backgrounds.Item.g8xUX7DAu2ShZ90Q"
+    },
+    {
+        "slug": "archdevil-apostate",
+        "uuid": "Compendium.pf2e.backgrounds.Item.gF0rOdWCQPHVgrvL"
     },
     {
         "slug": "verduran-city-folk",
@@ -1830,6 +1850,10 @@
     {
         "slug": "rostlander",
         "uuid": "Compendium.pf2e.backgrounds.Item.wKiFedYlHCsM5wN4"
+    },
+    {
+        "slug": "isgeri-reclaimer",
+        "uuid": "Compendium.pf2e.backgrounds.Item.wKyURsaOFQL8TKSg"
     },
     {
         "slug": "lost-and-alone",

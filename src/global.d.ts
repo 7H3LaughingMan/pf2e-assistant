@@ -1,5 +1,5 @@
 import "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
 declare global {
     type WithOptional<T, K extends keyof T> = Omit<T, K> & Partial<Pick<T, K>>;

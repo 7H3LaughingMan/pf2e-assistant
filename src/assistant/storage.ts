@@ -1,4 +1,4 @@
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 import * as R from "remeda";
 
 export class Storage {
@@ -89,7 +89,7 @@ export class Storage {
 }
 
 if (import.meta.hot) {
-    // @ts-expect-error HMR
+    // @ts-expect-error Property 'hotReload' does not exist on type 'Storage'.
     Storage.prototype.hotReload = function (modules: Record<string, () => Promise<string>>) {
         this.reset();
 
@@ -108,7 +108,7 @@ if (import.meta.hot) {
                 query: "?url",
                 import: "default"
             });
-            // @ts-expect-error HMR
+            // @ts-expect-error Property 'hotReload' does not exist on type 'Storage'.
             game.assistant.storage.hotReload(modules);
         }
     });

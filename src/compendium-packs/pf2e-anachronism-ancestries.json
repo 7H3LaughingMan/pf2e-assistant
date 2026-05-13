@@ -1,0 +1,162 @@
+[
+    {
+        "slug": "tengu",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.18xDKYPDBLEv2myX"
+    },
+    {
+        "slug": "minotaur",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.3wQ49DoWFYQgVsq6"
+    },
+    {
+        "slug": "kitsune",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.4BL5wf1VF9feC2rY"
+    },
+    {
+        "slug": "skeleton",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.58rL5sg2y4arW1i5"
+    },
+    {
+        "slug": "poppet",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.6F2fSFC1Eo1JdpY4"
+    },
+    {
+        "slug": "sarangay",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.7mpMGhVoaPANJnZ8"
+    },
+    {
+        "slug": "kobold",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.7oQxL6wgsokD3QXG"
+    },
+    {
+        "slug": "wayang",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.8FpI46oVxYVku04u"
+    },
+    {
+        "slug": "catfolk",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.972EkpJOPv9KkQIW"
+    },
+    {
+        "slug": "surki",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.ALOmLePjbc37ca3Y"
+    },
+    {
+        "slug": "dragonet",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.B5Ewz31nJBOzHSMg"
+    },
+    {
+        "slug": "athamaru",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.Cg1AMgp3zrGmimWd"
+    },
+    {
+        "slug": "merfolk",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.FUqZRllwn6kmFA8K"
+    },
+    {
+        "slug": "fleshwarp",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.FXlXmNBFiiz9oasi"
+    },
+    {
+        "slug": "awakened-animal",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.GFOgV3MzWkYwJoJW"
+    },
+    {
+        "slug": "strix",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.GXcC6oVa5quzgNHD"
+    },
+    {
+        "slug": "lizardfolk",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.HWEgF7Gmoq55VhTL"
+    },
+    {
+        "slug": "nagaji",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.J7T7bDLaQGoY1sMF"
+    },
+    {
+        "slug": "anadi",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.TQEqWqc7BYiadUdY"
+    },
+    {
+        "slug": "sprite",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.TRqoeYfGAFjQbviF"
+    },
+    {
+        "slug": "goloma",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.c4secsSNG2AO7I5i"
+    },
+    {
+        "slug": "vanara",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.cLtOGIkuSSa4UDHY"
+    },
+    {
+        "slug": "yaoguai",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.dnk0Rf7AUmyR5b8z"
+    },
+    {
+        "slug": "kashrishi",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.dw2K1AJR9mQ25nDP"
+    },
+    {
+        "slug": "jotunborn",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.gayvFCiQcGNCA7aM"
+    },
+    {
+        "slug": "fetchling",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.hIA3qiUsxvLZXrFP"
+    },
+    {
+        "slug": "tripkee",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.hXM5jXezIki1cMI2"
+    },
+    {
+        "slug": "yaksha",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.k3zyr6du4gV0Ftuh"
+    },
+    {
+        "slug": "automaton",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.kYsBAJ103T44agJF"
+    },
+    {
+        "slug": "samsaran",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.l7vjMIbPAUvEIosU"
+    },
+    {
+        "slug": "tanuki",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.pILFsoGsUQkVF5dZ"
+    },
+    {
+        "slug": "centaur",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.pJkQlFTvpQ5GjZ5e"
+    },
+    {
+        "slug": "hobgoblin",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.piNLXUrm9iaGqD2i"
+    },
+    {
+        "slug": "shoony",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.q6rsqYARyOGXZA8F"
+    },
+    {
+        "slug": "ghoran",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.tSurOqRcfumadTfr"
+    },
+    {
+        "slug": "conrasu",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.tZn4qIHCUA6wCdnI"
+    },
+    {
+        "slug": "vishkanya",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.u1VJEXsVlmh3Fyx0"
+    },
+    {
+        "slug": "kholo",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.vxbQ1Yw4qwgjTzqo"
+    },
+    {
+        "slug": "shisk",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.x1YinOddgUxwOLqP"
+    },
+    {
+        "slug": "azarketi",
+        "uuid": "Compendium.pf2e-anachronism.ancestries.Item.yFoojz6q3ZjvceFw"
+    }
+]

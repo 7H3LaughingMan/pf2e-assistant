@@ -14,15 +14,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 24.12.0
+          node-version-file: "package.json"
+          cache: "pnpm"
 
-      - name: Build Packs
-        run: |
-          npm clean-install
-          npm run build
+      - name: Install Dependencies
+        run: pnpm install
+
+      - name: Build
+        run: pnpm run build
 
       - name: Extract Version From Tag
         id: get_version

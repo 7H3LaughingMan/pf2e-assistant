@@ -4,12 +4,36 @@
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.1UDBixyOSXzgK5AJ"
     },
     {
+        "slug": "anosmatic",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.28lx1QfVJpDl3JXX"
+    },
+    {
+        "slug": "empathetic-whiskers",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.3omvgq1I5syUA01Z"
+    },
+    {
+        "slug": "psychic-reverb",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.5KNuFBPzyGiicXWt"
+    },
+    {
         "slug": "magical-sense",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.6Br8G6BBZ0xWw7Pj"
     },
     {
+        "slug": "direct-approach",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.6P6aYbBM60Utfpvb"
+    },
+    {
         "slug": "wasteland-survivor",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.6o7O13zkqKE1kvgQ"
+    },
+    {
+        "slug": "epistemological-approach",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.7bFmTijc6FFe3hGB"
+    },
+    {
+        "slug": "vestigial-arms",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.7fmg8bbKHOinq4tR"
     },
     {
         "slug": "genetic-adaptation",
@@ -20,36 +44,116 @@
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.B7iYVc6y7zKniJkX"
     },
     {
+        "slug": "notched-ears",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.BLGfR2qmVYSy1NLt"
+    },
+    {
+        "slug": "lfan",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.DOjj7rN4qGB5OVTR"
+    },
+    {
+        "slug": "slime-squirt",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.F7aBUHwgBVRdyZJe"
+    },
+    {
+        "slug": "gravitational-hands",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.GJi8gG8etFeRPFhB"
+    },
+    {
+        "slug": "solar-luminance",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.GSBkiEHvnSidFxvz"
+    },
+    {
+        "slug": "soulfeel",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.GTu6cVQbHXvIsRRl"
+    },
+    {
+        "slug": "gravitonic-attunement",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.GnuQeSpmucbSiAsU"
+    },
+    {
         "slug": "thoughtsense",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.HOYa3N9R5VLS1kvv"
+    },
+    {
+        "slug": "dermal-hearing",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.ILoviAz7qaWDLhBL"
+    },
+    {
+        "slug": "restless",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.InbIJ9uNN8FCZf5q"
+    },
+    {
+        "slug": "prehensile-tail",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.Ivsy7iTMPjhDMTYs"
     },
     {
         "slug": "cold-adapted",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.KRRhNw25Ys5PO9Zf"
     },
     {
+        "slug": "oozy",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.KdvAXgQjobP2bCDa"
+    },
+    {
         "slug": "limited-telepathy",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.N9EDgQPjWcSS6rSb"
+    },
+    {
+        "slug": "contained-emotions",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.NGInnZ5bj0dF1fo7"
+    },
+    {
+        "slug": "posture",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.Nu6sFTIwgm6aFNKv"
+    },
+    {
+        "slug": "suspended-respiration",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.QurWzrxrUpo2ywih"
     },
     {
         "slug": "atrophied",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.STjiyuU7xqYmomSP"
     },
     {
+        "slug": "emotionsense",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.TqFZu441oj9dqTuv"
+    },
+    {
         "slug": "hydration",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.ViiaTAW4zaoaYeim"
+    },
+    {
+        "slug": "mantle",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.W0H7J1XQvkF1pfMD"
     },
     {
         "slug": "six-armed",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.cIrL2cSC1rCIBVDa"
     },
     {
+        "slug": "clan-crystal",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.cZyhFXHxnmtK0hlY"
+    },
+    {
         "slug": "sensory-diversity",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.cuEGqGBU1pRhMW1D"
     },
     {
+        "slug": "breath-control",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.dkvId5IU5loD1Yoj"
+    },
+    {
         "slug": "partner-bond",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.fD4YQ2Hq7929t8p2"
+    },
+    {
+        "slug": "mutant-goblin-mutation",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.hm8C2R9t2OLhmdwO"
+    },
+    {
+        "slug": "fire-breath",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.jjVH7W3IhgaJ5Yct"
     },
     {
         "slug": "four-armed",
@@ -58,6 +162,10 @@
     {
         "slug": "verdant",
         "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.n9vli6v60O21ELYs"
+    },
+    {
+        "slug": "regenerative-evolution",
+        "uuid": "Compendium.sf2e-anachronism.ancestry-features.Item.rwdjsNymGgpO9UBK"
     },
     {
         "slug": "change-shape",

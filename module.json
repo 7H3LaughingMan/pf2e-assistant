@@ -2,50 +2,40 @@
     "id": "pf2e-assistant",
     "title": "PF2e Assistant",
     "description": "Your personal assistant for your Pathfinder 2nd Edition games, helps automate various things that aren't automated by the game system.",
-    "version": "7.8.0",
+    "version": "8.0.0",
     "authors": [
         {
             "name": "7H3LaughingMan",
             "discord": "7h3laughingman",
-            "url": "https://github.com/7H3LaughingMan",
-            "flags": {}
+            "url": "https://github.com/7H3LaughingMan"
         }
     ],
-    "socket": true,
     "compatibility": {
-        "minimum": "13.348",
-        "verified": "13.351",
-        "maximum": "13"
+        "minimum": "14.360",
+        "verified": "14.361",
+        "maximum": "14"
     },
     "esmodules": ["dist/pf2e-assistant.js"],
     "relationships": {
         "requires": [
             {
-                "id": "socketlib",
-                "type": "module",
-                "manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json"
-            },
-            {
                 "id": "lib-wrapper",
-                "type": "module",
-                "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+                "type": "module"
             }
         ],
         "systems": [
             {
                 "id": "pf2e",
                 "type": "system",
-                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.pf2e.json",
                 "compatibility": {
-                    "minimum": "7.10.1"
+                    "minimum": "8.1.2"
                 }
             },
             {
                 "id": "sf2e",
                 "type": "system",
-                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.sf2e.json",
                 "compatibility": {
-                    "minimum": "0.0.4"
+                    "minimum": "1.1.2"
                 }
             }
         ]

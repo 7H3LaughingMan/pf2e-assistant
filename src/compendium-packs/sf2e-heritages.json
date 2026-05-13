@@ -1,5 +1,33 @@
 [
     {
+        "slug": "ksarik-leshy",
+        "uuid": "Compendium.sf2e.heritages.Item.04fYLNJ336Hx72ae"
+    },
+    {
+        "slug": "mindstatic-orocoran",
+        "uuid": "Compendium.sf2e.heritages.Item.0MQ2lpW2IhPVXczh"
+    },
+    {
+        "slug": "listener-ysoki",
+        "uuid": "Compendium.sf2e.heritages.Item.0NHEUBfjofzo00YN"
+    },
+    {
+        "slug": "winged-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.0V8DVkahNHdrVc8v"
+    },
+    {
+        "slug": "spacefaring-izalguun",
+        "uuid": "Compendium.sf2e.heritages.Item.0XmZvX1XXFnVgJEx"
+    },
+    {
+        "slug": "teal-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.0k7NTxKij43OQrhz"
+    },
+    {
+        "slug": "hylaxian-diplomat-trox",
+        "uuid": "Compendium.sf2e.heritages.Item.1G0n0SLnzL6etvN4"
+    },
+    {
         "slug": "mercurial-dragonkin",
         "uuid": "Compendium.sf2e.heritages.Item.1YJl56kqLbHdwHVq"
     },
@@ -8,8 +36,20 @@
         "uuid": "Compendium.sf2e.heritages.Item.1eYRZT4aOJXrTAQF"
     },
     {
+        "slug": "jeweled-orb-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.1rbl8mXRTo7Qci3j"
+    },
+    {
         "slug": "empathic-vlaka",
         "uuid": "Compendium.sf2e.heritages.Item.2EBZRLWaeSJULFZb"
+    },
+    {
+        "slug": "hostless-entu",
+        "uuid": "Compendium.sf2e.heritages.Item.2Hnoj5d9ILigxCwh"
+    },
+    {
+        "slug": "void-hermit-gnome",
+        "uuid": "Compendium.sf2e.heritages.Item.2IlTBsZivUIbF3fm"
     },
     {
         "slug": "venomthought-vesk",
@@ -20,6 +60,22 @@
         "uuid": "Compendium.sf2e.heritages.Item.2TXiMFGXAL2aO6Ar"
     },
     {
+        "slug": "squentu",
+        "uuid": "Compendium.sf2e.heritages.Item.2XXGIZ16iUoTPCey"
+    },
+    {
+        "slug": "court-of-fields-moyishuu",
+        "uuid": "Compendium.sf2e.heritages.Item.2zafLaWFZJJ1Lcln"
+    },
+    {
+        "slug": "builder-formian",
+        "uuid": "Compendium.sf2e.heritages.Item.3AkVMztAm5oXb8he"
+    },
+    {
+        "slug": "gold-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.3aicexoWTeIgDIwA"
+    },
+    {
         "slug": "everwhelp-skittermander",
         "uuid": "Compendium.sf2e.heritages.Item.46QpOfnvTpkFd9ST"
     },
@@ -28,40 +84,132 @@
         "uuid": "Compendium.sf2e.heritages.Item.4CW2vHPdjx9xDJVU"
     },
     {
+        "slug": "bouncy-orb-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.4cTQ0ri7zisd80s7"
+    },
+    {
+        "slug": "sonic-aurora-fonqugon",
+        "uuid": "Compendium.sf2e.heritages.Item.4pLG0nlD6cn45hT6"
+    },
+    {
+        "slug": "ha-quoia-maraquoi",
+        "uuid": "Compendium.sf2e.heritages.Item.4qRxhdLHJxODdW9D"
+    },
+    {
         "slug": "akitonian-kasatha",
         "uuid": "Compendium.sf2e.heritages.Item.56iLg8E5YvvI6xk9"
+    },
+    {
+        "slug": "faith-converted-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.5BIn9LonvhJz6h7B"
+    },
+    {
+        "slug": "court-of-song-moyishuu",
+        "uuid": "Compendium.sf2e.heritages.Item.5ClxThmv7Plakmee"
+    },
+    {
+        "slug": "stellar-gnome",
+        "uuid": "Compendium.sf2e.heritages.Item.5F5vfBDx65lK8sru"
+    },
+    {
+        "slug": "bioluminescent-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.5KsI1u0AXUiJYPzv"
     },
     {
         "slug": "skitter-raised",
         "uuid": "Compendium.sf2e.heritages.Item.5SqvxQBmTllq2Lzu"
     },
     {
+        "slug": "city-kin-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.5uhc9jENKHUszTZt"
+    },
+    {
+        "slug": "apostae-delver-orc",
+        "uuid": "Compendium.sf2e.heritages.Item.62rt3ufujy6vnhq0"
+    },
+    {
+        "slug": "stone-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.6M1eN79FjgV4xuQe"
+    },
+    {
+        "slug": "citadel-dwarf",
+        "uuid": "Compendium.sf2e.heritages.Item.6hTB4JCs1EVg2rdI"
+    },
+    {
         "slug": "deep-ysoki",
         "uuid": "Compendium.sf2e.heritages.Item.7p9HtLzWBHc18JDW"
+    },
+    {
+        "slug": "court-of-dance-moyishuu",
+        "uuid": "Compendium.sf2e.heritages.Item.7wp6pQc0ZLbShHgl"
+    },
+    {
+        "slug": "shiny-skittermander",
+        "uuid": "Compendium.sf2e.heritages.Item.8fOLeyM613JqabRu"
     },
     {
         "slug": "outworlder-kalo",
         "uuid": "Compendium.sf2e.heritages.Item.8xJLb7SmPydkTzfG"
     },
     {
+        "slug": "vorlathi-worlanisi",
+        "uuid": "Compendium.sf2e.heritages.Item.8yb7RFUk2luzcgYP"
+    },
+    {
         "slug": "flameheart-dragonkin",
         "uuid": "Compendium.sf2e.heritages.Item.952YwmIOYQPJTLRB"
+    },
+    {
+        "slug": "covert-observer-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.97rhMZy7FCjGKwri"
     },
     {
         "slug": "aquazoan",
         "uuid": "Compendium.sf2e.heritages.Item.9tHpz23J3FSz0K2E"
     },
     {
+        "slug": "canopy-crawler-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.A2JYyzBHuDSwid8j"
+    },
+    {
         "slug": "entertainer-elebrian",
         "uuid": "Compendium.sf2e.heritages.Item.A3XpAjUgnGyxXoDI"
+    },
+    {
+        "slug": "tankmeat-goblin",
+        "uuid": "Compendium.sf2e.heritages.Item.Al0kW5lh60VJGmdx"
+    },
+    {
+        "slug": "umber-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.AlbB9NExLsUcdai7"
     },
     {
         "slug": "shipborn-ysoki",
         "uuid": "Compendium.sf2e.heritages.Item.ApPYlfqJs6pIDF4D"
     },
     {
+        "slug": "resettled-izalguun",
+        "uuid": "Compendium.sf2e.heritages.Item.AtXvMEBMrfmOD7lG"
+    },
+    {
+        "slug": "karapentu",
+        "uuid": "Compendium.sf2e.heritages.Item.AvEovZgvDyKIm8VQ"
+    },
+    {
+        "slug": "black-hole-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.B6Of6VTr8l5oZS6U"
+    },
+    {
         "slug": "akitonian-ysoki",
         "uuid": "Compendium.sf2e.heritages.Item.BHG0mfWnbHhKluxO"
+    },
+    {
+        "slug": "summerborn-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.BegXNMGhK9YivAtW"
+    },
+    {
+        "slug": "deepmarsh-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.BmO4C2D61p3YypAL"
     },
     {
         "slug": "mod-fanatic-android",
@@ -72,8 +220,24 @@
         "uuid": "Compendium.sf2e.heritages.Item.CMgZu5L4MXVX7Cwl"
     },
     {
+        "slug": "student-of-creation-orc",
+        "uuid": "Compendium.sf2e.heritages.Item.CeDPZE0sjdy39HNY"
+    },
+    {
+        "slug": "radioscout-talphi",
+        "uuid": "Compendium.sf2e.heritages.Item.D9qzdlxpswO7WLNn"
+    },
+    {
+        "slug": "pod-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.DPA0MAbuPVsHJn9O"
+    },
+    {
         "slug": "star-marked-vlaka",
         "uuid": "Compendium.sf2e.heritages.Item.DTDJDSro9YfgNuXi"
+    },
+    {
+        "slug": "matter-eater-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.DcwazTe2YKN6vLCP"
     },
     {
         "slug": "crèche-raised-sarcesian",
@@ -84,8 +248,28 @@
         "uuid": "Compendium.sf2e.heritages.Item.Dz2ckZBbUuS5bIgQ"
     },
     {
+        "slug": "sky-scavenger-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.ECwFCyl5HYhoFcAt"
+    },
+    {
+        "slug": "xenometric-android",
+        "uuid": "Compendium.sf2e.heritages.Item.EI7E0QBPW6IqMDPV"
+    },
+    {
+        "slug": "psychic-blight-fonqugon",
+        "uuid": "Compendium.sf2e.heritages.Item.EIuXey5YwW8JhXro"
+    },
+    {
         "slug": "borai",
         "uuid": "Compendium.sf2e.heritages.Item.ENIlxRfjGN218iKJ"
+    },
+    {
+        "slug": "replicant-android",
+        "uuid": "Compendium.sf2e.heritages.Item.EPdo5SzOzdBSZ3i7"
+    },
+    {
+        "slug": "void-acolyte-kasatha",
+        "uuid": "Compendium.sf2e.heritages.Item.ES2B7mYJB3zNaySw"
     },
     {
         "slug": "keen-sighted-vlaka",
@@ -96,6 +280,10 @@
         "uuid": "Compendium.sf2e.heritages.Item.EXwIrrzLZQZODLOd"
     },
     {
+        "slug": "red-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.EkcXZdHjO9nDhMRk"
+    },
+    {
         "slug": "deep-kalo",
         "uuid": "Compendium.sf2e.heritages.Item.Ey2iWNKXd8rzHP2J"
     },
@@ -104,8 +292,24 @@
         "uuid": "Compendium.sf2e.heritages.Item.FDEvJXDoWPLHoEsT"
     },
     {
+        "slug": "surithic-worlanisi",
+        "uuid": "Compendium.sf2e.heritages.Item.FFYDFjloBxT1A7cM"
+    },
+    {
+        "slug": "izalraan-izalguun",
+        "uuid": "Compendium.sf2e.heritages.Item.FFxlJfHkeU53fMqC"
+    },
+    {
         "slug": "meyels-chosen-pahtra",
         "uuid": "Compendium.sf2e.heritages.Item.FGOV0tjruePwBpLM"
+    },
+    {
+        "slug": "horizon-seeker-vesk",
+        "uuid": "Compendium.sf2e.heritages.Item.FIddzHd8osoop9zO"
+    },
+    {
+        "slug": "damai-human",
+        "uuid": "Compendium.sf2e.heritages.Item.G1TFC6Am29MytrzR"
     },
     {
         "slug": "cloned-astrazoan",
@@ -116,12 +320,52 @@
         "uuid": "Compendium.sf2e.heritages.Item.GhfhQjc0Id58xm8E"
     },
     {
+        "slug": "infogriefer-goblin",
+        "uuid": "Compendium.sf2e.heritages.Item.HTj6XNFgDCbceWqj"
+    },
+    {
+        "slug": "suskillon-cutoff-shirren",
+        "uuid": "Compendium.sf2e.heritages.Item.HlkSZKuMn4rG1uiQ"
+    },
+    {
+        "slug": "fire-flood-fonqugon",
+        "uuid": "Compendium.sf2e.heritages.Item.I8SDKbuK7RQDnT8s"
+    },
+    {
+        "slug": "static-mind-lashunta",
+        "uuid": "Compendium.sf2e.heritages.Item.IJjrD1JTi0UFnhGy"
+    },
+    {
         "slug": "manufacturer-barathu",
         "uuid": "Compendium.sf2e.heritages.Item.IKJwTaMRnPIio4jH"
     },
     {
         "slug": "glacierborn-shobhad",
         "uuid": "Compendium.sf2e.heritages.Item.IMdFH4T27NC1GQCE"
+    },
+    {
+        "slug": "vital-spark-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.IOBIoaOjX2KbR1Et"
+    },
+    {
+        "slug": "wyrd-kasatha",
+        "uuid": "Compendium.sf2e.heritages.Item.ISNM7bcjvzMQPvW3"
+    },
+    {
+        "slug": "frilled-vesk",
+        "uuid": "Compendium.sf2e.heritages.Item.IZcD5GNvmp4cJI69"
+    },
+    {
+        "slug": "xenofey-gnome",
+        "uuid": "Compendium.sf2e.heritages.Item.IZiTJB0PYElpoRlR"
+    },
+    {
+        "slug": "deep-space-hryngar",
+        "uuid": "Compendium.sf2e.heritages.Item.JGQFlHY0J0LluvlH"
+    },
+    {
+        "slug": "winterborn-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.JHr8BIUd2QldzANI"
     },
     {
         "slug": "gadraveech-skittermander",
@@ -136,12 +380,32 @@
         "uuid": "Compendium.sf2e.heritages.Item.JuqBWWB16ekM0Tdf"
     },
     {
+        "slug": "bright-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.K6QG1CdMXa4Pn2QF"
+    },
+    {
+        "slug": "mire-dweller-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.KABeb9mZOeeFhbc3"
+    },
+    {
         "slug": "sharp-eyed-sarcesian",
         "uuid": "Compendium.sf2e.heritages.Item.KTc9RuD02CDmAvzN"
     },
     {
         "slug": "hunter-stalker-pahtra",
         "uuid": "Compendium.sf2e.heritages.Item.KgekeGih8FTo36Sc"
+    },
+    {
+        "slug": "crystal-crown-ijtikri",
+        "uuid": "Compendium.sf2e.heritages.Item.KkS72Ci1OZ98k3R1"
+    },
+    {
+        "slug": "green-warden-kasatha",
+        "uuid": "Compendium.sf2e.heritages.Item.Koq4lIt1zouk03QJ"
+    },
+    {
+        "slug": "genetic-pioneer-lashunta",
+        "uuid": "Compendium.sf2e.heritages.Item.LBGUK7QKYcs8Fs5X"
     },
     {
         "slug": "iridescent-shirren",
@@ -152,36 +416,88 @@
         "uuid": "Compendium.sf2e.heritages.Item.LWYCoYVa9JiN5Cs6"
     },
     {
+        "slug": "krregr-po-talphi",
+        "uuid": "Compendium.sf2e.heritages.Item.LaT0HffqKRwM0lHW"
+    },
+    {
         "slug": "desert-ikeshti",
         "uuid": "Compendium.sf2e.heritages.Item.Lc03oetnQ5sNRNYT"
+    },
+    {
+        "slug": "dense-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.Lf0jLZUteBraHsFE"
+    },
+    {
+        "slug": "quarterling-halfling",
+        "uuid": "Compendium.sf2e.heritages.Item.LylGfTrj2NuMdu5N"
+    },
+    {
+        "slug": "voidborn-pahtra",
+        "uuid": "Compendium.sf2e.heritages.Item.M0TcWkeLYW0WCKhy"
     },
     {
         "slug": "deadwood",
         "uuid": "Compendium.sf2e.heritages.Item.MOuOhoGwjHkGoOrc"
     },
     {
+        "slug": "shrouded-mantle-ijtikri",
+        "uuid": "Compendium.sf2e.heritages.Item.MsZ2BRFzj43sXTho"
+    },
+    {
         "slug": "heartbroken-dragonkin",
         "uuid": "Compendium.sf2e.heritages.Item.NXVULEwhf37gVKGf"
+    },
+    {
+        "slug": "shifthide-orocoran",
+        "uuid": "Compendium.sf2e.heritages.Item.NhF4Q9GRNoG5spdE"
     },
     {
         "slug": "inured-ikeshti",
         "uuid": "Compendium.sf2e.heritages.Item.Nkll4kC0WQW67wE8"
     },
     {
+        "slug": "mottled-hide-ijtikri",
+        "uuid": "Compendium.sf2e.heritages.Item.Ny6Pv7Ua4SZZfmLi"
+    },
+    {
+        "slug": "fork-tongued-vesk",
+        "uuid": "Compendium.sf2e.heritages.Item.OR3hGCWMBnmthHvL"
+    },
+    {
         "slug": "shipborn-kasatha",
         "uuid": "Compendium.sf2e.heritages.Item.P8x1XiN52lgbgzB0"
+    },
+    {
+        "slug": "reef-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.PEWMKmbaBRtmv7rJ"
     },
     {
         "slug": "warblood-vesk",
         "uuid": "Compendium.sf2e.heritages.Item.Pxw4kKf2goygSYpB"
     },
     {
+        "slug": "saberine-pahtra",
+        "uuid": "Compendium.sf2e.heritages.Item.QCIDliAjexW45zYj"
+    },
+    {
         "slug": "akitonian-nomad-shobhad",
         "uuid": "Compendium.sf2e.heritages.Item.QFNqrRQncrkMniMA"
     },
     {
+        "slug": "inheritor-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.QJxHYzDyDSoZswIq"
+    },
+    {
         "slug": "golarion-survivor-human",
         "uuid": "Compendium.sf2e.heritages.Item.QZ67FjD8QxI0Ab35"
+    },
+    {
+        "slug": "gap-touched",
+        "uuid": "Compendium.sf2e.heritages.Item.QcbrI0l9nnC92sOm"
+    },
+    {
+        "slug": "krethiskar-cutoff-shirren",
+        "uuid": "Compendium.sf2e.heritages.Item.RJm0SHvvKNO5j6y8"
     },
     {
         "slug": "courtier-shirren",
@@ -192,8 +508,20 @@
         "uuid": "Compendium.sf2e.heritages.Item.RafHOA55opMBMtiZ"
     },
     {
+        "slug": "volatile-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.RkL11sNqvXcpa6UL"
+    },
+    {
         "slug": "wildseed",
         "uuid": "Compendium.sf2e.heritages.Item.SBRnZHvzGQCSdlWE"
+    },
+    {
+        "slug": "liminal-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.SQixiaTh0yh7Dvqa"
+    },
+    {
+        "slug": "industrial-dwarf",
+        "uuid": "Compendium.sf2e.heritages.Item.SZA9bPMaxbTZUNF2"
     },
     {
         "slug": "stormrider-dragonkin",
@@ -204,6 +532,18 @@
         "uuid": "Compendium.sf2e.heritages.Item.TZTa5BJoOyv5O0fS"
     },
     {
+        "slug": "nelentu",
+        "uuid": "Compendium.sf2e.heritages.Item.TZTiFuMcUfWqztab"
+    },
+    {
+        "slug": "hollow-orb-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.TqR6MAdihjkfJdTu"
+    },
+    {
+        "slug": "shadowskin-talphi",
+        "uuid": "Compendium.sf2e.heritages.Item.TqjG2MYTLPRCbFYj"
+    },
+    {
         "slug": "underground-ikeshti",
         "uuid": "Compendium.sf2e.heritages.Item.TwU15npTtpW9TJcv"
     },
@@ -212,8 +552,16 @@
         "uuid": "Compendium.sf2e.heritages.Item.U882U2NUUGL6u3rL"
     },
     {
+        "slug": "fullbright-shirren",
+        "uuid": "Compendium.sf2e.heritages.Item.UYgqxqmwj2sqkZRt"
+    },
+    {
         "slug": "exiled-elebrian",
         "uuid": "Compendium.sf2e.heritages.Item.UjSJHYe9RRXbGHl2"
+    },
+    {
+        "slug": "oozebonded-pahtra",
+        "uuid": "Compendium.sf2e.heritages.Item.UmEAySAO3mgdEocu"
     },
     {
         "slug": "prismeni",
@@ -224,8 +572,44 @@
         "uuid": "Compendium.sf2e.heritages.Item.Vf8NOK1Jnk0zQDqv"
     },
     {
+        "slug": "mutant-goblin",
+        "uuid": "Compendium.sf2e.heritages.Item.WQCUa3yAIwoGKdad"
+    },
+    {
+        "slug": "stonehail-gfolian",
+        "uuid": "Compendium.sf2e.heritages.Item.WmyMkqUME3Tzi7uR"
+    },
+    {
+        "slug": "genetically-unstable-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.WqrIqtw7FVJUplNJ"
+    },
+    {
         "slug": "swarm-exile-shirren",
         "uuid": "Compendium.sf2e.heritages.Item.WyqKrnAAQXkJQyNm"
+    },
+    {
+        "slug": "self-focus-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.X4SQ5BxzJxRqSQNc"
+    },
+    {
+        "slug": "queens-court-formian",
+        "uuid": "Compendium.sf2e.heritages.Item.XTdCu0zJyHe5kIYF"
+    },
+    {
+        "slug": "wavecrested-vesk",
+        "uuid": "Compendium.sf2e.heritages.Item.XXRa3j9n6lbOth4L"
+    },
+    {
+        "slug": "citywrought-gfolian",
+        "uuid": "Compendium.sf2e.heritages.Item.Y2UxrXkQyFnq0JIc"
+    },
+    {
+        "slug": "opensky-gfolian",
+        "uuid": "Compendium.sf2e.heritages.Item.YBSrIGQElEUL5xmI"
+    },
+    {
+        "slug": "glowsilk-lashunta",
+        "uuid": "Compendium.sf2e.heritages.Item.YovKvEu98JLGtB1g"
     },
     {
         "slug": "manifested-contemplative",
@@ -236,8 +620,36 @@
         "uuid": "Compendium.sf2e.heritages.Item.ZAOKze0PTYPPbUua"
     },
     {
+        "slug": "questbound-dwarf",
+        "uuid": "Compendium.sf2e.heritages.Item.ZH08RhSCb4Cq4vwE"
+    },
+    {
+        "slug": "marixan-warhawk-orc",
+        "uuid": "Compendium.sf2e.heritages.Item.ZH3yAOL7ncLg94r0"
+    },
+    {
+        "slug": "tabori-trailblazer-orc",
+        "uuid": "Compendium.sf2e.heritages.Item.ZW11lUkDkI42NJ1G"
+    },
+    {
         "slug": "korasha-lashunta",
         "uuid": "Compendium.sf2e.heritages.Item.a5znSq93Wz22iQHP"
+    },
+    {
+        "slug": "electronica-android",
+        "uuid": "Compendium.sf2e.heritages.Item.aOmhpItdUPMoRBKu"
+    },
+    {
+        "slug": "salvations-end-dwarf",
+        "uuid": "Compendium.sf2e.heritages.Item.aScncCu1nPcOU2LS"
+    },
+    {
+        "slug": "biotech-android",
+        "uuid": "Compendium.sf2e.heritages.Item.aiw7v52ME0Pfe88l"
+    },
+    {
+        "slug": "lightning-bug-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.bMjnl2xXUsMcFOlJ"
     },
     {
         "slug": "irreproachable-contemplative",
@@ -248,8 +660,96 @@
         "uuid": "Compendium.sf2e.heritages.Item.bjgKWl3GbIywvJm6"
     },
     {
+        "slug": "soldier-formian",
+        "uuid": "Compendium.sf2e.heritages.Item.bjuTytoNvYMqGl92"
+    },
+    {
+        "slug": "clawed-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.bxANiZwdKO4Amw9G"
+    },
+    {
+        "slug": "emeritus-trox",
+        "uuid": "Compendium.sf2e.heritages.Item.cDOprsKiYK6YtePU"
+    },
+    {
+        "slug": "hylki-human",
+        "uuid": "Compendium.sf2e.heritages.Item.cDV7xLQm9JMs1PBm"
+    },
+    {
+        "slug": "nchaki-attendant-shirren",
+        "uuid": "Compendium.sf2e.heritages.Item.cR2qYglAgkprKul3"
+    },
+    {
+        "slug": "grumpy-skittermander",
+        "uuid": "Compendium.sf2e.heritages.Item.cVI2PsWafys6fxjv"
+    },
+    {
+        "slug": "zabanii-po-talphi",
+        "uuid": "Compendium.sf2e.heritages.Item.cVVp6M1lS8f7WkaC"
+    },
+    {
+        "slug": "hardy-leshy",
+        "uuid": "Compendium.sf2e.heritages.Item.cebg5MhKedcCRZSV"
+    },
+    {
+        "slug": "jury-rigging-raxilite",
+        "uuid": "Compendium.sf2e.heritages.Item.ckS3zXR5NQeoWVp9"
+    },
+    {
+        "slug": "pioneer-human",
+        "uuid": "Compendium.sf2e.heritages.Item.czkQDPLftNzPgjEU"
+    },
+    {
+        "slug": "asanan-elf",
+        "uuid": "Compendium.sf2e.heritages.Item.d1xOmoqf672aQWbW"
+    },
+    {
+        "slug": "caravan-cousin-halfling",
+        "uuid": "Compendium.sf2e.heritages.Item.dRF0szwsbL0FKBxP"
+    },
+    {
+        "slug": "azrinaran-elf",
+        "uuid": "Compendium.sf2e.heritages.Item.dRjWjBLjzAhet1NK"
+    },
+    {
+        "slug": "ivairan-elf",
+        "uuid": "Compendium.sf2e.heritages.Item.dy7TFvb8CKeuWlo2"
+    },
+    {
+        "slug": "yeulentu",
+        "uuid": "Compendium.sf2e.heritages.Item.e0OKHpzgWDU5kaE7"
+    },
+    {
+        "slug": "fortified-trox",
+        "uuid": "Compendium.sf2e.heritages.Item.e0llqN06HJge2tgZ"
+    },
+    {
+        "slug": "test-subject-ysoki",
+        "uuid": "Compendium.sf2e.heritages.Item.ebKqZR0TcPUsHhZw"
+    },
+    {
+        "slug": "luckless-worlanisi",
+        "uuid": "Compendium.sf2e.heritages.Item.evmeDevSkC6RGBMk"
+    },
+    {
+        "slug": "gengen-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.ez9OAzaaj7hqaYiO"
+    },
+    {
         "slug": "experimental-ikeshti",
         "uuid": "Compendium.sf2e.heritages.Item.ezPp5n1TQKjhkZsy"
+    },
+    {
+        "slug": "lightning-wave-fonqugon",
+        "uuid": "Compendium.sf2e.heritages.Item.f1K7ybfxZmt45rmz"
+    },
+    {
+        "slug": "field-researcher-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.f6RQOiy6f1Onb7R4"
+    },
+    {
+        "slug": "patagi-maraquoi",
+        "uuid": "Compendium.sf2e.heritages.Item.fOGOVY3fYxiBDvHK"
     },
     {
         "slug": "longsnout-ysoki",
@@ -264,8 +764,36 @@
         "uuid": "Compendium.sf2e.heritages.Item.faGqBgQEAugkZ5wH"
     },
     {
+        "slug": "industrialist-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.fajKcdhuTDRj56Jb"
+    },
+    {
+        "slug": "junker-goblin",
+        "uuid": "Compendium.sf2e.heritages.Item.fofNcGJuVdvN6Qsb"
+    },
+    {
+        "slug": "hellforged-android",
+        "uuid": "Compendium.sf2e.heritages.Item.fq0LdrPloPz63YBh"
+    },
+    {
         "slug": "asteroid-hopper-sarcesian",
         "uuid": "Compendium.sf2e.heritages.Item.g8HDK1liSwjtUQNi"
+    },
+    {
+        "slug": "magnetic-orb-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.gKSpj4ErXFb9P95v"
+    },
+    {
+        "slug": "legionnaire-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.gbNshpJlAC1yKd65"
+    },
+    {
+        "slug": "bumalla-worlanisi",
+        "uuid": "Compendium.sf2e.heritages.Item.gpZqW32yBAOrSpqm"
+    },
+    {
+        "slug": "proudhome-pahtra",
+        "uuid": "Compendium.sf2e.heritages.Item.h2ELfWMEEYr6srsP"
     },
     {
         "slug": "versatile-human",
@@ -276,8 +804,28 @@
         "uuid": "Compendium.sf2e.heritages.Item.huDjFa4Vt7UF0JUa"
     },
     {
+        "slug": "gallant-skittermander",
+        "uuid": "Compendium.sf2e.heritages.Item.hyRCVl3W8iAQZqHi"
+    },
+    {
+        "slug": "brilliant-mien-ijtikri",
+        "uuid": "Compendium.sf2e.heritages.Item.i70KuKrAsGrJhP1u"
+    },
+    {
+        "slug": "slitherskin-orocoran",
+        "uuid": "Compendium.sf2e.heritages.Item.i8v64HlpvuyrDGHy"
+    },
+    {
         "slug": "corpsefolk",
         "uuid": "Compendium.sf2e.heritages.Item.iCOQI4pXzO98wnE1"
+    },
+    {
+        "slug": "icesure-gfolian",
+        "uuid": "Compendium.sf2e.heritages.Item.iUfqI4RNf0hbH0Va"
+    },
+    {
+        "slug": "fluffy-skittermander",
+        "uuid": "Compendium.sf2e.heritages.Item.itVWSleeetAd1BWB"
     },
     {
         "slug": "compact-sarcesian",
@@ -288,16 +836,40 @@
         "uuid": "Compendium.sf2e.heritages.Item.jbSgKLxeANdgrfvD"
     },
     {
+        "slug": "sovyrian-elf",
+        "uuid": "Compendium.sf2e.heritages.Item.jvSw10EnRK2vCF65"
+    },
+    {
+        "slug": "hollow-leshy",
+        "uuid": "Compendium.sf2e.heritages.Item.k4G2EJkv1Cqi9Yeb"
+    },
+    {
+        "slug": "countershade-crest-ijtikri",
+        "uuid": "Compendium.sf2e.heritages.Item.kSfUPbyczONnQ0oc"
+    },
+    {
         "slug": "offworld-shobhad",
         "uuid": "Compendium.sf2e.heritages.Item.kxY0MXkQzEnGcbBo"
+    },
+    {
+        "slug": "spore-producing-leshy",
+        "uuid": "Compendium.sf2e.heritages.Item.kyq3s2McREOvaSbn"
     },
     {
         "slug": "petrified",
         "uuid": "Compendium.sf2e.heritages.Item.l5WFo2QxPOYUyLTJ"
     },
     {
+        "slug": "clan-kindred-orc",
+        "uuid": "Compendium.sf2e.heritages.Item.lEe4j2x7PkatF0ig"
+    },
+    {
         "slug": "briskwander-vesk",
         "uuid": "Compendium.sf2e.heritages.Item.lHF7WmacNWdiRNNd"
+    },
+    {
+        "slug": "hyper-augmented-raxilite",
+        "uuid": "Compendium.sf2e.heritages.Item.lIfJxMR8sjbs9dZR"
     },
     {
         "slug": "sniper-shobhad",
@@ -316,6 +888,10 @@
         "uuid": "Compendium.sf2e.heritages.Item.m9Nb3UrUoEGAxaCr"
     },
     {
+        "slug": "lowcrawler-talphi",
+        "uuid": "Compendium.sf2e.heritages.Item.mBQs6juKeqG97LjF"
+    },
+    {
         "slug": "urbanite-human",
         "uuid": "Compendium.sf2e.heritages.Item.mLPafbWvDDwKK7U4"
     },
@@ -332,40 +908,208 @@
         "uuid": "Compendium.sf2e.heritages.Item.mq92ECPMTFZXDI6E"
     },
     {
+        "slug": "voidcore-android",
+        "uuid": "Compendium.sf2e.heritages.Item.n05RMubFfXt0nAhO"
+    },
+    {
+        "slug": "rugged-explorer-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.n0i3Dr3kyFHiJYhU"
+    },
+    {
+        "slug": "court-of-flames-moyishuu",
+        "uuid": "Compendium.sf2e.heritages.Item.n7PPMZNz1x1UxXNt"
+    },
+    {
+        "slug": "ocean-diver-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.nReLUvLRtAiGYnVq"
+    },
+    {
+        "slug": "roavisha-maraquoi",
+        "uuid": "Compendium.sf2e.heritages.Item.niiajgrBAX0MJdV7"
+    },
+    {
+        "slug": "massive-novian",
+        "uuid": "Compendium.sf2e.heritages.Item.nvo8D4JLaIoE1ti7"
+    },
+    {
         "slug": "winged-shirren",
         "uuid": "Compendium.sf2e.heritages.Item.o9QBHUuvGsHcGh4n"
+    },
+    {
+        "slug": "ancestors-armor-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.oJMCbkUe5o1UGWXT"
+    },
+    {
+        "slug": "ambassador-formian",
+        "uuid": "Compendium.sf2e.heritages.Item.oVFVxfnDt1pzIXf6"
     },
     {
         "slug": "renewed-android",
         "uuid": "Compendium.sf2e.heritages.Item.oyxtHoW8wUWnYzTO"
     },
     {
+        "slug": "doomsayer-kasatha",
+        "uuid": "Compendium.sf2e.heritages.Item.p09ohe8gB0rJyzd9"
+    },
+    {
+        "slug": "moon-guard-copaxi",
+        "uuid": "Compendium.sf2e.heritages.Item.p9LZa824mlvlf0dS"
+    },
+    {
+        "slug": "crystal-carapace-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.pHuWTdkQ0AG0ON8w"
+    },
+    {
+        "slug": "living-codex-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.pW3ZVV9zaw7UinHH"
+    },
+    {
+        "slug": "enhoitra-maraquoi",
+        "uuid": "Compendium.sf2e.heritages.Item.pZ4NpIQ1WU9ocnRQ"
+    },
+    {
+        "slug": "ancient-izalguun",
+        "uuid": "Compendium.sf2e.heritages.Item.pfQudtkYql3nBDPW"
+    },
+    {
+        "slug": "ambassador-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.qHcAECNqQdqZqiZ6"
+    },
+    {
         "slug": "shipborn-dragonkin",
         "uuid": "Compendium.sf2e.heritages.Item.qRHZENQf5C43t3q4"
+    },
+    {
+        "slug": "ukara-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.qljFa37uuA3Ppgdn"
+    },
+    {
+        "slug": "fierce-ysoki",
+        "uuid": "Compendium.sf2e.heritages.Item.r4rMKhYwX6WTSfl6"
+    },
+    {
+        "slug": "fidgeter-skittermander",
+        "uuid": "Compendium.sf2e.heritages.Item.r6LPBsM0pW1iZQfy"
+    },
+    {
+        "slug": "lime-blooded-madrosarai",
+        "uuid": "Compendium.sf2e.heritages.Item.rFvl8O60yyErO8BK"
+    },
+    {
+        "slug": "vali-maraquoi",
+        "uuid": "Compendium.sf2e.heritages.Item.run8b7mU6gSchXEN"
+    },
+    {
+        "slug": "itinerant-scholar-osharu",
+        "uuid": "Compendium.sf2e.heritages.Item.rvNN5532Zzsgxblk"
+    },
+    {
+        "slug": "sunkissed-human",
+        "uuid": "Compendium.sf2e.heritages.Item.sA4TCSVm8ljDFiA5"
+    },
+    {
+        "slug": "rubberlimb-orocoran",
+        "uuid": "Compendium.sf2e.heritages.Item.sPBX9xGEsFxdUlnn"
     },
     {
         "slug": "rime-walker-pahtra",
         "uuid": "Compendium.sf2e.heritages.Item.sVLbQ2yf5ITq4asR"
     },
     {
+        "slug": "whispered-record-halfling",
+        "uuid": "Compendium.sf2e.heritages.Item.shCeHiMXYZpCRkOl"
+    },
+    {
+        "slug": "enshrined-vesk",
+        "uuid": "Compendium.sf2e.heritages.Item.skMASd6bHEhEfr40"
+    },
+    {
         "slug": "thoughtseeker-contemplative",
         "uuid": "Compendium.sf2e.heritages.Item.t0OfbPwWPYSr7JL5"
+    },
+    {
+        "slug": "cataclyst-human",
+        "uuid": "Compendium.sf2e.heritages.Item.t4Tq3fnDqou4slBY"
+    },
+    {
+        "slug": "brightsheen-gfolian",
+        "uuid": "Compendium.sf2e.heritages.Item.tXJSvLfGTwgS2Otq"
+    },
+    {
+        "slug": "keen-sighted-raxilite",
+        "uuid": "Compendium.sf2e.heritages.Item.taUJfLu4DzO7SEk0"
+    },
+    {
+        "slug": "drift-delver-gnome",
+        "uuid": "Compendium.sf2e.heritages.Item.uWqSWbLLEDZmQzGi"
+    },
+    {
+        "slug": "moonflower-leshy",
+        "uuid": "Compendium.sf2e.heritages.Item.udoUR75AqcPUxR6M"
     },
     {
         "slug": "bloom-born-kalo",
         "uuid": "Compendium.sf2e.heritages.Item.v1FRU6XUr7QZsG6d"
     },
     {
+        "slug": "plague-hardened-trox",
+        "uuid": "Compendium.sf2e.heritages.Item.v6iZJAS4E8OsOYkC"
+    },
+    {
+        "slug": "tunnel-runner-trox",
+        "uuid": "Compendium.sf2e.heritages.Item.vNcPF0JKNAMaesTy"
+    },
+    {
+        "slug": "ductsneak-halfling",
+        "uuid": "Compendium.sf2e.heritages.Item.vZRQE6qokI3uSrQM"
+    },
+    {
+        "slug": "scoured-stars-izalguun",
+        "uuid": "Compendium.sf2e.heritages.Item.vaA5HFp4bfvEU86l"
+    },
+    {
         "slug": "inflorescent",
         "uuid": "Compendium.sf2e.heritages.Item.vlLSIOKqJHXRaCIt"
+    },
+    {
+        "slug": "ascendant-psychic-lashunta",
+        "uuid": "Compendium.sf2e.heritages.Item.vsfvZMpJ7ELhTvSy"
     },
     {
         "slug": "networked-android",
         "uuid": "Compendium.sf2e.heritages.Item.wHGhjTqNvsaAMJHM"
     },
     {
+        "slug": "magic-dabbler-urog",
+        "uuid": "Compendium.sf2e.heritages.Item.wqhlTNfkTdP1oLpC"
+    },
+    {
+        "slug": "jungle-brenneri",
+        "uuid": "Compendium.sf2e.heritages.Item.x3bIKogWPLix3lCC"
+    },
+    {
+        "slug": "acid-quake-fonqugon",
+        "uuid": "Compendium.sf2e.heritages.Item.xDatDhlauUfHpmL6"
+    },
+    {
         "slug": "imperious-contemplative",
         "uuid": "Compendium.sf2e.heritages.Item.xFescMtvHlMJSpTs"
+    },
+    {
+        "slug": "locomotive-bantrid",
+        "uuid": "Compendium.sf2e.heritages.Item.xMH48HHPJ8Nsiuyu"
+    },
+    {
+        "slug": "worker-formian",
+        "uuid": "Compendium.sf2e.heritages.Item.xbwpV7b2bNQkdPs3"
+    },
+    {
+        "slug": "newborn-ryphorian",
+        "uuid": "Compendium.sf2e.heritages.Item.xpkfGTJtUM8KTJUF"
+    },
+    {
+        "slug": "bloodfilter-orocoran",
+        "uuid": "Compendium.sf2e.heritages.Item.xwaoFFiRh9q2HFbL"
     },
     {
         "slug": "nomadic-vlaka",
@@ -376,11 +1120,27 @@
         "uuid": "Compendium.sf2e.heritages.Item.ymuI4UO22iMmobRh"
     },
     {
+        "slug": "galactic-wanderer-barathu",
+        "uuid": "Compendium.sf2e.heritages.Item.yoRROuepSyzCYadn"
+    },
+    {
         "slug": "artificial-scion-android",
         "uuid": "Compendium.sf2e.heritages.Item.yp5O0Z97KtL0vlsZ"
     },
     {
+        "slug": "next-gen-raxilite",
+        "uuid": "Compendium.sf2e.heritages.Item.z3TgbCGcV0M9pjWY"
+    },
+    {
         "slug": "skilled-human",
         "uuid": "Compendium.sf2e.heritages.Item.zVf0Hlp5xG0Q7kmc"
+    },
+    {
+        "slug": "fortunaut-worlanisi",
+        "uuid": "Compendium.sf2e.heritages.Item.zZIUI1AFIWzV7UUw"
+    },
+    {
+        "slug": "inheritor-raxilite",
+        "uuid": "Compendium.sf2e.heritages.Item.znrubdU7Jj9x0TAL"
     }
 ]

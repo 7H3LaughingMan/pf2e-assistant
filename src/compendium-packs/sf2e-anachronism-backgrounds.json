@@ -16,6 +16,10 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.36cNp7LY8RmbFPRV"
     },
     {
+        "slug": "emissary",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.3WPo7m6rJQh9L7MN"
+    },
+    {
         "slug": "lodge-administrator",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.49R1MbdsFdtx1tCE"
     },
@@ -60,6 +64,10 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.7L6Z84rvU48W2mPI"
     },
     {
+        "slug": "gambler",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.89LEOv97ZwsjnhNx"
+    },
+    {
         "slug": "gene-splicer",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.8M8ocSvx6hKMg19k"
     },
@@ -74,6 +82,10 @@
     {
         "slug": "space-trooper",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.AhxV0vt0tsPQ9ULx"
+    },
+    {
+        "slug": "acolyte-grave-world",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.C31476Mc8HXz5m9L"
     },
     {
         "slug": "icon",
@@ -156,6 +168,10 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.JIFO1ucSlspDIKZB"
     },
     {
+        "slug": "grave-medic",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.KeTuBS1LUAb0USEg"
+    },
+    {
         "slug": "rebel",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.LpHSR7OmHhzyZyO0"
     },
@@ -202,6 +218,10 @@
     {
         "slug": "wheel-winner",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.Qy0bDQgSAarGvPEx"
+    },
+    {
+        "slug": "raised-by-belief",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.RC4l6WsxPn89a1f8"
     },
     {
         "slug": "skyrigger",
@@ -292,6 +312,10 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.a3egX6gDtlW4vRYK"
     },
     {
+        "slug": "bounty-hunter",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.a9Q4iIiAZryVWN27"
+    },
+    {
         "slug": "akitonian-explorer",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.aIWJ3q8C3laoCMRK"
     },
@@ -302,6 +326,18 @@
     {
         "slug": "dataphile",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.akU1lb4aIGYsvDdZ"
+    },
+    {
+        "slug": "prisoner",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.apXTV7jJx6yJpj8D"
+    },
+    {
+        "slug": "saw-the-afterlight",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.c4h6gddun6XdmqIZ"
+    },
+    {
+        "slug": "detective",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.dVRDDjT4FOu6uLDR"
     },
     {
         "slug": "hellforged-squire",
@@ -400,6 +436,10 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nwKc3qm6hXNDnXLI"
     },
     {
+        "slug": "eoxian-local",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.nyqLruVq5fyZAzwF"
+    },
+    {
         "slug": "fashionista",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.oRys6HIxqrpVORT4"
     },
@@ -408,8 +448,16 @@
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.oishnwqNSfJX2gJz"
     },
     {
+        "slug": "tomb-born",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.ooTbm6qBPgG0OfMF"
+    },
+    {
         "slug": "lost-aucturnite",
         "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.pmlpHiqUOlZxX3qI"
+    },
+    {
+        "slug": "willing-host",
+        "uuid": "Compendium.sf2e-anachronism.backgrounds.Item.pnARpxLghB2zDjL1"
     },
     {
         "slug": "tech-jaded",

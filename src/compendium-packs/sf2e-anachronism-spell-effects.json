@@ -84,6 +84,10 @@
         "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.bfimY3Rbx3lrsFAJ"
     },
     {
+        "slug": "spell-effect-eldritch-bond",
+        "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.cGBjkNm9P7Ra09rp"
+    },
+    {
         "slug": "spell-effect-akashic-download",
         "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.h1i8c47U0IOrMrHJ"
     },
@@ -100,6 +104,10 @@
         "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.kT8REROKKaXF2QK1"
     },
     {
+        "slug": "spell-effect-enhance-body",
+        "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.oGUuRPGJHouppf8V"
+    },
+    {
         "slug": "spell-effect-shifting-surge",
         "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.pWm0NCsxjxTUCJ7y"
     },
@@ -114,6 +122,10 @@
     {
         "slug": "spell-effect-cairn-form",
         "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.v724q5Xi7KPPnLQ3"
+    },
+    {
+        "slug": "spell-effect-enhance-weapon",
+        "uuid": "Compendium.sf2e-anachronism.spell-effects.Item.yopd0S7smKU5eB07"
     },
     {
         "slug": "spell-effect-supercharge-weapon",

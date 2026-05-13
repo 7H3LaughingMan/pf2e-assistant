@@ -1,8 +1,14 @@
 import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { GrantItemSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
-import { PF2E_ACTIONS, PF2E_CLASS_FEATURES, PF2E_CONDITIONS, PF2E_FEAT_EFFECTS, PF2E_FEATS } from "compendium-packs.ts";
-import { Utils } from "utils.ts";
+import { Assistant } from "@root/assistant.ts";
+import {
+    PF2E_ACTIONS,
+    PF2E_CLASS_FEATURES,
+    PF2E_CONDITIONS,
+    PF2E_FEAT_EFFECTS,
+    PF2E_FEATS
+} from "@root/compendium-packs.ts";
+import { Utils } from "@root/utils.ts";
 
 export const path = ["Class Features", "Rogue", "Debilitating Strike"];
 

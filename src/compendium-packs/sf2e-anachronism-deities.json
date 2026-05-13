@@ -12,12 +12,8 @@
         "uuid": "Compendium.sf2e-anachronism.deities.Item.CYUkMkhXSnZPLLhr"
     },
     {
-        "slug": "lissala",
-        "uuid": "Compendium.sf2e-anachronism.deities.Item.G8v5Gx6hSHYJKO4A"
-    },
-    {
-        "slug": "the-devourer",
-        "uuid": "Compendium.sf2e-anachronism.deities.Item.Kuw0nT06iQKUjXmy"
+        "slug": "song-of-silence",
+        "uuid": "Compendium.sf2e-anachronism.deities.Item.FEAa2RKdETHhuwnL"
     },
     {
         "slug": "battle-saints",
@@ -66,5 +62,9 @@
     {
         "slug": "lambatuin",
         "uuid": "Compendium.sf2e-anachronism.deities.Item.o9dgag7sAiFUnN9I"
+    },
+    {
+        "slug": "singularitism",
+        "uuid": "Compendium.sf2e-anachronism.deities.Item.uGKTEdsaAafTHu7C"
     }
 ]

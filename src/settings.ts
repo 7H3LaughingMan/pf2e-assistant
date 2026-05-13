@@ -1,4 +1,4 @@
-import { AutomationList } from "apps/automation-list.ts";
+import { AutomationList } from "./apps/automation-list.ts";
 
 Hooks.once("init", () => {
     game.settings.registerMenu("pf2e-assistant", "automationMenu", {

@@ -1,10 +1,11 @@
 import { DatabaseUpdateOperation } from "@7h3laughingman/foundry-types/common/abstract/_types.mjs";
 import { ActorPF2e, ActorSourcePF2e, CharacterPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
+import { Assistant } from "@root/assistant.ts";
+import { Utils } from "@root/utils.ts";
 
 Hooks.on(
     "preUpdateActor",
+    // @ts-expect-error No overload matches this call.
     (
         document: ActorPF2e,
         changed: PreCreate<ActorSourcePF2e>,

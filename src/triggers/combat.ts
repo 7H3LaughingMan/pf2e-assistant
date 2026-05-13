@@ -1,6 +1,7 @@
 import { CombatantPF2e, EncounterPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
+// @ts-expect-error No overload matches this call.
 Hooks.on("pf2e.startTurn", (combatant: CombatantPF2e) => {
     if (combatant.token === null || combatant.actor === null) return;
 
@@ -11,6 +12,7 @@ Hooks.on("pf2e.startTurn", (combatant: CombatantPF2e) => {
     });
 });
 
+// @ts-expect-error No overload matches this call.
 Hooks.on("pf2e.endTurn", (combatant: CombatantPF2e) => {
     if (combatant.token === null || combatant.actor === null) return;
 
@@ -21,6 +23,7 @@ Hooks.on("pf2e.endTurn", (combatant: CombatantPF2e) => {
     });
 });
 
+// @ts-expect-error No overload matches this call.
 Hooks.on("combatStart", (encounter: EncounterPF2e) => {
     for (const combatant of encounter.combatants) {
         if (combatant.token === null || combatant.actor === null) continue;

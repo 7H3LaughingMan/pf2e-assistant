@@ -42,7 +42,9 @@ export function replaceCodePlugin(config: Record<string, Record<string, string>>
 
     return {
         name: "transform-file",
-        transform(code) {
+        transform(code, id) {
+            if (id.endsWith("compendium-packs.ts")) return undefined;
+
             return {
                 code: execCodeReplacement(code, replacements),
                 map: null

@@ -9,12 +9,15 @@
         ],
         "types": [
             "@7h3laughingman/pf2e-types",
-            "@7h3laughingman/pf2e-helpers/lib-wrapper",
-            "@7h3laughingman/pf2e-helpers/socketlib",
+            "@7h3laughingman/lib-wrapper",
             "jquery",
             "vite/client"
         ],
-        "baseUrl": "./src",
+        "paths": {
+            "@root/*": [
+                "./src/*"
+            ]
+        },
         "noEmit": true,
         "strict": true,
         "noFallthroughCasesInSwitch": true,

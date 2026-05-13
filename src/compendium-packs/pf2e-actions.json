@@ -284,6 +284,10 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.8kGpUUUSX1sB2OqQ"
     },
     {
+        "slug": "twist-design",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.8nzfBu9i5oi2WQn0"
+    },
+    {
         "slug": "only-you-and-i",
         "uuid": "Compendium.pf2e.actionspf2e.Item.8r9ePG6BnrnO6YE1"
     },
@@ -342,6 +346,10 @@
     {
         "slug": "impersonate",
         "uuid": "Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE"
+    },
+    {
+        "slug": "hellbreaker-strike",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.ASt94swgHlproIcd"
     },
     {
         "slug": "marathon-dash",
@@ -832,6 +840,10 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.ND1G3s4lXNUAXc1q"
     },
     {
+        "slug": "warding-shift",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.NKjQup6NyQvg2J7y"
+    },
+    {
         "slug": "acrid-barrage",
         "uuid": "Compendium.pf2e.actionspf2e.Item.NRjBkjYx10MAXp3T"
     },
@@ -1188,6 +1200,10 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR"
     },
     {
+        "slug": "liberate-self",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.VqGjR43bBd36k0XI"
+    },
+    {
         "slug": "breath-weapon",
         "uuid": "Compendium.pf2e.actionspf2e.Item.Vr3w3t028ZKDg0mO"
     },
@@ -1378,6 +1394,10 @@
     {
         "slug": "salt-wound",
         "uuid": "Compendium.pf2e.actionspf2e.Item.b6CanpXyUKJgxEwq"
+    },
+    {
+        "slug": "size-up",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.b7yAKSmZ7famsENr"
     },
     {
         "slug": "mountaineering-training",
@@ -1832,6 +1852,10 @@
         "uuid": "Compendium.pf2e.actionspf2e.Item.orjJjLdm4XNAcFi8"
     },
     {
+        "slug": "puncture-flesh",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.pFgkxLJsAcImb0Eg"
+    },
+    {
         "slug": "smoke-blending",
         "uuid": "Compendium.pf2e.actionspf2e.Item.pTHMZLqWDJ3lkan9"
     },
@@ -1914,10 +1938,6 @@
     {
         "slug": "nudging-whisper",
         "uuid": "Compendium.pf2e.actionspf2e.Item.rlGVQku78DGoOl9V"
-    },
-    {
-        "slug": "drain-familiar",
-        "uuid": "Compendium.pf2e.actionspf2e.Item.rmnhzmJqfzEVnz1h"
     },
     {
         "slug": "craft",
@@ -2158,6 +2178,10 @@
     {
         "slug": "quick-alchemy",
         "uuid": "Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6"
+    },
+    {
+        "slug": "adopt-persona",
+        "uuid": "Compendium.pf2e.actionspf2e.Item.zB1g4oa3UKARhCSY"
     },
     {
         "slug": "pincer-attack",

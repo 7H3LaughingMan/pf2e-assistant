@@ -1,4 +1,4 @@
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 import * as R from "remeda";
 
 export const path = ["Conditions", "Frightened"];

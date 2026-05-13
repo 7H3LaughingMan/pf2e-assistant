@@ -1,9 +1,9 @@
 import { MODULE } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
 import moduleJSON from "../module.json" with { type: "json" };
+import { Assistant } from "./assistant.ts";
 import "./settings.ts";
 import "./triggers/index.ts";
+import { Utils } from "./utils.ts";
 
 MODULE.register(moduleJSON.id);
 

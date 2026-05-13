@@ -1,5 +1,5 @@
 import { isRolledDamageRoll } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
 export const path = ["Other", "Persistent Healing"];
 

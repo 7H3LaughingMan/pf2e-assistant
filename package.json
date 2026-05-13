@@ -3,44 +3,43 @@
     "scripts": {
         "dev": "vite",
         "build": "tsc --noEmit && vite build",
-        "changelog": "changelog --format markdownlint --create --release",
+        "changelog:create": "changelog --format markdownlint --create",
+        "changelog:release": "changelog --format markdownlint --release",
         "compile-packs": "node ./build/compile-packs.ts",
         "configure": "node ./build/configure.ts",
         "extract-packs": "node ./build/extract-packs.ts",
         "launch": "node ./build/launch.ts",
-        "link": "node ./build/link.ts",
-        "lint": "eslint src"
+        "link": "node ./build/link.ts"
     },
     "author": "7H3LaughingMan",
     "license": "MIT",
     "type": "module",
+    "packageManager": "pnpm@11.1.1+sha512.d1fdf5f73c617b64fa1a56a81c3c8dfe0e966e33a6010aa256b517ae77be21d93e05affc0de1a83b0e4f29d569f68b446ae8f068cd7247c0bb3df0fb4d7bdf9a",
+    "engines": {
+        "node": ">=24"
+    },
     "devDependencies": {
-        "@eslint/js": "^10.0.1",
         "@foundryvtt/foundryvtt-cli": "^3.0.3",
+        "@types/jquery": "^4.0.0",
         "@types/prompts": "^2.4.9",
         "commander": "^14.0.3",
-        "eslint": "^10.0.2",
-        "eslint-config-prettier": "^10.1.8",
-        "eslint-plugin-prettier": "^5.5.5",
         "foundryvtt-sync": "github:7H3LaughingMan/FoundryVTT-Sync",
         "glob": "^13.0.6",
-        "globals": "^17.3.0",
         "keep-a-changelog": "3.0.2",
         "lowdb": "^7.0.1",
-        "prettier": "^3.8.1",
+        "prettier": "^3.8.3",
         "prettier-plugin-organize-imports": "^4.3.0",
         "prompts": "^2.4.2",
         "typescript": "^5.9.3",
-        "typescript-eslint": "^8.56.1",
-        "unplugin-replace": "^0.6.3",
-        "vite": "^7.3.1",
-        "vite-tsconfig-paths": "^6.1.1"
+        "unplugin-replace": "^0.9.0",
+        "vite": "^8.0.12"
     },
     "dependencies": {
-        "@7h3laughingman/foundry-types": "~13.351",
-        "@7h3laughingman/pf2e-helpers": "~7.10",
-        "@7h3laughingman/pf2e-types": "~7.10",
-        "remeda": "2.33.6",
-        "zod": "^4.3.6"
+        "@7h3laughingman/foundry-types": "~14.360.9",
+        "@7h3laughingman/lib-wrapper": "^1.13.0",
+        "@7h3laughingman/pf2e-helpers": "^8.1.0",
+        "@7h3laughingman/pf2e-types": "~8.0.2",
+        "remeda": "2.34.0",
+        "zod": "^4.4.3"
     }
 }

@@ -116,6 +116,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.2YgXoHvJfrDHucMr"
     },
     {
+        "slug": "effect-dreamcrusher",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.2gKeytEnwpXhaLXM"
+    },
+    {
         "slug": "effect-wounding-oil",
         "uuid": "Compendium.pf2e.equipment-effects.Item.2gRnUwzPylifTrUO"
     },
@@ -156,6 +160,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.3O5lvuX4VHqtpCkU"
     },
     {
+        "slug": "effect-harpys-talon",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.3aJ9AiJdOrwdjYPF"
+    },
+    {
         "slug": "effect-mummified-bat",
         "uuid": "Compendium.pf2e.equipment-effects.Item.3dvpk7jwcQbmLsUA"
     },
@@ -190,6 +198,10 @@
     {
         "slug": "effect-nosoi-charm-diplomacy",
         "uuid": "Compendium.pf2e.equipment-effects.Item.4uy4Ygf5KD2WrtGW"
+    },
+    {
+        "slug": "effect-impelling-symbol",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.4xeFMXOsfrNZ3Ijv"
     },
     {
         "slug": "effect-defense-of-liberty",
@@ -248,6 +260,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.5xgapIXn5DwbXHKh"
     },
     {
+        "slug": "effect-platter-of-putrid-dreams",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.5yP9Y2iSOmy4hsrW"
+    },
+    {
         "slug": "effect-lastwall-soup",
         "uuid": "Compendium.pf2e.equipment-effects.Item.6A8jsLR7upLGuRiv"
     },
@@ -286,6 +302,10 @@
     {
         "slug": "effect-blazing-banner",
         "uuid": "Compendium.pf2e.equipment-effects.Item.7FPIQyPcq2R4L1ZQ"
+    },
+    {
+        "slug": "effect-magnetic-bola-speed-penalty",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.7GJnkRhlqPwq3nSX"
     },
     {
         "slug": "effect-vaultbreakers-harness",
@@ -500,6 +520,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.Cg6UOjRe7epZHyqp"
     },
     {
+        "slug": "effect-warding-paste-wearer",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.CvnIiMOigw3TeHYC"
+    },
+    {
         "slug": "effect-bronze-bull-pendant",
         "uuid": "Compendium.pf2e.equipment-effects.Item.Cxa7MdgMCUoMqbKm"
     },
@@ -574,6 +598,10 @@
     {
         "slug": "effect-glaive-of-the-artist",
         "uuid": "Compendium.pf2e.equipment-effects.Item.EpNflrkmWzQ0lEb4"
+    },
+    {
+        "slug": "effect-warding-paste-attacker",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.Ewb35HkmaoBV5iLL"
     },
     {
         "slug": "effect-shimmering-dust",
@@ -728,6 +756,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.IZkHdaqWBJIIWO7F"
     },
     {
+        "slug": "effect-devilwing-badge-armor",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.IdlSIN88G5Ca7TLe"
+    },
+    {
         "slug": "effect-rime-crystal-weapon",
         "uuid": "Compendium.pf2e.equipment-effects.Item.IiDpW99zrh7zHxmQ"
     },
@@ -782,6 +814,10 @@
     {
         "slug": "effect-energy-mutagen-greater",
         "uuid": "Compendium.pf2e.equipment-effects.Item.JbJykktAYMR4BRav"
+    },
+    {
+        "slug": "effect-devilwing-badge-weapon",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.JuyEDBlFwyDguEzG"
     },
     {
         "slug": "effect-wolfjaw-armor",
@@ -1204,6 +1240,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.Thd0XXhunYNk6jD7"
     },
     {
+        "slug": "effect-thorn-of-milani-unholy-weakness",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.ThhQDjUXKL7DcdbF"
+    },
+    {
         "slug": "effect-antidote",
         "uuid": "Compendium.pf2e.equipment-effects.Item.TjBxxlTvb6tJP1jS"
     },
@@ -1246,6 +1286,10 @@
     {
         "slug": "effect-energized-cartridge",
         "uuid": "Compendium.pf2e.equipment-effects.Item.UjXwDvLoSe9infGg"
+    },
+    {
+        "slug": "effect-magnetic-bola-damage",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.UoTJv0GODidag5Ik"
     },
     {
         "slug": "effect-hand-chords",
@@ -1428,6 +1472,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.XgIY3j2VFUSQ5Or9"
     },
     {
+        "slug": "effect-thorn-of-milani-spirit-damage",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.XjMGlQTXx13OMAkN"
+    },
+    {
         "slug": "effect-extra-warming",
         "uuid": "Compendium.pf2e.equipment-effects.Item.XlCcp2Jlwteqpm3z"
     },
@@ -1502,6 +1550,10 @@
     {
         "slug": "effect-ommatophoric-mutagen",
         "uuid": "Compendium.pf2e.equipment-effects.Item.ZxT8Shp8NZaQRjlQ"
+    },
+    {
+        "slug": "effect-unassuming-face-paint",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.aA2JwRWclQJbfVMT"
     },
     {
         "slug": "effect-war-blood-mutagen-lesser",
@@ -1650,6 +1702,10 @@
     {
         "slug": "effect-rovagugs-mud",
         "uuid": "Compendium.pf2e.equipment-effects.Item.d84cOfu0bEF8RBvK"
+    },
+    {
+        "slug": "effect-glue-bullet",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.dBjXvsLFezo2fGRa"
     },
     {
         "slug": "effect-rhino-hide-brooch",
@@ -1972,6 +2028,10 @@
         "uuid": "Compendium.pf2e.equipment-effects.Item.jw6Tr9FbErjLAFLQ"
     },
     {
+        "slug": "effect-greased-axle",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.k75TZi11cy23WoQj"
+    },
+    {
         "slug": "effect-potion-of-acid-resistance",
         "uuid": "Compendium.pf2e.equipment-effects.Item.k8Gt8zfPOhkYOn1A"
     },
@@ -2054,6 +2114,10 @@
     {
         "slug": "effect-portable-animal-blind",
         "uuid": "Compendium.pf2e.equipment-effects.Item.lpEPfVGRArMYFM2W"
+    },
+    {
+        "slug": "effect-the-kardosian-fragments-temporary-hit-points",
+        "uuid": "Compendium.pf2e.equipment-effects.Item.m4DFGd0gUTJsNBxa"
     },
     {
         "slug": "effect-grim-sandglass-weapon",

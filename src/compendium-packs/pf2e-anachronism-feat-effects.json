@@ -1,0 +1,3278 @@
+[
+    {
+        "slug": "effect-hells-bane",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.00gozjbtueYWop0w"
+    },
+    {
+        "slug": "effect-meddling-futures",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.06oOr07YORG2km9C"
+    },
+    {
+        "slug": "effect-earth-impulse-junction",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.09oP0FBBAhXOS4JW"
+    },
+    {
+        "slug": "effect-energetic-meltdown",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0AD7BiKjT8a6Uh92"
+    },
+    {
+        "slug": "effect-forcible-energy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0Ai0u9kNJrEudPnN"
+    },
+    {
+        "slug": "effect-boasters-challenge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0BNGjyW5WigX1FIs"
+    },
+    {
+        "slug": "effect-juvenile-flight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0JrHvdUgJBl631En"
+    },
+    {
+        "slug": "effect-familiar-of-balanced-luck",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0JvxhEv83bAD5PGv"
+    },
+    {
+        "slug": "effect-invoke-offense",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0h6dhuMU0fOr1OS5"
+    },
+    {
+        "slug": "effect-rejuvenating-touch",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0jKdU1YdER9dLBdx"
+    },
+    {
+        "slug": "effect-pistoleros-challenge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0kO3M46aK64a8ru8"
+    },
+    {
+        "slug": "effect-pass-vengeful-judgment",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0nkzRcjN9iOSFUf9"
+    },
+    {
+        "slug": "effect-vengeful-remnant",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0o21uiVJUpYCO7Zj"
+    },
+    {
+        "slug": "effect-victorious-vigor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0pq3MPLH0C9z4tj3"
+    },
+    {
+        "slug": "effect-mineral-deposits",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0q1sI5pgZs0eHydw"
+    },
+    {
+        "slug": "effect-shared-sight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.0v30plBl9TuuJQ5F"
+    },
+    {
+        "slug": "effect-aura-of-preservation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.18FHJoazfEmgNkfk"
+    },
+    {
+        "slug": "effect-harrow-chosen",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1Azz9TSWXrX4aNX4"
+    },
+    {
+        "slug": "effect-abjure-harm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1FIje7Y5zIbf9V0p"
+    },
+    {
+        "slug": "effect-hunters-aim",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1TsRE7J3BZrcyogi"
+    },
+    {
+        "slug": "effect-protective-cycle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1VwsQa7SyUviSoFA"
+    },
+    {
+        "slug": "effect-thermal-nimbus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1WqXbwhfT1f6OrPU"
+    },
+    {
+        "slug": "effect-overdrive",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1XlJ9xLzL19GHoOL"
+    },
+    {
+        "slug": "effect-fluttering-distraction",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1aMjsd08O2v5TNG2"
+    },
+    {
+        "slug": "effect-stymie-the-gods",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1bnJJb4hsnMOw9cQ"
+    },
+    {
+        "slug": "effect-crystal-luminescence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1bzFIIEw2K1CAUe9"
+    },
+    {
+        "slug": "stance-monastic-archer-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1dxD3xsTzak6GNj5"
+    },
+    {
+        "slug": "effect-dueling-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1nCwQErK6hpkNvfw"
+    },
+    {
+        "slug": "effect-phenom-verve",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.1ssTlwNcRRkatmPC"
+    },
+    {
+        "slug": "effect-pale-horse",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.21P9Xc6DslCjfq0Y"
+    },
+    {
+        "slug": "effect-guiding-shot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.21pCT4n3Aixyvp4h"
+    },
+    {
+        "slug": "effect-radiant-circuitry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.263Cd5JMj8Lgc9yz"
+    },
+    {
+        "slug": "effect-path-of-the-tempest",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2CJwgnCsYtk4R5sO"
+    },
+    {
+        "slug": "stance-thermal-nimbus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2EMak2C8x6pFwoUi"
+    },
+    {
+        "slug": "effect-fresh-produce",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2GWZgsvMJF9DN0DO"
+    },
+    {
+        "slug": "effect-the-proud",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2JnREGOAqZCZPfdK"
+    },
+    {
+        "slug": "effect-smite-good",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2MIn8qyPTmz4ZyO1"
+    },
+    {
+        "slug": "effect-enter-spirit-trance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2O1MmFvLdGZodvVc"
+    },
+    {
+        "slug": "stance-cobra-stance-cobra-envenom",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2Qpt0CHuOMeL48rN"
+    },
+    {
+        "slug": "effect-champions-extra-damage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2a6fuugiPpICe3Li"
+    },
+    {
+        "slug": "effect-accept-echo",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2ca1ZuqQ7VkunAh3"
+    },
+    {
+        "slug": "effect-spiral-sworn",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2gVP04ZWYbQdX3uS"
+    },
+    {
+        "slug": "effect-undead-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.2wCAEtshgSzRuYNK"
+    },
+    {
+        "slug": "effect-invoke-defense",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.32QaXCRgU5l5lMIa"
+    },
+    {
+        "slug": "effect-shadow-sight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3GPh6O3PJxORytAC"
+    },
+    {
+        "slug": "effect-gird-champion-hierophant",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3K8fNQKjmrHU8dzi"
+    },
+    {
+        "slug": "effect-plane-stepping-dash",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3KhE0e2CWU7F27bJ"
+    },
+    {
+        "slug": "effect-mutagenist-field-benefit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3MVVaD8hAJnGSyfm"
+    },
+    {
+        "slug": "effect-destined-victory-note",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3PmBgt8SkkHqhRh1"
+    },
+    {
+        "slug": "effect-devil-you-know",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3Qej6bMkgJ5ntllg"
+    },
+    {
+        "slug": "effect-corpse-killers-defiance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3WzaQKb10AYLdTsQ"
+    },
+    {
+        "slug": "effect-hot-foot-critical-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3bvYym3Dz6b6xmEK"
+    },
+    {
+        "slug": "stance-twinned-defense",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3eHMqVx30JGiJqtM"
+    },
+    {
+        "slug": "effect-elemental-blood-magic-self",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3gGBZHcUFsHLJeQH"
+    },
+    {
+        "slug": "effect-vindication-edge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3wA2IOyZXjFssheT"
+    },
+    {
+        "slug": "effect-deitys-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3xsComVKLuLn7etk"
+    },
+    {
+        "slug": "effect-to-war",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.3zNPch2pttYW2n1j"
+    },
+    {
+        "slug": "effect-lepidstadt-surgeon-dedication-stop-bleeding",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.45nzYsMBTP6PIxDN"
+    },
+    {
+        "slug": "effect-methodical-debilitations-cover",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4HNPQ6pnMDRe8jaN"
+    },
+    {
+        "slug": "effect-weapon-tampered-with-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4QWayYR3JSL9bk2T"
+    },
+    {
+        "slug": "effect-play-to-the-crowd-temporary-hit-points",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4TMf6LVNMakqj7Bt"
+    },
+    {
+        "slug": "effect-share-hunters-edge-flurry-masterful",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4UNQfMrwfWirdwoV"
+    },
+    {
+        "slug": "effect-enjoy-the-show",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4USRFNH06dwOlgL5"
+    },
+    {
+        "slug": "effect-bristle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4Zj71naHbY6O9ggP"
+    },
+    {
+        "slug": "effect-connect-the-dots",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4a7g78DOZqHE9pRD"
+    },
+    {
+        "slug": "effect-tillers-drive",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4alr9e8w9H0RCLwI"
+    },
+    {
+        "slug": "effect-prescience",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4efZ33Gx1kqqTysd"
+    },
+    {
+        "slug": "effect-demon-hunted",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4j5J4IM9sWNe1UcT"
+    },
+    {
+        "slug": "effect-sheltering-wing",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4siBPDdWmwks1bI5"
+    },
+    {
+        "slug": "effect-close-contract",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4uh4EP1sxKRYx7kg"
+    },
+    {
+        "slug": "effect-familiar-of-keen-senses",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4wJM0OA9y2gsBAh7"
+    },
+    {
+        "slug": "effect-hungry-goblin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.4xtHFRGI05SNe9rA"
+    },
+    {
+        "slug": "effect-even-the-odds",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.58QyKgMWfsUPqZn1"
+    },
+    {
+        "slug": "effect-inspiring-recitation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5FRnceccGyLcnVlv"
+    },
+    {
+        "slug": "effect-eye-of-the-arclords",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5IGz4iheaiUWm5KR"
+    },
+    {
+        "slug": "effect-primal-aegis",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5PIaLkys5ZqP2BUv"
+    },
+    {
+        "slug": "stance-rushing-goat-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5Z250imfYqYGU2AP"
+    },
+    {
+        "slug": "effect-catfolk-dance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5bEnBqVOgdp4gROP"
+    },
+    {
+        "slug": "effect-crash-against-me-note",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5dxWxTDjPPT79xpn"
+    },
+    {
+        "slug": "effect-martyrs-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5r7uhVQJQoyk6s4i"
+    },
+    {
+        "slug": "effect-ascend",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5rypwpGjbu4aCAHh"
+    },
+    {
+        "slug": "effect-shield-of-faith",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5uMMLUvJOEmfMgeV"
+    },
+    {
+        "slug": "effect-predictable",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5v0ndPPMfZwhiVZF"
+    },
+    {
+        "slug": "effect-goblin-song-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5veOBmMYQxywTudd"
+    },
+    {
+        "slug": "effect-blade-of-the-heart",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.5yfA4sAo0CjXIYDr"
+    },
+    {
+        "slug": "effect-eternal-torch",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.61qS86bjxg8HCJBY"
+    },
+    {
+        "slug": "effect-saoc-astrology",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6ACbQIpmmemxmoBJ"
+    },
+    {
+        "slug": "stance-paragons-guard",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6EDoy3OSFZ4L3Vs7"
+    },
+    {
+        "slug": "effect-familiars-resolve",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6I4qWkHzxj4MAt6g"
+    },
+    {
+        "slug": "stance-masquerade-of-seasons-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6IsZQpwRJQWIzdGx"
+    },
+    {
+        "slug": "effect-relinquish-control",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6M6JRjWjJy0rwtX2"
+    },
+    {
+        "slug": "effect-heroic-defiance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6OFJhFsw78w7ogW5"
+    },
+    {
+        "slug": "effect-giants-stature",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6VrKQ0PhRXuteusQ"
+    },
+    {
+        "slug": "effect-crimson-shroud",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6YhbQmOmbmy84W1C"
+    },
+    {
+        "slug": "stance-bullet-dancer-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6ctQFQfSZ6o1uyyZ"
+    },
+    {
+        "slug": "effect-curse-of-living-death",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6fObd480rDBkFwZ3"
+    },
+    {
+        "slug": "effect-hag-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6fb15XuSV4TNuVAT"
+    },
+    {
+        "slug": "effect-shattershields",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6hh788S8hznyD66m"
+    },
+    {
+        "slug": "effect-lantern",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6hrbTLlSyhL2W9Nf"
+    },
+    {
+        "slug": "effect-distant-traveler",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6jjIDZ2ezcoWTJ1p"
+    },
+    {
+        "slug": "effect-edict-of-mortality",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.6lwPOXa25qx9Lo46"
+    },
+    {
+        "slug": "effect-didactic-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.72THfaqak0F4XnON"
+    },
+    {
+        "slug": "effect-terrain-attunement-mountain",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.78Il8Sx0iB0TuLZv"
+    },
+    {
+        "slug": "effect-vigorous-anthem",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7AzGhIOx4Df5Cicr"
+    },
+    {
+        "slug": "effect-psychopomp-blood-magic-self",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7BFd8A9HFrmg6vwL"
+    },
+    {
+        "slug": "stance-twisting-petal-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7Eh8gHNcRNs9iIR8"
+    },
+    {
+        "slug": "effect-strangle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7HXxtWO5MAJWkwnt"
+    },
+    {
+        "slug": "effect-aura-of-confidence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7L6Gltxxkjq9eyXN"
+    },
+    {
+        "slug": "effect-purifying-breeze",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7MQLLkQACZt8cspt"
+    },
+    {
+        "slug": "effect-ascended-celestial-nimbus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7UWKpTquSpP6Pgzh"
+    },
+    {
+        "slug": "effect-oracular-warning",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7XxZ4YJ6c97D9Fc9"
+    },
+    {
+        "slug": "effect-stone-body",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7cG8kpQvh2oyBV8d"
+    },
+    {
+        "slug": "effect-channel-the-godmind",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7hQnwwsixZmXzdIT"
+    },
+    {
+        "slug": "effect-distracting-feint",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7hRgBo0fRQBxMK7g"
+    },
+    {
+        "slug": "effect-blood-sovereignty",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7hiwUPQY5aBEkpIt"
+    },
+    {
+        "slug": "effect-spark-fist",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7juD2XQ7wKI5pjPW"
+    },
+    {
+        "slug": "effect-form-a-flock",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7k5oCD4wQUNFZYkC"
+    },
+    {
+        "slug": "effect-heroic-recovery",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7ogytOgDmh4h2g5d"
+    },
+    {
+        "slug": "effect-watch-your-back-golden-legionnaire",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.7vUZ5aYQx2K3BcI1"
+    },
+    {
+        "slug": "effect-curse-maelstrom-state",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.85w9OI1gMd6uJRKh"
+    },
+    {
+        "slug": "effect-energize-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8E5SCmFndGAvgkTw"
+    },
+    {
+        "slug": "effect-current-spell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8HGz3rQCHNgdAqFC"
+    },
+    {
+        "slug": "effect-curse-of-inevitable-rot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8YjmPizeglw83W9E"
+    },
+    {
+        "slug": "stance-drifting-pollen",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8hmw9L2ORKz6Z6Bc"
+    },
+    {
+        "slug": "effect-oni-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8iLsH0McVDbPGMJ3"
+    },
+    {
+        "slug": "effect-azarketi-purification",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8rDbWcWmQL0N5FFG"
+    },
+    {
+        "slug": "effect-echolocation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8uXXaQ3Y5FP2mwn6"
+    },
+    {
+        "slug": "effect-glorious-banner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8x5T5e5Gzh3NJ86H"
+    },
+    {
+        "slug": "stance-golden-erinys-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.8yoq65YOI36Tv4c0"
+    },
+    {
+        "slug": "effect-amulets-abeyance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.90dTxPhFtbhK6Nv4"
+    },
+    {
+        "slug": "effect-demoralizing-charge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.91qBP1n04xsKeXkE"
+    },
+    {
+        "slug": "effect-unleash-psyche",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.939OHjW9y8uCmDk3"
+    },
+    {
+        "slug": "effect-deteriorated",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.94MzLpLykQIWKcA1"
+    },
+    {
+        "slug": "effect-amplifying-touch",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.94Vuzui165y0rgP5"
+    },
+    {
+        "slug": "effect-area-armor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.98ChTLCwnGo9ksZq"
+    },
+    {
+        "slug": "effect-genie-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9AUcoY48H5LrVZiF"
+    },
+    {
+        "slug": "stance-jotuns-battle-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9CJ7kzRLDo5VAC4n"
+    },
+    {
+        "slug": "effect-absolve-sins",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9DXdG20VAIGnFweU"
+    },
+    {
+        "slug": "stance-point-blank-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9HPxAKpP3WJmICBx"
+    },
+    {
+        "slug": "effect-the-bigger-they-are-commander",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9Kjnwzu3DWs5U7NH"
+    },
+    {
+        "slug": "effect-come-and-get-me-circumstance-bonus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9O4q3bYlWkuC24vh"
+    },
+    {
+        "slug": "effect-wrathful-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9RBoBJrfpXqYkH68"
+    },
+    {
+        "slug": "effect-soul-well",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9YO84RSGcq3XcA0E"
+    },
+    {
+        "slug": "effect-cantorian-rejuvenation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9ZrfvQxxcdzlND3y"
+    },
+    {
+        "slug": "effect-liberating-step-vs-fiend",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9dCt0asv0kt7DR4q"
+    },
+    {
+        "slug": "effect-guiding-words",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9hIzh4UvjSTyYBby"
+    },
+    {
+        "slug": "effect-ceremony-of-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9kNbiZPOM2wy60ao"
+    },
+    {
+        "slug": "effect-play-to-the-crowd-attack-roll-bonus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9oQkkOXX1tmVgPBA"
+    },
+    {
+        "slug": "effect-terrifying-mien",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9p4Ieqw6qAkhc4m3"
+    },
+    {
+        "slug": "effect-left-hand-blood",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9rUzqHni8LE19Gu5"
+    },
+    {
+        "slug": "effect-called-shot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.9yDGgsjW3vTZt0ez"
+    },
+    {
+        "slug": "effect-indomitable-spirit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.A06Qu3BNMQ4FGinM"
+    },
+    {
+        "slug": "effect-raise-symbol",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.A6i55HQ59lzsHXVQ"
+    },
+    {
+        "slug": "effect-unending-subsistence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ACnP67mu97ZZMEz0"
+    },
+    {
+        "slug": "effect-overwatch-field",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AKKHagjg5bL1fMG5"
+    },
+    {
+        "slug": "effect-pushing-wind",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AOqlEOF3Q7w9XYFp"
+    },
+    {
+        "slug": "effect-all-consuming-hunger",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AdUcSxWFj7IVcVma"
+    },
+    {
+        "slug": "effect-raise-menhir",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AggnVD5loQHLb7zj"
+    },
+    {
+        "slug": "effect-smite",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AlnxieIRjqNqsdVu"
+    },
+    {
+        "slug": "effect-cry-of-rebellion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AsYHSc1sNEXYELj7"
+    },
+    {
+        "slug": "effect-keep-up-the-good-fight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.AwJBbxeoE0YhmT57"
+    },
+    {
+        "slug": "effect-deep-freeze",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BBGg5gpMmuBSo7Mi"
+    },
+    {
+        "slug": "effect-great-tengu-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BC92TyFzRCWq8fu0"
+    },
+    {
+        "slug": "stance-stumbling-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BCyGDKcplkJiSAKJ"
+    },
+    {
+        "slug": "effect-heroes-call",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BHnunYPROBG5lxv4"
+    },
+    {
+        "slug": "effect-psi-strikes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BIHU3o499fsa1bwt"
+    },
+    {
+        "slug": "effect-replenishment-of-war",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BJc494USeyM011p3"
+    },
+    {
+        "slug": "effect-accelerating-touch",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BJldFHlx4kwMY3rX"
+    },
+    {
+        "slug": "effect-resounding-cascade",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BKyq3deWdCbYzAHA"
+    },
+    {
+        "slug": "effect-castigating-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BTI4obxa5UmNltyU"
+    },
+    {
+        "slug": "effect-channelers-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.BZPPcHtYugsNKz4Z"
+    },
+    {
+        "slug": "effect-thoughtform-summoning",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ByXEvk0gyFwUk5gU"
+    },
+    {
+        "slug": "effect-apparitions-enhancement",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.C1SVTVEwhKpqSs6B"
+    },
+    {
+        "slug": "effect-improved-poison-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.C6H3gF5HTdsIKpOC"
+    },
+    {
+        "slug": "effect-rend-armor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CBEHOTjal3nllTtt"
+    },
+    {
+        "slug": "effect-prevailing-position",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.COsdMolZraFRTdP8"
+    },
+    {
+        "slug": "stance-sky-and-heaven-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CQfkyJkRHw4IHWhv"
+    },
+    {
+        "slug": "effect-shared-clarity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CUtvkuGSxq1raBIB"
+    },
+    {
+        "slug": "effect-recall-under-pressure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CW4zphOOpeaLJIWc"
+    },
+    {
+        "slug": "effect-emblazon-armament",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CXMDSu8pKh0OJkUo"
+    },
+    {
+        "slug": "effect-come-and-get-me-temporary-hit-points",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CYmipBeliNuymENB"
+    },
+    {
+        "slug": "effect-combat-premonition",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CdWAXaePkMP4hts9"
+    },
+    {
+        "slug": "stance-cobra-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CgxYa0lrLUjS2ZhI"
+    },
+    {
+        "slug": "stance-claw-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.CxT12G5HXpGL6xu0"
+    },
+    {
+        "slug": "effect-celestial-yaoguai-might",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.D1SUxDvtDyqwdXqO"
+    },
+    {
+        "slug": "effect-blanket-defense",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.D32aR6cVq0YyHEP6"
+    },
+    {
+        "slug": "effect-proud-mentor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.D7JhDc4dcWhORY9h"
+    },
+    {
+        "slug": "effect-continuous-flair",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DVIxPdgUN8T5LwIp"
+    },
+    {
+        "slug": "effect-rampaging-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DWrsDJte9sez0Ppi"
+    },
+    {
+        "slug": "effect-sixth-pillar-mastery",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DX6v0lcI2uA99Yjv"
+    },
+    {
+        "slug": "effect-champions-resistance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DawVHfoPKbPJsz4k"
+    },
+    {
+        "slug": "effect-psychic-rapport",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Dbr5hInQXH904Ca7"
+    },
+    {
+        "slug": "effect-gladiator-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DdDjfNeoYxcKIxnq"
+    },
+    {
+        "slug": "effect-armored-courage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ddp2VNh2ldMhWJGQ"
+    },
+    {
+        "slug": "effect-tough-cookie",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Df9NeqlUatsTVvy9"
+    },
+    {
+        "slug": "effect-channel-draconic-essence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DkdAPJohjgtnCIJe"
+    },
+    {
+        "slug": "effect-divine-health",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DrM8d4joWHAaGlbe"
+    },
+    {
+        "slug": "effect-known-weaknesses",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DvyyA11a63FBwV7x"
+    },
+    {
+        "slug": "effect-perfect-resistance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.DyX4E7KDkzRnDxzc"
+    },
+    {
+        "slug": "effect-terrain-attunement-arctic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.E9GohJi4hZ4vSLNu"
+    },
+    {
+        "slug": "effect-twin-parry-parry-trait",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EDpjey6SCdvIYqEc"
+    },
+    {
+        "slug": "effect-overdrive-ally-shared-overdrive",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EEujvJ9UzzK7fvqG"
+    },
+    {
+        "slug": "effect-legendary-monster",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ELCODoiGDBEqRAtT"
+    },
+    {
+        "slug": "effect-reanimator-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EQCnu8DGHDDNXch0"
+    },
+    {
+        "slug": "effect-hamstringing-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ESnzqtwSgahLcxg2"
+    },
+    {
+        "slug": "effect-oracular-warning-initiative",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ETZHTCjlOUHHSE0Z"
+    },
+    {
+        "slug": "effect-arcane-propulsion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EVRcdGt4awWPgXla"
+    },
+    {
+        "slug": "stance-intensified-element-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EWiuxy4H1mCVcmud"
+    },
+    {
+        "slug": "effect-dissolutions-sight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EcVitI0Wqu3uNfaK"
+    },
+    {
+        "slug": "effect-exalted-reaction-desecrator",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ef63SlxSKlZmHosM"
+    },
+    {
+        "slug": "effect-mountain-stronghold",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EfMaI6AnROP4X9lN"
+    },
+    {
+        "slug": "effect-revitalizing-finisher",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EgOcWruvNdVIpNAC"
+    },
+    {
+        "slug": "effect-virulent-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Eh0uLxzYfheAWDpG"
+    },
+    {
+        "slug": "stance-stunt-performer-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ei6ACyEsNGLidvSv"
+    },
+    {
+        "slug": "effect-curse-of-outpouring-life",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EtFMN1ZLkL7sUk01"
+    },
+    {
+        "slug": "effect-bloc-tactics",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Eu3hA5BrHX9u9Bjc"
+    },
+    {
+        "slug": "effect-striking-retribution",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.EzgW32MCOGov9h5C"
+    },
+    {
+        "slug": "effect-orchards-endurance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FHBYfq3w7ddLvzrK"
+    },
+    {
+        "slug": "effect-maidens-mending",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FIgud5jqZgIjwkRE"
+    },
+    {
+        "slug": "effect-dancer-in-the-seasons",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FL24cTM3EDqWLgHA"
+    },
+    {
+        "slug": "effect-unbreaking-castle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FMfcQ2EvQT8QV3V0"
+    },
+    {
+        "slug": "effect-draconic-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FNTTeJHiK6iOjrSq"
+    },
+    {
+        "slug": "effect-aura-of-life",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FPuICuxBLiDaEbDX"
+    },
+    {
+        "slug": "effect-gunpowder-gauntlet",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FaEvoqZXfQ7xnpRo"
+    },
+    {
+        "slug": "effect-extravagant-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FkouUFpwUrPjhMNw"
+    },
+    {
+        "slug": "effect-a-challenge-for-heroes-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Fky50BHCHmRTnHas"
+    },
+    {
+        "slug": "effect-high-alert",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FlwmvnPH3Fu62hTE"
+    },
+    {
+        "slug": "effect-taunt",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FlyWq9znOHvpISNW"
+    },
+    {
+        "slug": "effect-decry-thief",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.FyaekbWsazkJhJda"
+    },
+    {
+        "slug": "effect-curse-of-creeping-ashes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.G4L49aMxHqO2yqxi"
+    },
+    {
+        "slug": "effect-wild-mimic-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.G6ytTRTwu9kBi59S"
+    },
+    {
+        "slug": "effect-big-debut",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.G7tYqJYFX8YBnF3r"
+    },
+    {
+        "slug": "effect-instructive-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GAKXSLDwFpE5VLyx"
+    },
+    {
+        "slug": "effect-helts-spelldance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GAtTLwi0JIOg3Htq"
+    },
+    {
+        "slug": "effect-exalted-reaction-redemption",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GFLiTESBmoyQ3sLx"
+    },
+    {
+        "slug": "stance-everstand-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GGebXpRPyONZB3eS"
+    },
+    {
+        "slug": "effect-geobukseon-retaliation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GboCEoWR636VR9Z6"
+    },
+    {
+        "slug": "effect-lava-leap",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GnEzDtPBQ1lDwmZI"
+    },
+    {
+        "slug": "effect-bon-mot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GoSls6SKCFmSoDxT"
+    },
+    {
+        "slug": "stance-fanes-fourberie",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.GvqB4M8LrHpzYEvl"
+    },
+    {
+        "slug": "effect-glimpse-vulnerability",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.H35En2lHCVzOOUMf"
+    },
+    {
+        "slug": "effect-favored-terrain-increase-swim-speed",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HKPmrxkZwHRND5Um"
+    },
+    {
+        "slug": "effect-soul-well-additional-damage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HKk3oUYJNN82heeH"
+    },
+    {
+        "slug": "effect-inertial-barrier",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HcNa7gv7a357CnFi"
+    },
+    {
+        "slug": "effect-divine-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HfXGhXc9D120gvl5"
+    },
+    {
+        "slug": "effect-steel-yourself",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HoNojV4S2Yb6CoZR"
+    },
+    {
+        "slug": "effect-howling-aspect",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.HohNWN5sdJW3naYe"
+    },
+    {
+        "slug": "effect-curse-of-the-perpetual-storm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.I0g5oaSwaqZ8fFAV"
+    },
+    {
+        "slug": "effect-ghost-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IAwtIy6VVel7NexY"
+    },
+    {
+        "slug": "effect-wither-away",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ICUcmwY504WHCs3N"
+    },
+    {
+        "slug": "effect-mirrored-wall",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IIjE6NOYpOfRuCBR"
+    },
+    {
+        "slug": "effect-mountaineering-training",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IPznWmsoaoT2zhgU"
+    },
+    {
+        "slug": "effect-mutate-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ITvyvbB234bxceRK"
+    },
+    {
+        "slug": "effect-armor-tampered-with-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IfRkgjyh0JzGalIy"
+    },
+    {
+        "slug": "effect-hydraulic-deflection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IfsglZ7fdegwem0E"
+    },
+    {
+        "slug": "effect-familiar-of-bolstering-aid",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IgLMAwovQ9roTsRN"
+    },
+    {
+        "slug": "stance-stretching-reach",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IhwcqxPt1SkgXQB0"
+    },
+    {
+        "slug": "stance-rain-of-embers-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Im5JBInybWFbHEYS"
+    },
+    {
+        "slug": "effect-sanctify-armament",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ImkjllInxmrdDCOq"
+    },
+    {
+        "slug": "effect-favored-terrain-increase-climb-speed",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IpRfT9lL3YR6MH6w"
+    },
+    {
+        "slug": "effect-trance-of-celerity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.IzmXq1LycaKNqGIt"
+    },
+    {
+        "slug": "effect-hasty-celebration",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.J8WkLtuY0RpcjI8q"
+    },
+    {
+        "slug": "effect-blizzard-evasion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JF2xCqL6t4UJZtUi"
+    },
+    {
+        "slug": "effect-shield-the-faithful",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JMkGtyRU4bTSL2sB"
+    },
+    {
+        "slug": "effect-avenge-in-glory",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JQUoBlZKT5N5zO5k"
+    },
+    {
+        "slug": "effect-coven-spell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JRaFM5Ic4xR8WGgs"
+    },
+    {
+        "slug": "effect-tactical-debilitations-no-flanking",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JUgx48XHMz4QM4Ir"
+    },
+    {
+        "slug": "stance-ravel-of-thorns",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JW93FDTAOUNuCgIu"
+    },
+    {
+        "slug": "effect-commanders-banner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JZWi6512m9RlMrNO"
+    },
+    {
+        "slug": "stance-whirling-blade-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JefXqvhzUeBArkAP"
+    },
+    {
+        "slug": "effect-starlit-transformation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JmAYeBSVvr5QMNis"
+    },
+    {
+        "slug": "effect-lost-in-the-crowd",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Jt7NnE7WeR7e9V6Q"
+    },
+    {
+        "slug": "effect-augment-senses",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JwDCoBIwyhOFnDGZ"
+    },
+    {
+        "slug": "effect-emotional-fervor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JysvElDwGZ5ABQ6x"
+    },
+    {
+        "slug": "effect-alloy-flesh-and-steel",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.JzVfTeHDopKAA5P0"
+    },
+    {
+        "slug": "effect-inspired-stratagem",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.K0Sv9AHgq245hSLC"
+    },
+    {
+        "slug": "effect-memory-of-skill",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.K0VkhTXXmyGPilVN"
+    },
+    {
+        "slug": "effect-divine-aegis",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.K1IgNCf3Hh2EJwQ9"
+    },
+    {
+        "slug": "effect-roaring-heart",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.K2hqRFjGMX0GCIUi"
+    },
+    {
+        "slug": "effect-dread-marshal-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KBEJVRrie2JTHWIK"
+    },
+    {
+        "slug": "effect-vellumis-excision",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KHxkVwXSFsN3eATu"
+    },
+    {
+        "slug": "effect-shielded-recovery",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KOVUFiN6nkttuiRb"
+    },
+    {
+        "slug": "effect-survive-the-wilds",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KR391Ltqp0d3EWg1"
+    },
+    {
+        "slug": "effect-terrain-attunement-plains",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KSXdpnGIaxe08v2G"
+    },
+    {
+        "slug": "effect-spirit-guide-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KanP6trNwPOggb7P"
+    },
+    {
+        "slug": "stance-dueling-dance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KiuBRoMFxL2Npt51"
+    },
+    {
+        "slug": "stance-cenotaph-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KoHUnnrrcCHRkmJQ"
+    },
+    {
+        "slug": "effect-precious-ammunition",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KpEtIFwjj0ZrSVbD"
+    },
+    {
+        "slug": "effect-gods-palm-temporary-hit-points",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KqyxpiGpEuju3d4z"
+    },
+    {
+        "slug": "effect-plant-banner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.KsUQjLQO62BY0lk4"
+    },
+    {
+        "slug": "effect-aura-of-righteousness",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.L0hDj8vFk1IWh01L"
+    },
+    {
+        "slug": "effect-aesir-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.L8m3L4MCGDZJISp0"
+    },
+    {
+        "slug": "effect-heavens-thunder",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.L9g3EMCT3imX650b"
+    },
+    {
+        "slug": "effect-legendary-monster-hunter",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LB0PTV5yqMlBmRFj"
+    },
+    {
+        "slug": "effect-naval-training",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LCU3Lv6ojuTl4DSY"
+    },
+    {
+        "slug": "effect-enforce-oath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LF8xzzFsFJKxejqv"
+    },
+    {
+        "slug": "effect-sea-glass-guardians",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LOql7Rc5anCse9Nx"
+    },
+    {
+        "slug": "effect-formation-training",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LVPodfYEWKtK3fUW"
+    },
+    {
+        "slug": "effect-turn-back-the-clock",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LbICHKe5jLMxhaOw"
+    },
+    {
+        "slug": "effect-fly-on-shadowed-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LhHJkfS5VhfJss6p"
+    },
+    {
+        "slug": "effect-core-cannon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ljrx4N5XACKSk1Ks"
+    },
+    {
+        "slug": "effect-share-hunters-edge-vindication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LpudOmKE8bHZgYeL"
+    },
+    {
+        "slug": "effect-share-hunters-edge-precision-masterful",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Lt5iSfx8fxHSdYXz"
+    },
+    {
+        "slug": "stance-disarming-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.LxSev4GNKv26DbZw"
+    },
+    {
+        "slug": "effect-aura-junction-metal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MFCcEWCC9PR46qPy"
+    },
+    {
+        "slug": "effect-aura-of-despair",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MNkIxAishE22TqL3"
+    },
+    {
+        "slug": "effect-fling-magic-adept-cold",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MRPaYmohQ5FZkrZj"
+    },
+    {
+        "slug": "effect-harrow-the-fiend",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MSkspeBsbXm6LQ19"
+    },
+    {
+        "slug": "effect-rage-temporary-hit-points-immunity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MaepXeSHiMoWDm7u"
+    },
+    {
+        "slug": "effect-such-a-disgrace",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MbLXxoDfRUQJbIhr"
+    },
+    {
+        "slug": "effect-helpful-tinkering",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MbtWd4PvUHmwPtFO"
+    },
+    {
+        "slug": "effect-hunt-prey",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MeXyXqWY9qN42bSQ"
+    },
+    {
+        "slug": "effect-resilient-touch",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MiucWR2AbIhr34qD"
+    },
+    {
+        "slug": "effect-aura-junction-air",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Mnvd3jV4EW6nAJKI"
+    },
+    {
+        "slug": "effect-predictable-saving-throw",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MqUZKmLRL3ntnCZS"
+    },
+    {
+        "slug": "effect-fiendish-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.MrdT7LiOZMN8J4GK"
+    },
+    {
+        "slug": "stance-tenacious-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ms6WPXRWfXb2KpG2"
+    },
+    {
+        "slug": "effect-expel-maelstrom-misfortune",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.N27voDwKbzs7EZVt"
+    },
+    {
+        "slug": "effect-giants-lunge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.N2CSGvtPXloOEPrK"
+    },
+    {
+        "slug": "effect-bloom-cabaret-entrance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.N7XvZ8A5Cj3PW1X3"
+    },
+    {
+        "slug": "effect-victors-wreath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.N82KSgJMeMse7uPW"
+    },
+    {
+        "slug": "effect-eye-catching-spot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.N8d1R833ojGFj1Mt"
+    },
+    {
+        "slug": "effect-zealous-inevitability",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NDCeLFdp5eJ1VYjm"
+    },
+    {
+        "slug": "effect-resounding-bravery",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NMmsJyeMTawpgLVR"
+    },
+    {
+        "slug": "effect-shield-paragon-benefit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NUOfUPboXVEVQNBE"
+    },
+    {
+        "slug": "stance-mobile-shot-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NWOmJ6WJFheaGhho"
+    },
+    {
+        "slug": "stance-shattershields",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Njb4eLx5VngDIDpo"
+    },
+    {
+        "slug": "effect-harden-flesh",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Np3OSqKxuB9rTbij"
+    },
+    {
+        "slug": "effect-healer-of-the-world",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NuCwsyydiaBQpwiL"
+    },
+    {
+        "slug": "effect-shadow-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Nv70aqcQgCBpDYp8"
+    },
+    {
+        "slug": "effect-endemic-herbs",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.NviQYIVZbPCSWLqT"
+    },
+    {
+        "slug": "effect-runelord-researcher",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ny6kEKDxr9GhLoTC"
+    },
+    {
+        "slug": "effect-mountain-strategy-critically-hit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.O7OO1kWFEFv6vl3E"
+    },
+    {
+        "slug": "effect-elementalist-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.O8qithYQCv3e7DUQ"
+    },
+    {
+        "slug": "effect-unleash-yaoguai-might",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OBsItGQScxHyUcmR"
+    },
+    {
+        "slug": "effect-shed-tail",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OK7zMlYy25JciBp6"
+    },
+    {
+        "slug": "effect-celestial-armaments-allies",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ORbgwLZpFFHsaJxm"
+    },
+    {
+        "slug": "effect-unfazed-assessment",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OWCoFC1Q8AflBGAY"
+    },
+    {
+        "slug": "effect-divine-invulnerability",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OWFMglWgeCjRhqLK"
+    },
+    {
+        "slug": "effect-face-your-fears",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OYWcxVLvgE7F9q2E"
+    },
+    {
+        "slug": "effect-push-back-the-dead",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OeZ0E1oUKyGPxPy0"
+    },
+    {
+        "slug": "effect-favored-terrain-gain-swim-speed",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OhLcaJeQy4Nf5Mwo"
+    },
+    {
+        "slug": "effect-spell-protection-array",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OochfTTXnDLVXeSS"
+    },
+    {
+        "slug": "effect-signature-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.OqZtUOemGXgi9HDM"
+    },
+    {
+        "slug": "effect-avowed-insight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.P4EkIpTqPDB3gNba"
+    },
+    {
+        "slug": "effect-calculate-threats",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.P6druSuWIVoLrXJR"
+    },
+    {
+        "slug": "effect-trailblazing-stride",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.P6hfR6mJHqQpR1c8"
+    },
+    {
+        "slug": "stance-six-pillars-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.P80mwvCAEncR2snK"
+    },
+    {
+        "slug": "effect-force-of-nature-silver-damage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PD1tyMvE75VU2qVi"
+    },
+    {
+        "slug": "stance-tangled-forest-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PMHwCrnh9W4sMu5b"
+    },
+    {
+        "slug": "stance-buckler-dance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PS17dsXkTdQmOv7w"
+    },
+    {
+        "slug": "effect-enduring-debilitating-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PX6WdrpzEdUzKRHx"
+    },
+    {
+        "slug": "effect-hunt-the-razers-pawn",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PYyJjl5EEXs0IswY"
+    },
+    {
+        "slug": "effect-great-bear",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PZuICqcgpErGQcqG"
+    },
+    {
+        "slug": "stance-magnetic-field",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.PdFisHX9ZJmKEKCv"
+    },
+    {
+        "slug": "effect-kindling",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Pe4qwrE1oU68iW4g"
+    },
+    {
+        "slug": "effect-undying-ferocity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Px4E3Hyx2pmvSWAA"
+    },
+    {
+        "slug": "effect-tail-toxin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Q0DKJRnDuuUnLpvn"
+    },
+    {
+        "slug": "effect-you-cant-kill-an-idea",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Q2qCKyL63QzXsdGq"
+    },
+    {
+        "slug": "effect-iomedaes-valor-ac-bonus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Q6N6XYzBbqh9ePIq"
+    },
+    {
+        "slug": "effect-liberated-mind",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Q7d6TRuuVAuSabSW"
+    },
+    {
+        "slug": "effect-change-shape-werecreature",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Q8pD29NcGGuRxWwh"
+    },
+    {
+        "slug": "stance-reflective-ripple-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QDQwHxNowRwzUx9R"
+    },
+    {
+        "slug": "effect-healing-sanctuary",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QKpx9S3JeIMeqFnw"
+    },
+    {
+        "slug": "effect-aura-junction-fire",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QOWjsM4GYUHw6pFA"
+    },
+    {
+        "slug": "effect-leech-clip",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QUelSJzS2EIEkoD7"
+    },
+    {
+        "slug": "effect-lightning-armillary",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QVk0oRgc1pRwhG7U"
+    },
+    {
+        "slug": "effect-disruptive-stare",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QcReJp7kgURdQCGz"
+    },
+    {
+        "slug": "effect-lesson-of-the-splintered-aegis",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QhUiGUBuCV1bSu1q"
+    },
+    {
+        "slug": "effect-pierce-the-eye",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QjIiY4ofmhCspUJb"
+    },
+    {
+        "slug": "stance-assume-earths-mantle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.QrJ06Sc2GiloQ6hB"
+    },
+    {
+        "slug": "effect-anchored",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.R6mx6EfLxSrQlrRa"
+    },
+    {
+        "slug": "effect-daydream-trance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RATDyLyxXN3qmOas"
+    },
+    {
+        "slug": "stance-stonestrike-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RDKbWKphiD9ippAv"
+    },
+    {
+        "slug": "effect-spirits-interference",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RIBExSLZDxRUqPPT"
+    },
+    {
+        "slug": "effect-race-the-skies",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RLA7eqF2wjUPS2mf"
+    },
+    {
+        "slug": "effect-ultimatum-of-liberation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RPfpy4WzUzdwTeo0"
+    },
+    {
+        "slug": "effect-propulsive-leap",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RU6D7pNQSBt1zSuK"
+    },
+    {
+        "slug": "stance-shooting-stars-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RXbfq6oqzVnW6xOV"
+    },
+    {
+        "slug": "effect-phoenix-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RXhGjWqBqmQOlaRV"
+    },
+    {
+        "slug": "effect-titans-stature",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RcxDIOa68SUGyMun"
+    },
+    {
+        "slug": "effect-adamantine-body",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ReqVLQUQy7Y91IiB"
+    },
+    {
+        "slug": "effect-righteous-resistance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Rfhgj7nJ43xmevgO"
+    },
+    {
+        "slug": "effect-vicious-debilitations",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Rgt9hH3W1oh9dvku"
+    },
+    {
+        "slug": "effect-silk-bracelet",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RmJ5qosNpE8DUX2a"
+    },
+    {
+        "slug": "effect-share-rage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RoGEt7lrCdfaueB9"
+    },
+    {
+        "slug": "stance-gorilla-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RozqjLocahvQWERr"
+    },
+    {
+        "slug": "effect-marshals-aura",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ru4BNABCZ0hUbX7S"
+    },
+    {
+        "slug": "effect-scouts-warning",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RxDDXK52lwyHXl7v"
+    },
+    {
+        "slug": "effect-emblazon-antimagic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.RyGaB5hDRcOeb34Q"
+    },
+    {
+        "slug": "effect-channeling-block",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Rzg3c7hfkvTlxPDp"
+    },
+    {
+        "slug": "effect-inventive-offensive",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SITsBOnOG1EJsEpl"
+    },
+    {
+        "slug": "effect-the-bigger-they-are",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SLXhPgaeKB0W3k1D"
+    },
+    {
+        "slug": "effect-pointed-question",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SScln8qRQgVC6Brz"
+    },
+    {
+        "slug": "effect-nymph-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SVGW8CLKwixFlnTv"
+    },
+    {
+        "slug": "effect-mythic-allies-circumstance-bonus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SX5csPb38vTBjHOb"
+    },
+    {
+        "slug": "effect-poison-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SXYcrnGzWCuj8zq7"
+    },
+    {
+        "slug": "effect-cyclonic-ascent",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SZY4zxhxoeehYRdN"
+    },
+    {
+        "slug": "effect-ghosts-in-the-storm-move",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Sb3ZdFs61atILypS"
+    },
+    {
+        "slug": "effect-ghost-wrangler",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.SiegLMJpVOGuoyWJ"
+    },
+    {
+        "slug": "effect-chalice-adept-benefit-self",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Sq558879cgEc1lGC"
+    },
+    {
+        "slug": "stance-defy-hell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.T4w2mURZqsdQHi8V"
+    },
+    {
+        "slug": "effect-vivacious-bravado",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.T7AJQbfmlA57y625"
+    },
+    {
+        "slug": "effect-aura-of-determination",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.T7GGNvfqowFrRcKW"
+    },
+    {
+        "slug": "effect-kishin-rage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.TKuUezmnwVftoCcL"
+    },
+    {
+        "slug": "effect-lead-by-example",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.TVWgsv3ypaqh5Y8T"
+    },
+    {
+        "slug": "effect-soul-oubliette",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.TbQiJxLfEF6P1HnO"
+    },
+    {
+        "slug": "effect-electric-counter",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.TfhcbqC3cjFdimeh"
+    },
+    {
+        "slug": "effect-curse-of-torrential-knowledge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Tju9kpQlwcKkyKor"
+    },
+    {
+        "slug": "effect-a-little-bird-told-me",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Tlb2xfEhGLHjwPHy"
+    },
+    {
+        "slug": "effect-furnace-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Tw9MjeQHL3qFY1PO"
+    },
+    {
+        "slug": "effect-diverting-vortex",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Twno1jQEtPlrLOvK"
+    },
+    {
+        "slug": "effect-divine-castigation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.U2Pgm6B4nmdQ2Gpd"
+    },
+    {
+        "slug": "effect-elemental-bulwark",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.U6BAwYT5iC8cmBDG"
+    },
+    {
+        "slug": "effect-show-off",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.U7QM4yqxcoGSysoG"
+    },
+    {
+        "slug": "effect-lesson-of-the-broken-wing",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.U7gwOeKsIsz2zhDE"
+    },
+    {
+        "slug": "effect-packed-with-flavor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.U9tJvfQDdpsf5Ipd"
+    },
+    {
+        "slug": "effect-tidal-shield",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UBC6HbfqbfPQYlMq"
+    },
+    {
+        "slug": "effect-fulminating-shot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UE0yky6aW0WCF0Qg"
+    },
+    {
+        "slug": "effect-living-epic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UE312nw1ihsc0stp"
+    },
+    {
+        "slug": "effect-moisture-bath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UKNtAmCdczhWB4xI"
+    },
+    {
+        "slug": "effect-volatile-grease-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UMLqhBMT98flcmJi"
+    },
+    {
+        "slug": "effect-fish-from-the-falls-edge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UNq3f2ALPG1b67ar"
+    },
+    {
+        "slug": "effect-aberrant-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UQ7vZgmfK0VSFS8A"
+    },
+    {
+        "slug": "stance-gorilla-stance-gorilla-pound",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UZKIKLuwpQu47feK"
+    },
+    {
+        "slug": "stance-ricochet-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Unfl4QQURWaX2zfd"
+    },
+    {
+        "slug": "effect-channeled-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UookwOq46zEokGOM"
+    },
+    {
+        "slug": "effect-spin-tale",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.UzIamWcEJTOjwfoA"
+    },
+    {
+        "slug": "effect-curse-of-ancestral-meddling",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.V6lnFOq998B76Rr0"
+    },
+    {
+        "slug": "effect-targeting-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VBsWZHdYymig9WsH"
+    },
+    {
+        "slug": "effect-multifaceted-will",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VM3A4YSG72JCpWMg"
+    },
+    {
+        "slug": "effect-aura-of-faith",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VOOShYoB4gTopZtg"
+    },
+    {
+        "slug": "effect-debilitating-bomb",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VTJ8D23sOIfApEt3"
+    },
+    {
+        "slug": "effect-cast-down",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Ve1CRFI8ikL6dqcL"
+    },
+    {
+        "slug": "stance-spear-of-doom",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VfXwZXZaVq9u4GHo"
+    },
+    {
+        "slug": "effect-chosen-ward",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VlBozDEaEaKE1A3O"
+    },
+    {
+        "slug": "effect-manifest-realm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VrTaP6BcXo6sizn6"
+    },
+    {
+        "slug": "effect-furious-finish",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.VxaHh8r8QVfPfxcw"
+    },
+    {
+        "slug": "effect-monster-hunter",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.W2tWq0gdAcnoz2MO"
+    },
+    {
+        "slug": "stance-lunging-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.W8CKuADdbODpBh6O"
+    },
+    {
+        "slug": "effect-topple-giants",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.W8HWQ47YNHWB8kj6"
+    },
+    {
+        "slug": "effect-energy-ablation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WEP9Oe1D9WsWSOU8"
+    },
+    {
+        "slug": "effect-energize-bite",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WQ48SJOWNuNMJ07l"
+    },
+    {
+        "slug": "effect-rampaging-form-frozen-winds-kitsune",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WRe8qbemruWxkN8d"
+    },
+    {
+        "slug": "effect-one-with-the-spirits",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WUvjLX4ieyISdNbr"
+    },
+    {
+        "slug": "effect-divine-invulnerability-domain-spell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WdxPp1pTQTUYRTA3"
+    },
+    {
+        "slug": "effect-harbingers-armament",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WqjTa5mnBnBFRxqu"
+    },
+    {
+        "slug": "effect-educate-allies",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.WrWSieH9Acy6XuzV"
+    },
+    {
+        "slug": "effect-guardians-embrace",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.X19XgqqItqZ4tfmq"
+    },
+    {
+        "slug": "effect-favorable-winds",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.X1pGyhMKrCTvHB0q"
+    },
+    {
+        "slug": "effect-mythic-allies",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.X22o74v8rk7ySnzX"
+    },
+    {
+        "slug": "effect-pinpoint-poisoner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XAdhPJqssO3v4Zvw"
+    },
+    {
+        "slug": "effect-starstone-aspirant-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XBJzkEhL6MidoT3o"
+    },
+    {
+        "slug": "stance-air-shroud",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XFc3dVzTe7KnpjuP"
+    },
+    {
+        "slug": "effect-shield-from-arrows",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XFnNmos2R1nOFl9O"
+    },
+    {
+        "slug": "effect-echoes-in-stone",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XIYWFGHBlcc79YI5"
+    },
+    {
+        "slug": "effect-towering-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XJtlvaqAHseq1yoz"
+    },
+    {
+        "slug": "effect-enlightened-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XM1AA8z5cHm8sJXM"
+    },
+    {
+        "slug": "effect-devise-a-stratagem",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XQpTyjXFYYNexyOk"
+    },
+    {
+        "slug": "effect-elemental-assault",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.XaZdQHF9GvaJINqH"
+    },
+    {
+        "slug": "effect-rise-up",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Xnt4hGFXYdY5jYOk"
+    },
+    {
+        "slug": "effect-iomedaes-valor-temporary-hit-points",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Xtxu7pi1DeWl9QKI"
+    },
+    {
+        "slug": "effect-instrument-of-death",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Y2xjlHMGvr8Mkg3r"
+    },
+    {
+        "slug": "effect-starlight-armor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Y96a1OedsU8PVf7z"
+    },
+    {
+        "slug": "effect-pain-is-temporary",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YAWfkGBnDwimMtJ8"
+    },
+    {
+        "slug": "effect-metallic-skin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YIShkE3JCEuwCAxl"
+    },
+    {
+        "slug": "effect-premonition-of-clarity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YIpFCMT8AKKhgbAF"
+    },
+    {
+        "slug": "effect-nothing-personal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YJPiAE71tq3bp74B"
+    },
+    {
+        "slug": "effect-life-giving-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YKJhjkerCW0Jl6HP"
+    },
+    {
+        "slug": "effect-living-for-the-applause",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YMdRmEcOlM3uU9Em"
+    },
+    {
+        "slug": "stance-orchards-endurance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YNoBbHUu7enOSKyv"
+    },
+    {
+        "slug": "effect-shield-your-eyes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YU6NYuil87dSrRh7"
+    },
+    {
+        "slug": "effect-resurrectionist",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YaSxccYfE5ShFdFd"
+    },
+    {
+        "slug": "stance-rough-terrain-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YkiTA74FrUUu5IvI"
+    },
+    {
+        "slug": "effect-guillotine-blade",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.YsuyQ9QFbRvIZJoE"
+    },
+    {
+        "slug": "effect-emboldened-with-glorious-purpose",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZNpDvK1r9B8d7aZp"
+    },
+    {
+        "slug": "effect-precise-debilitations",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZZXIUvZqqIxkMfYa"
+    },
+    {
+        "slug": "effect-only-you-and-i",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZdPLjPFwp9JuVRFf"
+    },
+    {
+        "slug": "effect-battle-planner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZkYDgSSlKML9BUjg"
+    },
+    {
+        "slug": "effect-liberating-step-vs-undead",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZnKnOPPq3cG54PlG"
+    },
+    {
+        "slug": "effect-in-lightning-life",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZouxY0u1dKQEHQ6E"
+    },
+    {
+        "slug": "effect-prepare-elemental-medicine",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZqEOsqnGFLI2ob9m"
+    },
+    {
+        "slug": "effect-bone-spikes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ZsO5juyylVoxUkXh"
+    },
+    {
+        "slug": "effect-defiant-banner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.Zy7rrPCgMTeSzKj9"
+    },
+    {
+        "slug": "effect-overdrive-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.a4C89wVlcwV6Uxx4"
+    },
+    {
+        "slug": "effect-watchful-gaze",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.a7qiSYdlaIRPe57i"
+    },
+    {
+        "slug": "effect-aldori-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.aEuDaQY1GnrrnDRA"
+    },
+    {
+        "slug": "effect-demonic-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.aKRo5TIhUtu0kyEr"
+    },
+    {
+        "slug": "effect-shining-glory",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.aLrFDxT2dhIEwcQr"
+    },
+    {
+        "slug": "effect-pennant-of-victory",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.aQkzGG9RCII50a4b"
+    },
+    {
+        "slug": "effect-legendary-monster-warden",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.aUpcWqaLBlmpnJgW"
+    },
+    {
+        "slug": "effect-terrain-attunement-gravelands",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ag1Ix1cnhcV4k9iu"
+    },
+    {
+        "slug": "effect-the-truth-as-i-see-it",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ahBcuJWrRXEGvwxb"
+    },
+    {
+        "slug": "stance-anchor-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ahPSIc7C91BCag6m"
+    },
+    {
+        "slug": "stance-wolf-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.b2kWJuCPj1rDMdwz"
+    },
+    {
+        "slug": "effect-weaponsight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bBzZgiW1FGh6eOcb"
+    },
+    {
+        "slug": "effect-goblin-song-critical-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bIRIS6mnynr72RDw"
+    },
+    {
+        "slug": "effect-kindle-inner-flames",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bWvOkRT3alzllsiG"
+    },
+    {
+        "slug": "effect-flensing-slice",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bdq8ulAzatPMX8iK"
+    },
+    {
+        "slug": "effect-rose-warden-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bdzVlHHuGGDEreTx"
+    },
+    {
+        "slug": "effect-hungry-blade",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.blwrnLLvtR6PVJlp"
+    },
+    {
+        "slug": "effect-boleras-interrogation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bmVwaN0C4e9fE2Sz"
+    },
+    {
+        "slug": "effect-hopeful-athamaru",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bmcvernfk6l4EbAG"
+    },
+    {
+        "slug": "effect-blessed-swiftness",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bqbliPkslR5hkAcB"
+    },
+    {
+        "slug": "stance-sea-glass-guardians",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.buCKRBDZi27shB3X"
+    },
+    {
+        "slug": "effect-accursed-clay-fist",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bvk5rwYSoTtz8QGf"
+    },
+    {
+        "slug": "effect-emergency-medical-assistance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bxXZYHCp6ftPSMCC"
+    },
+    {
+        "slug": "effect-guide-the-timeline",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.bxxek5BP4zqP5GzM"
+    },
+    {
+        "slug": "effect-prayer-touched-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cA6ps8RKE0gysEWr"
+    },
+    {
+        "slug": "effect-gather-disciples",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cGiutpTMkbnxwR04"
+    },
+    {
+        "slug": "effect-under-control",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cGwFYusGTsJR3x3P"
+    },
+    {
+        "slug": "effect-drain-realm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cSH9aXM0hQlF5pgp"
+    },
+    {
+        "slug": "effect-hone-claws",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cYtUBB2cO0FOUU8D"
+    },
+    {
+        "slug": "stance-steam-knight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cmCLIMgtd4TLA23p"
+    },
+    {
+        "slug": "effect-siphon-torment",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cmwlVYHtp3a1OipU"
+    },
+    {
+        "slug": "effect-pearl-dragonet-breath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.covFunty2HlvEN9K"
+    },
+    {
+        "slug": "effect-encroaching-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cqgbTZCvqaSvtQdz"
+    },
+    {
+        "slug": "effect-corpse-killers-defiance-lower-level",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ctiTtuRWFjAnWdYQ"
+    },
+    {
+        "slug": "effect-exemplary-finisher-wit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cu10OjQUdY0a9gpj"
+    },
+    {
+        "slug": "stance-talon-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cvIwUEempg0cfhFB"
+    },
+    {
+        "slug": "effect-play-to-the-crowd-ac-bonus",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.cz33s6SyIavmL9wA"
+    },
+    {
+        "slug": "effect-steal-death",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.d0TYadetRJvNb2Au"
+    },
+    {
+        "slug": "effect-regional-specialty",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dA8AzlayuQ1hIeEx"
+    },
+    {
+        "slug": "effect-inescapable-grasp",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dDdxIy1bAvwfuhx0"
+    },
+    {
+        "slug": "effect-aegis-for-the-innocent",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dFNh66uyI5yxVKbt"
+    },
+    {
+        "slug": "effect-emotional-surge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dTymNXgTtnjqgYP9"
+    },
+    {
+        "slug": "effect-creature-of-myth-energy-aegis",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dZxFehDfiKu3M8GT"
+    },
+    {
+        "slug": "effect-raise-the-walls",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dn7P5RzMZugxiWri"
+    },
+    {
+        "slug": "effect-offer-story",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.dzYnksinvWvfgBVt"
+    },
+    {
+        "slug": "effect-draconic-resilience",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.e183eoJd714WEi6J"
+    },
+    {
+        "slug": "effect-undying-conviction",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.e6mv68aarIbQ3tXL"
+    },
+    {
+        "slug": "effect-aldori-swordlord-temporary-hit-points",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eJyyBqrXLOE4R9JI"
+    },
+    {
+        "slug": "effect-consume-energy-augment-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eMsI1lR0SuJBCYjn"
+    },
+    {
+        "slug": "effect-godspeed",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ePvCQNEIhq1iQkuq"
+    },
+    {
+        "slug": "effect-field-discovery-chirurgeon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eS9I5kaig0i1j3z0"
+    },
+    {
+        "slug": "effect-game-hunter-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eTosCwuCMf09fYYH"
+    },
+    {
+        "slug": "effect-animate-net",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eaKB3rIkJyfsow5H"
+    },
+    {
+        "slug": "stance-geologic-attunement",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ebCWQB5nfK19GpY5"
+    },
+    {
+        "slug": "stance-duelists-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ebqKAQowcYjHyLHe"
+    },
+    {
+        "slug": "effect-stoney-deflection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ecWVnrjsjubZ4On6"
+    },
+    {
+        "slug": "effect-deadly-poison-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ed9iJxdHuft6bDFF"
+    },
+    {
+        "slug": "stance-wild-winds-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eeAlh6edygcZIz9c"
+    },
+    {
+        "slug": "effect-divine-infusion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eecIuD6sGPX0FJcT"
+    },
+    {
+        "slug": "effect-methodical-debilitations-flanking",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.emSh1VxHVtTmt925"
+    },
+    {
+        "slug": "stance-inspiring-marshal-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.er5tvDNvpbcnlbHQ"
+    },
+    {
+        "slug": "effect-twin-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eu2HidLHaGKe4MPn"
+    },
+    {
+        "slug": "effect-commitment-to-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.eu7DEgjicyYyosCl"
+    },
+    {
+        "slug": "effect-oversized-throw",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ewEZ9zB5cjdUMtQj"
+    },
+    {
+        "slug": "effect-disrupting-strikes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ewfHVi6NWBGM8B6f"
+    },
+    {
+        "slug": "effect-dedication-of-the-five",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.f2Y19Msvnv23h8g9"
+    },
+    {
+        "slug": "effect-perfect-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fDLJIA6Kl81WA6gy"
+    },
+    {
+        "slug": "effect-cozy-campfire",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fH4SxaerUGXqIOIJ"
+    },
+    {
+        "slug": "effect-acupuncturist",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fHM9xvCBWrBqcDQY"
+    },
+    {
+        "slug": "effect-wyrmblessed-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fILVhS5NuCtGXfri"
+    },
+    {
+        "slug": "effect-expel-maelstrom-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fIRJftsmd83iSoR4"
+    },
+    {
+        "slug": "effect-panache-ephemeral-note",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fJD0yIkVPMwdNjLy"
+    },
+    {
+        "slug": "effect-regalia",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fOypEG6eeTwfM6c3"
+    },
+    {
+        "slug": "effect-living-fortification",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fRlvmul3LbLo2xvR"
+    },
+    {
+        "slug": "effect-upstage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fSZH0aVKyPxatE6i"
+    },
+    {
+        "slug": "effect-overclock-senses",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.feQwOL1QfZDfVrt8"
+    },
+    {
+        "slug": "effect-exemplary-finisher-rascal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fgz7lwg1xHsVW4dX"
+    },
+    {
+        "slug": "stance-kaiju-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fo8kb5GW0OF3HPKK"
+    },
+    {
+        "slug": "effect-soothing-vials",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fqK8TsXmHr1JiM5e"
+    },
+    {
+        "slug": "stance-arcane-cascade",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.fsjO5oTKttsbpaKl"
+    },
+    {
+        "slug": "effect-worm-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gDlOd7z3EUkjW7DU"
+    },
+    {
+        "slug": "effect-commitment-to-protection-lasting-protection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gIQ9eE9WBecYKzMR"
+    },
+    {
+        "slug": "effect-anadi-venom",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gN1LbKYQgi8Fx98V"
+    },
+    {
+        "slug": "effect-cut-from-the-air",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gWwG7MNAesJgpmRW"
+    },
+    {
+        "slug": "stance-mountain-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gYpy9XBPScIlY93p"
+    },
+    {
+        "slug": "stance-desert-wind",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gcR66Xgi12ICOVt7"
+    },
+    {
+        "slug": "effect-fortify-shield",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ghZFZWUh5Z20vOlR"
+    },
+    {
+        "slug": "effect-drink-from-the-chalice",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gjxSQgN3MopLxM35"
+    },
+    {
+        "slug": "effect-roll-the-bones-of-fate-good",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gtpqoCOWhF9Pjb8G"
+    },
+    {
+        "slug": "effect-crimson-shroud-ac",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gvE0iQ7h6263Mkhi"
+    },
+    {
+        "slug": "effect-declare-anathema",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.gyfPLgqeIgW7fYD0"
+    },
+    {
+        "slug": "stance-vitality-manipulating-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.h45sUZFs5jhuQdCE"
+    },
+    {
+        "slug": "effect-selfish-shield",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.h6nyMp4dtPXBfCJc"
+    },
+    {
+        "slug": "effect-celestial-armaments",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.h8BLaHUFnzCDJf5I"
+    },
+    {
+        "slug": "effect-sword-practice",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.h8kgxDMclDHj6bIr"
+    },
+    {
+        "slug": "effect-renewing-cycle",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.hGj6fnFwQwczmubB"
+    },
+    {
+        "slug": "effect-targeting-finisher-critical",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.hbWnrLZpqemQVdvb"
+    },
+    {
+        "slug": "effect-snap-out-of-it-marshal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.hfhdvgObjnGStW07"
+    },
+    {
+        "slug": "effect-curse-of-engulfing-flames",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.hqeR9faxHj0NDFFP"
+    },
+    {
+        "slug": "stance-kindle-inner-flames",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.hrEG2smy3tZyGxIn"
+    },
+    {
+        "slug": "effect-life-draining",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iAePXmGL9bMKBTpv"
+    },
+    {
+        "slug": "effect-invigorating-surge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iGJ6C4AUQZcSEx1W"
+    },
+    {
+        "slug": "effect-command-attention",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iMY1ClfWdn50s0PM"
+    },
+    {
+        "slug": "effect-invoke-movement",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iN7j0d5LE7OwZlAo"
+    },
+    {
+        "slug": "effect-lord-of-the-fiends",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iYHNKt2eailYxNXc"
+    },
+    {
+        "slug": "effect-guided-skill",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iaZ6P59YVhdnFIN8"
+    },
+    {
+        "slug": "effect-empowered-onslaught",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ik5QuOpF0IO275Nm"
+    },
+    {
+        "slug": "effect-energy-ward",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ipaniua1HJ4qGzcr"
+    },
+    {
+        "slug": "effect-share-hunters-edge-outwit-masterful",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iqvurepX0zyu9OlI"
+    },
+    {
+        "slug": "effect-read-shibboleths",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ivGiUp0EC5nWT9Hb"
+    },
+    {
+        "slug": "effect-rod-of-rule",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ixAmr0VkB6q6LpGq"
+    },
+    {
+        "slug": "effect-liberating-step-vs-dragon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.iyONT1qgeRgoYHsZ"
+    },
+    {
+        "slug": "effect-cant-fall-here",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.j6DbvXzg5lTgw3Bq"
+    },
+    {
+        "slug": "effect-devrins-cunning-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jACKRmVfr9ATsmwg"
+    },
+    {
+        "slug": "effect-volatile-grease-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jDlnvm9QjA7A2weD"
+    },
+    {
+        "slug": "effect-divine-rebuttal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jMQi2kDirzGgddti"
+    },
+    {
+        "slug": "effect-root-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jO7wMhnjT7yoAtQg"
+    },
+    {
+        "slug": "effect-emblazon-energy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jUUjgpEEOeZeG7II"
+    },
+    {
+        "slug": "effect-restorative-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jYxWTG5J171XVa5r"
+    },
+    {
+        "slug": "effect-shadow-sheath-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.je3lgJso1WmyC81w"
+    },
+    {
+        "slug": "effect-soul-vessel-mount",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jeBDJW383w5jv1BG"
+    },
+    {
+        "slug": "effect-renewed-vigor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jlZjUtrfcfIWumSe"
+    },
+    {
+        "slug": "effect-harvest-blood",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jp1oRa3wEHT7hKBX"
+    },
+    {
+        "slug": "effect-mentor-of-legends",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jw5uOE1sJ9o9bUEb"
+    },
+    {
+        "slug": "effect-defensive-recovery",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.jwxurN6JPQm9wXug"
+    },
+    {
+        "slug": "effect-wings-of-air",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.k1J2SaHPwZb2Y6Bp"
+    },
+    {
+        "slug": "effect-come-and-get-me",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.k29Ao7wxjPVqxuez"
+    },
+    {
+        "slug": "effect-benevolent-spirit-deck",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.k8gB0eDuAlGRoeQj"
+    },
+    {
+        "slug": "stance-powder-punch-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kDTiRg9vVOYNnTyr"
+    },
+    {
+        "slug": "effect-sanguine-revitalization",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kJndFOHNBH8SR5IM"
+    },
+    {
+        "slug": "effect-kneecap",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kZdVPBO58uq38KIR"
+    },
+    {
+        "slug": "effect-called-shot-critical",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kcxz1zHReNt8zm8Y"
+    },
+    {
+        "slug": "effect-portentous-spell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.klZVVIetJlR99cT6"
+    },
+    {
+        "slug": "effect-griefs-fury",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ko1fCuxWxBKErSfr"
+    },
+    {
+        "slug": "stance-waterfowl-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ko8I8OCPddWA9U8v"
+    },
+    {
+        "slug": "effect-walking-the-cardinal-paths",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kui8yKIVsxfJnrYe"
+    },
+    {
+        "slug": "effect-channel-divine-spark",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kyX0DvZEXR4Xrbdp"
+    },
+    {
+        "slug": "stance-devrins-cunning-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kyrvZfZfzKK1vx9b"
+    },
+    {
+        "slug": "effect-inspiring-marshal-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kzEPq4aczYb6OD2h"
+    },
+    {
+        "slug": "effect-protective-spirit-mask",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.kzSjzK72CQ67wfBH"
+    },
+    {
+        "slug": "effect-cat-nap",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.l3S9i2UWGhSO58YX"
+    },
+    {
+        "slug": "stance-multishot-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.l4QUaedYofnfXig0"
+    },
+    {
+        "slug": "effect-portents-of-the-haruspex",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.l5NDN9V3DwFYPIsD"
+    },
+    {
+        "slug": "effect-wish-for-luck",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lFIUuFrNey4kD4Md"
+    },
+    {
+        "slug": "effect-cringe",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lHbTN7jk1zuER92O"
+    },
+    {
+        "slug": "effect-bespell-strikes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lPtt7PojWBwPOaYt"
+    },
+    {
+        "slug": "effect-terrain-attunement-underground",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lUTUBYnA0GKYR5m5"
+    },
+    {
+        "slug": "effect-ruthless-orator",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lWi5NjGv16mGpncU"
+    },
+    {
+        "slug": "effect-strained-metabolism",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lZPbv3nBRWmfbs3z"
+    },
+    {
+        "slug": "effect-scout-incredible-scout",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.la8rWwUtReElgTS6"
+    },
+    {
+        "slug": "effect-expel-maelstrom-failure-or-critical-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lc8ez8O4eN73hNpR"
+    },
+    {
+        "slug": "effect-game-hunter-critical-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lfbDqyKUMssoxUTZ"
+    },
+    {
+        "slug": "stance-winter-sleet",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.lge4vtZdfZOCWAch"
+    },
+    {
+        "slug": "effect-share-hunters-edge-outwit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ltIvO9ZQlmqGD89Y"
+    },
+    {
+        "slug": "effect-sheltering-pulse",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.m0hi0jpIF6tNJzzo"
+    },
+    {
+        "slug": "effect-consume-power",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.m5kXngVAHiprZea1"
+    },
+    {
+        "slug": "effect-ursine-avenger-form",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.m5xWMaDfV0PiTE6u"
+    },
+    {
+        "slug": "effect-tap-the-past",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.m8QCmsy4WFQCIC7t"
+    },
+    {
+        "slug": "effect-marked-for-rebuke",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.mNc42XjBVlxcr9k8"
+    },
+    {
+        "slug": "effect-share-hunters-edge-precision",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.mNk0KxsZMFnDjUA0"
+    },
+    {
+        "slug": "effect-duelists-challenge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.maBSHuVHyGwga9uC"
+    },
+    {
+        "slug": "stance-graceful-poise",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.mark4VEQoynfYNBF"
+    },
+    {
+        "slug": "effect-control-tower",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.mkIamZGtQaSsUWLk"
+    },
+    {
+        "slug": "effect-ghosts-in-the-storm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.mmaJYXBUxVncsOsx"
+    },
+    {
+        "slug": "effect-diabolic-blood-magic-self",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.n1vhmOd7aNiuR3nk"
+    },
+    {
+        "slug": "effect-oath-of-the-defender",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nBQZdTtwNLJ70J6C"
+    },
+    {
+        "slug": "effect-fear-no-pain",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nCrYxbS8h3Ik9hyQ"
+    },
+    {
+        "slug": "effect-monarch-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nMMqJQsdV37TLfTu"
+    },
+    {
+        "slug": "effect-invented-vulnerability",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nOYXxWUT9i3z75GI"
+    },
+    {
+        "slug": "effect-whose-cry-is-thunder",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nP3k4N52NzrR3KKf"
+    },
+    {
+        "slug": "effect-spirits-mercy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nV2zH7OcQeoQrrvB"
+    },
+    {
+        "slug": "effect-strain-mind",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nWrUYrSFScwURSTs"
+    },
+    {
+        "slug": "effect-dismal-harvest",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nb2Qy9XpdH4X3yQl"
+    },
+    {
+        "slug": "effect-distant-wandering",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ngwcN8u7f7CnqGXp"
+    },
+    {
+        "slug": "effect-bless-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.niYOLA6l44U2NMM3"
+    },
+    {
+        "slug": "effect-engine-of-destruction",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nlMZCi8xi9YSvlYR"
+    },
+    {
+        "slug": "effect-monster-warden",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nlaxROgSSLVHZ1hx"
+    },
+    {
+        "slug": "effect-anoint-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nnF7RSVlC6swbSw8"
+    },
+    {
+        "slug": "effect-strategist-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.no8vv18N7YmEKvOH"
+    },
+    {
+        "slug": "effect-swift-support",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nplVDMxYDqdMC32k"
+    },
+    {
+        "slug": "effect-desynchronized-motions",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nvYBuNuu0pfCQPPt"
+    },
+    {
+        "slug": "stance-crane-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.nwkYZs6YwXYAJ4ps"
+    },
+    {
+        "slug": "effect-weapon-tampered-with-critical-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.o7qm13OmaYOMwgib"
+    },
+    {
+        "slug": "effect-curse-of-turbulent-moments",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.oSzUv21eN9VS9TC1"
+    },
+    {
+        "slug": "effect-discordant-voice",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.oXG7eX26FmePmwUF"
+    },
+    {
+        "slug": "effect-ruthless-orator-enemy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.og3gUpF2Ti64Py8t"
+    },
+    {
+        "slug": "effect-crash-against-me",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ogzkGtUR9vMt47ts"
+    },
+    {
+        "slug": "effect-unstable-check-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.olpkQDGDzmYZCvQH"
+    },
+    {
+        "slug": "effect-don-thy-fervor",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ooX6QMPFfah5Yk5t"
+    },
+    {
+        "slug": "effect-gathering-moss",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.p0S3VHkRgMye7RSI"
+    },
+    {
+        "slug": "effect-spike-skin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pFEk5cwegWqXvX4D"
+    },
+    {
+        "slug": "effect-kinetic-aura",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pLurcSPQb2gjAzoP"
+    },
+    {
+        "slug": "effect-curse-of-the-heros-burden",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pQ3EjUm1lZW9t3el"
+    },
+    {
+        "slug": "effect-fleet-tempo",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pQ9e5njvIOe5QzFa"
+    },
+    {
+        "slug": "effect-defensive-instincts",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pTYTanMHMwSgJ8TN"
+    },
+    {
+        "slug": "effect-a-challenge-for-heroes-enemy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pUXV4sks4p9Jc8Wb"
+    },
+    {
+        "slug": "effect-panache-temporary",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.paKKHPds77fq5VTH"
+    },
+    {
+        "slug": "stance-tiger-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pf9yvKNg6jZLrE30"
+    },
+    {
+        "slug": "effect-terrain-attunement-aquatic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pkWudzFWfKnggT1f"
+    },
+    {
+        "slug": "stance-jellyfish-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pkcr9w5x6bKzl3om"
+    },
+    {
+        "slug": "effect-pride-in-arms",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pvkrl2F0ghYgZXnR"
+    },
+    {
+        "slug": "effect-reflexive-shield",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.pwbFFD6NzDooobKo"
+    },
+    {
+        "slug": "effect-tripartite-omen",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.q2t1ZtSPP1p0lz3R"
+    },
+    {
+        "slug": "stance-whirlwind-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.q6UokHWSEcEYWmvh"
+    },
+    {
+        "slug": "stance-disruptive-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qBR3kqGCeKp3T2Be"
+    },
+    {
+        "slug": "effect-sympathetic-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qBTJYpopY3AwFFUJ"
+    },
+    {
+        "slug": "effect-hybrid-shape-beastkin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qIOEe4kUN7FOBifb"
+    },
+    {
+        "slug": "effect-protective-pose",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qIPl31SfvT993Lyz"
+    },
+    {
+        "slug": "effect-inspiring-resilience",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qM4bQfcwZ0EOS2M9"
+    },
+    {
+        "slug": "effect-supercharge-prosthetic-eyes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qSKVcw6brzrvfhUM"
+    },
+    {
+        "slug": "stance-dragon-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qUowHpn79Dpt1hVn"
+    },
+    {
+        "slug": "stance-dread-marshal-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qX62wJzDYtNxDbFv"
+    },
+    {
+        "slug": "effect-terrain-shield",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qZ2FIUz1ZXnS0T7N"
+    },
+    {
+        "slug": "effect-staggering-fire",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qaIqu9H9OdX1B5wy"
+    },
+    {
+        "slug": "effect-heralds-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qcmJGJEKHhqOhQh4"
+    },
+    {
+        "slug": "effect-amulets-abeyance-adept",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.qzQo3qETndgRZKcO"
+    },
+    {
+        "slug": "effect-bone-swarm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.r4kb2zDepFeczMsl"
+    },
+    {
+        "slug": "effect-wood-impulse-junction",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rCsmv66TzQhte4Gp"
+    },
+    {
+        "slug": "effect-fey-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rJpkKaPRGaH0pLse"
+    },
+    {
+        "slug": "stance-divine-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rOKA405aECklgq42"
+    },
+    {
+        "slug": "effect-blessed-counterstrike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rYYU6UVHblaJBxFB"
+    },
+    {
+        "slug": "effect-guided-by-the-stars",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.raLQ458uiyd3lI2K"
+    },
+    {
+        "slug": "effect-feral-swing",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.raZ8SIBYyFux8L3U"
+    },
+    {
+        "slug": "effect-harsh-judgement",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.raoz523QRsj5WjcF"
+    },
+    {
+        "slug": "effect-goading-feint",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rflbFzV44Fd6aBLE"
+    },
+    {
+        "slug": "stance-stoked-flame-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rp1YauUSULuqW8rs"
+    },
+    {
+        "slug": "effect-harrow-omen",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rp6hA52dWVwtuu5F"
+    },
+    {
+        "slug": "effect-reckless-abandon-goblin",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rvyeOU7TQTLnKj03"
+    },
+    {
+        "slug": "effect-curse-of-the-skys-call",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rwDsr5XsrYcH7oFT"
+    },
+    {
+        "slug": "effect-armor-tampered-with-critical-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.rzcpTJU9MvW1x1gz"
+    },
+    {
+        "slug": "effect-angelic-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.s1tulrmW6teTFjVd"
+    },
+    {
+        "slug": "effect-shield-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.s3Te8waFP3KEb2dN"
+    },
+    {
+        "slug": "effect-shining-arms",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.s5OHkf1HkLwgvZT7"
+    },
+    {
+        "slug": "effect-hunt-runelord",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.s7qDwnyVqMqDaFal"
+    },
+    {
+        "slug": "effect-aura-junction-water",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.s8LMK2zCQgUT3HoY"
+    },
+    {
+        "slug": "effect-blessed-armament",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sCxi8lOH8tWQjLh0"
+    },
+    {
+        "slug": "effect-favored-terrain-gain-climb-speed",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sDftJWPPSUeSZD3A"
+    },
+    {
+        "slug": "effect-crash-against-me-clang",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sEWwGSuXxcTl020D"
+    },
+    {
+        "slug": "effect-consult-the-spirits",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sEv8H8PrMd0C3wJ7"
+    },
+    {
+        "slug": "stance-ghosts-in-the-storm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sPIaly8bgNxgcNvT"
+    },
+    {
+        "slug": "effect-targeting-finisher",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.se36qcZiG3T0ps5U"
+    },
+    {
+        "slug": "effect-ongoing-selfishness",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.seOQfjfjrDyK6rCo"
+    },
+    {
+        "slug": "effect-desperate-wrath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sfUsodcGb4atcSyN"
+    },
+    {
+        "slug": "effect-chaotic-spell",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sgK3JkyLbXLoNjPI"
+    },
+    {
+        "slug": "stance-immovable-object",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sgRIIdKNXbBAv4dk"
+    },
+    {
+        "slug": "effect-conductive-sphere",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.sl3umfGcLROU3U5U"
+    },
+    {
+        "slug": "effect-spell-parry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.su2HbEdb4IYB7r5l"
+    },
+    {
+        "slug": "effect-aura-junction-wood",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.su5qLXoweaHxt6ZP"
+    },
+    {
+        "slug": "effect-shared-avoidance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.svVczVV174KfJRDf"
+    },
+    {
+        "slug": "effect-liberating-step-vs-aberration",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tAsFXMzNkpj964X4"
+    },
+    {
+        "slug": "effect-web",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tCMVyxQhzYCjBQtK"
+    },
+    {
+        "slug": "effect-empathetic-plea",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tI2fM9pAOpCWP2V9"
+    },
+    {
+        "slug": "effect-surgical-shock-failure",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tMsVpICbBU3kL1lp"
+    },
+    {
+        "slug": "stance-ironblood-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tPKXLtDJ3bzJcXlv"
+    },
+    {
+        "slug": "effect-mental-balm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tcdIBJTHuexSKJ6S"
+    },
+    {
+        "slug": "effect-invigorating-breath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tl94WHJ2Hg0akK2o"
+    },
+    {
+        "slug": "effect-safeguard-soul",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tlft5vzk66iWCVRq"
+    },
+    {
+        "slug": "effect-watch-your-back",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ttIvoQUl1yG5K62o"
+    },
+    {
+        "slug": "effect-blood-and-spirit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tu36I5HWaqOjaLVu"
+    },
+    {
+        "slug": "effect-familiar-of-restored-spirit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.twvhTLrLEfr7dz1m"
+    },
+    {
+        "slug": "effect-high-speed-regeneration-speed-boost",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.tx0S0fnfZ6Q2o80H"
+    },
+    {
+        "slug": "effect-designate-ally",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uAWWAiuo5mSJSVY4"
+    },
+    {
+        "slug": "effect-panache",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uBJsxCzNhje8m8jj"
+    },
+    {
+        "slug": "stance-clinging-shadows-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uFYvW3kFP9iyNfVX"
+    },
+    {
+        "slug": "effect-oceans-balm",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uG1EljvrnC9HGwUh"
+    },
+    {
+        "slug": "effect-hunt-the-razers-pawn-ephemeral",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uGNTOgns4lZ0HW08"
+    },
+    {
+        "slug": "effect-turn-aside-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uRwnbZ0xWrB5ZzZ9"
+    },
+    {
+        "slug": "effect-unsteadying-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uUIpCXtvKvPVNunx"
+    },
+    {
+        "slug": "effect-share-hunters-edge-flurry",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uXCU8GgriUjuj5FV"
+    },
+    {
+        "slug": "effect-born-to-the-trees",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uaWIJU1m2eHgfkDp"
+    },
+    {
+        "slug": "effect-mirrored-aegis",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ubHYfNIf0pAwzAum"
+    },
+    {
+        "slug": "effect-witchs-charge",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ugeStF0Rj8phBPWL"
+    },
+    {
+        "slug": "effect-uncanny-bombs",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ukdRbANZICKl29k9"
+    },
+    {
+        "slug": "effect-pact-of-the-final-breath",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.unMxC3XGviRjC1CH"
+    },
+    {
+        "slug": "effect-invincible-army",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.uqtXEAWwHhA2xShg"
+    },
+    {
+        "slug": "effect-offensive-boost",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ut5SVyCSXel69nnd"
+    },
+    {
+        "slug": "effect-flamboyant-cruelty",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.v2HDcrxQF2Dncjbs"
+    },
+    {
+        "slug": "effect-fungal-rot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.v9ujShXxA76JL8kh"
+    },
+    {
+        "slug": "effect-fiendish-brand",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vG11WE95sDmDcip4"
+    },
+    {
+        "slug": "effect-extra-alchemy",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vSUyph3Z6wKl2l6Q"
+    },
+    {
+        "slug": "effect-imperial-blood-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vguxP8ukwVTWWWaA"
+    },
+    {
+        "slug": "effect-clue-in",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vhSYlQiAQMLuXqoc"
+    },
+    {
+        "slug": "stance-peafowl-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vjvcccAwdkOLA1Fc"
+    },
+    {
+        "slug": "effect-ancestral-influence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vkgmMBMd2e2BwiwJ"
+    },
+    {
+        "slug": "effect-tome-adept-benefit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.vm8Ir6qfvb3BaNUs"
+    },
+    {
+        "slug": "effect-equitable-defense",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.w0k59TPWUZ9Me4yF"
+    },
+    {
+        "slug": "effect-guardians-deflection",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.w6X7io56B2HHTOvs"
+    },
+    {
+        "slug": "effect-unwavering-resilience",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wAvcGfatk9H3TblG"
+    },
+    {
+        "slug": "effect-defenders-grit",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wIaXcsccLYf1Wi6Y"
+    },
+    {
+        "slug": "effect-seedpod",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wQDHpOKY3GZqvS2v"
+    },
+    {
+        "slug": "effect-animalistic-brutality",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wQy8QddWBtzXYjw3"
+    },
+    {
+        "slug": "effect-hellbreakers-resolve",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wZcxrAL40jM5I5Dm"
+    },
+    {
+        "slug": "aura-form-a-flock",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wdOBAcEkC7L0NdJ8"
+    },
+    {
+        "slug": "effect-rallying-charge-marshal",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wjNNHgX6ceKLbn8Q"
+    },
+    {
+        "slug": "effect-dragons-rage-wings",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wmBSuZPqiDyUNwXH"
+    },
+    {
+        "slug": "effect-repel-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wnCKvlOecXAmtWII"
+    },
+    {
+        "slug": "stance-crowned-in-tempests-fury",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.woKCbf1kXPrPjeZG"
+    },
+    {
+        "slug": "stance-unified-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.wxVHqB06oB9yRIhT"
+    },
+    {
+        "slug": "effect-overextending-feint",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.x7CjbOQZUgZKW16M"
+    },
+    {
+        "slug": "effect-fortunate-blow",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.x9xNnTl1sRGCqthu"
+    },
+    {
+        "slug": "effect-cavaliers-banner",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xDT10fUWp8UStSZR"
+    },
+    {
+        "slug": "effect-one-moment-till-glory",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xHbMPpYEPwI0tmcV"
+    },
+    {
+        "slug": "effect-sense-iniquity",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xHoPyS1kU0duz4nQ"
+    },
+    {
+        "slug": "effect-benefactors-majesty",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xPHUZgr0XEyP1Nof"
+    },
+    {
+        "slug": "effect-brightness-seeker",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xPg5wzzKNxJy18rU"
+    },
+    {
+        "slug": "effect-shielding-wave",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xYCoyHRLdOXm8Ndr"
+    },
+    {
+        "slug": "effect-bold-defiance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xYd4G4yPLHSWWWvT"
+    },
+    {
+        "slug": "effect-tributary-circulation",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xatDR4tSzpu3qddJ"
+    },
+    {
+        "slug": "effect-glimpses-to-beyond",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xdcblhm5Ie3CG9wS"
+    },
+    {
+        "slug": "effect-boasters-challenge-critical-success",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xdlAursiOE9A9rK7"
+    },
+    {
+        "slug": "effect-whispers-of-weakness",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xr4bNJvtrHSqWkrF"
+    },
+    {
+        "slug": "effect-lock-on",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xtqOIXCe0Nsd0QCt"
+    },
+    {
+        "slug": "effect-even-the-odds-eagle-knight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.xxkCSwizAu2wC7Fo"
+    },
+    {
+        "slug": "stance-flood-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.yBJPNp0mKjMkKe1w"
+    },
+    {
+        "slug": "effect-debilitating-strike",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.yBTASi3FvnReAwHy"
+    },
+    {
+        "slug": "effect-infused-with-belkzens-might",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.yKFV294LeXzrvF8K"
+    },
+    {
+        "slug": "effect-creeping-ashes",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ybc7tZwByenCzow8"
+    },
+    {
+        "slug": "effect-resounding-finale",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ycalVFivloJ14yhA"
+    },
+    {
+        "slug": "effect-envenom-fangs",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.yqCzUxrdLlk6Q9VW"
+    },
+    {
+        "slug": "effect-entitys-resurgence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.yr5ey5qC8dXH749T"
+    },
+    {
+        "slug": "effect-soaring-flight",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.ytG5XJmkOnDOTjNN"
+    },
+    {
+        "slug": "effect-defy-chains",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.z17jszMgX7gpRlwv"
+    },
+    {
+        "slug": "effect-rage",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.z3uyCMBddrPK5umr"
+    },
+    {
+        "slug": "stance-strategist-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.z6oLNlBs724PCcR6"
+    },
+    {
+        "slug": "effect-sniping-duo-dedication",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zQHF2kkhZRAcrQvR"
+    },
+    {
+        "slug": "effect-youre-an-embarrassment",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zUvicEXd4OgCZ1cO"
+    },
+    {
+        "slug": "aura-wrathful-presence",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zVBvD4St25MfqkhS"
+    },
+    {
+        "slug": "effect-divine-weapon",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zZ25N1zpXA8GNhFL"
+    },
+    {
+        "slug": "effect-assisting-shot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zcJii1XyOne9EvMr"
+    },
+    {
+        "slug": "effect-weapon-infusion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zezKegTvOArcDQ0x"
+    },
+    {
+        "slug": "effect-draw-from-the-land",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zgRWm8KRquDzd1iC"
+    },
+    {
+        "slug": "effect-storied-companion",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zmow6d0PswEqLcrM"
+    },
+    {
+        "slug": "effect-energy-shot",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zocU4IYIlWwRKUuE"
+    },
+    {
+        "slug": "effect-rebirth-in-living-stone",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zqgOjMU9TGoGwJWc"
+    },
+    {
+        "slug": "stance-impassable-wall-stance",
+        "uuid": "Compendium.pf2e-anachronism.feat-effects.Item.zzC2qZwEKf4Ja3xD"
+    }
+]

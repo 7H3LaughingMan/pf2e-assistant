@@ -24,8 +24,20 @@
         "uuid": "Compendium.sf2e.deities.Item.CYUkMkhXSnZPLLhr"
     },
     {
+        "slug": "song-of-silence",
+        "uuid": "Compendium.sf2e.deities.Item.FEAa2RKdETHhuwnL"
+    },
+    {
         "slug": "lissala",
         "uuid": "Compendium.sf2e.deities.Item.G8v5Gx6hSHYJKO4A"
+    },
+    {
+        "slug": "atheism",
+        "uuid": "Compendium.sf2e.deities.Item.JDbrj8aKkLzdn8BU"
+    },
+    {
+        "slug": "green-faith",
+        "uuid": "Compendium.sf2e.deities.Item.KT7HKL7vbZEwbzX4"
     },
     {
         "slug": "the-devourer",
@@ -64,6 +76,10 @@
         "uuid": "Compendium.sf2e.deities.Item.ZiHWMKZk7bgwG8yC"
     },
     {
+        "slug": "abadar",
+        "uuid": "Compendium.sf2e.deities.Item.d56paSkcwvll2OhR"
+    },
+    {
         "slug": "damoritosh",
         "uuid": "Compendium.sf2e.deities.Item.fjisjygyebkfu9pN"
     },
@@ -80,7 +96,19 @@
         "uuid": "Compendium.sf2e.deities.Item.hrqNoz1QiA6z9LMV"
     },
     {
+        "slug": "prophecies-of-kalistrade",
+        "uuid": "Compendium.sf2e.deities.Item.lZ74P8kUA1ti808w"
+    },
+    {
         "slug": "lambatuin",
         "uuid": "Compendium.sf2e.deities.Item.o9dgag7sAiFUnN9I"
+    },
+    {
+        "slug": "singularitism",
+        "uuid": "Compendium.sf2e.deities.Item.uGKTEdsaAafTHu7C"
+    },
+    {
+        "slug": "besmara",
+        "uuid": "Compendium.sf2e.deities.Item.wkDOeK7ENz1ra8IC"
     }
 ]

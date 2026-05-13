@@ -1,11 +1,8 @@
+import { ChatMessageMode } from "@7h3laughingman/foundry-types/client/config.mjs";
 import { Rolled } from "@7h3laughingman/foundry-types/client/dice/roll.mjs";
-import { RollMode } from "@7h3laughingman/foundry-types/common/constants.mjs";
-import {
-    ActorUUID,
-    ChatMessageUUID,
-    ItemUUID,
-    TokenDocumentUUID
-} from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
+import { DocumentUUID } from "@7h3laughingman/foundry-types/client/utils/_module.mjs";
+import { ActorUUID, ItemUUID, TokenDocumentUUID } from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
+import { MODULE, setChoiceSet, setTokenMark } from "@7h3laughingman/pf2e-helpers/utilities";
 import {
     ActorPF2e,
     ChatMessageFlagsPF2e,
@@ -26,45 +23,47 @@ import {
     TokenDocumentPF2e,
     TraitViewData
 } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
+import { Utils } from "@root/utils.ts";
 import * as R from "remeda";
-import { Utils } from "utils.ts";
 import { ActorToken, isActorToken } from "./data.ts";
 import { AddItem, RemoveItem, UpdateCondition } from "./reroll.ts";
 
 export class Socket {
-    #socket = socketlib.registerModule("pf2e-assistant")!;
     #updateQueue = new foundry.utils.Semaphore(1);
 
     constructor() {
-        this.#socket.register("addEmbeddedItem", this.#addEmbeddedItem);
-        this.#socket.register("createEmbeddedItem", this.#createEmbeddedItem);
-        this.#socket.register("deleteEmbeddedItem", this.#deleteEmbeddedItem);
-        this.#socket.register("updateEmbeddedItem", this.#updateEmbeddedItem);
+        CONFIG.queries[`${MODULE.id}.addEmbeddedItem`] = this.#addEmbeddedItem;
+        CONFIG.queries[`${MODULE.id}.createEmbeddedItem`] = this.#createEmbeddedItem;
+        CONFIG.queries[`${MODULE.id}.deleteEmbeddedItem`] = this.#deleteEmbeddedItem;
+        CONFIG.queries[`${MODULE.id}.updateEmbeddedItem`] = this.#updateEmbeddedItem;
 
-        this.#socket.register("decreaseCondition", this.#decreaseCondition);
-        this.#socket.register("increaseCondition", this.#increaseCondition);
-        this.#socket.register("toggleCondition", this.#toggleCondition);
-        this.#socket.register("addCondition", this.#addCondition);
-        this.#socket.register("removeCondition", this.#removeCondition);
+        CONFIG.queries[`${MODULE.id}.decreaseCondition`] = this.#decreaseCondition;
+        CONFIG.queries[`${MODULE.id}.increaseCondition`] = this.#increaseCondition;
+        CONFIG.queries[`${MODULE.id}.toggleCondition`] = this.#toggleCondition;
+        CONFIG.queries[`${MODULE.id}.addCondition`] = this.#addCondition;
+        CONFIG.queries[`${MODULE.id}.removeCondition`] = this.#removeCondition;
 
-        this.#socket.register("rollSave", this.#rollSave);
+        CONFIG.queries[`${MODULE.id}.rollSave`] = this.#rollSave;
 
-        this.#socket.register("deleteChatMessage", this.#deleteChatMessage);
-        this.#socket.register("updateChatMessage", this.#updateChatMessage);
+        CONFIG.queries[`${MODULE.id}.deleteChatMessage`] = this.#deleteChatMessage;
+        CONFIG.queries[`${MODULE.id}.updateChatMessage`] = this.#updateChatMessage;
 
-        this.#socket.register("promptChoice", this.#promptChoice);
+        CONFIG.queries[`${MODULE.id}.promptChoice`] = this.#promptChoice;
     }
 
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/no-unsafe-function-type
-    async #executeAsActor<T>(actor: ActorPF2e, handler: string | Function, ...args: any[]): Promise<Maybe<T>> {
+    async #executeAsActor<T>(actor: ActorPF2e, name: string, data: object): Promise<Maybe<T>> {
         const primaryUser = Utils.Actor.getPrimaryUser(actor);
 
         if (primaryUser) {
-            return this.#socket.executeAsUser<T>(handler, primaryUser.id, ...args);
+            return primaryUser.query(`${MODULE.id}.${name}`, data) as Promise<Maybe<T>>;
         }
 
         return undefined;
+    }
+
+    async #executeAsGM<T>(name: string, data: object): Promise<Maybe<T>> {
+        return game.users.activeGM?.query(`${MODULE.id}.${name}`, data) as Promise<Maybe<T>>;
     }
 
     async addEffect(
@@ -128,11 +127,11 @@ export class Socket {
         }
 
         if (data.choiceSet) {
-            effectSource = Utils.Effect.setChoiceSet(effectSource, data.choiceSet);
+            effectSource = setChoiceSet(effectSource, data.choiceSet);
         }
 
         if (data.tokenMark) {
-            effectSource = Utils.Effect.setTokenMark(effectSource, data.tokenMark);
+            effectSource = setTokenMark(effectSource, data.tokenMark);
         }
 
         return await this.createEmbeddedItem(actor, effectSource);
@@ -144,7 +143,9 @@ export class Socket {
         data?: PreCreate<ItemSourcePF2e>
     ): Promise<RemoveItem[]> {
         if (!actor.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(actor, "addEmbeddedItem", actor.uuid, itemUuid, data)) ?? [];
+            return (
+                (await this.#executeAsActor(actor, "addEmbeddedItem", { actorUuid: actor.uuid, itemUuid, data })) ?? []
+            );
         }
 
         const item = await fromUuid<ItemPF2e>(itemUuid);
@@ -158,12 +159,16 @@ export class Socket {
         return [];
     }
 
-    async #addEmbeddedItem(
-        actorUuid: ActorUUID,
-        itemUuid: ItemUUID,
-        data?: PreCreate<ItemSourcePF2e>
-    ): Promise<RemoveItem[]> {
-        const actor = await fromUuid<ActorPF2e>(actorUuid);
+    async #addEmbeddedItem({
+        actorUuid,
+        itemUuid,
+        data
+    }: {
+        actorUuid: ActorUUID;
+        itemUuid: ItemUUID;
+        data?: PreCreate<ItemSourcePF2e>;
+    }): Promise<RemoveItem[]> {
+        let actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
         return await game.assistant.socket.addEmbeddedItem(actor, itemUuid, data);
@@ -171,14 +176,20 @@ export class Socket {
 
     async createEmbeddedItem(actor: ActorPF2e, data: PreCreate<ItemSourcePF2e>): Promise<RemoveItem[]> {
         if (!actor.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(actor, "createEmbeddedItem", actor.uuid, data)) ?? [];
+            return (await this.#executeAsActor(actor, "createEmbeddedItem", { actorUuid: actor.uuid, data })) ?? [];
         }
 
         const createdItem = await actor.createEmbeddedDocuments("Item", [data]);
         return createdItem.map((i) => ({ actor: actor.uuid, item: i.uuid }));
     }
 
-    async #createEmbeddedItem(actorUuid: ActorUUID, data: PreCreate<ItemSourcePF2e>): Promise<RemoveItem[]> {
+    async #createEmbeddedItem({
+        actorUuid,
+        data
+    }: {
+        actorUuid: ActorUUID;
+        data: PreCreate<ItemSourcePF2e>;
+    }): Promise<RemoveItem[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
@@ -199,7 +210,7 @@ export class Socket {
         if (!item.parent) return [];
 
         if (!item.parent.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(item.parent, "deleteEmbeddedItem", item.uuid)) ?? [];
+            return (await this.#executeAsActor(item.parent, "deleteEmbeddedItem", { itemUuid: item.uuid })) ?? [];
         }
 
         const returnValue = [{ actor: item.parent.uuid, item: item.toObject() }];
@@ -207,7 +218,7 @@ export class Socket {
         return returnValue;
     }
 
-    async #deleteEmbeddedItem(itemUuid: ItemUUID): Promise<AddItem[]> {
+    async #deleteEmbeddedItem({ itemUuid }: { itemUuid: ItemUUID }): Promise<AddItem[]> {
         const item = await fromUuid<ItemPF2e>(itemUuid);
         if (!item) return [];
 
@@ -218,14 +229,14 @@ export class Socket {
         if (!item.parent) return;
 
         if (!item.parent.canUserModify(game.user, "update")) {
-            await this.#executeAsActor(item.parent, "updateEmbeddedItem", item.uuid);
+            await this.#executeAsActor(item.parent, "updateEmbeddedItem", { itemUuid: item.uuid, data });
             return;
         }
 
         await item.update(data);
     }
 
-    async #updateEmbeddedItem(itemUuid: ItemUUID, data: Record<string, unknown>) {
+    async #updateEmbeddedItem({ itemUuid, data }: { itemUuid: ItemUUID; data: Record<string, unknown> }) {
         const item = await fromUuid<ItemPF2e>(itemUuid);
         if (!item) return;
 
@@ -239,9 +250,10 @@ export class Socket {
     ): Promise<UpdateCondition[]> {
         if (!actor.canUserModify(game.user, "update")) {
             return (
-                (await this.#executeAsActor(actor, "decreaseCondition", actor.uuid, conditionSlug, {
-                    value,
-                    forceRemove
+                (await this.#executeAsActor(actor, "decreaseCondition", {
+                    actorUuid: actor.uuid,
+                    conditionSlug,
+                    options: { value, forceRemove }
                 })) ?? []
             );
         }
@@ -266,15 +278,19 @@ export class Socket {
         return [];
     }
 
-    async #decreaseCondition(
-        actorUuid: ActorUUID,
-        conditionSlug: ConditionSlug,
-        { value, forceRemove }: { value?: number; forceRemove?: boolean } = {}
-    ): Promise<UpdateCondition[]> {
+    async #decreaseCondition({
+        actorUuid,
+        conditionSlug,
+        options
+    }: {
+        actorUuid: ActorUUID;
+        conditionSlug: ConditionSlug;
+        options: { value?: number; forceRemove?: boolean };
+    }): Promise<UpdateCondition[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
-        return await game.assistant.socket.decreaseCondition(actor, conditionSlug, { value, forceRemove });
+        return await game.assistant.socket.decreaseCondition(actor, conditionSlug, options);
     }
 
     async increaseCondition(
@@ -284,8 +300,11 @@ export class Socket {
     ): Promise<UpdateCondition[]> {
         if (!actor.canUserModify(game.user, "update")) {
             return (
-                (await this.#executeAsActor(actor, "increaseCondition", actor.uuid, conditionSlug, { value, max })) ??
-                []
+                (await this.#executeAsActor(actor, "increaseCondition", {
+                    actorUuid: actor.uuid,
+                    conditionSlug,
+                    options: { value, max }
+                })) ?? []
             );
         }
 
@@ -323,15 +342,19 @@ export class Socket {
         }
     }
 
-    async #increaseCondition(
-        actorUuid: ActorUUID,
-        conditionSlug: ConditionSlug,
-        { value, max = Number.MAX_SAFE_INTEGER }: { value?: number; max?: number } = {}
-    ): Promise<UpdateCondition[]> {
+    async #increaseCondition({
+        actorUuid,
+        conditionSlug,
+        options
+    }: {
+        actorUuid: ActorUUID;
+        conditionSlug: ConditionSlug;
+        options: { value?: number; max?: number };
+    }): Promise<UpdateCondition[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
-        return await game.assistant.socket.increaseCondition(actor, conditionSlug, { value, max });
+        return await game.assistant.socket.increaseCondition(actor, conditionSlug, options);
     }
 
     async toggleCondition(
@@ -340,7 +363,13 @@ export class Socket {
         { active }: { active?: boolean } = {}
     ): Promise<UpdateCondition[]> {
         if (!actor.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(actor, "toggleCondition", actor.uuid, conditionSlug, { active })) ?? [];
+            return (
+                (await this.#executeAsActor(actor, "toggleCondition", {
+                    actorUuid: actor.uuid,
+                    conditionSlug,
+                    options: { active }
+                })) ?? []
+            );
         }
 
         const hasCondition = actor.hasCondition(conditionSlug);
@@ -357,15 +386,19 @@ export class Socket {
         return [];
     }
 
-    async #toggleCondition(
-        actorUuid: ActorUUID,
-        conditionSlug: ConditionSlug,
-        { active }: { active?: boolean } = {}
-    ): Promise<UpdateCondition[]> {
+    async #toggleCondition({
+        actorUuid,
+        conditionSlug,
+        options
+    }: {
+        actorUuid: ActorUUID;
+        conditionSlug: ConditionSlug;
+        options: { active?: boolean };
+    }): Promise<UpdateCondition[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
-        return await game.assistant.socket.toggleCondition(actor, conditionSlug, { active });
+        return await game.assistant.socket.toggleCondition(actor, conditionSlug, options);
     }
 
     async addCondition(
@@ -374,7 +407,13 @@ export class Socket {
         { value, persistent }: { value?: number; persistent?: ConditionSource["system"]["persistent"] } = {}
     ): Promise<UpdateCondition[]> {
         if (!actor.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(actor, "addCondition", actor.uuid, conditionSlug, { value })) ?? [];
+            return (
+                (await this.#executeAsActor(actor, "addCondition", {
+                    actorUuid: actor.uuid,
+                    conditionSlug,
+                    options: { value, persistent }
+                })) ?? []
+            );
         }
 
         if (conditionSlug === "persistent-damage" && persistent === undefined) return [];
@@ -395,20 +434,26 @@ export class Socket {
         }));
     }
 
-    async #addCondition(
-        actorUuid: ActorUUID,
-        conditionSlug: ConditionSlug,
-        { value, persistent }: { value?: number; persistent?: ConditionSource["system"]["persistent"] } = {}
-    ): Promise<UpdateCondition[]> {
+    async #addCondition({
+        actorUuid,
+        conditionSlug,
+        options
+    }: {
+        actorUuid: ActorUUID;
+        conditionSlug: ConditionSlug;
+        options: { value?: number; persistent?: ConditionSource["system"]["persistent"] };
+    }): Promise<UpdateCondition[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
-        return await game.assistant.socket.addCondition(actor, conditionSlug, { value, persistent });
+        return await game.assistant.socket.addCondition(actor, conditionSlug, options);
     }
 
     async removeCondition(actor: ActorPF2e, conditionSlug: ConditionSlug): Promise<UpdateCondition[]> {
         if (!actor.canUserModify(game.user, "update")) {
-            return (await this.#executeAsActor(actor, "removeCondition", actor.uuid, conditionSlug)) ?? [];
+            return (
+                (await this.#executeAsActor(actor, "removeCondition", { actorUuid: actor.uuid, conditionSlug })) ?? []
+            );
         }
 
         const conditions = actor.itemTypes.condition.filter((c) => c.slug === conditionSlug && !c.isLocked);
@@ -419,7 +464,13 @@ export class Socket {
         return conditionSources;
     }
 
-    async #removeCondition(actorUuid: ActorUUID, conditionSlug: ConditionSlug): Promise<UpdateCondition[]> {
+    async #removeCondition({
+        actorUuid,
+        conditionSlug
+    }: {
+        actorUuid: ActorUUID;
+        conditionSlug: ConditionSlug;
+    }): Promise<UpdateCondition[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 
@@ -458,8 +509,8 @@ export class Socket {
             modifiers?: ModifierObjectParams[];
             /** The originating item of this attack, if any */
             item?: ItemPF2e<ActorPF2e> | null;
-            /** The roll mode (i.e., 'roll', 'blindroll', etc) to use when rendering this roll. */
-            rollMode?: RollMode | "roll";
+            /** The ChatMessage visibility mode to use when rendering this roll. */
+            messageMode?: ChatMessageMode;
             /** Should the dialog be skipped */
             skipDialog?: boolean;
             /** Should this roll be rolled twice? If so, should it keep highest or lowest? */
@@ -475,28 +526,32 @@ export class Socket {
         }
     ) {
         if (!actor.canUserModify(game.user, "update")) {
-            await this.#executeAsActor(actor, "rollSave", actor.uuid, save, {
-                identifier: args.identifier,
-                action: args.action,
-                token: args.token?.uuid,
-                attackNumber: args.attackNumber,
-                target: args.target?.uuid,
-                origin: args.origin?.uuid,
-                dc: args.dc,
-                label: args.label,
-                slug: args.slug,
-                title: args.title,
-                extraRollNodes: args.extraRollNotes,
-                extraRollOptions: args.extraRollOptions,
-                modifiers: args.modifiers,
-                item: args.item?.uuid,
-                rollMode: args.rollMode,
-                skipDialog: args.skipDialog,
-                rollTwice: args.rollTwice,
-                traits: args.traits,
-                damaging: args.damaging,
-                melee: args.melee,
-                createMessage: args.createMessage
+            await this.#executeAsActor(actor, "rollSave", {
+                actorUuid: actor.uuid,
+                save,
+                args: {
+                    identifier: args.identifier,
+                    action: args.action,
+                    token: args.token?.uuid,
+                    attackNumber: args.attackNumber,
+                    target: args.target?.uuid,
+                    origin: args.origin?.uuid,
+                    dc: args.dc,
+                    label: args.label,
+                    slug: args.slug,
+                    title: args.title,
+                    extraRollNodes: args.extraRollNotes,
+                    extraRollOptions: args.extraRollOptions,
+                    modifiers: args.modifiers,
+                    item: args.item?.uuid,
+                    messageMode: args.messageMode,
+                    skipDialog: args.skipDialog,
+                    rollTwice: args.rollTwice,
+                    traits: args.traits,
+                    damaging: args.damaging,
+                    melee: args.melee,
+                    createMessage: args.createMessage
+                }
             });
             return;
         }
@@ -516,7 +571,7 @@ export class Socket {
             extraRollOptions: args.extraRollOptions,
             modifiers: args.modifiers?.map((value) => new game.pf2e.Modifier(value)),
             item: args.item,
-            rollMode: args.rollMode,
+            messageMode: args.messageMode,
             skipDialog: args.skipDialog,
             rollTwice: args.rollTwice,
             traits: args.traits,
@@ -526,9 +581,13 @@ export class Socket {
         });
     }
 
-    async #rollSave(
-        actorUuid: ActorUUID,
-        save: SaveType,
+    async #rollSave({
+        actorUuid,
+        save,
+        args
+    }: {
+        actorUuid: ActorUUID;
+        save: SaveType;
         args: {
             /** A string of some kind to identify the roll: will be included in `CheckRoll#options` */
             identifier?: string;
@@ -558,8 +617,8 @@ export class Socket {
             modifiers?: ModifierObjectParams[];
             /** The originating item of this attack, if any */
             item?: ItemUUID | null;
-            /** The roll mode (i.e., 'roll', 'blindroll', etc) to use when rendering this roll. */
-            rollMode?: RollMode | "roll";
+            /** The ChatMessage visibility mode to use when rendering this roll. */
+            messageMode?: ChatMessageMode;
             /** Should the dialog be skipped */
             skipDialog?: boolean;
             /** Should this roll be rolled twice? If so, should it keep highest or lowest? */
@@ -572,8 +631,8 @@ export class Socket {
             melee?: boolean;
             /** Whether to create a chat message using the roll (defaults true) */
             createMessage?: boolean;
-        }
-    ) {
+        };
+    }) {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return;
 
@@ -592,7 +651,7 @@ export class Socket {
             extraRollOptions: args.extraRollOptions,
             modifiers: args.modifiers,
             item: args.item ? ((await fromUuid<ItemPF2e<ActorPF2e>>(args.item)) ?? undefined) : undefined,
-            rollMode: args.rollMode,
+            messageMode: args.messageMode,
             skipDialog: args.skipDialog,
             rollTwice: args.rollTwice,
             traits: args.traits,
@@ -604,14 +663,14 @@ export class Socket {
 
     async deleteChatMessage(chatMessage: ChatMessagePF2e) {
         if (!chatMessage.canUserModify(game.user, "delete")) {
-            await this.#socket.executeAsGM("deleteChatMessage", chatMessage.uuid);
+            await this.#executeAsGM("deleteChatMessage", { chatMessageUuid: chatMessage.uuid });
         }
         if (chatMessage.flags["pf2e-assistant"]?.process !== false) return;
 
         await chatMessage.delete();
     }
 
-    async #deleteChatMessage(chatMessageUuid: ChatMessageUUID) {
+    async #deleteChatMessage({ chatMessageUuid }: { chatMessageUuid: DocumentUUID }) {
         const chatMessage = await fromUuid<ChatMessagePF2e>(chatMessageUuid);
         if (!chatMessage) return;
 
@@ -620,15 +679,23 @@ export class Socket {
 
     async updateChatMessage(chatMessage: ChatMessagePF2e, tokenId: string, reroll: Assistant.Reroll) {
         if (!chatMessage.canUserModify(game.user, "update")) {
-            await this.#socket.executeAsGM("updateChatMessage", chatMessage.uuid, tokenId, reroll);
+            await this.#executeAsGM("updateChatMessage", { chatMessageUuid: chatMessage.uuid, tokenId, reroll });
         }
 
-        this.#updateQueue.add(chatMessage.update.bind(chatMessage), {
-            flags: { "pf2e-assistant": { process: false, reroll: { [tokenId]: reroll } } }
+        this.#updateQueue.add(() => {
+            chatMessage.update({ flags: { "pf2e-assistant": { process: false, reroll: { [tokenId]: reroll } } } });
         });
     }
 
-    async #updateChatMessage(chatMessageUuid: ChatMessageUUID, tokenId: string, reroll: Assistant.Reroll) {
+    async #updateChatMessage({
+        chatMessageUuid,
+        tokenId,
+        reroll
+    }: {
+        chatMessageUuid: DocumentUUID;
+        tokenId: string;
+        reroll: Assistant.Reroll;
+    }) {
         const chatMessage = await fromUuid<ChatMessagePF2e>(chatMessageUuid);
         if (!chatMessage) return;
 
@@ -643,16 +710,19 @@ export class Socket {
             target?: { actor: ActorPF2e; token: TokenDocumentPF2e };
             data: ChoiceData;
         }
-    ): Promise<ChatMessageUUID[]> {
+    ): Promise<DocumentUUID[]> {
         if (!actor.canUserModify(game.user, "update")) {
             return (
-                (await this.#executeAsActor(actor, "promptChoice", actor.uuid, {
-                    speaker: { actor: param.speaker.actor.uuid, token: param.speaker.token.uuid },
-                    item: param.item ? param.item.uuid : undefined,
-                    target: param.target
-                        ? { actor: param.target.actor.uuid, token: param.target.token.uuid }
-                        : undefined,
-                    data: param.data
+                (await this.#executeAsActor(actor, "promptChoice", {
+                    actorUuid: actor.uuid,
+                    param: {
+                        speaker: { actor: param.speaker.actor.uuid, token: param.speaker.token.uuid },
+                        item: param.item ? param.item.uuid : undefined,
+                        target: param.target
+                            ? { actor: param.target.actor.uuid, token: param.target.token.uuid }
+                            : undefined,
+                        data: param.data
+                    }
                 })) ?? []
             );
         }
@@ -694,18 +764,21 @@ export class Socket {
                 .map((user) => user.id)
         });
 
-        return chatMessage ? [chatMessage.uuid] : [];
+        return chatMessage ? [chatMessage.uuid!] : [];
     }
 
-    async #promptChoice(
-        actorUuid: ActorUUID,
+    async #promptChoice({
+        actorUuid,
+        param
+    }: {
+        actorUuid: ActorUUID;
         param: {
             speaker: { actor: ActorUUID; token: TokenDocumentUUID };
             item?: ItemUUID;
             target?: { actor: ActorUUID; token: TokenDocumentUUID };
             data: ChoiceData;
-        }
-    ): Promise<ChatMessageUUID[]> {
+        };
+    }): Promise<DocumentUUID[]> {
         const actor = await fromUuid<ActorPF2e>(actorUuid);
         if (!actor) return [];
 

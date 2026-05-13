@@ -1,5 +1,5 @@
-import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
+import { Assistant } from "@root/assistant.ts";
+import { Utils } from "@root/utils.ts";
 
 export const path = ["Critical Specializations", "Firearm"];
 

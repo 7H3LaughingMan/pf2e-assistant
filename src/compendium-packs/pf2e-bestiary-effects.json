@@ -88,6 +88,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.31nnjHZqiaqaWBUi"
     },
     {
+        "slug": "effect-fed-by-water",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.35OHxyrZA43S8rtL"
+    },
+    {
         "slug": "effect-adaptive-strike",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.361dIAAhiZE0wg8v"
     },
@@ -114,6 +118,10 @@
     {
         "slug": "effect-hampering-fusillade",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.3bAtqn2WPSqxCYPY"
+    },
+    {
+        "slug": "effect-field-of-unholy-undeath",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.3hyrbOFyIPF99hcY"
     },
     {
         "slug": "effect-claim-corpse-skeletal",
@@ -264,6 +272,14 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.6TKI9EZKvusrPLHU"
     },
     {
+        "slug": "effect-diabolic-certitude",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.6bGS19fnwbv4E7mn"
+    },
+    {
+        "slug": "effect-venomous-aura",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.6fPk2jOEp7LOsV7J"
+    },
+    {
         "slug": "effect-destructive-vengeance",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.6pLYKcDawL5JUBkK"
     },
@@ -282,6 +298,10 @@
     {
         "slug": "effect-spray-toxic-oil",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.75B7z49jfQbWcSy9"
+    },
+    {
+        "slug": "effect-reactive-detach",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.78Dfh5ghvULGiyzk"
     },
     {
         "slug": "effect-drain-life-wight-spell-sniper",
@@ -544,6 +564,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.EZVgNBwMrJWeKLXp"
     },
     {
+        "slug": "effect-a-thousand-cuts",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.Eecbbol29eIP3zvf"
+    },
+    {
         "slug": "effect-field-of-slaughter-bleed",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.EhEXb0arrl2tc1HB"
     },
@@ -570,6 +594,10 @@
     {
         "slug": "effect-commanding-shout",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.F1JHRa75KBAjHOs1"
+    },
+    {
+        "slug": "effect-word-of-heroism",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.F2vfkxDnMjBZt91r"
     },
     {
         "slug": "effect-damned-restoration",
@@ -650,6 +678,10 @@
     {
         "slug": "effect-hallucinogenic-pollen-failure",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.GstmxSP75eKmHtCQ"
+    },
+    {
+        "slug": "effect-blistering-touch",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.GzDBmtKQY0cHSGM3"
     },
     {
         "slug": "effect-fiery-form",
@@ -740,6 +772,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.J6EwMsXtXg30eaiB"
     },
     {
+        "slug": "effect-subservience-kill",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.JPuJqYKQqgOf4Bw5"
+    },
+    {
         "slug": "effect-beseech-the-spirits",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.JSruXKRV7iJv8Se0"
     },
@@ -812,6 +848,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.LFJppLCe4JAWrzPs"
     },
     {
+        "slug": "effect-false-flag",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.LGxrp2XkcOJHRPLz"
+    },
+    {
         "slug": "effect-aura-of-the-all-seeing-eye",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.LHRl8n9SQIWHrnis"
     },
@@ -826,6 +866,10 @@
     {
         "slug": "effect-binding-oath",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.LRLc8KQIJa4FhvvW"
+    },
+    {
+        "slug": "effect-gluttons-feast-aezar",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.LWFDNwi3iJuf476A"
     },
     {
         "slug": "effect-absorb-shock",
@@ -870,6 +914,10 @@
     {
         "slug": "effect-on-guard",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.MLwh53NzVrfN5Bbc"
+    },
+    {
+        "slug": "effect-thus-always-to-tyrants",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.MMTeeCVAr6rDgYtI"
     },
     {
         "slug": "effect-queen-sorshens-aid-aid-ally",
@@ -922,6 +970,10 @@
     {
         "slug": "effect-remove-face",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.NLjzI7gt6djXSoXc"
+    },
+    {
+        "slug": "effect-weeping-aura",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.NRH7Eo6F5YYtUf4g"
     },
     {
         "slug": "effect-living-shields",
@@ -1014,6 +1066,10 @@
     {
         "slug": "effect-wrath-of-fate",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.QSy3KaLI1AYTR7rP"
+    },
+    {
+        "slug": "effect-drunken-stumble",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.QVLX06QevxTcuZxU"
     },
     {
         "slug": "effect-consume-organ",
@@ -1220,6 +1276,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.UbDVVOjTMLXdKMb8"
     },
     {
+        "slug": "stance-bite-of-the-asp-stance",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.UbyVJdH8p3FM6pXw"
+    },
+    {
         "slug": "effect-curse-of-stone",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.UgoM6FBiZfc7KqCV"
     },
@@ -1264,8 +1324,16 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.VOorielY4wCSfqOr"
     },
     {
+        "slug": "effect-word-of-vigor",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.VdQthM85CHkHZd8a"
+    },
+    {
         "slug": "effect-heart-break",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.VdT6ALv7LnCNOjUq"
+    },
+    {
+        "slug": "effect-compel-courage",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.VfEM4AXrlPC3tgHX"
     },
     {
         "slug": "effect-stay-in-the-fight",
@@ -1408,6 +1476,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.a4bZrBNL17zPjDiH"
     },
     {
+        "slug": "effect-phantom-hands",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.aBtlxHM9ChGywyrH"
+    },
+    {
         "slug": "effect-hellfire",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.aCBAyXq3yecE8aIP"
     },
@@ -1424,6 +1496,14 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.aOpSI5tApXF5xHCM"
     },
     {
+        "slug": "effect-close-ranks",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.aYd6QDPx7qdo1Zju"
+    },
+    {
+        "slug": "effect-incessant-yammering",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.abxVJdBjmotub57z"
+    },
+    {
         "slug": "effect-claim-corpse-fleshy",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.auJ02rr1Jr88oD3Z"
     },
@@ -1434,6 +1514,10 @@
     {
         "slug": "effect-grab-debris",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.bhSG1uP41ilmyzPu"
+    },
+    {
+        "slug": "effect-vitality-of-hell",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.bwEZazVhE5KkLfwA"
     },
     {
         "slug": "effect-whisper-earworm-critical-failure",
@@ -1476,8 +1560,16 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.cs9UyOf4D3hh7cDG"
     },
     {
+        "slug": "effect-bound-in-death",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.cvbjBqSLYDSqoXGP"
+    },
+    {
         "slug": "effect-snack",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.d0aJSi7GI6AhBlAJ"
+    },
+    {
+        "slug": "effect-banner-bearer",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.dCNQpHO0Ka8PW3z5"
     },
     {
         "slug": "effect-warded-casting",
@@ -1560,12 +1652,20 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.enrTKgEzu2quCj0z"
     },
     {
+        "slug": "effect-ride-the-moonbeams",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.eoIEdBBzgyChUmB9"
+    },
+    {
         "slug": "effect-harrow-burst",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.eqzDPseLIfWJMxAR"
     },
     {
         "slug": "effect-super-qi-blast",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.f1w5p5AVfAajZi9t"
+    },
+    {
+        "slug": "effect-play-scape",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.f4IRnmOVesolJhVO"
     },
     {
         "slug": "effect-elemental-field",
@@ -1676,6 +1776,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.i4S6h5c1KK4FLq6w"
     },
     {
+        "slug": "effect-draining-bite",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.iAZ7k5JkbEzuPYZW"
+    },
+    {
         "slug": "effect-commanding-aura-quara",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.iDLu83vhWoNIE7xt"
     },
@@ -1684,12 +1788,20 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.iE8dnbDLiAFcaOT8"
     },
     {
+        "slug": "effect-shroud-of-burning-pages",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.iFPNXFOCYHIxIKBw"
+    },
+    {
         "slug": "effect-pray-to-the-rotting-god",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.iPk9Pphkq4Zuzvuj"
     },
     {
         "slug": "effect-nymph-queens-inspiration",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.iSyyR4QVOaY6mxtg"
+    },
+    {
+        "slug": "effect-word-of-advice",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.iTjPZQneHwBqlRiq"
     },
     {
         "slug": "effect-viscous-trap",
@@ -1736,6 +1848,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.iuy6AA6sQZUZkN9X"
     },
     {
+        "slug": "effect-denounce",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.izuJvgHjqI6kQNbK"
+    },
+    {
         "slug": "effect-extend-neck",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.j1KR4TXzER3RYiqp"
     },
@@ -1744,12 +1860,20 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.jCwXeDnqBTw9pyhg"
     },
     {
+        "slug": "effect-word-of-caution",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.jQdNEbZ7n7B10aZC"
+    },
+    {
         "slug": "effect-entangling-slime",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.jQmfZcPD6xVYx5nb"
     },
     {
         "slug": "effect-chaotic-spawning",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.jhPkOUdLPSQ46vkU"
+    },
+    {
+        "slug": "effect-five-color-dance",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.jhYlpTfRASb4P3r3"
     },
     {
         "slug": "effect-feast-on-illness",
@@ -1948,6 +2072,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.ob00D61F0c4PIvj1"
     },
     {
+        "slug": "effect-fog-of-chance",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.ojzyLjd9094jkTPy"
+    },
+    {
         "slug": "effect-dragonhide",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.okDw1dRcrQafunTV"
     },
@@ -2034,6 +2162,10 @@
     {
         "slug": "effect-nanite-surge-glow",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.rRgVlTHiNEJ86T7N"
+    },
+    {
+        "slug": "effect-evoke-fault",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.rZR7o9uj598vLVaY"
     },
     {
         "slug": "effect-read-the-stars-critical-success",
@@ -2128,6 +2260,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.u2z1BgpZsxl7Zc2z"
     },
     {
+        "slug": "effect-pyres-mercy",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.u3Qy9t7RuE4wKV0O"
+    },
+    {
         "slug": "effect-tempest-rage",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.u9b233QynLAPKPty"
     },
@@ -2154,6 +2290,10 @@
     {
         "slug": "effect-alchemical-crossbow",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.ucAwSIZsGrpBLg6G"
+    },
+    {
+        "slug": "effect-inspiring-presence-augustanas-pride",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.udUrzHOieqcQBb8H"
     },
     {
         "slug": "effect-siphon-will",
@@ -2260,8 +2400,16 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.wcNGbhwn3AuamtsX"
     },
     {
+        "slug": "effect-in-our-wake-hell-will-break",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.wsDecJEF8va4EAei"
+    },
+    {
         "slug": "effect-gluttons-feast",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.ww0Wu8majCej2tVF"
+    },
+    {
+        "slug": "effect-push-my-luck-misfortune",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.wwt86BeAHFA5VRuI"
     },
     {
         "slug": "effect-guiding-words-guide",
@@ -2344,6 +2492,10 @@
         "uuid": "Compendium.pf2e.bestiary-effects.Item.yrenENpzVgBKsnNi"
     },
     {
+        "slug": "effect-fiendish-order",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.ywP3B88P2gfsYhQ0"
+    },
+    {
         "slug": "effect-unluck-aura",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.yxgHWK2rTZKKAzDN"
     },
@@ -2398,5 +2550,9 @@
     {
         "slug": "effect-manipulate-luck-bad",
         "uuid": "Compendium.pf2e.bestiary-effects.Item.zzdOof9hHUf9s13H"
+    },
+    {
+        "slug": "effect-hypnotic-gaze",
+        "uuid": "Compendium.pf2e.bestiary-effects.Item.zzhRh3aMh3ZRcIEo"
     }
 ]

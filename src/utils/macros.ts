@@ -1,6 +1,6 @@
 import { isCompendiumPack } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ItemPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 import * as R from "remeda";
 
 const delay = (ms: number) =>

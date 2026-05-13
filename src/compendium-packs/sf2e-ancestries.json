@@ -8,6 +8,10 @@
         "uuid": "Compendium.sf2e.ancestries.Item.0qcXAQo7iZkZXNO9"
     },
     {
+        "slug": "urog",
+        "uuid": "Compendium.sf2e.ancestries.Item.1gJeLPnHFATPQej2"
+    },
+    {
         "slug": "kalo",
         "uuid": "Compendium.sf2e.ancestries.Item.23MA5Ee7ExUfzrqk"
     },
@@ -20,16 +24,48 @@
         "uuid": "Compendium.sf2e.ancestries.Item.3iuWdarohpDFhlxX"
     },
     {
+        "slug": "moyishuu",
+        "uuid": "Compendium.sf2e.ancestries.Item.62AMzNlZzxTG0oxE"
+    },
+    {
+        "slug": "orocoran",
+        "uuid": "Compendium.sf2e.ancestries.Item.6BG5tO0g9kCFfTym"
+    },
+    {
         "slug": "pahtra",
         "uuid": "Compendium.sf2e.ancestries.Item.75TqHknsQuinDLjn"
+    },
+    {
+        "slug": "izalguun",
+        "uuid": "Compendium.sf2e.ancestries.Item.8GXuOAZR2i39RGji"
+    },
+    {
+        "slug": "brenneri",
+        "uuid": "Compendium.sf2e.ancestries.Item.9p9GNLHDRocLlKVU"
     },
     {
         "slug": "khizar",
         "uuid": "Compendium.sf2e.ancestries.Item.AjSZKAwWEw0AfAJR"
     },
     {
+        "slug": "dwarf",
+        "uuid": "Compendium.sf2e.ancestries.Item.BYj5ZvlXZdpaEgA6"
+    },
+    {
         "slug": "shobhad",
         "uuid": "Compendium.sf2e.ancestries.Item.CURlEp5fEl0WJq9L"
+    },
+    {
+        "slug": "gnome",
+        "uuid": "Compendium.sf2e.ancestries.Item.CYlfsYLJcBOgqKtD"
+    },
+    {
+        "slug": "bantrid",
+        "uuid": "Compendium.sf2e.ancestries.Item.FeoOVtm7zVhgxXtg"
+    },
+    {
+        "slug": "talphi",
+        "uuid": "Compendium.sf2e.ancestries.Item.Fhhxk7toaVGjwoMY"
     },
     {
         "slug": "shirren",
@@ -40,12 +76,20 @@
         "uuid": "Compendium.sf2e.ancestries.Item.GfLwE884NoRC7cRi"
     },
     {
+        "slug": "halfling",
+        "uuid": "Compendium.sf2e.ancestries.Item.GgZAHbrjnzWOZy2v"
+    },
+    {
         "slug": "kasatha",
         "uuid": "Compendium.sf2e.ancestries.Item.H6dkr1GtoQhuQqJm"
     },
     {
         "slug": "ikeshti",
         "uuid": "Compendium.sf2e.ancestries.Item.HFVQhUxBt6UTtuny"
+    },
+    {
+        "slug": "entu-colony",
+        "uuid": "Compendium.sf2e.ancestries.Item.HIfj37OghTgagFkx"
     },
     {
         "slug": "human",
@@ -60,12 +104,36 @@
         "uuid": "Compendium.sf2e.ancestries.Item.P6PcVnCkh4XMdefw"
     },
     {
+        "slug": "elf",
+        "uuid": "Compendium.sf2e.ancestries.Item.PgKmsA2aKdbLU6O0"
+    },
+    {
+        "slug": "ijtikri",
+        "uuid": "Compendium.sf2e.ancestries.Item.RP7fqj4Rpu0IBf6t"
+    },
+    {
+        "slug": "ryphorian",
+        "uuid": "Compendium.sf2e.ancestries.Item.WfllaPpt1pxGVMAG"
+    },
+    {
         "slug": "elebrian",
         "uuid": "Compendium.sf2e.ancestries.Item.XKW1SziWusHoaCRd"
     },
     {
+        "slug": "maraquoi",
+        "uuid": "Compendium.sf2e.ancestries.Item.XcmRKGimGvezRawa"
+    },
+    {
         "slug": "lashunta",
         "uuid": "Compendium.sf2e.ancestries.Item.ZDExBZqdqYUtv5dg"
+    },
+    {
+        "slug": "leshy",
+        "uuid": "Compendium.sf2e.ancestries.Item.cdhgByGG1WtuaK73"
+    },
+    {
+        "slug": "gfolian",
+        "uuid": "Compendium.sf2e.ancestries.Item.fqn2WK47MN0gqax3"
     },
     {
         "slug": "sarcesian",
@@ -76,7 +144,51 @@
         "uuid": "Compendium.sf2e.ancestries.Item.jNE2Zq46a9kQj7bi"
     },
     {
+        "slug": "orc",
+        "uuid": "Compendium.sf2e.ancestries.Item.lSGWXjcbOa6O5fTx"
+    },
+    {
+        "slug": "raxilite",
+        "uuid": "Compendium.sf2e.ancestries.Item.lU4TJFs95esViIHI"
+    },
+    {
         "slug": "vlaka",
         "uuid": "Compendium.sf2e.ancestries.Item.mBsOLC7cRc7nkzV2"
+    },
+    {
+        "slug": "trox",
+        "uuid": "Compendium.sf2e.ancestries.Item.mvomk7uS0Gfh72sg"
+    },
+    {
+        "slug": "worlanisi",
+        "uuid": "Compendium.sf2e.ancestries.Item.oKcAbl5mPNkFYhQM"
+    },
+    {
+        "slug": "madrosarai",
+        "uuid": "Compendium.sf2e.ancestries.Item.q6fTXrRTneiqXs63"
+    },
+    {
+        "slug": "osharu",
+        "uuid": "Compendium.sf2e.ancestries.Item.r1f3ChFtmCRQ9fMj"
+    },
+    {
+        "slug": "goblin",
+        "uuid": "Compendium.sf2e.ancestries.Item.sQfjTMDaZbT9DThq"
+    },
+    {
+        "slug": "copaxi",
+        "uuid": "Compendium.sf2e.ancestries.Item.tvjMyXjibIywAPh2"
+    },
+    {
+        "slug": "fonqugon",
+        "uuid": "Compendium.sf2e.ancestries.Item.vlYBDZbj6zWBFR0b"
+    },
+    {
+        "slug": "novian",
+        "uuid": "Compendium.sf2e.ancestries.Item.waaL4y6dUPzy8Emb"
+    },
+    {
+        "slug": "formian",
+        "uuid": "Compendium.sf2e.ancestries.Item.yOnW818fHTfnwg2k"
     }
 ]

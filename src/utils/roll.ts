@@ -172,7 +172,7 @@ export function extractDamage(roll: Rolled<DamageRoll>, slug: string, applyCriti
     return `{${rolledValue}[${dice.damageType}]}`;
 }
 
-export function extractBaseDamage(roll: Rolled<DamageRoll>, applyCritical: boolean) {
+export function extractBaseDamage(roll: foundry.dice.Rolled<DamageRoll>, applyCritical: boolean) {
     if (!isWeaponDamage(roll.options.damage)) return;
     if (!roll.options.critRule) return;
 

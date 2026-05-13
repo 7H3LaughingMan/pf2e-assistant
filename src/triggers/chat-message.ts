@@ -1,15 +1,17 @@
 import { getTargets, MODULE, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
-import { Utils } from "utils.ts";
+import { Assistant } from "@root/assistant.ts";
+import { Utils } from "@root/utils.ts";
 
-const createChatMessage = Hooks.on("createChatMessage", function (chatMessage: ChatMessagePF2e) {
+// @ts-expect-error No overload matches this call.
+const createChatMessage = Hooks.on("createChatMessage", (chatMessage: ChatMessagePF2e) => {
     if (!chatMessage.isAuthor) return;
     if (chatMessage.getFlag(MODULE.id, "process") === false) return;
 
     processChatMessage(chatMessage)
         .then((data) => game.assistant.storage.process(data))
-        .then(({ data, reroll }) => processReroll(data, reroll));
+        .then(({ data, reroll }) => processReroll(data, reroll))
+        .catch((_reason: unknown) => {});
 });
 
 async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {

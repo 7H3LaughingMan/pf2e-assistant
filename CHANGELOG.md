@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [8.0.0] - Unreleased
+
+v14 Update
+
 ## [7.10.0] - 2026-02-25
 
 ### Added
@@ -16,7 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Changed
 
 - Axe Critical Specialization now checks to see if there are any other enemies within reach and adjacent to the target, if there are none it will not post anything
-- Shock Rune now checks to see if there are any other enemies within 10 feet of the target, if there are non it will not post anything
+- Shock Rune now checks to see if there are any other enemies within 10 feet of the target, if there are none it will not post anything
 
 ## [7.9.1] - 2026-02-19
 
@@ -563,6 +567,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 - Auto Self-Applied Effects (This is disabled if PF2e Toolbelt is doing this as well)
 - Swashbuckler Panache
 
+[8.0.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.10.0...HEAD
 [7.10.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.1...v7.10.0
 [7.9.1]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.9.0...v7.9.1
 [7.9.0]: https://github.com/7H3LaughingMan/pf2e-assistant/compare/v7.8.3...v7.9.0

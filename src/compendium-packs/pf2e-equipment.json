@@ -48,6 +48,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.07Nu4AC0B5CI3zpc"
     },
     {
+        "slug": "robe-of-the-erinys-major",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.08w0aIB1JRipvrUN"
+    },
+    {
         "slug": "venomous-cure-fulu",
         "uuid": "Compendium.pf2e.equipment-srd.Item.097NJos0T8o7AMLi"
     },
@@ -62,6 +66,10 @@
     {
         "slug": "twilight-lantern-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.0Bp6uVAX4AvjhsOI"
+    },
+    {
+        "slug": "shacklebreaker-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.0BpLj6rmLsC8LMbd"
     },
     {
         "slug": "feather-step-stone",
@@ -222,6 +230,10 @@
     {
         "slug": "pathfinders-pouch",
         "uuid": "Compendium.pf2e.equipment-srd.Item.0c7zLY9c88K2n0GC"
+    },
+    {
+        "slug": "floppy-rag-doll",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.0cfFotzRil7uxEeG"
     },
     {
         "slug": "hexing-jar",
@@ -464,6 +476,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.1JHPSOUD7Ij75OAf"
     },
     {
+        "slug": "pallid-crystal",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.1K8xqplmaXW9Yto3"
+    },
+    {
         "slug": "watchers-armband",
         "uuid": "Compendium.pf2e.equipment-srd.Item.1LJ0KMAyjwx4iP1Q"
     },
@@ -680,6 +696,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.1r6StS0irdvi5JHY"
     },
     {
+        "slug": "ring-of-fair-assessment",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.1rOwO8kOQjpjPXKQ"
+    },
+    {
         "slug": "dawnlight",
         "uuid": "Compendium.pf2e.equipment-srd.Item.1tqyghMGI6PEYFGK"
     },
@@ -854,6 +874,10 @@
     {
         "slug": "jade-cat",
         "uuid": "Compendium.pf2e.equipment-srd.Item.2MgFoNXTccL8Own9"
+    },
+    {
+        "slug": "lifebloom",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.2NDH3AX5Ewu4MLT6"
     },
     {
         "slug": "wig-of-holding",
@@ -1584,6 +1608,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.4F87PHMIzLHOUABL"
     },
     {
+        "slug": "lucky-silver",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.4FnFyFOEigjTFs3W"
+    },
+    {
         "slug": "quicksilver-mutagen-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.4GXzTN6iSDGfYEAi"
     },
@@ -1754,6 +1782,10 @@
     {
         "slug": "dragonscale-staff",
         "uuid": "Compendium.pf2e.equipment-srd.Item.4jZqYIyouoK7xe8u"
+    },
+    {
+        "slug": "smugglers-padlock",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.4jjhUwHiEY2v8afe"
     },
     {
         "slug": "taljjaes-mask-the-nobleman",
@@ -2074,6 +2106,10 @@
     {
         "slug": "egg-cream-fizz",
         "uuid": "Compendium.pf2e.equipment-srd.Item.5a6pudUj6WG8RITy"
+    },
+    {
+        "slug": "greased-axle",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.5ayGokKzSBMCGJD8"
     },
     {
         "slug": "swift-standard",
@@ -2448,6 +2484,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.6cyw0yK91cNsbvSK"
     },
     {
+        "slug": "magnetic-bola",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.6dizJBq0Dqevbf3L"
+    },
+    {
         "slug": "command-cuirass",
         "uuid": "Compendium.pf2e.equipment-srd.Item.6eBv81PifFDgRo3x"
     },
@@ -2662,6 +2702,10 @@
     {
         "slug": "numbing-tonic-lesser",
         "uuid": "Compendium.pf2e.equipment-srd.Item.7D6ENmL3mRfUOMwf"
+    },
+    {
+        "slug": "platter-of-putrid-dreams",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.7Dj3iXpYMA7b5p74"
     },
     {
         "slug": "bravery-baldric-greater-healthful",
@@ -3456,6 +3500,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.9QstkAexbb6QOwht"
     },
     {
+        "slug": "dreamcrusher",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.9QugctA7ZTeCIsx2"
+    },
+    {
         "slug": "the-unicorn",
         "uuid": "Compendium.pf2e.equipment-srd.Item.9RxwktkuKHF9ud2L"
     },
@@ -3628,6 +3676,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.9zdm3EyEQXgMox8b"
     },
     {
+        "slug": "glittering-lights-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.9zwWWIy3Dtw60j1E"
+    },
+    {
         "slug": "life-boosting-oil-moderate",
         "uuid": "Compendium.pf2e.equipment-srd.Item.9zyrMZF76hMxwizY"
     },
@@ -3686,6 +3738,10 @@
     {
         "slug": "sticky-algae-bomb-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.AAoAQCBwAITvHJSu"
+    },
+    {
+        "slug": "marvelous-miniature-swift-sparrow",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.AB9MZTjKQMTBXyi4"
     },
     {
         "slug": "hag-eye",
@@ -3990,6 +4046,10 @@
     {
         "slug": "dawnsilver-chunk",
         "uuid": "Compendium.pf2e.equipment-srd.Item.B0gbs7xKQc2J7AiV"
+    },
+    {
+        "slug": "devilwing-badge-major",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.B1SiT510ndPAP7xz"
     },
     {
         "slug": "inventors-fulu",
@@ -4812,6 +4872,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.DV4qelKHrviM0O5i"
     },
     {
+        "slug": "bortled-favorite-moderate",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.DVPP0DF0ijId1ZYO"
+    },
+    {
         "slug": "jet-and-white-gold-game-set",
         "uuid": "Compendium.pf2e.equipment-srd.Item.DWzoqVeEamX118Qk"
     },
@@ -4842,6 +4906,10 @@
     {
         "slug": "nosoi-charm",
         "uuid": "Compendium.pf2e.equipment-srd.Item.DdqGs9aSwjSl0XyY"
+    },
+    {
+        "slug": "shacklebreaker",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.DdxmBp8ULtLESATE"
     },
     {
         "slug": "reapers-grasp",
@@ -5034,6 +5102,10 @@
     {
         "slug": "alloy-orb-exquisite-high-grade",
         "uuid": "Compendium.pf2e.equipment-srd.Item.ECjche2BfpWHZ3vU"
+    },
+    {
+        "slug": "silverscrap-bomb-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.ECqOpC2J3dc6kNjM"
     },
     {
         "slug": "staff-of-the-black-desert",
@@ -5306,6 +5378,10 @@
     {
         "slug": "defoliation-bomb-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Ey3AowmoC3Fo0OJ9"
+    },
+    {
+        "slug": "atrophy-bomb-lesser",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Ey9g17eK5KxeuOIR"
     },
     {
         "slug": "paired",
@@ -5724,6 +5800,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.G5WuYX1ghrZcJ1J1"
     },
     {
+        "slug": "devilwing-badge-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.G6njXf4pRdYsE7E7"
+    },
+    {
         "slug": "bands-of-imprisonment",
         "uuid": "Compendium.pf2e.equipment-srd.Item.G72UFwPRKBdfqib9"
     },
@@ -5746,6 +5826,10 @@
     {
         "slug": "noxious-jerkin",
         "uuid": "Compendium.pf2e.equipment-srd.Item.GAu6v14pCSgLJh2D"
+    },
+    {
+        "slug": "warding-paste",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.GBaUehNIPMxLS5KN"
     },
     {
         "slug": "plate-of-yled-true",
@@ -5818,6 +5902,10 @@
     {
         "slug": "horned-dragon-breath-potion",
         "uuid": "Compendium.pf2e.equipment-srd.Item.GNy0YEusxjcGMCNn"
+    },
+    {
+        "slug": "abrogail-i-script",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.GOSnin5vDXi7DX1f"
     },
     {
         "slug": "blast-suit",
@@ -6176,6 +6264,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.HNacrCOSJKJ6zn5t"
     },
     {
+        "slug": "sweet-hags-eye",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.HNzFnmRfpt2oz5qQ"
+    },
+    {
         "slug": "spurned-lute",
         "uuid": "Compendium.pf2e.equipment-srd.Item.HSAj9FBx2yAyjfzf"
     },
@@ -6272,6 +6364,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.Hd1AfC08ytBg67Ey"
     },
     {
+        "slug": "conductors-instrument",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.HdJY04mJaRhwIkDx"
+    },
+    {
         "slug": "dragons-breath-8th-level-spell",
         "uuid": "Compendium.pf2e.equipment-srd.Item.He5idiYCqLJJU83h"
     },
@@ -6312,6 +6408,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.Hiu4tSd0Ol8HvmaN"
     },
     {
+        "slug": "imposing-shield",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Hkjqt1Y98payfa37"
+    },
+    {
         "slug": "bandalore",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Hl2JP8PQKrKxAfAD"
     },
@@ -6330,6 +6430,10 @@
     {
         "slug": "amphisbaena-spittle",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Hoe17WNDQ2PQd9JZ"
+    },
+    {
+        "slug": "reapers-sigh",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.HofVPZ0eimPVK9jb"
     },
     {
         "slug": "beast-staff",
@@ -6366,6 +6470,10 @@
     {
         "slug": "rod-of-cancellation",
         "uuid": "Compendium.pf2e.equipment-srd.Item.HuGZspUvJqR09Y8u"
+    },
+    {
+        "slug": "atrophy-bomb-major",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.HuVDfEm6U7Quq9Y4"
     },
     {
         "slug": "spiderfoot-brew-lesser",
@@ -6936,6 +7044,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.JgZIWU1KaVL2pnAr"
     },
     {
+        "slug": "atrophy-bomb-moderate",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Jgi6iWyH9ihgXC7w"
+    },
+    {
         "slug": "soothing-toddy",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Jgv2PAJic7LPoGQx"
     },
@@ -7206,6 +7318,10 @@
     {
         "slug": "wand-of-continuation-8th-rank-spell",
         "uuid": "Compendium.pf2e.equipment-srd.Item.KMqHzKfpPq5H8GOo"
+    },
+    {
+        "slug": "impelling-symbol",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.KMuzxjJehmJgoQ7h"
     },
     {
         "slug": "etheric-essence-disruptor-major",
@@ -7936,6 +8052,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.M7c4uXraP05HYNXs"
     },
     {
+        "slug": "restful-salve",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.M7lC4RUuPlx2I8fP"
+    },
+    {
         "slug": "shining-shield",
         "uuid": "Compendium.pf2e.equipment-srd.Item.M8QYa10fHOyViC5V"
     },
@@ -7946,6 +8066,10 @@
     {
         "slug": "bountiful-cauldron",
         "uuid": "Compendium.pf2e.equipment-srd.Item.MBF9bZCwkJp2RZoN"
+    },
+    {
+        "slug": "guardian-rose",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.MBKnfr5EW60lpWBL"
     },
     {
         "slug": "olfactory-obfuscator-greater",
@@ -8300,6 +8424,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.NBmOTmE2GAEI766h"
     },
     {
+        "slug": "mocking-mirror-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.NC2kxJmZu73xPA6x"
+    },
+    {
         "slug": "hopeful",
         "uuid": "Compendium.pf2e.equipment-srd.Item.NCE7g1U3q3RYwCY2"
     },
@@ -8534,6 +8662,10 @@
     {
         "slug": "energy-breath-potion-fire-moderate",
         "uuid": "Compendium.pf2e.equipment-srd.Item.NqNwLeqto2isVWNL"
+    },
+    {
+        "slug": "atrophy-bomb-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Nqy9whrqYrChgkHh"
     },
     {
         "slug": "stormshard-major",
@@ -8790,6 +8922,10 @@
     {
         "slug": "secret-keepers-mask-gray-master",
         "uuid": "Compendium.pf2e.equipment-srd.Item.OX71iN2SXMWMeI5R"
+    },
+    {
+        "slug": "token-of-salt-and-earth",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.OXZHwDQVxDXxEYTv"
     },
     {
         "slug": "trackers-goggles-greater",
@@ -9064,6 +9200,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.PEjGV24mOK5gPPPS"
     },
     {
+        "slug": "lucky-gold",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.PFkSHCwfrQq3GrOy"
+    },
+    {
         "slug": "conflagration-club",
         "uuid": "Compendium.pf2e.equipment-srd.Item.PFmBfQ4xENK3jX4M"
     },
@@ -9292,6 +9432,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.PsBTAUV7ExEsKpVx"
     },
     {
+        "slug": "robe-of-the-erinys-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.PtlGktLAPSkBOlzJ"
+    },
+    {
         "slug": "frightful-hag-eye",
         "uuid": "Compendium.pf2e.equipment-srd.Item.PttRbxopuD0EpDTI"
     },
@@ -9334,6 +9478,10 @@
     {
         "slug": "gossamer-sash",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Q3ZYTbPGPDG6WINq"
+    },
+    {
+        "slug": "fiendsbane-shield",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Q3cmIfjVVNWzyR2f"
     },
     {
         "slug": "marked-playing-cards",
@@ -9680,6 +9828,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.QuPnoGmlgYVNXeTz"
     },
     {
+        "slug": "silverscrap-bomb-lesser",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.QvfHp3lgIQqqiCQF"
+    },
+    {
         "slug": "dragons-tongue",
         "uuid": "Compendium.pf2e.equipment-srd.Item.QwRTK0x9L04xKyU5"
     },
@@ -9924,12 +10076,20 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.RcVJ30230zAeLILV"
     },
     {
+        "slug": "bountys-light",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.RdJg2iIQx8lJyPWe"
+    },
+    {
         "slug": "ablative-armor-plating-true",
         "uuid": "Compendium.pf2e.equipment-srd.Item.RdsQliP7Gi1xe8xH"
     },
     {
         "slug": "tome-of-dripping-shadows",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Rf9sn0afKTzyFgaH"
+    },
+    {
+        "slug": "vagabonds-teapot",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.RgHt3SB3HZ9gAQob"
     },
     {
         "slug": "crafters-eyepiece",
@@ -10204,6 +10364,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.SMruq5revpHcKDdt"
     },
     {
+        "slug": "bortled-favorite-lesser",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.SN3zU6CpyN79OINk"
+    },
+    {
         "slug": "spirit-fan",
         "uuid": "Compendium.pf2e.equipment-srd.Item.SNF8g7u8JYzqvsU1"
     },
@@ -10290,6 +10454,10 @@
     {
         "slug": "black-adder-venom",
         "uuid": "Compendium.pf2e.equipment-srd.Item.ScclzFrjyB0YJlrb"
+    },
+    {
+        "slug": "robe-of-the-erinys",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.Sdb13IJJMmryDqox"
     },
     {
         "slug": "chromatic-jellyfish-oil-greater",
@@ -10422,6 +10590,10 @@
     {
         "slug": "wand-of-noisome-acid-8th-rank",
         "uuid": "Compendium.pf2e.equipment-srd.Item.T1XSnU0bwrn3m520"
+    },
+    {
+        "slug": "puddle-shove-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.T1iRa7JuHAKqQNjd"
     },
     {
         "slug": "cooperative-waffles",
@@ -10684,6 +10856,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co"
     },
     {
+        "slug": "serene-smelling-salts",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.TaC5Eln00j3PMyiu"
+    },
+    {
         "slug": "choker-of-elocution",
         "uuid": "Compendium.pf2e.equipment-srd.Item.TacKaUs8cIddqiCU"
     },
@@ -10812,12 +10988,20 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.TyWs8hIOYxjcm037"
     },
     {
+        "slug": "thorn-of-milani-lesser",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.TzGABJvUoCJVmLlE"
+    },
+    {
         "slug": "bronze-dragons-breath-potion-young",
         "uuid": "Compendium.pf2e.equipment-srd.Item.TzXNMv7tnFy1FYgg"
     },
     {
         "slug": "blast-foot",
         "uuid": "Compendium.pf2e.equipment-srd.Item.U0R8AHRhK0Wu9r2i"
+    },
+    {
+        "slug": "verdant-poultice",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.U0jReHtTNpb0eH58"
     },
     {
         "slug": "aeon-stone-pale-orange-rhomboid",
@@ -11452,6 +11636,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.VeCNWhvEr82ZNoSV"
     },
     {
+        "slug": "whispering-wire",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.VeLs0UGkFu3Ga8Cd"
+    },
+    {
         "slug": "rounds-axe-musket",
         "uuid": "Compendium.pf2e.equipment-srd.Item.VeeH30MvHyTX4QAT"
     },
@@ -11638,6 +11826,10 @@
     {
         "slug": "desolation-locket-greater",
         "uuid": "Compendium.pf2e.equipment-srd.Item.WC0MDw9oLnAtLmh5"
+    },
+    {
+        "slug": "silverscrap-bomb-moderate",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.WCA8vovbzZuoHzu9"
     },
     {
         "slug": "mattock-of-the-titans",
@@ -12680,6 +12872,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.YqSSNyjG5fkI5HqB"
     },
     {
+        "slug": "calamity",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.YqhEmz8dmf02b99u"
+    },
+    {
         "slug": "camp-shroud-minor",
         "uuid": "Compendium.pf2e.equipment-srd.Item.Yqz5M71vM1RcvlCx"
     },
@@ -12902,6 +13098,10 @@
     {
         "slug": "reactive-mail-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.ZXvCmnud6spsJ2FX"
+    },
+    {
+        "slug": "hagbane-biscuit",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.ZY0XGD1LFFSh3VNO"
     },
     {
         "slug": "harpoon-bolt",
@@ -13430,6 +13630,10 @@
     {
         "slug": "phantom-roll",
         "uuid": "Compendium.pf2e.equipment-srd.Item.awavOTGutIrLRQyq"
+    },
+    {
+        "slug": "lucky-copper",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.awtacA9swoKxH8fY"
     },
     {
         "slug": "bomb-snare",
@@ -14084,6 +14288,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.cnfsOL7Pes47WPpR"
     },
     {
+        "slug": "cinnamon-nostalgia-bun",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.cngyxKY271mvKySQ"
+    },
+    {
         "slug": "exuviae-powder",
         "uuid": "Compendium.pf2e.equipment-srd.Item.cplkaokMiskvFgAe"
     },
@@ -14644,6 +14852,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.eQjibJl41aQpQ47d"
     },
     {
+        "slug": "lazybones-pendant",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.eRDtYkNm8lQHwo4g"
+    },
+    {
         "slug": "polished-demon-horn-major",
         "uuid": "Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw"
     },
@@ -14682,6 +14894,10 @@
     {
         "slug": "barricade-stone-cube",
         "uuid": "Compendium.pf2e.equipment-srd.Item.eVowRVEo42PBFvNK"
+    },
+    {
+        "slug": "glacier-hammer",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.eWe4x49kdih5vWyG"
     },
     {
         "slug": "arcane-standard-greater",
@@ -15500,6 +15716,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.gxfIiPebrvjXeALk"
     },
     {
+        "slug": "unassuming-face-paint",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.gxnMdbLRgWsWyVGA"
+    },
+    {
         "slug": "crown-of-the-fire-eater",
         "uuid": "Compendium.pf2e.equipment-srd.Item.gxzlLfvXeZ8BGlf4"
     },
@@ -15688,6 +15908,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.hPhI0FWH5TtaANcl"
     },
     {
+        "slug": "devilwing-badge",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.hQ442kcLpkHPZ7Nk"
+    },
+    {
         "slug": "ghoul-hide",
         "uuid": "Compendium.pf2e.equipment-srd.Item.hRwnNTMj7wa8S4Ji"
     },
@@ -15774,6 +15998,10 @@
     {
         "slug": "headwrap-of-wisdom",
         "uuid": "Compendium.pf2e.equipment-srd.Item.hjfoSyfsGSTLpPMr"
+    },
+    {
+        "slug": "thorn-of-milani-moderate",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.hkcRHApzlqRVhfEv"
     },
     {
         "slug": "ten-days-breath",
@@ -17056,6 +17284,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.lJ3BzUZkGTOCWleL"
     },
     {
+        "slug": "whispering-wire-greater",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.lJBKINXBmSq7njTi"
+    },
+    {
         "slug": "belkzen-deadsmasher-greater",
         "uuid": "Compendium.pf2e.equipment-srd.Item.lJOygeHETz6S8cEz"
     },
@@ -17358,6 +17590,10 @@
     {
         "slug": "grinning-pugwampi",
         "uuid": "Compendium.pf2e.equipment-srd.Item.mJSCOIJllj2GtACC"
+    },
+    {
+        "slug": "freezing-embrace-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.mK3ScHbO28hlnSg8"
     },
     {
         "slug": "animate-dreamer",
@@ -18388,6 +18624,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.onFxlajKyWpHZcXt"
     },
     {
+        "slug": "pit-illusion-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.onI4XByaLFqD9Ci6"
+    },
+    {
         "slug": "gold-chalice-with-black-pearls",
         "uuid": "Compendium.pf2e.equipment-srd.Item.ony7u60cfBMtLG8F"
     },
@@ -19232,6 +19472,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.rGXJKL6xfBGbbd47"
     },
     {
+        "slug": "restorative-handwraps",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.rGkm6yrclVx7Ogir"
+    },
+    {
         "slug": "air-bladder",
         "uuid": "Compendium.pf2e.equipment-srd.Item.rHugmTjO3kgyiTH0"
     },
@@ -19246,6 +19490,10 @@
     {
         "slug": "portable-gaming-hall",
         "uuid": "Compendium.pf2e.equipment-srd.Item.rJcynWlGp05cLsrG"
+    },
+    {
+        "slug": "harpys-talon",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.rJqth4cFwWnSiCr1"
     },
     {
         "slug": "tentacle-cannon-major",
@@ -19382,6 +19630,10 @@
     {
         "slug": "flare-snare",
         "uuid": "Compendium.pf2e.equipment-srd.Item.riLNCaVS9zGvt4Nn"
+    },
+    {
+        "slug": "woe",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.rikanygoG7zWhb59"
     },
     {
         "slug": "fan-of-soothing-winds",
@@ -19538,6 +19790,10 @@
     {
         "slug": "extended-deteriorating-dust",
         "uuid": "Compendium.pf2e.equipment-srd.Item.sAMzkU7kzUZfqTPV"
+    },
+    {
+        "slug": "crimson-thorn",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.sAhQdzMThRXu4556"
     },
     {
         "slug": "orc-knuckle-dagger",
@@ -19772,6 +20028,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.ssS1yEAZwZun8yFw"
     },
     {
+        "slug": "martyrs-shield-hellbreakers",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.stlTN5eb1qRJMHgB"
+    },
+    {
         "slug": "animal-nip-lesser",
         "uuid": "Compendium.pf2e.equipment-srd.Item.suTxnYr8arqC9pt7"
     },
@@ -19830,6 +20090,10 @@
     {
         "slug": "silver-dragons-breath-potion-adult",
         "uuid": "Compendium.pf2e.equipment-srd.Item.t9wFCiFkCRcSLtaG"
+    },
+    {
+        "slug": "last-word-stone",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.tAGWI3br9PO4It6R"
     },
     {
         "slug": "charm-of-the-ordinary",
@@ -21764,6 +22028,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.yWlQQOs0A3ApEc1J"
     },
     {
+        "slug": "hellhusk-shroud",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.yWr6S7pytCcDlCcR"
+    },
+    {
         "slug": "knights-standard",
         "uuid": "Compendium.pf2e.equipment-srd.Item.yXipdeJUEGMPT4dM"
     },
@@ -22020,6 +22288,10 @@
         "uuid": "Compendium.pf2e.equipment-srd.Item.zC7LipQPHRYw2RXx"
     },
     {
+        "slug": "shadow-cloak-snare",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.zCQE3SMDejlGWZKw"
+    },
+    {
         "slug": "folding-ladder",
         "uuid": "Compendium.pf2e.equipment-srd.Item.zDzs24ZMlzQgmTUd"
     },
@@ -22234,6 +22506,10 @@
     {
         "slug": "lethargy-poison",
         "uuid": "Compendium.pf2e.equipment-srd.Item.zo0ophqfKunJFxZN"
+    },
+    {
+        "slug": "tearaway-paper-doll",
+        "uuid": "Compendium.pf2e.equipment-srd.Item.zoW4lVigBoxl73Eg"
     },
     {
         "slug": "clinging-ooze-snare",

@@ -8,9 +8,9 @@ import {
     SaveType,
     TokenDocumentPF2e
 } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
+import { Utils } from "@root/utils.ts";
 import * as R from "remeda";
-import { Utils } from "utils.ts";
 
 type SaveRollData = {
     die: number;
@@ -49,13 +49,15 @@ type RerollSaveHook = {
     data: SaveRollData;
 };
 
-Hooks.on("pf2e-toolbelt.rollSave", function (args: RollSaveHook) {
+// @ts-expect-error No overload matches this call.
+Hooks.on("pf2e-toolbelt.rollSave", (args: RollSaveHook) => {
     processToolbelt(args.message, args.roll, args.target, args.data)
         .then((value) => game.assistant.storage.process(value))
         .then((value) => processReroll(value.data, value.reroll));
 });
 
-Hooks.on("pf2e-toolbelt.rerollSave", function (args: RerollSaveHook) {
+// @ts-expect-error No overload matches this call.
+Hooks.on("pf2e-toolbelt.rerollSave", (args: RerollSaveHook) => {
     const reroll = R.prop(args.message.flags, "pf2e-assistant", "reroll") as Maybe<Record<string, Assistant.Reroll>>;
     if (R.isNonNullish(reroll)) {
         Assistant.processReroll(reroll[args.target.id])

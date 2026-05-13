@@ -4,8 +4,20 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.0kdfFVZuHoHTG5c0"
     },
     {
+        "slug": "effect-shifthide-camouflage",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.0sNnWNSToD3FrbtF"
+    },
+    {
+        "slug": "effect-protective-bulk",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.0vdPkTib9LO8dj2y"
+    },
+    {
         "slug": "effect-adaptive-locomotion",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.1KLuThhsYQMPO5Qj"
+    },
+    {
+        "slug": "effect-intensify-shell",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.1RrwaWFGv4yI0T07"
     },
     {
         "slug": "effect-cellular-regeneration",
@@ -16,8 +28,20 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.2Iuhg4udP9eQF3oM"
     },
     {
+        "slug": "effect-back-to-back-bond",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.2xon6Q6ukZK5BXnX"
+    },
+    {
+        "slug": "effect-electrify-lfan",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.4CVM1CKudi7K92yN"
+    },
+    {
         "slug": "effect-meandering-mind",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.4DiN5KNJSrBkV1BA"
+    },
+    {
+        "slug": "effect-multi-armed-grab",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.5KDHxCnc923wtc9M"
     },
     {
         "slug": "effect-anchoring-impacts",
@@ -60,6 +84,10 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.8uHTQ6ha3CT79fS6"
     },
     {
+        "slug": "effect-acidic-spit",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.9AYamzd9VOGXn8KM"
+    },
+    {
         "slug": "effect-bond-boost",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.9Sq4P1Pxr1owEv6R"
     },
@@ -76,6 +104,14 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.A8NpjGmBeDx3taOP"
     },
     {
+        "slug": "effect-determination-undimmed",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.Ac1PiEOOGQQu8DrW"
+    },
+    {
+        "slug": "effect-slick-mucus",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.Ax22CnvK5FeXLt6g"
+    },
+    {
         "slug": "effect-intimidating-taunt",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.B0ZDwyk4qOr7hp4e"
     },
@@ -86,6 +122,10 @@
     {
         "slug": "effect-mobile-aim-ephemeral",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.B8kDmWVlRX1uJb1o"
+    },
+    {
+        "slug": "effect-static-shield",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.BJ5qmGeMTxQrfn3g"
     },
     {
         "slug": "effect-bone-shards",
@@ -100,8 +140,24 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.E5oRUzuYh5rLlPzu"
     },
     {
+        "slug": "effect-one-with-the-stone",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.EKRBg0ydRsHdvc7G"
+    },
+    {
         "slug": "effect-aim-reduce-cover",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.F2VaEGedUJJ5aPqF"
+    },
+    {
+        "slug": "effect-for-the-queen",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.FIdFX4WI50vzf6Pc"
+    },
+    {
+        "slug": "effect-cultural-consumption",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.GnxVwCUqrLS2P2RF"
+    },
+    {
+        "slug": "effect-absorb-vibe",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.GsiH3fTqaDRkR52l"
     },
     {
         "slug": "effect-assistive-shove",
@@ -112,6 +168,22 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.HB8lDFxU86aAl50M"
     },
     {
+        "slug": "effect-unleash-majesty-successful-demoralize",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.HEdKj6rBmmvxRWRo"
+    },
+    {
+        "slug": "effect-controlled-rage",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.HK97RHpmtXVCpRKr"
+    },
+    {
+        "slug": "effect-coat-in-bile",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.INAjtUZaCtApbpfe"
+    },
+    {
+        "slug": "effect-sacrificial-shell",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.INyimlbeeR3Blqk3"
+    },
+    {
         "slug": "effect-dramatic-reading-success",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.IPIYAY9bTGetPw12"
     },
@@ -120,8 +192,24 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.IaICLG7zwOV4OKgM"
     },
     {
+        "slug": "effect-instinctive-collaborator",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.IhxBLx9JmeZxiTe5"
+    },
+    {
         "slug": "effect-restorative-shapeshifting",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ItKEn1ikbsZROaBL"
+    },
+    {
+        "slug": "effect-scorching-lifeblood",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.JDvBWzG4ivMPPYfI"
+    },
+    {
+        "slug": "effect-show-off",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.JNIAimpO48hgxhfN"
+    },
+    {
+        "slug": "effect-unleashed-anger",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.JsggylQc0omAsExA"
     },
     {
         "slug": "effect-into-position-lead-by-example",
@@ -130,6 +218,10 @@
     {
         "slug": "effect-bullet-fever",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.KiCwXxBqYjxS0u2Q"
+    },
+    {
+        "slug": "effect-frenzy",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.LhknLKoC69iOEtHy"
     },
     {
         "slug": "effect-shattering-impact",
@@ -142,6 +234,10 @@
     {
         "slug": "effect-drop-tail",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.MZzCPh8IHQwe4xP3"
+    },
+    {
+        "slug": "effect-invoke-the-leviathan",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.MlcCtlwwJEKusoUK"
     },
     {
         "slug": "effect-size-of-the-ancients",
@@ -160,6 +256,10 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.NhV64Budza1tG6ah"
     },
     {
+        "slug": "effect-contained-emotions",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.NoHJfHeFdbn0FaDv"
+    },
+    {
         "slug": "effect-photosynthetic-regeneration",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.O4Ck3SKtbPWN3WKU"
     },
@@ -168,12 +268,16 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.Ojy9y4WYGjQJjUwj"
     },
     {
+        "slug": "effect-become-ooze",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.P5r9ZR5tOvzQnTyb"
+    },
+    {
         "slug": "effect-enter-rivener-state",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.Pdm2JmwnKc6yB1y5"
     },
     {
-        "slug": "effect-size-up",
-        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.RBWwGxsrxPBKi3X7"
+        "slug": "effect-activate-sensilla",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.QFglrJ1STC0L82aP"
     },
     {
         "slug": "effect-steel-yourselves",
@@ -184,8 +288,16 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.SS3He5Oh41NZjmf7"
     },
     {
+        "slug": "effect-visceral-warmask",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.SjZYAWpzpGWhICVF"
+    },
+    {
         "slug": "effect-dual-aim",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.SjauZALDFxxkSNbl"
+    },
+    {
+        "slug": "effect-one-with-the-void",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.Stvn3BZz9B9otBJl"
     },
     {
         "slug": "effect-shed-skin",
@@ -200,6 +312,10 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.U7ZWScb2rLlZYxpF"
     },
     {
+        "slug": "effect-relentless-roller",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.UaDoTYe6CamzrAKh"
+    },
+    {
         "slug": "effect-solar-weapon",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.UlFxEP3YrbseKA62"
     },
@@ -212,12 +328,36 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.V2RD3qNBmkrzXb4K"
     },
     {
+        "slug": "stance-all-grabber-stance",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.VVoZLSzfIMN0fj06"
+    },
+    {
+        "slug": "effect-fractal-lite",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.VhJBxcduyXuNED74"
+    },
+    {
+        "slug": "effect-unforgiving-fury",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.W2flbcSZF5o0oPV3"
+    },
+    {
         "slug": "effect-bond-spell",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.WNCJ8ZgkqU7LhJNk"
     },
     {
         "slug": "effect-harmonic-convergence",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.WUHSeAxZXX3Fin3S"
+    },
+    {
+        "slug": "effect-nanite-armament-boost",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.WUXWS9SkVMDS1ri2"
+    },
+    {
+        "slug": "effect-hold-the-link",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.WV7zGeEKrGlL7XlH"
+    },
+    {
+        "slug": "effect-fight-for-the-fallen",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.XgiT7DKIXpi4L05j"
     },
     {
         "slug": "effect-sway-the-heart-stoke-the-spirit",
@@ -232,8 +372,24 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.YbBoPkBHnyyy3xLd"
     },
     {
+        "slug": "effect-scout-cataclyst-human",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.YdijKJgLnRTNQR7v"
+    },
+    {
         "slug": "effect-infiltrator-enhanced-exploit",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ZLGe31v4jLANtk91"
+    },
+    {
+        "slug": "effect-effortless-influencer",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ZQM4vfHEKgxvNJik"
+    },
+    {
+        "slug": "effect-stone-faced-inscrutability",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ZYokE0rZII1J7YSr"
+    },
+    {
+        "slug": "effect-gift-of-gadrathar",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.a9EaJsV7mwXohaY1"
     },
     {
         "slug": "effect-shielding-arrogance",
@@ -268,12 +424,28 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.dAcHJiPDtqxxrR4Z"
     },
     {
+        "slug": "effect-sync-up",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.dug2BtLbknb8AlJs"
+    },
+    {
+        "slug": "effect-vapor-form",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.eETBTvKEhaCxCnG8"
+    },
+    {
+        "slug": "effect-primal-vitality",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.eFimVmrn9gJ9ugoH"
+    },
+    {
         "slug": "effect-get-em",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ey2zSEnprAGgvrij"
     },
     {
         "slug": "effect-elemental-perfect-harmony",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.f92GBWr5lfx4tKot"
+    },
+    {
+        "slug": "effect-ancestral-communion",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.fYZ1vNXDqgkG4e48"
     },
     {
         "slug": "effect-take-em-alive",
@@ -288,6 +460,10 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.g1J6DOxBQkacvbyE"
     },
     {
+        "slug": "effect-adhesive-grip",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.g2m4vNyluDrkuZYt"
+    },
+    {
         "slug": "effect-solar-weapon-twin-weapons",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.gABm4VTVRcfbv5sG"
     },
@@ -300,8 +476,40 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.gKDw3GcOiOYMMK1k"
     },
     {
+        "slug": "effect-channel-the-worlds-core",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.gWDgX4Zs8O1lxfcQ"
+    },
+    {
+        "slug": "effect-unstable-overdrive",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.hJI3OxpC4qcr7uxp"
+    },
+    {
         "slug": "effect-scrappers-ingenuity",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.hcH7IdEjC2wUVfaK"
+    },
+    {
+        "slug": "effect-adaptive-dermis",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.iMh34rzRpLOoKNbL"
+    },
+    {
+        "slug": "effect-cue-the-music",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ii1NY1YvM7lsql6n"
+    },
+    {
+        "slug": "effect-restorative-chatter",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.j8PdZa8f0ekkdIYw"
+    },
+    {
+        "slug": "effect-unleash-majesty",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.jA3fhbOp4nbUZ3PK"
+    },
+    {
+        "slug": "effect-hold-hands",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.jJX6rYoKEW0neDu6"
+    },
+    {
+        "slug": "effect-inheritor-of-stars-glory",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.jeYrs3IIaZTwSWT3"
     },
     {
         "slug": "effect-undead-slayer",
@@ -320,8 +528,16 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.kxaRFiXRKMNpasnu"
     },
     {
+        "slug": "effect-wide-field-of-view",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.lBNPZGhjrJy38W4P"
+    },
+    {
         "slug": "effect-improvised-mastery",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.lRXqkQTrtVRqqDWH"
+    },
+    {
+        "slug": "effect-above-and-below",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.lx8R8RLgmxIEkT04"
     },
     {
         "slug": "effect-apocalypse-smite",
@@ -332,12 +548,28 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.mpoTONLPMyb14mO9"
     },
     {
+        "slug": "effect-weightless-defense",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.mrZQiNQDUOao8Qvc"
+    },
+    {
         "slug": "effect-tactical-tutelage",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.n33jAVZDDWQ7ifvl"
     },
     {
+        "slug": "effect-rush-of-adrenaline",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.nZ5a2t2oZcR5CdF5"
+    },
+    {
         "slug": "effect-tangible-object-anchoring-effect",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.nvB1852vEPVqjxhR"
+    },
+    {
+        "slug": "effect-flamespewer",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ohgzmXpRpt3meJX6"
+    },
+    {
+        "slug": "effect-mycelium-armor",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.onpjKbg3rIhq0JBa"
     },
     {
         "slug": "effect-spellsurge-ammo",
@@ -356,6 +588,10 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.q5W7fV1wXvqBFxt8"
     },
     {
+        "slug": "effect-adaptive-resistance",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.q9gRPJBtyyJwgTRb"
+    },
+    {
         "slug": "effect-attuned-wards",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.qA3xFKVmtZCXSgsg"
     },
@@ -364,8 +600,36 @@
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.qbnXMOmVMMKphIgg"
     },
     {
+        "slug": "effect-absorb-flame",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.qljNFYceOwaYUcR1"
+    },
+    {
+        "slug": "effect-agglomerate-leshy",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.rmKcSjjP9gdzirRt"
+    },
+    {
+        "slug": "effect-head-of-steam",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.rxk6UxIuCushWnId"
+    },
+    {
         "slug": "effect-deadlift",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.sEPdCQ7J3hF6mjHi"
+    },
+    {
+        "slug": "effect-smooth-operator",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.tBkIC1NHTuwmXXmX"
+    },
+    {
+        "slug": "effect-convergent-ablation",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.ue31mD8kFdI3AlYM"
+    },
+    {
+        "slug": "effect-bionanite-skin",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.vILFwvPBAb3EcpTq"
+    },
+    {
+        "slug": "effect-life-giving-light",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.w9PcqHsnbIm11p8M"
     },
     {
         "slug": "effect-kindle-blaze",
@@ -390,6 +654,10 @@
     {
         "slug": "effect-atmospheric-flight",
         "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.yDgrjb3OuB51axy7"
+    },
+    {
+        "slug": "effect-practiced-leader",
+        "uuid": "Compendium.sf2e-anachronism.feat-effects.Item.yNCAi4KGVSur8i26"
     },
     {
         "slug": "effect-redirect-energy",

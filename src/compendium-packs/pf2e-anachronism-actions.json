@@ -1,0 +1,1774 @@
+[
+    {
+        "slug": "mutagenic-flashback",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.00LNVSCbwJ8pszwE"
+    },
+    {
+        "slug": "fling-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.04VQuQih77pxX06q"
+    },
+    {
+        "slug": "furious-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.06frwOOuo4HJtivl"
+    },
+    {
+        "slug": "dazzle-seeker",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.0LwQufKtXfRda0BR"
+    },
+    {
+        "slug": "intercession-spell",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.0MZ5tFUYKGMq21NV"
+    },
+    {
+        "slug": "raise-slabs",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.0VwLAKI7QP6mib88"
+    },
+    {
+        "slug": "restore-the-moment",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.0jJQglG57R6ss04M"
+    },
+    {
+        "slug": "consume-flesh",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.1If9lLVoZdO8woVg"
+    },
+    {
+        "slug": "deceptive-sidestep",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.1LDOfV8jEka09eXr"
+    },
+    {
+        "slug": "dancing-dodge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.1ejGup6ouh9t9S96"
+    },
+    {
+        "slug": "catharsis",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.2424g94rpoiN1IPh"
+    },
+    {
+        "slug": "reap-the-field",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.24k7qCV8S95yYK3y"
+    },
+    {
+        "slug": "clue-in",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.25WDi1cVUrW92sUj"
+    },
+    {
+        "slug": "act-together",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.2KV87ponbWXgGIhZ"
+    },
+    {
+        "slug": "crescent-spray",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.2XQowhfM4SfAhJaf"
+    },
+    {
+        "slug": "once-bitten",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.2r4BY90F9PLFai3c"
+    },
+    {
+        "slug": "overdrive",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3D9kGfwg4LUZBR9A"
+    },
+    {
+        "slug": "spell-woven-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3MiV0maH8imtnVwS"
+    },
+    {
+        "slug": "share-senses",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3ZzoI9MTtJFd1Kjl"
+    },
+    {
+        "slug": "bend-time",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3cuTA58ObXhuFX2r"
+    },
+    {
+        "slug": "buckle-cut-blitz",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3sNSr6NEVkUZ0dIr"
+    },
+    {
+        "slug": "devour-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.3sgY9afTTBhZXE8V"
+    },
+    {
+        "slug": "drink-blood",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.49F65W6VwuXhmv8K"
+    },
+    {
+        "slug": "taunt",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.4DYFJ4TUsNkgFBDb"
+    },
+    {
+        "slug": "finish-the-job",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.4IxCKbGaEM9nUhld"
+    },
+    {
+        "slug": "bond-with-spirit",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.4d6QSFBP4lMUYrVK"
+    },
+    {
+        "slug": "haunting-visage",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.4oHjLO6qMfxIchRB"
+    },
+    {
+        "slug": "tenacious-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5HZ4cYDowUw2oUbZ"
+    },
+    {
+        "slug": "daydream-trance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5LW1k5DUkzbbYuYL"
+    },
+    {
+        "slug": "defend-life",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5V49l0K460CcvBOO"
+    },
+    {
+        "slug": "brandish-the-gorgons-gaze",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5VbPhxZYfagIqE1z"
+    },
+    {
+        "slug": "entitys-resurgence",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5bCZGpp9yFHXDz1j"
+    },
+    {
+        "slug": "turn-aside-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5g0gCXJnUVipYtW0"
+    },
+    {
+        "slug": "recenter",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5p2AMqM9bOVnhwPT"
+    },
+    {
+        "slug": "grow",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5tOovJGK2TQIBHUZ"
+    },
+    {
+        "slug": "winged-leap",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5vLvLriQQGwgIIfz"
+    },
+    {
+        "slug": "protective-screen",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.5yBBgZ7OCWWJsnLo"
+    },
+    {
+        "slug": "spinning-crush",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6OZfIjiPjWTIe7Pr"
+    },
+    {
+        "slug": "thundering-roar",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6SAdjml3OZw0BZnn"
+    },
+    {
+        "slug": "pop-drop-and-lock",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6YIG6eVGTplWubGb"
+    },
+    {
+        "slug": "death-drone",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6iGoVnEJuBHJqgpi"
+    },
+    {
+        "slug": "elemental-blast",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6lbr0Jnv0zMB5uGb"
+    },
+    {
+        "slug": "convocation-of-greed",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6uHxON55vtaperC2"
+    },
+    {
+        "slug": "flowing-spirit-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.6xWX8Ey5ShAyj1HO"
+    },
+    {
+        "slug": "strike-hard",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.73W3mBLXRPfeVl3G"
+    },
+    {
+        "slug": "mighty-rage",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.74iat04PtfG8gn2Q"
+    },
+    {
+        "slug": "unleash-psyche",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.7GeguyqyD1TjoC4r"
+    },
+    {
+        "slug": "stupefying-raid",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.7HRhXh46dJVb241Y"
+    },
+    {
+        "slug": "warding-sign",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.7pdG8l9POMK76Lf2"
+    },
+    {
+        "slug": "energy-emanation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.7qjfYsLNTr17Aftf"
+    },
+    {
+        "slug": "offer-story",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.7wQe43fSCG9DSWdj"
+    },
+    {
+        "slug": "enter-runewell",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8PuITkuyl9swzWWq"
+    },
+    {
+        "slug": "instant-recovery",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8UJaVPsT5FA8XH87"
+    },
+    {
+        "slug": "anadi-venom",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8aIe57gXJ94mPpW4"
+    },
+    {
+        "slug": "armor-up",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8b63qGzqSUENQgOT"
+    },
+    {
+        "slug": "call-companion",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8kGpUUUSX1sB2OqQ"
+    },
+    {
+        "slug": "twist-design",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8nzfBu9i5oi2WQn0"
+    },
+    {
+        "slug": "only-you-and-i",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8r9ePG6BnrnO6YE1"
+    },
+    {
+        "slug": "call-on-ancient-blood",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.8w6esW689NNbbq3i"
+    },
+    {
+        "slug": "transform-ammunition",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.97jWk4XbIrGQK4Cp"
+    },
+    {
+        "slug": "living-fortification",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9MJcQEMVVrmMyGyq"
+    },
+    {
+        "slug": "affix-a-fulu",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9Nmz5114UB87n7Aj"
+    },
+    {
+        "slug": "binding-vow",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9X80J5RN21Uoaeiw"
+    },
+    {
+        "slug": "shift-immanence",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9cGJBXSJW6EpgibP"
+    },
+    {
+        "slug": "thoughtful-reload",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9kIvFxA5V9rvNWiH"
+    },
+    {
+        "slug": "automaton-aim",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.9sXQf1SyppS5B6O1"
+    },
+    {
+        "slug": "siegebreaker",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.A4L90h7FIgO5EyBx"
+    },
+    {
+        "slug": "remove-head",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.AHCMtFUZXpw98PqS"
+    },
+    {
+        "slug": "fade-into-daydreams",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.AJeLwbQBt1YH3S6v"
+    },
+    {
+        "slug": "hellbreaker-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ASt94swgHlproIcd"
+    },
+    {
+        "slug": "marathon-dash",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.AZt0m0EHRmtDCd5s"
+    },
+    {
+        "slug": "rage",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ah5g9pDwWF9b9VW9"
+    },
+    {
+        "slug": "invoke-celestial-privilege",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Aq2mXT2hLlstFL5C"
+    },
+    {
+        "slug": "venom-draw",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.B7wDxyjX66JkiCOV"
+    },
+    {
+        "slug": "objection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.BKMxC0ZvdYfdhx7C"
+    },
+    {
+        "slug": "conduct-energy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.BKnN9la3WNrRgZ6n"
+    },
+    {
+        "slug": "a-quick-glimpse-beyond",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.BRR0HS8yRhgBfipz"
+    },
+    {
+        "slug": "map-the-area",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ba9EuLV1I2b1ue9P"
+    },
+    {
+        "slug": "passage-of-lines",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.BfC5pWAns8PNewW3"
+    },
+    {
+        "slug": "entreat-pact",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.BrCbXsCUIFYfu26E"
+    },
+    {
+        "slug": "bestial-clarity",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.CCMemaB1RoVa0aOu"
+    },
+    {
+        "slug": "practical-research",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.CIqiFw9rqYnuzggq"
+    },
+    {
+        "slug": "heavy-is-the-crown",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.CJnA1wEg2kA5BXfe"
+    },
+    {
+        "slug": "reactive-falsehood",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.CLX9WEYXdntl2wrt"
+    },
+    {
+        "slug": "mirror-trickery",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.CPTolKAF55p7D7Sn"
+    },
+    {
+        "slug": "elemental-burst",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Cb9XbKqHBHPAbQKk"
+    },
+    {
+        "slug": "channel-draconic-essence",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ce9vzE3XWn0u5NcL"
+    },
+    {
+        "slug": "crash-against-me",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Cu7P7NB3XH67mi1N"
+    },
+    {
+        "slug": "the-bigger-they-are",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Czcdh3pPzQ7y1cV7"
+    },
+    {
+        "slug": "steel-your-resolve",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.D2PNfIw7U6Ks0VY4"
+    },
+    {
+        "slug": "drink-from-the-chalice",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.D91jQs0wleU5ml4K"
+    },
+    {
+        "slug": "spring-the-trap",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.DFRLID6lIRw7CzOT"
+    },
+    {
+        "slug": "valkyries-charge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.DGmzeAr4IfCnKN0R"
+    },
+    {
+        "slug": "eldritch-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.DS9sDOWkXrz2xmHi"
+    },
+    {
+        "slug": "long-term-rest",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.DXIZ4DHGxhZiWNWb"
+    },
+    {
+        "slug": "recall-ammunition",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.DYn1igFjCGJEiP22"
+    },
+    {
+        "slug": "swarm-forth",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.E48YTUyreo1kc9GM"
+    },
+    {
+        "slug": "retributive-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EAP98XaChJEbgKcK"
+    },
+    {
+        "slug": "final-surge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EHa0owz6mccnmSBf"
+    },
+    {
+        "slug": "mirrored-wall",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EKEZGfOBKTNWTFDe"
+    },
+    {
+        "slug": "call-gun",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ESMIHOOahLQoqxW1"
+    },
+    {
+        "slug": "ten-paces",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EeM0Czaep7G5ZSh5"
+    },
+    {
+        "slug": "opportune-riposte",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EfjoIuDmtUn4yiow"
+    },
+    {
+        "slug": "settle-emotions",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EhLvRWFKhZ3HtrZO"
+    },
+    {
+        "slug": "fracture-mountains",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ei4T4aQx0a5EdBhm"
+    },
+    {
+        "slug": "harrow-the-fiend",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.EuoCFSHTzi0VOfuf"
+    },
+    {
+        "slug": "upstage",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.F0JgJR2rXKOg9k1z"
+    },
+    {
+        "slug": "dispelling-bullet",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Fe487XZBdqEI2InL"
+    },
+    {
+        "slug": "calculate-threats",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Fha8jFmfkOPxAsrZ"
+    },
+    {
+        "slug": "rampaging-ferocity",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.FkfWKq9jhhPzKAbb"
+    },
+    {
+        "slug": "fey-jump",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.FomdyTNeKcV1dQMx"
+    },
+    {
+        "slug": "accidental-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.FzZAYGib08aEq5P2"
+    },
+    {
+        "slug": "drape-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.GKIKJNInDev72qai"
+    },
+    {
+        "slug": "stellar-misfortune",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.GPd3hmyUSbcSBj39"
+    },
+    {
+        "slug": "call-to-hand",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ghx29M00zTSXDxnU"
+    },
+    {
+        "slug": "executioners-volley",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.GkcfzMAJVX159ua7"
+    },
+    {
+        "slug": "spiritual-aid",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.GmqHs4NEhAjqyAze"
+    },
+    {
+        "slug": "harvest-blood",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.GrzbczH9S3SHPiIQ"
+    },
+    {
+        "slug": "swirl-crimson-shroud",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Gu0QsFvWoR9EP5SE"
+    },
+    {
+        "slug": "direct-follower",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.H72AAzknXiojqXdY"
+    },
+    {
+        "slug": "elemental-maelstrom",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.H8EXYfvFOSuq6vo8"
+    },
+    {
+        "slug": "intensify-vulnerability",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.HAmGozJwLAal5v82"
+    },
+    {
+        "slug": "influence-rumor",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.HFv62jIK98S2xw4x"
+    },
+    {
+        "slug": "take-the-high-ground",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.HUJBYqs2vTTBeZgO"
+    },
+    {
+        "slug": "arcane-cascade",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.HbejhIywqIufrmVM"
+    },
+    {
+        "slug": "rejoin-in-flight",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.I08t3hnpMZSRX5Ug"
+    },
+    {
+        "slug": "hunt-runelord",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.I6gG9rqTTLkzrhKF"
+    },
+    {
+        "slug": "cram",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.I75R9NSfsVrit6cU"
+    },
+    {
+        "slug": "mist-blending",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.I9k9qe4gOT8UVK4e"
+    },
+    {
+        "slug": "raise-the-walls",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IBEbFlMmDbGsrN4G"
+    },
+    {
+        "slug": "one-moment-till-glory",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IEBBHnI7wWRt44KG"
+    },
+    {
+        "slug": "roaring-charge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ILwYke30PIAr2CVX"
+    },
+    {
+        "slug": "talon-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IR95FFdO7MtC8C0E"
+    },
+    {
+        "slug": "flash-of-grandeur",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ITWUi1r8Z7EtChkB"
+    },
+    {
+        "slug": "expel-maelstrom",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IV8sgoLO6ShD3DCJ"
+    },
+    {
+        "slug": "liberating-step",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IX1VlVCL5sFTptEE"
+    },
+    {
+        "slug": "manifest-realm",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.IfWF56KiSFQbNmHj"
+    },
+    {
+        "slug": "life-block",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Iuq8CeNqv3a0oWfQ"
+    },
+    {
+        "slug": "verdant-rest",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JAka1VWMPGOm5JpR"
+    },
+    {
+        "slug": "drain-life",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JPHWzD2soqjffeSU"
+    },
+    {
+        "slug": "hunt-prey",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JYi4MnsdFu618hPm"
+    },
+    {
+        "slug": "no-scar-but-this",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JdpUaQeNwoVr2VHL"
+    },
+    {
+        "slug": "gluttonous-feast",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JjSNVfQO7qc4bgz1"
+    },
+    {
+        "slug": "designate-ally",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JmCuw6Rhwfwo90ed"
+    },
+    {
+        "slug": "slayers-identification",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JpcegMRqdizrkG0m"
+    },
+    {
+        "slug": "heaven-rains-an-ending",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JtEzSceixS0WA8wn"
+    },
+    {
+        "slug": "drain-realm",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.JxuXTJIKRwmYn08D"
+    },
+    {
+        "slug": "feral-swing",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.K3hd3w20M707t6Iq"
+    },
+    {
+        "slug": "confident-finisher",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.K878asDgf1EF0B9S"
+    },
+    {
+        "slug": "conjure-bullet",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KC6o1cvbr45xnMei"
+    },
+    {
+        "slug": "tactical-retreat",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KInVpdfrxg0AqjRt"
+    },
+    {
+        "slug": "manifest-soulforged-armament",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KMKuJ0onVS72t9Fv"
+    },
+    {
+        "slug": "unwavering-resilience",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KofrLYBif2QKyiqe"
+    },
+    {
+        "slug": "coordinating-maneuvers",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Kp325Qf0qpF6RCDE"
+    },
+    {
+        "slug": "tactical-takedown",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KtxzyElOleyy74Lg"
+    },
+    {
+        "slug": "fortify-camp",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KvVdGkUi0iJwapvD"
+    },
+    {
+        "slug": "dutiful-retaliation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.KyKXp599tK9BgodC"
+    },
+    {
+        "slug": "shields-up",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.LAo3ERyiaHx3E8qg"
+    },
+    {
+        "slug": "collect-spirit-remnant",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.LWrR6UiGm3eCAALJ"
+    },
+    {
+        "slug": "starlit-transformation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.M4ALaFXoQDJGxSsI"
+    },
+    {
+        "slug": "iron-command",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.M8RCbthRhB4bxO9t"
+    },
+    {
+        "slug": "raise-neck",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.MLOkyKi1Y3N6y56Q"
+    },
+    {
+        "slug": "share-life",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.MY6z2b4GPhAD2Eoa"
+    },
+    {
+        "slug": "prove-peace",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ma93dpT4K7JbP9gu"
+    },
+    {
+        "slug": "mirrors-reflection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Mh4Vdg6gu8g8RAjh"
+    },
+    {
+        "slug": "race-the-skies",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.MrTULCUsE9naPxXg"
+    },
+    {
+        "slug": "wish-for-luck",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.N6U02s9qJKQIvmQd"
+    },
+    {
+        "slug": "raise-the-horde",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ND1G3s4lXNUAXc1q"
+    },
+    {
+        "slug": "warding-shift",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NKjQup6NyQvg2J7y"
+    },
+    {
+        "slug": "acrid-barrage",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NRjBkjYx10MAXp3T"
+    },
+    {
+        "slug": "create-familiar-fulu",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NT1rtY5DFJGsR5QR"
+    },
+    {
+        "slug": "piranha-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NVLqYqkkQaCdnWWk"
+    },
+    {
+        "slug": "break-them-down",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NYR2IdfUiHevdt1V"
+    },
+    {
+        "slug": "survive-the-wilds",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NdMSHDtV9G7MbdP2"
+    },
+    {
+        "slug": "reload",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.NjS64g60oV74XZjq"
+    },
+    {
+        "slug": "ghost-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.O1iircZOOCo42r9Y"
+    },
+    {
+        "slug": "aegis-of-envy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.OHzBFzMQp7MLlk5W"
+    },
+    {
+        "slug": "wyrms-breath",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.OJ9cIvPukPT0rppR"
+    },
+    {
+        "slug": "slip-and-sizzle",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.OULAoPQYFoiRhjXP"
+    },
+    {
+        "slug": "fleeting-arc-through-heaven-and-earth",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ObFY26oKlreyVIUm"
+    },
+    {
+        "slug": "cycle-elemental-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Oh6H1fuXC6jK4Hcp"
+    },
+    {
+        "slug": "resist-elf-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.On5CQjX4euWqToly"
+    },
+    {
+        "slug": "bounce-away",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.OpiIzr7h1EKY8wKh"
+    },
+    {
+        "slug": "rearrange-bones",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.OqKYkzbc7NEWmJWB"
+    },
+    {
+        "slug": "amulets-abeyance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Or6RLXeoZkN8CLdi"
+    },
+    {
+        "slug": "infiltrators-draw",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PACnDVj2YLLSpr8Y"
+    },
+    {
+        "slug": "cobble-together",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PE1jm9lBveujj2md"
+    },
+    {
+        "slug": "stitching-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PTEiTXsObvtke43x"
+    },
+    {
+        "slug": "administer-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PWNi3h0F9EsttE2p"
+    },
+    {
+        "slug": "enlightenment-in-adversity",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PaQL7cyry64nx9CG"
+    },
+    {
+        "slug": "feed-the-masses",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PdEJEiPUP0FDaBki"
+    },
+    {
+        "slug": "activate-resonant-reflection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.PpfkUdNMckFE22WI"
+    },
+    {
+        "slug": "identify-alchemy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Q4kdWVOf2ztIBFg1"
+    },
+    {
+        "slug": "spellstrike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.QDW9H8XLIjuW2fE4"
+    },
+    {
+        "slug": "overawe-crowd",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.QGeA2sPtDdryTpWw"
+    },
+    {
+        "slug": "quick-tincture",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.QHFMeJGzFWj2QczA"
+    },
+    {
+        "slug": "reconnoiter",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.QIrJJ1pl4H6DctaQ"
+    },
+    {
+        "slug": "enter-seat-of-power",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.QWAWf8NDKpo1mzLE"
+    },
+    {
+        "slug": "decompose",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Qj36ramjkoKE8kzJ"
+    },
+    {
+        "slug": "raconteurs-reload",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.RADNqsvAt4gP9FOX"
+    },
+    {
+        "slug": "master-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Rlp7ND33yYfxiEWi"
+    },
+    {
+        "slug": "toxic-touch",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Rp7gcG6Mxasurr8o"
+    },
+    {
+        "slug": "summon-sloth",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.S2WNjzwdnwziZSee"
+    },
+    {
+        "slug": "absorb-into-the-aegis",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.S9PZFOVe7zhORkUc"
+    },
+    {
+        "slug": "bullet-dancer-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SMF1hTWPHtmlS8Cd"
+    },
+    {
+        "slug": "repel-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SN3sVsU7rD2eBfkf"
+    },
+    {
+        "slug": "rewrite-fate",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SNjmjFw30KQxIP4A"
+    },
+    {
+        "slug": "spirits-mercy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SPtzUNatWJvTK61y"
+    },
+    {
+        "slug": "fortify-focus",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SRdiCXHSLxqu3C67"
+    },
+    {
+        "slug": "royal-grace",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.SowCo0BXngrpatgn"
+    },
+    {
+        "slug": "spread-realm",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ssp7CCGMJhcAfeYw"
+    },
+    {
+        "slug": "my-legend-must-be-told",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.T8ZnkumXGAbqsOqt"
+    },
+    {
+        "slug": "unravel-the-future",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.TIIM35m8aDUEU4gF"
+    },
+    {
+        "slug": "feys-fortune",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.TMBXArwICQRJdwT6"
+    },
+    {
+        "slug": "energy-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.TSDbyYRQwhIyY2Oq"
+    },
+    {
+        "slug": "bullying-press",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.TXqTIwNGULs3j6CH"
+    },
+    {
+        "slug": "one-shot-one-kill",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Tlrde2xh7AhesXNB"
+    },
+    {
+        "slug": "affix-a-talisman",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.UAaQk93a30nx0nYY"
+    },
+    {
+        "slug": "fire-in-the-hole",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.UEkGL7uAGYDPFNfK"
+    },
+    {
+        "slug": "defensive-retreat",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.UJi0VYnhVSdnl9II"
+    },
+    {
+        "slug": "gather-to-me",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.URxnrN8ji84AoVup"
+    },
+    {
+        "slug": "invigorating-fear",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ul4I0ER6pj3U5eAk"
+    },
+    {
+        "slug": "into-the-fray",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Uq2qy9aGNQ5JcPI1"
+    },
+    {
+        "slug": "sustain-an-effect",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.UqUDWO0TuSzEAKpw"
+    },
+    {
+        "slug": "wind-them-up",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.UyMkWfVqdabLTgkH"
+    },
+    {
+        "slug": "embrace-of-destiny",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.V4HToYPQlkw8AW50"
+    },
+    {
+        "slug": "accept-echo",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VAcxOCFQLb3Bap7K"
+    },
+    {
+        "slug": "patrons-presence",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VBwNo2Wbfd4n4Y3g"
+    },
+    {
+        "slug": "sever-conduit",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VCUz5EnBUJF07j1a"
+    },
+    {
+        "slug": "guerrilla-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VE8P7wCsKo5eSwAz"
+    },
+    {
+        "slug": "spellsling",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VNuOwXIHafSLHvsZ"
+    },
+    {
+        "slug": "stridulating-song",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VPl4pifKcq7ecK87"
+    },
+    {
+        "slug": "shadow-step",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VQ5OxaDKE0lCj8Mr"
+    },
+    {
+        "slug": "spread-propaganda",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VTm9ourfz7mO5Syx"
+    },
+    {
+        "slug": "liberate-self",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.VqGjR43bBd36k0XI"
+    },
+    {
+        "slug": "breath-weapon",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Vr3w3t028ZKDg0mO"
+    },
+    {
+        "slug": "threatening-approach",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.W4M8L9WepGLamlHs"
+    },
+    {
+        "slug": "tell-me-more",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.W87FYSsY21BFQWNU"
+    },
+    {
+        "slug": "command-a-construct",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.WJmc30zb7GmKaETx"
+    },
+    {
+        "slug": "impromptu-investment",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.WKEFnxUH0CkM8bWq"
+    },
+    {
+        "slug": "touch-and-go",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.WpCs3QmPVn8SRbXy"
+    },
+    {
+        "slug": "swarming-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Wukpm200zHDuS85V"
+    },
+    {
+        "slug": "sever-four-dragonfly-wings",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.XFdTDDAPO7U0r4Et"
+    },
+    {
+        "slug": "indomitable-act",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Xc5MLIbT5OPhnFIJ"
+    },
+    {
+        "slug": "resist-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.XeZwXzR1KBlJF770"
+    },
+    {
+        "slug": "plummeting-roll",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.XiiR6WwfTcwIUvHG"
+    },
+    {
+        "slug": "shatter-glass",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Xj3LvT3I78cVwzer"
+    },
+    {
+        "slug": "restore-the-mind",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.XkrN7gxdRXTYYBkX"
+    },
+    {
+        "slug": "blazing-conflagration",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.XotRIv6tKRtuAGAF"
+    },
+    {
+        "slug": "blinding-of-the-needle",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Y6ee2ZvIE2fzzvAY"
+    },
+    {
+        "slug": "break-the-suns-legs",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Y9XUwC8ihxZCfndG"
+    },
+    {
+        "slug": "drifters-wake",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.YMhmebfXAoOFXeSB"
+    },
+    {
+        "slug": "glimpse-vulnerability",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Yfl6q6Pi42FttDRE"
+    },
+    {
+        "slug": "chaotic-destiny",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.YjrM5G8Up0wv6x0u"
+    },
+    {
+        "slug": "tendril-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.YpuEmI1fJBZD3kMc"
+    },
+    {
+        "slug": "topple-the-pillar-of-heaven",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Ypwa9HIw7uXdt25D"
+    },
+    {
+        "slug": "hunt-the-razers-pawn",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Yrc21SgKRWOMNo7C"
+    },
+    {
+        "slug": "alley-oop",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Z0HyZyvCe3Y1Chaa"
+    },
+    {
+        "slug": "travel",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Z8aa6afUterlfh5i"
+    },
+    {
+        "slug": "patrons-claim",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZC4SuXmL79N9VVIW"
+    },
+    {
+        "slug": "sorshens-devotion",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZEsBPUmxNJ0nod2Z"
+    },
+    {
+        "slug": "flash-of-memory",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZI4jRoVdz9YLtKlv"
+    },
+    {
+        "slug": "sanguine-revitalization",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZI7TLmmUu7fYLrP0"
+    },
+    {
+        "slug": "amassed-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZJ8KJp5mZYgzPJYN"
+    },
+    {
+        "slug": "overload-vision",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZJcc7KGOEsYvN6SE"
+    },
+    {
+        "slug": "break-free",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZL5o9c4jV5fRwTGR"
+    },
+    {
+        "slug": "deconstruct",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZUAaBIAntZhFQixm"
+    },
+    {
+        "slug": "inspired-stratagem",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZXvJGxMJc0HRpcQh"
+    },
+    {
+        "slug": "cleanse-soul-path",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZhKXvnw7ND2hQ2pp"
+    },
+    {
+        "slug": "burn-out-of-time",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ZhVJ7EUTJngrIO2Z"
+    },
+    {
+        "slug": "dragons-protection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.Zt9bo3FYLQihmpAz"
+    },
+    {
+        "slug": "host-of-wrath",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.a1FVA0l58GOEq6xP"
+    },
+    {
+        "slug": "blizzard-evasion",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.a47Npi5XHXo47y49"
+    },
+    {
+        "slug": "call-warshard-weapon",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.a8d5iIf1up9W0gVg"
+    },
+    {
+        "slug": "quick-tempered",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.a9PzINjFTO5GvAJN"
+    },
+    {
+        "slug": "lantern-strobe",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.aVGNaNgG6cYNRp5A"
+    },
+    {
+        "slug": "lantern-beam",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ako5zZwC6o26cfCQ"
+    },
+    {
+        "slug": "spirit-sanctification",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.am7GMqh4t7m7bbaW"
+    },
+    {
+        "slug": "banshee-cry",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.b3h3QqvwS5fnaiu1"
+    },
+    {
+        "slug": "salt-wound",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.b6CanpXyUKJgxEwq"
+    },
+    {
+        "slug": "size-up",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.b7yAKSmZ7famsENr"
+    },
+    {
+        "slug": "mountaineering-training",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.bAXkEXAlnBx78S7t"
+    },
+    {
+        "slug": "pistoleros-retort",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.bCDMuu3tE4d6KHrJ"
+    },
+    {
+        "slug": "opportunistic-accusation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.bUgSKcdHyEKbtXhl"
+    },
+    {
+        "slug": "debilitating-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.bp0Up04x3dzGK5bB"
+    },
+    {
+        "slug": "share-deaths-promises",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.bwXH0zItp8p8sSjn"
+    },
+    {
+        "slug": "a-challenge-for-heroes",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.c40APnn4a7bWhtcZ"
+    },
+    {
+        "slug": "double-team",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.c5jVVnNYlP5HB6Ob"
+    },
+    {
+        "slug": "arrow-splits-arrow",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cCCOjU9ihfrn0spp"
+    },
+    {
+        "slug": "tangle-in-riddle",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cGCQkCz14sF238gE"
+    },
+    {
+        "slug": "dampening-harmonics",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cczvLO5r7QuHaXwx"
+    },
+    {
+        "slug": "redistribute",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cd34tQpOVbaGuv5p"
+    },
+    {
+        "slug": "plant-thirty-barbs",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cfQb0mBbyrjhyGf5"
+    },
+    {
+        "slug": "ultimatum-of-liberation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cwBsPU24715fUCub"
+    },
+    {
+        "slug": "beasts-charge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cx0juTYewwBmrYWv"
+    },
+    {
+        "slug": "thermal-eruption",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cx5tBTy6weK6YSw9"
+    },
+    {
+        "slug": "swift-choreography",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.cyl7y8GcGjd8ENC7"
+    },
+    {
+        "slug": "basic-finisher",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.dCuvfq3r2K9wXY9g"
+    },
+    {
+        "slug": "enter-spirit-trance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.djULKW76BbSoN3zb"
+    },
+    {
+        "slug": "implements-interruption",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.dnaPJfA0CDLNrWcW"
+    },
+    {
+        "slug": "spit-ambient-magic",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.dwA0wfUaRf4aT0eB"
+    },
+    {
+        "slug": "flyby-attack",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.dypCcXb9mwVbg6xD"
+    },
+    {
+        "slug": "encouraging-words",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.e2ePMDa7ixbLRryj"
+    },
+    {
+        "slug": "find-fault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.e5JscXqvBUC867oo"
+    },
+    {
+        "slug": "water-transfer",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.eBgO5gp5kKhGtmk9"
+    },
+    {
+        "slug": "avoid-dire-fate",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ePfdZYZRmycMpSWU"
+    },
+    {
+        "slug": "liars-hidden-blade",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.egXlMyYLBthoQSgh"
+    },
+    {
+        "slug": "selfish-shield",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.enQieRrITuEQZxx2"
+    },
+    {
+        "slug": "tail-toxin",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ev8OHpBO3xq3Zt08"
+    },
+    {
+        "slug": "skirt-the-underworld",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.exuTl8tvVlewxVGJ"
+    },
+    {
+        "slug": "empty-vessel",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.fL7FhTBcKxMzLBAs"
+    },
+    {
+        "slug": "exploit-vulnerability",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.fodJ3zuwQsYnBbtk"
+    },
+    {
+        "slug": "name-drop",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.fsR3X4c3p19W8RB2"
+    },
+    {
+        "slug": "channel-elements",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.g8QrV39TmZfkbXgE"
+    },
+    {
+        "slug": "covered-reload",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.gBhWEy3ToxQeCLQm"
+    },
+    {
+        "slug": "sidestep-through-time",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.gCVox3KLuKFXCUqZ"
+    },
+    {
+        "slug": "fated-not-to-die",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.gU93T2UqxLsX9gyF"
+    },
+    {
+        "slug": "timely-dodge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.gohBPHf4dxi4PkBk"
+    },
+    {
+        "slug": "tap-ley-line",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.gxtq81VAhpmNvEgA"
+    },
+    {
+        "slug": "harvest-heartsliver",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.h4Tzdhqfryp5m2fO"
+    },
+    {
+        "slug": "jinx",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.hFRHPBj6wjAayNtW"
+    },
+    {
+        "slug": "spin-tale",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.hPZQ5vA9QHEPtjFW"
+    },
+    {
+        "slug": "draconic-salvation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.hSTE1wvCsYYvCsHC"
+    },
+    {
+        "slug": "fight-with-fear",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.hi56uHG1aAb84Zzu"
+    },
+    {
+        "slug": "craft-disharmonic-instrument",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.iBf9uGn5LOHkWpZ6"
+    },
+    {
+        "slug": "visions-of-sin",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.iJLzVonevhsi2uPs"
+    },
+    {
+        "slug": "psychic-defense",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.iTx0vXAhiS4lKwEi"
+    },
+    {
+        "slug": "ready-aim-fire",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.iuFPNbfhVXvbCPRO"
+    },
+    {
+        "slug": "goblin-jubilee",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.izvfZ561JTdeyh6i"
+    },
+    {
+        "slug": "mark-the-center",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jD8RW5PdLI6snlsO"
+    },
+    {
+        "slug": "reloading-strike",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jSC5AYEfliOPpO3H"
+    },
+    {
+        "slug": "captivating-charm",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jTfJzj1yfmPLsxmj"
+    },
+    {
+        "slug": "psychometric-assessment",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jZQoAHmGJvi53NRR"
+    },
+    {
+        "slug": "expeditious-inspection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jftNJjBNxp2cleoi"
+    },
+    {
+        "slug": "restorative-teleportation",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jjxxWxnlEqWjTUur"
+    },
+    {
+        "slug": "disarming-interception",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jl1euufxNpAhVt26"
+    },
+    {
+        "slug": "tap-the-past",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.jsEBrm8SPcsokJLw"
+    },
+    {
+        "slug": "makes-me-stronger",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.k3Dbgb8iS73atDqB"
+    },
+    {
+        "slug": "cry-havoc",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.k50ynPhpPSPZ4Akg"
+    },
+    {
+        "slug": "stonestrike-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.k5S2a2a6o2GS5l01"
+    },
+    {
+        "slug": "call-to-axis",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.k5TASjIxghvGCy7g"
+    },
+    {
+        "slug": "bite-and-sting",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.k6ML9SPMxaGJyjqO"
+    },
+    {
+        "slug": "a-moment-unending",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kAwE9YqU6GH1cD7W"
+    },
+    {
+        "slug": "toxic-skin",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kKKHwVUnroKuAnOt"
+    },
+    {
+        "slug": "recall-the-teachings",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kRxWINkrHUPSHHYq"
+    },
+    {
+        "slug": "thats-my-number",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kUME7DMhhHH6eIiH"
+    },
+    {
+        "slug": "trench-digging",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kWrks0NxMQH39JHD"
+    },
+    {
+        "slug": "primal-roar",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.kbUymGTjbesOKsV6"
+    },
+    {
+        "slug": "assume-a-role",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.lAvEK4yNL3Y7pVmr"
+    },
+    {
+        "slug": "recall-under-pressure",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.lH3mlvs1rCyXw6iY"
+    },
+    {
+        "slug": "end-it",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.lI4JCQcqvrZE2U5n"
+    },
+    {
+        "slug": "inscribe-shadow-pamor",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.lgpJoFrkzfkjAzeV"
+    },
+    {
+        "slug": "extract-element",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.low5ORd87QeA9Oug"
+    },
+    {
+        "slug": "invest-an-item",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.lvqPQDdWT2DDO0k2"
+    },
+    {
+        "slug": "devise-a-stratagem",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.m0f2B7G9eaaTmhFL"
+    },
+    {
+        "slug": "ringing-challenge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mBqZ2IahMT9Jvo7k"
+    },
+    {
+        "slug": "soaring-flight",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mVscmsZWWcVACdU5"
+    },
+    {
+        "slug": "coiling-serpents",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mbOa48mQCqj86lVw"
+    },
+    {
+        "slug": "coughing-dragon",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mech0dhb4eKbCAu0"
+    },
+    {
+        "slug": "call-upon-the-brightness",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mk6rzaAzsBBRGJnh"
+    },
+    {
+        "slug": "unleash-realm",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.mpFTlTGmPBKXMq2C"
+    },
+    {
+        "slug": "manifest-eidolon",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.n5vwBnLSlIXL9ptp"
+    },
+    {
+        "slug": "seething-frenzy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.nSTMF6kYIt6rXhJx"
+    },
+    {
+        "slug": "base-kinesis",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.nTBrvt2b9wngyr0i"
+    },
+    {
+        "slug": "weaponsight",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.nYR1q5D1jLiJj4JM"
+    },
+    {
+        "slug": "explode",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.naKVqd8POxcnGclz"
+    },
+    {
+        "slug": "flurry-of-blows",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.nbfNETdpee8CVM17"
+    },
+    {
+        "slug": "wicked-thorns",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ncdryKskPwHMgHFh"
+    },
+    {
+        "slug": "pacifying-infusion",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.oAGawsNqr6FfMrSG"
+    },
+    {
+        "slug": "barbed-quills",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.oAWNluJaMlaGysXA"
+    },
+    {
+        "slug": "strike-breathe-rend",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.oaJeGdGPmHiNT5mP"
+    },
+    {
+        "slug": "dragon-breath",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.oanRfXGLnBm6mMVg"
+    },
+    {
+        "slug": "mark-for-death",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.orjJjLdm4XNAcFi8"
+    },
+    {
+        "slug": "puncture-flesh",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.pFgkxLJsAcImb0Eg"
+    },
+    {
+        "slug": "smoke-blending",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.pTHMZLqWDJ3lkan9"
+    },
+    {
+        "slug": "speed-of-arms",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.plLX3yDcKo2YiJ0j"
+    },
+    {
+        "slug": "true-shapeshift",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.pn557VVMaNJyq0jX"
+    },
+    {
+        "slug": "demoralizing-charge",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.q1dvlKJI2Kfegc4Y"
+    },
+    {
+        "slug": "engineers-efficiency",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.qYdreGwopQ1ODgC6"
+    },
+    {
+        "slug": "take-a-breather",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.qc0VsZ0UesnurUUB"
+    },
+    {
+        "slug": "call-follower",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.qyqlwr1hYf227fxD"
+    },
+    {
+        "slug": "forced-pact",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.r0qPSxLoa1xRSWYL"
+    },
+    {
+        "slug": "destructive-vengeance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.r5Uth6yvCoE4tr9z"
+    },
+    {
+        "slug": "grim-swagger",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rI2MSXR1MQzgQUO7"
+    },
+    {
+        "slug": "draw-from-the-pages",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rJTg9cKnBF0jsGbr"
+    },
+    {
+        "slug": "runelords-response",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rPefHA2zqmUvGXQ7"
+    },
+    {
+        "slug": "shed-the-mortal-skin",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rU3CE5niG8vHc5x4"
+    },
+    {
+        "slug": "pitch-perfect-projection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ri6ZVR7nhFOvZfVa"
+    },
+    {
+        "slug": "nudging-whisper",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rlGVQku78DGoOl9V"
+    },
+    {
+        "slug": "reclaim-destiny",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.rqT4LMH7qbfyScBi"
+    },
+    {
+        "slug": "divert-lightning",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.s2RrhZx1f1X4YnYV"
+    },
+    {
+        "slug": "envenom",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.s4V7JWSMF9JPJAeX"
+    },
+    {
+        "slug": "change-tradition-focus",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.s4s40hJr5uRLOqix"
+    },
+    {
+        "slug": "study",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.sL1J8cFwpy1lI359"
+    },
+    {
+        "slug": "bless-ally",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.scCEnY6IhU59uekX"
+    },
+    {
+        "slug": "spasm-of-the-berserker",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tHHpBREXDaafK3TF"
+    },
+    {
+        "slug": "field-of-roots",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tNrBIYct9l1lrW1I"
+    },
+    {
+        "slug": "inured-to-death",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.travkW5KLTnIUt9Y"
+    },
+    {
+        "slug": "whirlwind-maul",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tu5viJZT4zFE1sYn"
+    },
+    {
+        "slug": "glimpse-of-redemption",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tuZnRWHixLArvaIf"
+    },
+    {
+        "slug": "clear-a-path",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tw1KDRPdBAkg5DlS"
+    },
+    {
+        "slug": "giant-felling-comet",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.tzuYnmYCvA3zrj6w"
+    },
+    {
+        "slug": "draconic-frenzy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.uMFB3uw8WTWL0LZD"
+    },
+    {
+        "slug": "chassis-deflection",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.uOlyklPCUWLtCaYI"
+    },
+    {
+        "slug": "sense-weakness",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.uWTQxEOj2pl45Kns"
+    },
+    {
+        "slug": "ring-bell",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ublVm5gmCIm3eRdQ"
+    },
+    {
+        "slug": "bear-allies-burdens",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ukt9Dr4qmj9pUQII"
+    },
+    {
+        "slug": "mystic-aegis",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ur4AfegC9RqRgy3e"
+    },
+    {
+        "slug": "shed-spirit",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.uruoG0PuuA0CqEG7"
+    },
+    {
+        "slug": "insta-ballista",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.ut0jFv67YpvHBzD9"
+    },
+    {
+        "slug": "drain-bonded-item",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.v82XtjAVN4ffgVVR"
+    },
+    {
+        "slug": "set-free",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vFaNE7s7vFs9BxJW"
+    },
+    {
+        "slug": "vital-shot",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vO0Y1dVjNfbDyT4S"
+    },
+    {
+        "slug": "boarding-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vZltxwRNvF5khf9a"
+    },
+    {
+        "slug": "drink-of-my-foes",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vZwa0PZLQvm3X5ME"
+    },
+    {
+        "slug": "prophecys-pawn",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vdnuczo4ktS7ow7N"
+    },
+    {
+        "slug": "intercept-attack",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vhO1f7oTD2s3Ncg9"
+    },
+    {
+        "slug": "set-explosives",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.vvYsE7OiSSCXhPdr"
+    },
+    {
+        "slug": "shake-it-off",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wGTHH6v25CDavO6g"
+    },
+    {
+        "slug": "i-defy-you",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wKPtG0pzARZLGHZT"
+    },
+    {
+        "slug": "mythic-echo",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wdLdqMu0S90Kc7gj"
+    },
+    {
+        "slug": "erupting-spurs",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wfUIsKBxCBfXi1TF"
+    },
+    {
+        "slug": "primal-howl",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wnZhAUiYcs2mv8sZ"
+    },
+    {
+        "slug": "jumping-jenny",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.wt6jdjjje16Nx34f"
+    },
+    {
+        "slug": "lay-down-arms",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.x1qSEkzHAviQ5jry"
+    },
+    {
+        "slug": "sickening-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.x73LKNcaRwurr0fR"
+    },
+    {
+        "slug": "dueling-counter",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.xGqOIheAOV12RGU4"
+    },
+    {
+        "slug": "rally",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.xJEkXFJgEfEida27"
+    },
+    {
+        "slug": "pursue-a-lead",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.xTK2zsWFyxSJvYbX"
+    },
+    {
+        "slug": "pointed-question",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.xccOiNL2W1EtfUYl"
+    },
+    {
+        "slug": "anchor",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.xpsD4DsYHKXCB4ac"
+    },
+    {
+        "slug": "compose-missive",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yM20ZnvmNxu9qMDV"
+    },
+    {
+        "slug": "shielding-wave",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yOk8s1pftOe5I9Sg"
+    },
+    {
+        "slug": "learn-name",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yOtu5X3qWfjuX8Vy"
+    },
+    {
+        "slug": "launch-fireworks",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yUjuLbBMflVum8Yn"
+    },
+    {
+        "slug": "mobbing-assault",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yWTdfPklh8jL94GZ"
+    },
+    {
+        "slug": "quick-alchemy",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.yzNJgwzV9XqEhKc6"
+    },
+    {
+        "slug": "adopt-persona",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zB1g4oa3UKARhCSY"
+    },
+    {
+        "slug": "pincer-attack",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zLFfwNmmPTND6OMO"
+    },
+    {
+        "slug": "overwhelming-combination",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zUWj4zmBNWOTzeFJ"
+    },
+    {
+        "slug": "claw-stance",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zs4ZMcH9oFSCgkBx"
+    },
+    {
+        "slug": "bloody-guillotine",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zt5fgBBOQpr84CGE"
+    },
+    {
+        "slug": "naval-training",
+        "uuid": "Compendium.pf2e-anachronism.actions.Item.zuTNF3UEr0ZNleqR"
+    }
+]

@@ -1,6 +1,6 @@
 import { createHTMLElement, htmlQuery } from "@7h3laughingman/pf2e-helpers/utilities";
 import { EffectPF2e, EffectSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "assistant.ts";
+import { Assistant } from "@root/assistant.ts";
 
 export const path = ["Other", "Self-Applied Effects"];
 
@@ -54,7 +54,7 @@ export const actions: Assistant.Action[] = [
                     const span = createHTMLElement("span", { classes: ["effect-applied"] });
                     const anchor = effect.toAnchor({ attrs: { draggable: "true" } });
                     const locKey = "PF2E.Item.Ability.SelfAppliedEffect.Applied";
-                    const statement = game.i18n.format(locKey, { effect: anchor.outerHTML });
+                    const statement = game.i18n.localize(locKey, { effect: anchor.outerHTML });
                     span.innerHTML = statement;
                     htmlQuery(buttons, "button[data-action=apply-effect]")?.replaceWith(span);
                     await data.chatMessage.update({
