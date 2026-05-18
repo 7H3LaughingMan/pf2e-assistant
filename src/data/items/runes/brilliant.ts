@@ -1,7 +1,7 @@
-import { SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { GrantItemSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_CONDITIONS } from "@root/compendium-packs.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_CONDITIONS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Items", "Runes", "Brilliant"];
 
@@ -96,7 +96,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
+                    img: Utils.System.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
                 }))
             );
 
@@ -157,7 +157,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
+                    img: Utils.System.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
                 }))
             );
 

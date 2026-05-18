@@ -1,12 +1,12 @@
-import { getTargets, MODULE, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ActorPF2e, ChatMessagePF2e, ConsumablePF2e, ScenePF2e, TokenDocumentPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Module } from "module.ts";
+import { Utils } from "utils.ts";
 
 // @ts-expect-error No overload matches this call.
 const createChatMessage = Hooks.on("createChatMessage", (chatMessage: ChatMessagePF2e) => {
     if (!chatMessage.isAuthor) return;
-    if (chatMessage.getFlag(MODULE.id, "process") === false) return;
+    if (chatMessage.getFlag(Module.id, "process") === false) return;
 
     processChatMessage(chatMessage)
         .then((data) => game.assistant.storage.process(data))
@@ -15,7 +15,7 @@ const createChatMessage = Hooks.on("createChatMessage", (chatMessage: ChatMessag
 });
 
 async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {
-    const chatMessageFlags = chatMessage.flags[SYSTEM.id];
+    const chatMessageFlags = chatMessage.flags[game.system.id];
 
     const data: WithOptional<Assistant.Data, "trigger"> = {
         trigger: chatMessageFlags.context?.type,
@@ -60,7 +60,7 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
     if (chatMessage.target) {
         data.target = { actor: chatMessage.target.actor, token: chatMessage.target.token };
     } else {
-        const target = getTargets()[0];
+        const target = Utils.User.getTargets()[0];
 
         if (target && target.actor) {
             data.target = { actor: target.actor, token: target.document };

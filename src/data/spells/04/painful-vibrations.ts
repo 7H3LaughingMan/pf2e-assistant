@@ -1,8 +1,7 @@
-import { isRolledCheckRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { GrantItemSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_CONDITIONS } from "@root/compendium-packs.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_CONDITIONS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Spells", "4th Rank", "Painful Vibrations"];
 
@@ -14,7 +13,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!isRolledCheckRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -78,7 +77,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: SYSTEM.path("icons/spells/painful-vibrations.webp")
+                    img: Utils.System.path("icons/spells/painful-vibrations.webp")
                 }))
             );
 
@@ -92,7 +91,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.origin) return;
             if (!data.item?.isOfType("spell")) return;
-            if (!isRolledCheckRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
@@ -156,7 +155,7 @@ export const actions: Assistant.Action[] = [
                             }
                         }
                     },
-                    img: SYSTEM.path("icons/spells/painful-vibrations.webp")
+                    img: Utils.System.path("icons/spells/painful-vibrations.webp")
                 }))
             );
 

@@ -1,7 +1,7 @@
 import { ChatMessagePF2e, Check } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
 import * as R from "remeda";
+import { Utils } from "utils.ts";
 
 interface RerollOptions {
     resource?: string;

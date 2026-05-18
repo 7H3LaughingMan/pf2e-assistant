@@ -1,6 +1,6 @@
-import { isRolledCheckRoll } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_FEAT_EFFECTS } from "@root/compendium-packs.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_FEAT_EFFECTS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Class Features", "Swashbuckler", "Panache"];
 
@@ -14,7 +14,7 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!isRolledCheckRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
@@ -33,7 +33,7 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:trait:bravado", { not: "self:effect:panache" }, "check:outcome:failure"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!isRolledCheckRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(

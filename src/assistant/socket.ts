@@ -2,7 +2,6 @@ import { ChatMessageMode } from "@7h3laughingman/foundry-types/client/config.mjs
 import { Rolled } from "@7h3laughingman/foundry-types/client/dice/roll.mjs";
 import { DocumentUUID } from "@7h3laughingman/foundry-types/client/utils/_module.mjs";
 import { ActorUUID, ItemUUID, TokenDocumentUUID } from "@7h3laughingman/foundry-types/common/documents/_module.mjs";
-import { MODULE, setChoiceSet, setTokenMark } from "@7h3laughingman/pf2e-helpers/utilities";
 import {
     ActorPF2e,
     ChatMessageFlagsPF2e,
@@ -23,9 +22,10 @@ import {
     TokenDocumentPF2e,
     TraitViewData
 } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Module } from "module.ts";
 import * as R from "remeda";
+import { Utils } from "utils.ts";
 import { ActorToken, isActorToken } from "./data.ts";
 import { AddItem, RemoveItem, UpdateCondition } from "./reroll.ts";
 
@@ -33,37 +33,37 @@ export class Socket {
     #updateQueue = new foundry.utils.Semaphore(1);
 
     constructor() {
-        CONFIG.queries[`${MODULE.id}.addEmbeddedItem`] = this.#addEmbeddedItem;
-        CONFIG.queries[`${MODULE.id}.createEmbeddedItem`] = this.#createEmbeddedItem;
-        CONFIG.queries[`${MODULE.id}.deleteEmbeddedItem`] = this.#deleteEmbeddedItem;
-        CONFIG.queries[`${MODULE.id}.updateEmbeddedItem`] = this.#updateEmbeddedItem;
+        CONFIG.queries[`${Module.id}.addEmbeddedItem`] = this.#addEmbeddedItem;
+        CONFIG.queries[`${Module.id}.createEmbeddedItem`] = this.#createEmbeddedItem;
+        CONFIG.queries[`${Module.id}.deleteEmbeddedItem`] = this.#deleteEmbeddedItem;
+        CONFIG.queries[`${Module.id}.updateEmbeddedItem`] = this.#updateEmbeddedItem;
 
-        CONFIG.queries[`${MODULE.id}.decreaseCondition`] = this.#decreaseCondition;
-        CONFIG.queries[`${MODULE.id}.increaseCondition`] = this.#increaseCondition;
-        CONFIG.queries[`${MODULE.id}.toggleCondition`] = this.#toggleCondition;
-        CONFIG.queries[`${MODULE.id}.addCondition`] = this.#addCondition;
-        CONFIG.queries[`${MODULE.id}.removeCondition`] = this.#removeCondition;
+        CONFIG.queries[`${Module.id}.decreaseCondition`] = this.#decreaseCondition;
+        CONFIG.queries[`${Module.id}.increaseCondition`] = this.#increaseCondition;
+        CONFIG.queries[`${Module.id}.toggleCondition`] = this.#toggleCondition;
+        CONFIG.queries[`${Module.id}.addCondition`] = this.#addCondition;
+        CONFIG.queries[`${Module.id}.removeCondition`] = this.#removeCondition;
 
-        CONFIG.queries[`${MODULE.id}.rollSave`] = this.#rollSave;
+        CONFIG.queries[`${Module.id}.rollSave`] = this.#rollSave;
 
-        CONFIG.queries[`${MODULE.id}.deleteChatMessage`] = this.#deleteChatMessage;
-        CONFIG.queries[`${MODULE.id}.updateChatMessage`] = this.#updateChatMessage;
+        CONFIG.queries[`${Module.id}.deleteChatMessage`] = this.#deleteChatMessage;
+        CONFIG.queries[`${Module.id}.updateChatMessage`] = this.#updateChatMessage;
 
-        CONFIG.queries[`${MODULE.id}.promptChoice`] = this.#promptChoice;
+        CONFIG.queries[`${Module.id}.promptChoice`] = this.#promptChoice;
     }
 
     async #executeAsActor<T>(actor: ActorPF2e, name: string, data: object): Promise<Maybe<T>> {
         const primaryUser = Utils.Actor.getPrimaryUser(actor);
 
         if (primaryUser) {
-            return primaryUser.query(`${MODULE.id}.${name}`, data) as Promise<Maybe<T>>;
+            return primaryUser.query(`${Module.id}.${name}`, data) as Promise<Maybe<T>>;
         }
 
         return undefined;
     }
 
     async #executeAsGM<T>(name: string, data: object): Promise<Maybe<T>> {
-        return game.users.activeGM?.query(`${MODULE.id}.${name}`, data) as Promise<Maybe<T>>;
+        return game.users.activeGM?.query(`${Module.id}.${name}`, data) as Promise<Maybe<T>>;
     }
 
     async addEffect(
@@ -127,11 +127,11 @@ export class Socket {
         }
 
         if (data.choiceSet) {
-            effectSource = setChoiceSet(effectSource, data.choiceSet);
+            Utils.Rules.setChoiceSet(effectSource, data.choiceSet);
         }
 
         if (data.tokenMark) {
-            effectSource = setTokenMark(effectSource, data.tokenMark);
+            Utils.Rules.setTokenMark(effectSource, data.tokenMark);
         }
 
         return await this.createEmbeddedItem(actor, effectSource);

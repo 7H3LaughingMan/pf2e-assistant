@@ -1,8 +1,7 @@
-import { isRolledDamageRoll, SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import { GrantItemSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_CONDITIONS } from "@root/compendium-packs.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_CONDITIONS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Items", "Runes", "Vitalizing"];
 
@@ -13,7 +12,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
             await game.assistant.socket.createEmbeddedItem(data.target.actor, {
                 name: "Effect: Vitalizing",
@@ -55,7 +54,7 @@ export const actions: Assistant.Action[] = [
                         }
                     }
                 },
-                img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
+                img: Utils.System.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
             });
         }
     },
@@ -69,7 +68,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
             await game.assistant.socket.createEmbeddedItem(data.target.actor, {
                 name: "Effect: Greater Vitalizing",
@@ -118,7 +117,7 @@ export const actions: Assistant.Action[] = [
                         }
                     }
                 },
-                img: SYSTEM.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
+                img: Utils.System.path("icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp")
             });
         }
     },

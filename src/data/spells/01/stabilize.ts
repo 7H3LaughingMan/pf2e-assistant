@@ -1,4 +1,4 @@
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
 
 export const path = ["Spells", "1st Rank", "Stabilize"];
 

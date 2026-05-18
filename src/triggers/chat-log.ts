@@ -1,10 +1,10 @@
-import { htmlQueryAll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ChatMessagePF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 // @ts-expect-error No overload matches this call.
 Hooks.on("renderChatMessageHTML", function (message: ChatMessagePF2e, html: HTMLElement) {
-    for (const button of htmlQueryAll<HTMLButtonElement>(html, "button[data-action]")) {
+    for (const button of Utils.HTML.htmlQueryAll<HTMLButtonElement>(html, "button[data-action]")) {
         button.addEventListener("click", async (event) => onClickButton(message, event, html, button));
     }
 });

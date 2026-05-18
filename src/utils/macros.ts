@@ -1,7 +1,6 @@
-import { isCompendiumPack } from "@7h3laughingman/pf2e-helpers/utilities";
-import { ItemPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
 import * as R from "remeda";
+import { isCompendiumPack } from "./compendium-collection.ts";
 
 const delay = (ms: number) =>
     new Promise((resolve, _reject) => {
@@ -23,7 +22,7 @@ export async function extractPack(packName: string, fileName: string) {
     }
     const pack = game.packs.get(packName);
 
-    if (isCompendiumPack<ItemPF2e<null>>(pack, "Item")) {
+    if (isCompendiumPack(pack, "Item")) {
         const items = await pack.getDocuments();
         const json = JSON.stringify(
             items.map((item) => ({

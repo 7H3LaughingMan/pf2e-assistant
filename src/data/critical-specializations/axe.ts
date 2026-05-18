@@ -1,12 +1,5 @@
-import {
-    getDamageRollClass,
-    getTokens,
-    isRolledDamageRoll,
-    isWeapon,
-    notesToHTML
-} from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Critical Specializations", "Axe"];
 
@@ -22,10 +15,10 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isWeapon(data.item)) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Item.isWeapon(data.item)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
                 enemyOf: data.speaker.actor,
                 adjacentTo: data.target.token,
                 distanceTo: {
@@ -40,13 +33,13 @@ export const actions: Assistant.Action[] = [
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 
             if (axeDamage) {
-                const roll = await new (getDamageRollClass())(axeDamage).evaluate();
+                const roll = await new (Utils.Roll.getDamageRollClass())(axeDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [] } }
                     },
-                    flavor: notesToHTML([
+                    flavor: Utils.Notes.notesToHTML([
                         {
                             title: "PF2E.Actor.Creature.CriticalSpecialization",
                             text: "PF2E.Item.Weapon.CriticalSpecialization.axe"
@@ -68,10 +61,10 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isWeapon(data.item)) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Item.isWeapon(data.item)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
                 enemyOf: data.speaker.actor,
                 adjacentTo: data.target.token,
                 distanceTo: {
@@ -86,13 +79,13 @@ export const actions: Assistant.Action[] = [
             const axeDamage = Utils.Roll.extractBaseDamage(data.roll, false);
 
             if (axeDamage) {
-                const roll = await new (getDamageRollClass())(axeDamage).evaluate();
+                const roll = await new (Utils.Roll.getDamageRollClass())(axeDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [] } }
                     },
-                    flavor: notesToHTML([
+                    flavor: Utils.Notes.notesToHTML([
                         {
                             title: "PF2E.Actor.Creature.CriticalSpecialization",
                             text: "PF2E.Item.Weapon.CriticalSpecialization.axe"

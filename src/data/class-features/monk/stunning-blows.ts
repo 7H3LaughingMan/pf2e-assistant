@@ -1,5 +1,5 @@
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Class Features", "Monk", "Stunning Blows"];
 

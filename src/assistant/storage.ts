@@ -1,4 +1,4 @@
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
 import * as R from "remeda";
 
 export class Storage {

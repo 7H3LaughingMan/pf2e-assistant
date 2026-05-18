@@ -1,6 +1,6 @@
 import { GrantItemSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_ACTIONS, PF2E_CONDITIONS } from "@root/compendium-packs.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_ACTIONS, PF2E_CONDITIONS } from "compendium-packs.ts";
 
 export const path = ["Critical Specializations", "Crossbow"];
 

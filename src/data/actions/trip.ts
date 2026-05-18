@@ -1,5 +1,5 @@
-import { getDamageRollClass } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Actions", "Trip"];
 
@@ -17,7 +17,11 @@ export const actions: Assistant.Action[] = [
             );
 
             const showBreakdown = game.pf2e.settings.metagame.breakdowns || !!data.speaker.actor.hasPlayerOwner;
-            const roll = await new (getDamageRollClass())("{1d6[bludgeoning]}", {}, { showBreakdown }).evaluate();
+            const roll = await new (Utils.Roll.getDamageRollClass())(
+                "{1d6[bludgeoning]}",
+                {},
+                { showBreakdown }
+            ).evaluate();
             const createdMessage = await roll.toMessage(
                 {
                     flags: { "pf2e-assistant": { process: false } },

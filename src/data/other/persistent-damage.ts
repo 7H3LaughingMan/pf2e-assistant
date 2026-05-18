@@ -1,6 +1,6 @@
-import { isRolledDamageRoll } from "@7h3laughingman/pf2e-helpers/utilities";
 import { ActorPF2e, ConditionPF2e } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Other", "Persistent Damage"];
 
@@ -13,7 +13,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.item?.isOfType("condition")) return;
             if (!data.item.parent) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
             if (
                 !(

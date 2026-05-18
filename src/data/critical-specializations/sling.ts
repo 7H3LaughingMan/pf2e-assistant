@@ -1,6 +1,6 @@
 import { FlatModifierRuleElement } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Critical Specializations", "Sling"];
 

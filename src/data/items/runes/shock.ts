@@ -1,6 +1,5 @@
-import { getDamageRollClass, getTokens, isRolledDamageRoll, notesToHTML } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "@root/assistant.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Items", "Runes", "Shock"];
 
@@ -11,9 +10,9 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
                 enemyOf: data.speaker.actor,
                 distanceTo: {
                     target: data.target.token,
@@ -27,13 +26,13 @@ export const actions: Assistant.Action[] = [
             const shockDamage = Utils.Roll.extractDamage(data.roll, "shock", true);
 
             if (shockDamage) {
-                const roll = await new (getDamageRollClass())(shockDamage).evaluate();
+                const roll = await new (Utils.Roll.getDamageRollClass())(shockDamage).evaluate();
                 await roll.toMessage({
                     flags: {
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [] } }
                     },
-                    flavor: notesToHTML([
+                    flavor: Utils.Notes.notesToHTML([
                         {
                             title: "PF2E.WeaponPropertyRune.shock.Name",
                             text: "PF2E.WeaponPropertyRune.shock.Note.criticalSuccess"
@@ -50,9 +49,9 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.target) return;
-            if (!isRolledDamageRoll(data.roll)) return;
+            if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
                 enemyOf: data.speaker.actor,
                 distanceTo: {
                     target: data.target.token,
@@ -66,7 +65,7 @@ export const actions: Assistant.Action[] = [
             const shockDamage = Utils.Roll.extractDamage(data.roll, "greater-shock", true);
 
             if (shockDamage) {
-                const roll = await new (getDamageRollClass())(
+                const roll = await new (Utils.Roll.getDamageRollClass())(
                     shockDamage,
                     {},
                     {
@@ -81,7 +80,7 @@ export const actions: Assistant.Action[] = [
                         "pf2e-assistant": { process: false },
                         "pf2e-toolbelt": { targetHelper: { targets: [] } }
                     },
-                    flavor: notesToHTML([
+                    flavor: Utils.Notes.notesToHTML([
                         {
                             title: "PF2E.WeaponPropertyRune.greaterShock.Name",
                             text: "PF2E.WeaponPropertyRune.greaterShock.Note.criticalSuccess"

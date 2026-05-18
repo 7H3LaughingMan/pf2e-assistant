@@ -1,4 +1,3 @@
-import { SYSTEM } from "@7h3laughingman/pf2e-helpers/utilities";
 import {
     ChatContextFlag,
     ChatMessagePF2e,
@@ -9,7 +8,7 @@ import * as R from "remeda";
 
 export function isConsumable(chatMessage: ChatMessagePF2e): boolean {
     if (!chatMessage.item?.isOfType("consumable")) return false;
-    const itemOriginFlag = chatMessage.flags[SYSTEM.id].origin;
+    const itemOriginFlag = chatMessage.flags[game.system.id].origin;
     if (!itemOriginFlag) return false;
     return R.isDeepEqual(R.keys(itemOriginFlag), ["sourceId", "uuid", "type"]);
 }

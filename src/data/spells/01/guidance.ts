@@ -1,6 +1,6 @@
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "@root/compendium-packs.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Guidance"];
 

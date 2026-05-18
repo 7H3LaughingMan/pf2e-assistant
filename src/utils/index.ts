@@ -1,6 +1,16 @@
 export * as Actor from "./actor.ts";
+export * as Alliance from "./alliance.ts";
 export * as ChatMessage from "./chat-message.ts";
+export * as CompendiumCollection from "./compendium-collection.ts";
+export * as Document from "./document.ts";
+export * as HTML from "./html.ts";
+export * as Item from "./item.ts";
 export * as Macros from "./macros.ts";
+export * as Notes from "./notes.ts";
 export * as RollOptions from "./roll-options.ts";
 export * as Roll from "./roll.ts";
 export * as Rules from "./rules.ts";
+export * as Scene from "./scene.ts";
+export * as System from "./system.ts";
+export * as Token from "./token.ts";
+export * as User from "./user.ts";

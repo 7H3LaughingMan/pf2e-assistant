@@ -14,9 +14,9 @@
             "vite/client"
         ],
         "paths": {
-            "@root/*": [
+            "*": [
                 "./src/*"
-            ]
+            ],
         },
         "noEmit": true,
         "strict": true,

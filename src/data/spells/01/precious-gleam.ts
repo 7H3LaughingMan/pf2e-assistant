@@ -1,7 +1,6 @@
-import { getChoiceSetSelection } from "@7h3laughingman/pf2e-helpers/utilities";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "@root/compendium-packs.ts";
-import { Utils } from "@root/utils.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
+import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Precious Gleam"];
 
@@ -33,7 +32,7 @@ export const actions: Assistant.Action[] = [
 
             const effects = Utils.Actor.getEffects(data.speaker.actor, ["spell-effect-precious-gleam"]);
             for (const effect of effects) {
-                if (getChoiceSetSelection(effect._source, { flag: "weapon" }) === data.item?.id)
+                if (Utils.Rules.getChoiceSetSelect(effect._source, { flag: "weapon" }) === data.item?.id)
                     await game.assistant.socket.deleteEmbeddedItem(effect);
             }
         }

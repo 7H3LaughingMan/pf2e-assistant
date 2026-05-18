@@ -1,9 +1,10 @@
-import { zIs, zRollOptionSource } from "@7h3laughingman/pf2e-helpers/zod";
 import { EffectSource } from "@7h3laughingman/pf2e-types";
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "@root/compendium-packs.ts";
-import { Utils } from "@root/utils.ts";
+import { zRollOptionSource } from "_zod/rules/roll-options.ts";
+import { zIs } from "_zod/type-guards.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
 import * as R from "remeda";
+import { Utils } from "utils.ts";
 
 export const path = ["Spells", "1st Rank", "Shield"];
 

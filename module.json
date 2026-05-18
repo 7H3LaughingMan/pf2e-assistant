@@ -40,40 +40,6 @@
             }
         ]
     },
-    "packs": [
-        {
-            "name": "pf2e-macros",
-            "label": "PF2e Assistant Macros",
-            "path": "packs/pf2e-macros",
-            "type": "Macro",
-            "banner": "systems/pf2e/assets/compendium-banner/orange.webp",
-            "system": "pf2e",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
-        {
-            "name": "sf2e-macros",
-            "label": "SF2e Assistant Macros",
-            "path": "packs/sf2e-macros",
-            "type": "Macro",
-            "banner": "systems/sf2e/assets/compendium-banner/orange.webp",
-            "system": "sf2e",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        }
-    ],
-    "packFolders": [
-        {
-            "name": "Macros",
-            "sorting": "m",
-            "color": "#181818",
-            "packs": ["pf2e-macros", "sf2e-macros"]
-        }
-    ],
     "url": "https://github.com/7H3LaughingMan/pf2e-assistant",
     "manifest": "",
     "download": "",

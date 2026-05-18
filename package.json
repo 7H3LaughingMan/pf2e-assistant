@@ -1,29 +1,26 @@
 {
     "name": "pf2e-assistant",
     "scripts": {
-        "dev": "vite",
         "build": "tsc --noEmit && vite build",
         "changelog:create": "changelog --format markdownlint --create",
         "changelog:release": "changelog --format markdownlint --release",
-        "compile-packs": "node ./build/compile-packs.ts",
+        "compendium-packs": "node ./build/compendium-packs.ts",
         "configure": "node ./build/configure.ts",
-        "extract-packs": "node ./build/extract-packs.ts",
+        "dev": "vite",
         "launch": "node ./build/launch.ts",
         "link": "node ./build/link.ts"
     },
     "author": "7H3LaughingMan",
     "license": "MIT",
     "type": "module",
-    "packageManager": "pnpm@11.1.1+sha512.d1fdf5f73c617b64fa1a56a81c3c8dfe0e966e33a6010aa256b517ae77be21d93e05affc0de1a83b0e4f29d569f68b446ae8f068cd7247c0bb3df0fb4d7bdf9a",
+    "packageManager": "pnpm@11.1.2+sha512.415a1cc25974731e75455c1468371be74c5aa5fb7621b50d4056d222451609f11412f23fd602e6169f1e060466641f798597e1be961a10688836a67b16569499",
     "engines": {
         "node": ">=24"
     },
     "devDependencies": {
-        "@foundryvtt/foundryvtt-cli": "^3.0.3",
         "@types/jquery": "^4.0.0",
         "@types/prompts": "^2.4.9",
         "commander": "^14.0.3",
-        "foundryvtt-sync": "github:7H3LaughingMan/FoundryVTT-Sync",
         "glob": "^13.0.6",
         "keep-a-changelog": "3.0.2",
         "lowdb": "^7.0.1",
@@ -37,7 +34,6 @@
     "dependencies": {
         "@7h3laughingman/foundry-types": "~14.360.9",
         "@7h3laughingman/lib-wrapper": "^1.13.0",
-        "@7h3laughingman/pf2e-helpers": "^8.1.0",
         "@7h3laughingman/pf2e-types": "~8.0.2",
         "remeda": "2.34.0",
         "zod": "^4.4.3"

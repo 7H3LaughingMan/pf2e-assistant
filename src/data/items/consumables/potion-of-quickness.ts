@@ -1,5 +1,5 @@
-import { Assistant } from "@root/assistant.ts";
-import { PF2E_SPELL_EFFECTS } from "@root/compendium-packs.ts";
+import { Assistant } from "assistant.ts";
+import { PF2E_SPELL_EFFECTS } from "compendium-packs.ts";
 
 export const path = ["Items", "Consumables", "Potion of Quickness"];
 
