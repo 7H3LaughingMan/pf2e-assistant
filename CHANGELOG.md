@@ -14,11 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Removed
 
 - Macro Compendium Packs
-  - The "Use Action" macro is generated programatically if the macro is missing
+  - The "Use Action" macro is generated programmatically if the macro is missing
 
 ### Fixed
 
-- Lay on Hands, now applies the effect if you are targetting an ally and when you roll the healing
+- Lay on Hands, now applies the effect if you are targeting an ally and when you roll the healing
 
 ## [8.0.0] - 2026-05-13
 
@@ -49,7 +49,7 @@ SF2e System v0.0.4 Update
 ## [7.9.0] - 2026-01-21
 
 PF2e System v7.9.1 Update
-Began implementing some changes to support the SF2e System; however, further work can't be completed untill the PF2e Anachronism module is released.
+Began implementing some changes to support the SF2e System; however, further work can't be completed until the PF2e Anachronism module is released.
 
 ### Added
 
@@ -242,7 +242,7 @@ PF2e System v7.2.1 Update
 
 ### Fixed
 
-- Infinite Effects w/ Dice So Nice!
+- Infinite Effects with Dice So Nice!
 
 ## [7.0.0] - 2025-06-17
 
@@ -273,7 +273,7 @@ This is a release for 6.12.2 of the PF2e System
 
 ### Fixed
 
-- Dropping prone with Kip Up will not longer have you stand up automatically
+- Dropping prone with Kip Up will no longer have you stand up automatically
 - The Sword Critical Specialization will now expire at the start of the turn instead of the end
 - The automatic saving throw for Stunning Blows now has the incapacitation trait
 
@@ -411,7 +411,7 @@ I don't remember all the changes that I made before I stopped working on this fo
 ### Added
 
 - Chat Message Prompts
-  - Some automations require a choice from someone because their are multiple options, in these cases you will now see a whisper prompting you to make a decision.
+  - Some automations require a choice from someone because there are multiple options, in these cases you will now see a whisper prompting you to make a decision.
 - Aberrant Form
 - Grapple (Critical Failure)
 
