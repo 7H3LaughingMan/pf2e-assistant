@@ -34,6 +34,15 @@ export function createReroll(): Reroll {
     };
 }
 
+export function mergeRerolls(a: Reroll, b: Reroll): Reroll {
+    return {
+        updateCondition: [...a.updateCondition, ...b.updateCondition],
+        removeItem: [...a.removeItem, ...b.removeItem],
+        addItem: [...a.addItem, ...b.addItem],
+        deleteChatMessage: [...a.deleteChatMessage, ...b.deleteChatMessage]
+    };
+}
+
 export async function processReroll(reroll: Maybe<Reroll>) {
     if (reroll === null || reroll === undefined) return;
 
