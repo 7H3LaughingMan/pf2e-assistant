@@ -24,7 +24,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.item?.isOfType("spell")) return;
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(target.actor, PF2E_SPELL_EFFECTS["spell-effect-darkvision"], {
                 origin: data.speaker,
@@ -39,7 +39,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.item?.isOfType("spell")) return;
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(
                 target.actor,

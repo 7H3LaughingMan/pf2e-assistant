@@ -34,7 +34,8 @@ function processExploration(
 ) {
     const data: Assistant.Data = {
         trigger: trigger,
-        rollOptions: []
+        rollOptions: [],
+        targets: []
     };
 
     const tokens = character.getActiveTokens(true, true);

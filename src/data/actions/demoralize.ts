@@ -10,12 +10,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:demoralize", "check:outcome:critical-success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             if (
-                Utils.Actor.hasEffect(data.target.actor, "effect-demoralize-immunity", { origin: data.speaker.actor })
+                Utils.Actor.hasEffect(data.targets[0].actor, "effect-demoralize-immunity", {
+                    origin: data.speaker.actor
+                })
             ) {
                 ui.notifications.warn(
                     `The target is temporarily immune to further attempts to Demoralize from ${data.speaker.actor.name}.`
@@ -25,16 +27,17 @@ export const actions: Assistant.Action[] = [
 
             // Check Mindless & Mental Immunity
             if (
-                !data.target.actor.traits.has("mindless") &&
-                !data.target.actor.attributes.immunities.some((i) => i.type === "mental")
+                !data.targets[0].actor.traits.has("mindless") &&
+                !data.targets[0].actor.attributes.immunities.some((i) => i.type === "mental")
             ) {
                 reroll.updateCondition.push(
-                    ...((await game.assistant.socket.addCondition(data.target.actor, "frightened", { value: 2 })) ?? [])
+                    ...((await game.assistant.socket.addCondition(data.targets[0].actor, "frightened", { value: 2 })) ??
+                        [])
                 );
             }
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Demoralize Immunity",
                     type: "effect",
                     system: {
@@ -59,8 +62,8 @@ export const actions: Assistant.Action[] = [
                                 token: data.speaker.token.uuid
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,
@@ -80,12 +83,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:demoralize", "check:outcome:success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             if (
-                Utils.Actor.hasEffect(data.target.actor, "effect-demoralize-immunity", { origin: data.speaker.actor })
+                Utils.Actor.hasEffect(data.targets[0].actor, "effect-demoralize-immunity", {
+                    origin: data.speaker.actor
+                })
             ) {
                 ui.notifications.warn(
                     `The target is temporarily immune to further attempts to Demoralize from ${data.speaker.actor.name}.`
@@ -95,16 +100,17 @@ export const actions: Assistant.Action[] = [
 
             // Check Mindless & Mental Immunity
             if (
-                !data.target.actor.traits.has("mindless") &&
-                !data.target.actor.attributes.immunities.some((i) => i.type === "mental")
+                !data.targets[0].actor.traits.has("mindless") &&
+                !data.targets[0].actor.attributes.immunities.some((i) => i.type === "mental")
             ) {
                 reroll.updateCondition.push(
-                    ...((await game.assistant.socket.addCondition(data.target.actor, "frightened", { value: 1 })) ?? [])
+                    ...((await game.assistant.socket.addCondition(data.targets[0].actor, "frightened", { value: 1 })) ??
+                        [])
                 );
             }
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Demoralize Immunity",
                     type: "effect",
                     system: {
@@ -129,8 +135,8 @@ export const actions: Assistant.Action[] = [
                                 token: data.speaker.token.uuid
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,
@@ -150,12 +156,12 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:demoralize", { or: ["check:outcome:failure", "check:outcome:critical-failure"] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Demoralize Immunity",
                     type: "effect",
                     system: {
@@ -180,8 +186,8 @@ export const actions: Assistant.Action[] = [
                                 token: data.speaker.token.uuid
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,

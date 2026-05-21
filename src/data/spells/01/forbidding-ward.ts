@@ -9,13 +9,13 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:forbidding-ward"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_SPELL_EFFECTS["spell-effect-forbidding-ward"],
-                { origin: data.speaker, item: data.item, target: data.target }
+                { origin: data.speaker, item: data.item, target: data.targets[0] }
             );
         }
     }

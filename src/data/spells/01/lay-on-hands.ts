@@ -11,14 +11,18 @@ export const actions: Assistant.Action[] = [
             if (!data.item?.isOfType("spell")) return;
             if (!data.item.damageKinds.has("healing")) return;
             if (!data.speaker) return;
-            if (!data.target) return;
-            if (data.speaker.actor.signature === data.target.actor.signature) return;
+            if (data.targets.length !== 1) return;
+            if (data.speaker.actor.signature === data.targets[0].actor.signature) return;
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_SPELL_EFFECTS["spell-effect-lay-on-hands"], {
-                origin: data.speaker,
-                item: data.item,
-                target: data.target
-            });
+            await game.assistant.socket.addEffect(
+                data.targets[0].actor,
+                PF2E_SPELL_EFFECTS["spell-effect-lay-on-hands"],
+                {
+                    origin: data.speaker,
+                    item: data.item,
+                    target: data.targets[0]
+                }
+            );
         }
     }
 ];

@@ -8,7 +8,8 @@ Hooks.on("pf2e.startTurn", (combatant: CombatantPF2e) => {
     game.assistant.storage.process({
         trigger: "start-turn",
         rollOptions: combatant.actor.getRollOptions(),
-        speaker: { actor: combatant.actor, token: combatant.token }
+        speaker: { actor: combatant.actor, token: combatant.token },
+        targets: []
     });
 });
 
@@ -19,7 +20,8 @@ Hooks.on("pf2e.endTurn", (combatant: CombatantPF2e) => {
     game.assistant.storage.process({
         trigger: "end-turn",
         rollOptions: combatant.actor.getRollOptions(),
-        speaker: { actor: combatant.actor, token: combatant.token }
+        speaker: { actor: combatant.actor, token: combatant.token },
+        targets: []
     });
 });
 
@@ -31,7 +33,8 @@ Hooks.on("combatStart", (encounter: EncounterPF2e) => {
         const data: Assistant.Data = {
             trigger: "combat-start",
             rollOptions: combatant.actor.getRollOptions(),
-            speaker: { actor: combatant.actor, token: combatant.token }
+            speaker: { actor: combatant.actor, token: combatant.token },
+            targets: []
         };
 
         if (combatant.actor.isOfType("character")) {

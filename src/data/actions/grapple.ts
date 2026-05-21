@@ -11,13 +11,13 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:grapple", "check:outcome:critical-success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Grapple (Critical Success)",
                     type: "effect",
                     system: {
@@ -52,8 +52,8 @@ export const actions: Assistant.Action[] = [
                                 rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,
@@ -73,13 +73,13 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:grapple", "check:outcome:success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Grapple (Success)",
                     type: "effect",
                     system: {
@@ -114,8 +114,8 @@ export const actions: Assistant.Action[] = [
                                 rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,
@@ -135,7 +135,7 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:grapple", "check:outcome:failure"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
@@ -143,9 +143,9 @@ export const actions: Assistant.Action[] = [
             reroll.addItem.push(
                 ...(await game.assistant.socket.deleteEmbeddedItems(
                     Utils.Actor.getEffects(
-                        data.target.actor,
+                        data.targets[0].actor,
                         ["effect-grapple-critical-success", "effect-grapple-success"],
-                        { origin: data.speaker.actor, target: data.target.actor }
+                        { origin: data.speaker.actor, target: data.targets[0].actor }
                     )
                 ))
             );
@@ -158,7 +158,7 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:grapple", "check:outcome:critical-failure"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
@@ -166,16 +166,16 @@ export const actions: Assistant.Action[] = [
             reroll.addItem.push(
                 ...(await game.assistant.socket.deleteEmbeddedItems(
                     Utils.Actor.getEffects(
-                        data.target.actor,
+                        data.targets[0].actor,
                         ["effect-grapple-critical-success", "effect-grapple-success"],
-                        { origin: data.speaker.actor, target: data.target.actor }
+                        { origin: data.speaker.actor, target: data.targets[0].actor }
                     )
                 ))
             );
 
             reroll.deleteChatMessage.push(
-                ...(await game.assistant.socket.promptChoice(data.target.actor, {
-                    speaker: { actor: data.target.actor, token: data.target.token },
+                ...(await game.assistant.socket.promptChoice(data.targets[0].actor, {
+                    speaker: { actor: data.targets[0].actor, token: data.targets[0].token },
                     target: { actor: data.speaker.actor, token: data.speaker.token },
                     data: {
                         description: "My foe has critically failed to grapple me, what should I do?",
@@ -195,9 +195,9 @@ export const actions: Assistant.Action[] = [
         predicate: ["choice:grapple-foe"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Grapple (Success)",
                 type: "effect",
                 system: {
@@ -232,8 +232,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -246,9 +246,9 @@ export const actions: Assistant.Action[] = [
         predicate: ["choice:prone-foe"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.toggleCondition(data.target.actor, "prone", { active: true });
+            await game.assistant.socket.toggleCondition(data.targets[0].actor, "prone", { active: true });
         }
     }
 ];

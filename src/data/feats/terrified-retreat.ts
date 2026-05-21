@@ -14,11 +14,13 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
-            reroll.updateCondition.push(...(await game.assistant.socket.addCondition(data.target.actor, "fleeing")));
+            reroll.updateCondition.push(
+                ...(await game.assistant.socket.addCondition(data.targets[0].actor, "fleeing"))
+            );
 
             return reroll;
         }

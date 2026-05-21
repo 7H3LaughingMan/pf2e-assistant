@@ -9,31 +9,22 @@ const createChatMessage = Hooks.on("createChatMessage", (chatMessage: ChatMessag
     if (chatMessage.getFlag(Module.id, "process") === false) return;
 
     processChatMessage(chatMessage)
-        .then((value) => Promise.all(value.map((data) => game.assistant.storage.process(data))))
-        .then((values) =>
-            values.reduce((previousValue, currentValue) => {
-                return {
-                    data: previousValue.data,
-                    reroll: Assistant.mergeRerolls(previousValue.reroll, currentValue.reroll)
-                };
-            })
-        )
+        .then((data) => game.assistant.storage.process(data))
         .then(({ data, reroll }) => processReroll(data, reroll))
         .catch((reason) => {
             if (import.meta.env.DEV) console.debug(reason);
         });
 });
 
-async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data[]> {
+async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assistant.Data> {
     const chatMessageFlags = chatMessage.flags[game.system.id];
 
     const data: WithOptional<Assistant.Data, "trigger"> = {
         trigger: chatMessageFlags.context?.type,
         rollOptions: chatMessageFlags.context?.options ? Array.from(chatMessageFlags.context.options) : [],
-        chatMessage: chatMessage
+        chatMessage: chatMessage,
+        targets: []
     };
-
-    const targets: Assistant.ActorToken[] = [];
 
     if (chatMessageFlags.context?.domains) {
         data.domains = chatMessageFlags.context.domains;
@@ -70,7 +61,7 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
     }
 
     if (chatMessage.target) {
-        targets.push({ actor: chatMessage.target.actor, token: chatMessage.target.token });
+        data.targets.push({ actor: chatMessage.target.actor, token: chatMessage.target.token });
     } else {
         const userTargets = Utils.User.getTargets();
 
@@ -78,14 +69,22 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
             const userTarget = userTargets[0];
 
             if (userTarget && userTarget.actor && userTarget.document) {
-                targets.push({ actor: userTarget.actor, token: userTarget.document });
+                data.targets.push({ actor: userTarget.actor, token: userTarget.document });
             }
         } else {
             for (const userTarget of userTargets) {
                 if (userTarget.actor && userTarget.document) {
-                    targets.push({ actor: userTarget.actor, token: userTarget.document });
+                    data.targets.push({ actor: userTarget.actor, token: userTarget.document });
                 }
             }
+        }
+    }
+
+    if (data.targets.length === 1) {
+        data.rollOptions.push(...Utils.Actor.getRollOptions(data.targets[0].actor, "target"));
+        if (data.speaker) {
+            const allyOrEnemy = data.targets[0].actor.alliance === data.speaker.actor.alliance ? "ally" : "enemy";
+            data.rollOptions.push(`target:${allyOrEnemy}`);
         }
     }
 
@@ -120,25 +119,10 @@ async function processChatMessage(chatMessage: ChatMessagePF2e): Promise<Assista
 
     if (data.trigger === undefined) return Promise.reject("Undefined Trigger");
 
-    const dataResults: Assistant.Data[] = [];
+    data.rollOptions = [...new Set(data.rollOptions)].sort((a, b) => a.localeCompare(b));
+    data.domains = [...new Set(data.domains)].sort((a, b) => a.localeCompare(b));
 
-    for (const target of targets) {
-        const clonedData = foundry.utils.deepClone(data) as Assistant.Data;
-
-        clonedData.target = target;
-        clonedData.rollOptions.push(...Utils.Actor.getRollOptions(target.actor, "target"));
-        if (clonedData.speaker) {
-            const allyOrEnemy = target.actor.alliance === clonedData.speaker.actor.alliance ? "ally" : "enemy";
-            clonedData.rollOptions.push(`target:${allyOrEnemy}`);
-        }
-
-        clonedData.rollOptions = [...new Set(clonedData.rollOptions)].sort((a, b) => a.localeCompare(b));
-        clonedData.domains = [...new Set(clonedData.domains)].sort((a, b) => a.localeCompare(b));
-
-        dataResults.push(clonedData);
-    }
-
-    return dataResults;
+    return data as Assistant.Data;
 }
 
 async function processReroll(data: Assistant.Data, reroll: Assistant.Reroll) {

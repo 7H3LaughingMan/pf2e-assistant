@@ -9,9 +9,9 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "critical-specialization", "item:group:flail"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            game.assistant.socket.rollSave(data.target.actor, "reflex", {
+            game.assistant.socket.rollSave(data.targets[0].actor, "reflex", {
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
                 extraRollOptions: ["critical-specialization", "item:group:flail"]

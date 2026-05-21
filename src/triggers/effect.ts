@@ -10,7 +10,8 @@ Hooks.on("createItem", (item: ItemPF2e) => {
     game.assistant.storage.process({
         trigger: "create-effect",
         rollOptions: [...item.actor.getRollOptions(), ...item.getRollOptions("item")],
-        speaker: { actor: item.actor, token: tokens[0] }
+        speaker: { actor: item.actor, token: tokens[0] },
+        targets: []
     });
 });
 
@@ -24,6 +25,7 @@ Hooks.on("deleteItem", (item: ItemPF2e) => {
     game.assistant.storage.process({
         trigger: "delete-effect",
         rollOptions: [...item.actor.getRollOptions(), ...item.getRollOptions("item")],
-        speaker: { actor: item.actor, token: tokens[0] }
+        speaker: { actor: item.actor, token: tokens[0] },
+        targets: []
     });
 });

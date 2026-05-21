@@ -10,25 +10,29 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:guidance"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
 
-            if (Utils.Actor.hasEffect(data.target.actor, "effect-guidance-immunity")) {
+            if (Utils.Actor.hasEffect(data.targets[0].actor, "effect-guidance-immunity")) {
                 ui.notifications.warn(`The target is temporarily immune to Guidance.`);
                 return;
             }
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_SPELL_EFFECTS["spell-effect-guidance"], {
+            await game.assistant.socket.addEffect(data.targets[0].actor, PF2E_SPELL_EFFECTS["spell-effect-guidance"], {
                 origin: data.speaker,
                 item: data.item,
-                target: data.target
+                target: data.targets[0]
             });
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_SPELL_EFFECTS["effect-guidance-immunity"], {
-                origin: data.speaker,
-                item: data.item,
-                target: data.target
-            });
+            await game.assistant.socket.addEffect(
+                data.targets[0].actor,
+                PF2E_SPELL_EFFECTS["effect-guidance-immunity"],
+                {
+                    origin: data.speaker,
+                    item: data.item,
+                    target: data.targets[0]
+                }
+            );
         }
     }
 ];

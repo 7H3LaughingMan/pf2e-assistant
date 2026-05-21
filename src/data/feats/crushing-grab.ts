@@ -14,7 +14,7 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const roll = await new (Utils.Roll.getDamageRollClass())(
@@ -24,7 +24,7 @@ export const actions: Assistant.Action[] = [
             await roll.toMessage({
                 flags: {
                     "pf2e-assistant": { process: false },
-                    "pf2e-toolbelt": { targetHelper: { targets: [data.target.token.uuid] } }
+                    "pf2e-toolbelt": { targetHelper: { targets: [data.targets[0].token.uuid] } }
                 },
                 flavor: Utils.Notes.notesToHTML([
                     {

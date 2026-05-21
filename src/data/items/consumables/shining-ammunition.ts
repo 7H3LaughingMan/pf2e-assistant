@@ -13,16 +13,16 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_EQUIPMENT_EFFECTS["effect-shining-ammunition"],
                 {
                     origin: data.speaker,
                     item: data.item,
-                    target: data.target,
+                    target: data.targets[0],
                     roll: { total: data.roll.total, degreeOfSuccess: data.roll.degreeOfSuccess }
                 }
             );

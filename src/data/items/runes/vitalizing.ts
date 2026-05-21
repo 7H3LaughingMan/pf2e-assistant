@@ -11,10 +11,10 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:disrupting", "target:negative-healing"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Vitalizing",
                 type: "effect",
                 system: {
@@ -49,8 +49,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -67,10 +67,10 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Greater Vitalizing",
                 type: "effect",
                 system: {
@@ -112,8 +112,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },

@@ -11,15 +11,15 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:disarm", "check:outcome:success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_OTHER_EFFECTS["effect-disarm-success"],
-                    { origin: data.speaker, target: data.target, roll: data.roll }
+                    { origin: data.speaker, target: data.targets[0], roll: data.roll }
                 ))
             );
 
@@ -31,7 +31,7 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:disarm", "check:outcome:critical-failure"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 

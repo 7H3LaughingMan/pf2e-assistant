@@ -13,10 +13,10 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            if (!Utils.Actor.hasCondition(data.target.actor, "drained")) {
-                await game.assistant.socket.addCondition(data.target.actor, "drained");
+            if (!Utils.Actor.hasCondition(data.targets[0].actor, "drained")) {
+                await game.assistant.socket.addCondition(data.targets[0].actor, "drained");
             }
         }
     }

@@ -10,14 +10,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:bon-mot", "check:outcome:critical-success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(data.target.actor, PF2E_FEAT_EFFECTS["effect-bon-mot"], {
+                ...(await game.assistant.socket.addEffect(data.targets[0].actor, PF2E_FEAT_EFFECTS["effect-bon-mot"], {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     roll: data.roll
                 }))
             );
@@ -26,7 +26,7 @@ export const actions: Assistant.Action[] = [
                 ...(await game.assistant.socket.deleteEmbeddedItems(
                     Utils.Actor.getEffects(data.speaker.actor, ["effect-bon-mot"], {
                         origin: data.speaker.actor,
-                        target: data.target.actor,
+                        target: data.targets[0].actor,
                         degreeOfSuccess: 0
                     })
                 ))
@@ -40,14 +40,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:bon-mot", "check:outcome:success"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.addEffect(data.target.actor, PF2E_FEAT_EFFECTS["effect-bon-mot"], {
+                ...(await game.assistant.socket.addEffect(data.targets[0].actor, PF2E_FEAT_EFFECTS["effect-bon-mot"], {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     roll: data.roll
                 }))
             );
@@ -56,7 +56,7 @@ export const actions: Assistant.Action[] = [
                 ...(await game.assistant.socket.deleteEmbeddedItems(
                     Utils.Actor.getEffects(data.speaker.actor, ["effect-bon-mot"], {
                         origin: data.speaker.actor,
-                        target: data.target.actor,
+                        target: data.targets[0].actor,
                         degreeOfSuccess: 0
                     })
                 ))
@@ -70,14 +70,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["action:bon-mot", "check:outcome:critical-failure"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(data.speaker.actor, PF2E_FEAT_EFFECTS["effect-bon-mot"], {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     roll: data.roll
                 }))
             );

@@ -10,13 +10,17 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.item?.isOfType("spell")) return;
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_FEAT_EFFECTS["effect-accelerating-touch"], {
-                origin: data.speaker,
-                item: data.item,
-                target: data.target
-            });
+            await game.assistant.socket.addEffect(
+                data.targets[0].actor,
+                PF2E_FEAT_EFFECTS["effect-accelerating-touch"],
+                {
+                    origin: data.speaker,
+                    item: data.item,
+                    target: data.targets[0]
+                }
+            );
         }
     }
 ];

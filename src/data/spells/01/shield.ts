@@ -34,7 +34,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.item?.isOfType("spell")) return;
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             if (Utils.Actor.hasEffect(data.speaker.actor, "effect-shield-immunity")) {
                 ui.notifications.warn(`${data.speaker.actor.name} is temporarily unable to cast Shield.`);
@@ -54,7 +54,7 @@ export const actions: Assistant.Action[] = [
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
             if (!data.item?.isOfType("spell")) return;
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             if (Utils.Actor.hasEffect(data.speaker.actor, "effect-shield-immunity")) {
                 ui.notifications.warn(`${data.speaker.actor.name} is temporarily unable to cast Shield.`);

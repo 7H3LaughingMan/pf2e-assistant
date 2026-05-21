@@ -11,9 +11,9 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:frost"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+            await game.assistant.socket.rollSave(data.targets[0].actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: {
                     label: "Frost Rune DC",
@@ -29,9 +29,9 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:greater-frost"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+            await game.assistant.socket.rollSave(data.targets[0].actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: {
                     label: "Greater Frost Rune DC",

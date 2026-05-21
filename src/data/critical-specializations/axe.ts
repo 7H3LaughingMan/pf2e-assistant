@@ -14,18 +14,18 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Item.isWeapon(data.item)) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.targets[0].token.scene, {
                 enemyOf: data.speaker.actor,
-                adjacentTo: data.target.token,
+                adjacentTo: data.targets[0].token,
                 distanceTo: {
                     target: data.speaker.token,
                     distance: data.speaker.actor.getReach({ action: "attack", weapon: data.item })
                 },
-                predicate: (token) => token.uuid !== data.target?.token.uuid
+                predicate: (token) => token.uuid !== data.targets[0]?.token.uuid
             });
 
             if (validTargets.length === 0) return;
@@ -60,18 +60,18 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Item.isWeapon(data.item)) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.targets[0].token.scene, {
                 enemyOf: data.speaker.actor,
-                adjacentTo: data.target.token,
+                adjacentTo: data.targets[0].token,
                 distanceTo: {
                     target: data.speaker.token,
                     distance: data.speaker.actor.getReach({ action: "attack", weapon: data.item })
                 },
-                predicate: (token) => token.uuid !== data.target?.token.uuid
+                predicate: (token) => token.uuid !== data.targets[0]?.token.uuid
             });
 
             if (validTargets.length === 0) return;

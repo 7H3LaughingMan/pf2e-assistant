@@ -14,9 +14,9 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+            game.assistant.socket.rollSave(data.targets[0].actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
                 extraRollOptions: ["critical-specialization", "item:group:firearm"],
@@ -34,9 +34,9 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+            game.assistant.socket.rollSave(data.targets[0].actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
                 extraRollOptions: ["critical-specialization", "item:group:firearm", "grievous"],

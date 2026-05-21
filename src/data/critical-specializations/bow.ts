@@ -15,9 +15,9 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Critical Specialization (Bow)",
                 type: "effect",
                 system: {
@@ -52,8 +52,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -71,9 +71,9 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Critical Specialization (Bow)",
                 type: "effect",
                 system: {
@@ -108,8 +108,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },

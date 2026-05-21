@@ -12,9 +12,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.addCondition(data.target.actor, "persistent-damage", {
+            await game.assistant.socket.addCondition(data.targets[0].actor, "persistent-damage", {
                 persistent: {
                     formula: "3d6",
                     damageType: "bleed",
@@ -30,9 +30,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Vicious Debilitations (Clumsy)",
                 type: "effect",
                 system: {
@@ -67,8 +67,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -82,9 +82,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            game.assistant.socket.rollSave(data.target.actor, "fortitude", {
+            game.assistant.socket.rollSave(data.targets[0].actor, "fortitude", {
                 origin: data.speaker.actor,
                 dc: Utils.Actor.getClassDC(data.speaker.actor),
                 extraRollOptions: ["incapacitation", "critical-debilitation"],
@@ -291,9 +291,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Debilitating Strike (Enfeebled)",
                 type: "effect",
                 system: {
@@ -328,8 +328,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -343,9 +343,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Precise Debilitations (Off-Guard)",
                 type: "effect",
                 system: {
@@ -379,8 +379,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -397,17 +397,17 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             await game.assistant.socket.addEffect(
                 data.speaker.actor,
                 PF2E_FEAT_EFFECTS["effect-precise-debilitations"],
                 {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     tokenMark: {
                         slug: "precise-debilitations",
-                        token: data.target.token
+                        token: data.targets[0].token
                     }
                 }
             );
@@ -422,24 +422,24 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             if (Utils.Actor.hasFeat(data.speaker.actor, "tactical-debilitations")) {
                 await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_FEAT_EFFECTS["effect-tactical-debilitations-no-flanking"],
                     {
                         origin: data.speaker,
-                        target: data.target
+                        target: data.targets[0]
                     }
                 );
             } else {
                 await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_FEAT_EFFECTS["effect-methodical-debilitations-flanking"],
                     {
                         origin: data.speaker,
-                        target: data.target
+                        target: data.targets[0]
                     }
                 );
             }
@@ -454,9 +454,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Tactical Debilitations (No Reactions)",
                 type: "effect",
                 system: {
@@ -482,8 +482,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -500,9 +500,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Eldritch Debilitations (No Steps)",
                 type: "effect",
                 system: {
@@ -528,8 +528,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -546,14 +546,14 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_FEAT_EFFECTS["effect-methodical-debilitations-cover"],
                 {
                     origin: data.speaker,
-                    target: data.target
+                    target: data.targets[0]
                 }
             );
         }
@@ -567,12 +567,16 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.addEffect(data.target.actor, PF2E_FEAT_EFFECTS["effect-debilitating-strike"], {
-                origin: data.speaker,
-                target: data.target
-            });
+            await game.assistant.socket.addEffect(
+                data.targets[0].actor,
+                PF2E_FEAT_EFFECTS["effect-debilitating-strike"],
+                {
+                    origin: data.speaker,
+                    target: data.targets[0]
+                }
+            );
         }
     },
     {
@@ -581,9 +585,9 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+            await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                 name: "Effect: Eldritch Debilitations (Stupefied)",
                 type: "effect",
                 system: {
@@ -618,8 +622,8 @@ export const actions: Assistant.Action[] = [
                             rollOptions: data.speaker.actor.getSelfRollOptions("origin")
                         },
                         target: {
-                            actor: data.target.actor.uuid,
-                            token: data.target.token.uuid
+                            actor: data.targets[0].actor.uuid,
+                            token: data.targets[0].token.uuid
                         }
                     }
                 },
@@ -633,11 +637,11 @@ export const actions: Assistant.Action[] = [
         selectors: ["strike-damage"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
-            await game.assistant.socket.promptChoice(data.target.actor, {
+            await game.assistant.socket.promptChoice(data.targets[0].actor, {
                 speaker: { actor: data.speaker.actor, token: data.speaker.token },
-                target: { actor: data.target.actor, token: data.target.token },
+                target: { actor: data.targets[0].actor, token: data.targets[0].token },
                 data: {
                     description:
                         "The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage.",
@@ -655,14 +659,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["choice:vicious-debilitations-bludgeoning"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_FEAT_EFFECTS["effect-vicious-debilitations"],
                 {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     choiceSet: {
                         flag: "viciousDebilitations",
                         selection: "bludgeoning"
@@ -676,14 +680,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["choice:vicious-debilitations-piercing"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_FEAT_EFFECTS["effect-vicious-debilitations"],
                 {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     choiceSet: {
                         flag: "viciousDebilitations",
                         selection: "piercing"
@@ -697,14 +701,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["choice:vicious-debilitations-slashing"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
 
             await game.assistant.socket.addEffect(
-                data.target.actor,
+                data.targets[0].actor,
                 PF2E_FEAT_EFFECTS["effect-vicious-debilitations"],
                 {
                     origin: data.speaker,
-                    target: data.target,
+                    target: data.targets[0],
                     choiceSet: {
                         flag: "viciousDebilitations",
                         selection: "slashing"

@@ -10,14 +10,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:type:spell", "item:tangle-vine", "check:outcome:success", { lt: ["item:rank", 2] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,
@@ -37,14 +37,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:type:spell", "item:tangle-vine", "check:outcome:critical-success", { lt: ["item:rank", 2] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,
@@ -70,14 +70,14 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,
@@ -104,14 +104,14 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,
@@ -132,14 +132,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:type:spell", "item:tangle-vine", "check:outcome:success", { gte: ["item:rank", 4] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,
@@ -160,14 +160,14 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:type:spell", "item:tangle-vine", "check:outcome:critical-success", { gte: ["item:rank", 4] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
                 ...(await game.assistant.socket.addEffect(
-                    data.target.actor,
+                    data.targets[0].actor,
                     PF2E_SPELL_EFFECTS["spell-effect-tangle-vine"],
                     {
                         origin: data.speaker,

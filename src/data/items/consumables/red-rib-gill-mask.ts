@@ -11,7 +11,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.item?.isOfType("consumable")) return;
 
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(
                 target.actor,
@@ -30,7 +30,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.item?.isOfType("consumable")) return;
 
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(
                 target.actor,
@@ -49,7 +49,7 @@ export const actions: Assistant.Action[] = [
             if (!data.speaker) return;
             if (!data.item?.isOfType("consumable")) return;
 
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(
                 target.actor,

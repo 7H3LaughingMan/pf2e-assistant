@@ -81,7 +81,8 @@ async function processToolbelt(
         trigger: "saving-throw",
         rollOptions: [`check:outcome:${game.pf2e.system.sluggify(targetSave.success)}`],
         chatMessage: message,
-        roll: roll
+        roll: roll,
+        targets: []
     };
 
     if (message.item) {

@@ -8,19 +8,19 @@ export const actions: Assistant.Action[] = [
         predicate: ["item:stabilize", "target:condition:dying"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("spell")) return;
 
-            await game.assistant.socket.decreaseCondition(data.target.actor, "dying", { forceRemove: true });
+            await game.assistant.socket.decreaseCondition(data.targets[0].actor, "dying", { forceRemove: true });
 
             if (
                 !(
                     game.modules.get("xdy-pf2e-workbench")?.active &&
                     game.settings.get("xdy-pf2e-workbench", "giveUnconsciousIfDyingRemovedAt0HP")
                 ) &&
-                data.target.actor.hitPoints?.value === 0
+                data.targets[0].actor.hitPoints?.value === 0
             ) {
-                await game.assistant.socket.toggleCondition(data.target.actor, "unconscious", { active: true });
+                await game.assistant.socket.toggleCondition(data.targets[0].actor, "unconscious", { active: true });
             }
 
             if (
@@ -29,7 +29,7 @@ export const actions: Assistant.Action[] = [
                     game.settings.get("xdy-pf2e-workbench", "giveWoundedWhenDyingRemoved")
                 )
             ) {
-                await game.assistant.socket.increaseCondition(data.target.actor, "wounded");
+                await game.assistant.socket.increaseCondition(data.targets[0].actor, "wounded");
             }
         }
     }

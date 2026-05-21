@@ -18,7 +18,8 @@ async function onClickButton(
     if (button.dataset.action === "choice") {
         const data: Assistant.Data = {
             trigger: "choice",
-            rollOptions: [`choice:${button.value}`]
+            rollOptions: [`choice:${button.value}`],
+            targets: []
         };
 
         if (message.actor && message.token) {
@@ -29,7 +30,7 @@ async function onClickButton(
         }
 
         if (message.target?.actor && message.target?.token) {
-            data.target = message.target;
+            data.targets.push(message.target);
         }
 
         if (message.item) {

@@ -9,10 +9,10 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:fearsome"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            await game.assistant.socket.addCondition(data.target.actor, "frightened", { value: 1 });
+            await game.assistant.socket.addCondition(data.targets[0].actor, "frightened", { value: 1 });
         }
     },
     {
@@ -20,10 +20,10 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:greater-fearsome"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            await game.assistant.socket.addCondition(data.target.actor, "frightened", { value: 2 });
+            await game.assistant.socket.addCondition(data.targets[0].actor, "frightened", { value: 2 });
         }
     }
 ];

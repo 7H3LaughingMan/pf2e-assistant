@@ -21,14 +21,14 @@ export const actions: Assistant.Action[] = [
         ],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!data.item?.isOfType("consumable")) return;
             if (!Utils.Roll.isRolledCheckRoll(data.roll)) return;
 
             const reroll = Assistant.createReroll();
 
             reroll.removeItem.push(
-                ...(await game.assistant.socket.createEmbeddedItem(data.target.actor, {
+                ...(await game.assistant.socket.createEmbeddedItem(data.targets[0].actor, {
                     name: "Effect: Bottled Lightning",
                     type: "effect",
                     system: {
@@ -63,8 +63,8 @@ export const actions: Assistant.Action[] = [
                                 item: data.item.uuid
                             },
                             target: {
-                                actor: data.target.actor.uuid,
-                                token: data.target.token.uuid
+                                actor: data.targets[0].actor.uuid,
+                                token: data.targets[0].token.uuid
                             },
                             roll: {
                                 total: data.roll.total,

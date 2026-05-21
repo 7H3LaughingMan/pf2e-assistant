@@ -47,7 +47,7 @@ export interface Data {
     roll?: Roll;
     item?: ItemPF2e;
     speaker?: ActorToken;
-    target?: ActorToken;
+    targets: ActorToken[];
     origin?: ActorToken;
 }
 

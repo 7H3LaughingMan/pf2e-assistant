@@ -9,16 +9,16 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:shock"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.targets[0].token.scene, {
                 enemyOf: data.speaker.actor,
                 distanceTo: {
-                    target: data.target.token,
+                    target: data.targets[0].token,
                     distance: 10
                 },
-                predicate: (token) => token.uuid !== data.target?.token.uuid
+                predicate: (token) => token.uuid !== data.targets[0]?.token.uuid
             });
 
             if (validTargets.length === 0) return;
@@ -48,16 +48,16 @@ export const actions: Assistant.Action[] = [
         predicate: ["check:outcome:critical-success", "item:rune:property:greater-shock"],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            if (!data.target) return;
+            if (data.targets.length !== 1) return;
             if (!Utils.Roll.isRolledDamageRoll(data.roll)) return;
 
-            const validTargets = Utils.Scene.getTokens(data.target.token.scene, {
+            const validTargets = Utils.Scene.getTokens(data.targets[0].token.scene, {
                 enemyOf: data.speaker.actor,
                 distanceTo: {
-                    target: data.target.token,
+                    target: data.targets[0].token,
                     distance: 10
                 },
-                predicate: (token) => token.uuid !== data.target?.token.uuid
+                predicate: (token) => token.uuid !== data.targets[0]?.token.uuid
             });
 
             if (validTargets.length === 0) return;

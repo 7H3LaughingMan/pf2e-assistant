@@ -9,7 +9,7 @@ export const actions: Assistant.Action[] = [
         predicate: [{ or: ["item:brewers-regret", "item:brewers-regret-greater"] }],
         process: async (data: Assistant.Data) => {
             if (!data.speaker) return;
-            const target = data.target ?? data.speaker;
+            const target = data.targets[0] ?? data.speaker;
 
             await game.assistant.socket.addEffect(target.actor, PF2E_EQUIPMENT_EFFECTS["effect-brewers-regret"], {
                 origin: data.speaker,
