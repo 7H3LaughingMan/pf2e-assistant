@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Added
 
 - Courageous Anthem, Rallying Anthem, Song of Strength
-  - Since it's possible to change it from an emanation to a cone with Directed Audience, and it's possible to change the origin from the caster to someone else using Chorus Companion or In Tune these automations require you to target yourself (unclear on if you should get the effect automatically if you aren't in the emanation/cone) and any allies who the effect should go on.
+  - The require you to target yourself and any allies the effect should go on. This is due to the fact you can change it from an emanation to a cone using Directed Audience. Or you can change the origin of the emanation using Chorus Companion/In Tune.
 
 ### Changed
 
