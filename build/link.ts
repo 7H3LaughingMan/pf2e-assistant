@@ -42,4 +42,4 @@ try {
     process.exit(1);
 }
 
-console.log(`Symlink sucesfully created at "${symlinkPath}"!`);
+console.log(`Symlink successfully created at "${symlinkPath}"!`);
